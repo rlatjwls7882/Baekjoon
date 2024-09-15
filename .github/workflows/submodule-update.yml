@@ -1,3 +1,4 @@
+---
 name: Submodule Updates
 
 on:
@@ -13,5 +14,5 @@ jobs:
         uses: PaulRitter/github-action-create-commit-parent-submodule@v1
         with:
           github_token: ${{ secrets.GH_ACTIONS_TOKEN }}
-          parent_repository: org/Study
+          parent_repository: org/example-repository
           parent_branch: main
