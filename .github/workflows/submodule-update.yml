@@ -13,5 +13,5 @@ jobs:
         uses: PaulRitter/github-action-create-commit-parent-submodule@v2.0
         with:
           github_token: ${{ secrets.GH_ACTIONS_TOKEN }}
-          parent_repository: rlatjwls7882
+          parent_repository: rlatjwls7882/Study
           parent_branch: main
