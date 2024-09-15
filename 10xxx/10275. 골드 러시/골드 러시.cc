@@ -6,25 +6,14 @@ int main() {
     int t; cin >> t;
     while(t-->0) {
         long long n, a, b; cin >> n >> a >> b;
+        n = powl(2, n-1);
 
-        bitset<62> bitA = bitset<62>(a), bitB = bitset<62>(b);
-        int left=-1, right;
-        for(int i=0;i<62;i++) {
-            if(bitA[i]) {
-                if(left==-1) left=i;
-                right=i;
-            }
+        int cnt=0;
+        while(a!=0) {
+            if(n<=a) a-=n;
+            n/=2;
+            cnt++;
         }
-        int maxLen1 = right-left+1;
-
-        left=-1;
-        for(int i=0;i<62;i++) {
-            if(bitB[i]) {
-                if(left==-1) left=i;
-                right=i;
-            }
-        }
-        int maxLen2 = right-left+1;
-        cout << max(maxLen1, maxLen2) << '\n';
+        cout << cnt << '\n';
     }
 }
