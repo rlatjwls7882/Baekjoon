@@ -2,10 +2,10 @@
 using namespace std;
 
 void EEA(int r1, int r2) {
-    int K = r1;
+    int K = -r1;
     int s1=1, s2=0, t1=0, t2=1;
     while(r2!=0) {
-        int q = r1/r2;
+        int q = r1/r2; if((r1<0 || r2<0) && r1%r2!=0) q--;
         int tmp = r1-r2*q;
         r1 = r2;
         r2 = tmp;
@@ -18,7 +18,6 @@ void EEA(int r1, int r2) {
         t1 = t2;
         t2 = tmp;
     }
-
     if(r1!=1 || t1>1000000000) cout << "IMPOSSIBLE\n";
     else cout << t1+(t1<0?K:0) << '\n';
 }
@@ -34,7 +33,7 @@ int main(void) {
         } else if(K==1) {
             cout << "1\n";
         } else {
-            EEA(K, C);
+            EEA(-K, C);
         }
     }
 }
