@@ -1,4 +1,4 @@
-# [Bronze IV] Dusa And The Yobis - 32327 
+# [Bronze III] Dusa And The Yobis - 32327 
 
 [문제 링크](https://www.acmicpc.net/problem/32327) 
 
@@ -12,7 +12,7 @@
 
 ### 제출 일자
 
-2024년 9월 18일 14:09:29
+2024년 9월 18일 14:10:21
 
 ### 문제 설명
 

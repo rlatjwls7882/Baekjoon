@@ -6,7 +6,7 @@ int main(void) {
     int d; cin >> d;
     while(true) {
         int yobi; cin >> yobi;
-        if(cin.fail() || d<=yobi) break;
+        if(d<=yobi) break;
         d += yobi;
     }
     cout << d;
