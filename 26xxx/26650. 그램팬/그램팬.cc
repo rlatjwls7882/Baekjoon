@@ -5,24 +5,18 @@ int main(void) {
     ios::sync_with_stdio(0); cin.tie(0); cout.tie(0);
     string s; cin >> s;
 
-    bool notIncreasing=false;
     long long cnt[26] = {0, };
-    long long total=0, fillCnt=0, idx=0;
-    while(idx<s.length()) {
-        if(!notIncreasing) {
-            if(++cnt[s[idx]-'A']==1) fillCnt++;
-            if(idx>0 && s[idx-1]>s[idx]) notIncreasing=true;
-            idx++;
-        }
-        if((idx==s.length() || notIncreasing)) {
+    long long total=0, fillCnt=0;
+    for(int i=0;i<s.length();i++) {
+        if(++cnt[s[i]-'A']==1) fillCnt++;
+        if(i>0 && s[i-1]>s[i] || i==s.length()-1) {
             if(fillCnt==26) {
-                if(s[idx-1]=='A') total += (cnt[0]-1)*cnt[25];
-                else total += cnt[0]*cnt[25];
+                if(s[i]=='A') cnt[0]--;
+                total += cnt[0]*cnt[25];
             }
             fill(cnt, cnt+26, 0);
             fillCnt=1;
-            notIncreasing=false;
-            cnt[s[idx-1]-'A']++;
+            cnt[s[i]-'A']=1;
         }
     }
     cout << total;
