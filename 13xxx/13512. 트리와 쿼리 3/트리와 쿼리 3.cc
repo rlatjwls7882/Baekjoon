@@ -16,6 +16,9 @@ void dfs1(int cur) {
             dfs1(next);
             child[cur].push_back(next);
             subTreeCnt[cur] += subTreeCnt[next];
+            if(subTreeCnt[child[cur][0]]<subTreeCnt[child[cur].back()]) {
+                swap(child[cur][0], child[cur].back());
+            }
         }
     }
 }
@@ -31,16 +34,8 @@ void dfs2(int cur, int curDepth) {
         return;
     }
 
-    int chain = child[cur][0];
-    for(int i=1;i<child[cur].size();i++) {
-        if(subTreeCnt[chain]<subTreeCnt[child[cur][i]]) {
-            chain = child[cur][i];
-        }
-    }
-    dfs2(chain, curDepth+1);
-
     for(int next:child[cur]) {
-        if(chain!=next) dfs2(next, curDepth+1);
+        dfs2(next, curDepth+1);
         parent[nodeNum[next]]=u;
     }
 }
