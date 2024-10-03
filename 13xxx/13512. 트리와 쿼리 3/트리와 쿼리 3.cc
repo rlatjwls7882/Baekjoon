@@ -4,7 +4,7 @@ using namespace std;
 const int MAX = 100000;
 int _size=1;
 int arr[MAX*4];
-int subTreeCnt[MAX], curDepth[MAX], parent[MAX];
+int subTreeCnt[MAX], parent[MAX];
 int nodeCnt, groupCnt, nodeNum[MAX], groupNum[MAX], head[MAX], depth[MAX];
 int nodeNumToi[MAX];
 vector<vector<int>> conn(MAX), child(MAX);
