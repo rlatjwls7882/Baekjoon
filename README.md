@@ -4,7 +4,7 @@
 
  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rlatjwls3333)](https://solved.ac/rlatjwls3333/)
  ![mazandi profile](http://mazandi.herokuapp.com/api?handle=rlatjwls3333&theme=dark)
-500KB까지 렌더링되기에 중간에 짤립니다. 전체 목록은 [여기에](./README.md)
+#### 500KB까지 렌더링되기에 중간에 짤립니다. 전체 목록은 [여기에](./README.md)
 </div>
 
 | No. | Title | Difficulty | Solution |
