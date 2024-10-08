@@ -41,7 +41,7 @@ def get_problem_tier(level):
   return tier[level]
 
 # 문제 번호를 입력받아 솔루션 경로를 모두 반환 (문자열로)
-def get_solution_path(id, title):
+def get_solution_path(id):
   tmpId = id
   # 디렉토리
   if (id < 10000):
@@ -71,6 +71,9 @@ def get_solution_path(id, title):
   files.sort()
   solution = ""
   for file in files:
+    if file == 'README.md':
+      continue
+    file = file.replace(" ", "-") # 내부 링크에 띄어쓰기가 있는경우 
     solution += f"[{ext[file[file.rfind('.'):]]}](./{file}) "
   return solution
 
@@ -92,7 +95,7 @@ def get_table(problems):
     url = get_problem_url(id)
     title = get_problem_title(title)
     tier = get_problem_tier(level)
-    path = get_solution_path(id, title)
+    path = get_solution_path(id)
     table += f"| [{id}]({url}) | {title} | {tier} | {path}|\n"
   return table
 
