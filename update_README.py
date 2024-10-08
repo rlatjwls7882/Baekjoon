@@ -41,7 +41,7 @@ def get_problem_tier(level):
   return tier[level]
 
 # 문제 번호를 입력받아 솔루션 경로를 모두 반환 (문자열로)
-def get_solution_path(id):
+def get_solution_path(id, title):
   tmpId = id
   # 디렉토리
   if (id < 10000):
@@ -65,12 +65,12 @@ def get_solution_path(id):
   }
 
   # 파일 찾기
-  files = glob.glob(f"{dir}/{tmpId}.*/*")
+  files = glob.glob(f"{dir}/{tmpId}.*/title.*")
+  if len(files)==0:
+    return "error "
   files.sort()
   solution = ""
   for file in files:
-    if file[file.rfind('.'):]=='.md':
-      continue
     solution += f"[{ext[file[file.rfind('.'):]]}](./{file}) "
   return solution
 
@@ -92,7 +92,7 @@ def get_table(problems):
     url = get_problem_url(id)
     title = get_problem_title(title)
     tier = get_problem_tier(level)
-    path = get_solution_path(id)
+    path = get_solution_path(id, title)
     table += f"| [{id}]({url}) | {title} | {tier} | {path}|\n"
   return table
 
@@ -104,7 +104,6 @@ if __name__ == "__main__":
   problems = []
 
   # solved.ac API로 문제 정보 가져오기
-  print(f"Getting problems from {pages} pages...")
   for page in tqdm(range(1, pages+1)):
     attempts = 0
     while attempts < 3:
