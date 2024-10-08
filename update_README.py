@@ -103,5 +103,5 @@ if __name__ == "__main__":
       problems.append((int(problem["problemId"]), problem["titleKo"], int(problem["level"])))
 
   # README.md 파일 업데이트
-  with open("README.md.tmp", "w", encoding="utf-8") as f:
+  with open("README.md", "w", encoding="utf-8") as f:
     f.write(get_header("rlatjwls3333") + get_table(problems))
