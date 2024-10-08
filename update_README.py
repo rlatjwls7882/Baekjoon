@@ -71,7 +71,7 @@ def get_solution_path(id):
   for file in files:
     if file[file.rfind('.'):] == '.md':
       continue
-    file = file.replace(" ", "%E2%80%85") # 내부 링크에 띄어쓰기가 있는경우 
+    file = file.replace(" ", "%E2%80%85") # 링크에 띄어쓰기가 있는경우 
     solution += f"[{ext[file[file.rfind('.'):]]}](./{file}) "
   return solution
 
