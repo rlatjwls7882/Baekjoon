@@ -65,7 +65,7 @@ def get_solution_path(id, title):
   }
 
   # 파일 찾기
-  files = glob.glob(f"{dir}/{tmpId}.*/title.*")
+  files = glob.glob(f"{dir}/{tmpId}.*/*")
   if len(files)==0:
     return "error "
   files.sort()
