@@ -27,6 +27,19 @@ def get_problem_title(title):
   title = title.replace("\\)", "$") # 10386번: LaTeX로 구성된 제목
   return title
 
+# 문제 난이도를 입력받아 문제 티어를 반환
+def get_problem_tier(level):
+  tier = {
+    0: "Unrated",
+    1: "Bronze V", 2: "Bronze IV", 3: "Bronze III", 4: "Bronze II", 5: "Bronze I",
+    6: "Silver V", 7: "Silver IV", 8: "Silver III", 9: "Silver II", 10: "Silver I",
+    11: "Gold V", 12: "Gold IV", 13: "Gold III", 14: "Gold II", 15: "Gold I",
+    16: "Platinum V", 17: "Platinum IV", 18: "Platinum III", 19: "Platinum II", 20: "Platinum I",
+    21: "Diamond V", 22: "Diamond IV", 23: "Diamond III", 24: "Diamond II", 25: "Diamond I",
+    26: "Ruby V", 27: "Ruby IV", 28: "Ruby III", 29: "Ruby II", 30: "Ruby I"
+  }
+  return tier[level]
+
 # 문제 번호를 입력받아 솔루션 경로를 모두 반환 (문자열로)
 def get_solution_path(id):
   tmpId = id
@@ -78,8 +91,9 @@ def get_table(problems):
   for (id, title, level) in tqdm(problems):
     url = get_problem_url(id)
     title = get_problem_title(title)
+    tier = get_problem_tier(level)
     path = get_solution_path(id)
-    table += f"| [{id}]({url}) | {title} | {level} | {path}|\n"
+    table += f"| [{id}]({url}) | {title} | {tier} | {path}|\n"
   return table
 
 # 메인 함수
