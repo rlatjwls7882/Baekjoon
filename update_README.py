@@ -71,7 +71,7 @@ def get_solution_path(id):
   files.sort()
   solution = ""
   for file in files:
-    if file == 'README.md':
+    if file[file.rfind('.'):]=='.md':
       continue
     file = file.replace(" ", "-") # 내부 링크에 띄어쓰기가 있는경우 
     solution += f"[{ext[file[file.rfind('.'):]]}](./{file}) "
