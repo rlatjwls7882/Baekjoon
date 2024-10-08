@@ -37,7 +37,7 @@ def get_solution_path(id):
 
   # 파일 확장자
   ext = {
-    ".ads": "Ada",
+    ".ada": "Ada",
     ".a68": "Algol 68",
     ".bas": "FreeBASIC",
     ".c"  : "C",
