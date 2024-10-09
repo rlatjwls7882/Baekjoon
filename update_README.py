@@ -87,14 +87,17 @@ def get_header(handle):
 # README.md 테이블을 반환
 def get_table(problems):
   table = "| No. | Title | Difficulty | Solution |\n"
-  table += "|:---:|:---:|:---:|:---:|\n"
+  table += "|:---|:---|:---:|:---:|\n"
 
   for (id, title, level) in tqdm(problems):
+    idString = str(id)
+    if len(idString)==3:
+      idString = "0"+idString
     url = get_problem_url(id)
     title = get_problem_title(title)
     tier = get_problem_tier(level)
     path = get_solution_path(id)
-    table += f"| [{id}]({url}) | {title} | {tier} | {path}|\n"
+    table += f"| [{idString}]({url}) | {title} | {tier} | {path}|\n"
   return table
 
 # 메인 함수
