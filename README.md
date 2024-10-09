@@ -7,7 +7,7 @@
 #### 500KB까지 렌더링되기에 중간에 짤립니다. 전체 목록은 [여기에](./README.md)
 
 | No. | Title | Difficulty | Solution |
-|:---:|:---:|:---:|:---:|
+|:---|:---|:---:|:---:|
 | [1000](https://boj.kr/1000) | A+B | Bronze V | [C++](./01xxx/1000. A＋B/A＋B.cc) [Java](./01xxx/1000. A＋B/A＋B.java) |
 | [1001](https://boj.kr/1001) | A-B | Bronze V | [C++](./01xxx/1001. A－B/A－B.cc) [Java](./01xxx/1001. A－B/A－B.java) |
 | [1002](https://boj.kr/1002) | 터렛 | Silver III | [C++](./01xxx/1002. 터렛/터렛.cc) |
