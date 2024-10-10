@@ -91,7 +91,7 @@ def get_table(problems):
 
   for (id, title, level) in tqdm(problems):
     idString = str(id)
-    if len(idString)==3:
+    if len(idString)==4:
       idString = "0"+idString
     url = get_problem_url(id)
     title = get_problem_title(title)
