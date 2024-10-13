@@ -87,7 +87,7 @@ def get_header(handle):
 # README.md 테이블을 반환
 def get_table(problems):
   table = "| No. | Title | Difficulty | Solution |\n"
-  table += "|:---|:---|:---:|:---:|\n"
+  table += "|:---|:---|:----:|:---:|\n"
 
   for (id, title, level) in tqdm(problems):
     idString = str(id)
