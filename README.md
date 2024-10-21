@@ -458,56 +458,56 @@
 | [02456](https://boj.kr/2456) | 나는 학급회장이다 | Bronze I | [Java](./02xxx/2456. 나는 학급회장이다/나는 학급회장이다.java) |
 | [02458](https://boj.kr/2458) | 키 순서 | Gold IV | [Java](./02xxx/2458. 키 순서/키 순서.java) |
 | [02460](https://boj.kr/2460) | 지능형 기차 2 | Bronze III | [Java](./02xxx/2460. 지능형 기차 2/지능형 기차 2.java) |
-| [02463](https://boj.kr/2463) | 비용 | Platinum V | [C++](./02xxx/2463. 비용/비용.cc) |
-| [02467](https://boj.kr/2467) | 용액 | Gold V | [Java](./02xxx/2467. 용액/용액.java) |
-| [02468](https://boj.kr/2468) | 안전 영역 | Silver I | [Java](./02xxx/2468. 안전 영역/안전 영역.java) |
-| [02470](https://boj.kr/2470) | 두 용액 | Gold V | [Java](./02xxx/2470. 두 용액/두 용액.java) |
-| [02473](https://boj.kr/2473) | 세 용액 | Gold III | [C++](./02xxx/2473. 세 용액/세 용액.cc) |
-| [02475](https://boj.kr/2475) | 검증수 | Bronze V | [C](./02xxx/2475. 검증수/검증수.c) |
-| [02476](https://boj.kr/2476) | 주사위 게임 | Bronze III | [Java](./02xxx/2476. 주사위 게임/주사위 게임.java) |
-| [02477](https://boj.kr/2477) | 참외밭 | Silver II | [C++](./02xxx/2477. 참외밭/참외밭.cc) |
-| [02479](https://boj.kr/2479) | 경로 찾기 | Gold IV | [C++](./02xxx/2479. 경로 찾기/경로 찾기.cc) |
-| [02480](https://boj.kr/2480) | 주사위 세개 | Bronze IV | [C](./02xxx/2480. 주사위 세개/주사위 세개.c) |
-| [02481](https://boj.kr/2481) | 해밍 경로 | Gold II | [C++](./02xxx/2481. 해밍 경로/해밍 경로.cc) |
-| [02484](https://boj.kr/2484) | 주사위 네개 | Bronze II | [Java](./02xxx/2484. 주사위 네개/주사위 네개.java) |
-| [02485](https://boj.kr/2485) | 가로수 | Silver IV | [Java](./02xxx/2485. 가로수/가로수.java) |
-| [02490](https://boj.kr/2490) | 윷놀이 | Bronze III | [Java](./02xxx/2490. 윷놀이/윷놀이.java) |
-| [02491](https://boj.kr/2491) | 수열 | Silver IV | [Java](./02xxx/2491. 수열/수열.java) |
-| [02493](https://boj.kr/2493) | 탑 | Gold V | [C++](./02xxx/2493. 탑/탑.cc) |
-| [02495](https://boj.kr/2495) | 연속구간 | Bronze II | [Java](./02xxx/2495. 연속구간/연속구간.java) |
-| [02501](https://boj.kr/2501) | 약수 구하기 | Bronze III | [Java](./02xxx/2501. 약수 구하기/약수 구하기.java) |
-| [02502](https://boj.kr/2502) | 떡 먹는 호랑이 | Silver I | [C++](./02xxx/2502. 떡 먹는 호랑이/떡 먹는 호랑이.cc) |
-| [02503](https://boj.kr/2503) | 숫자 야구 | Silver III | [C++](./02xxx/2503. 숫자 야구/숫자 야구.cc) |
-| [02504](https://boj.kr/2504) | 괄호의 값 | Gold V | [C++](./02xxx/2504. 괄호의 값/괄호의 값.cc) |
-| [02506](https://boj.kr/2506) | 점수계산 | Bronze III | [Java](./02xxx/2506. 점수계산/점수계산.java) |
-| [02508](https://boj.kr/2508) | 사탕 박사 고창영 | Silver V | [Java](./02xxx/2508. 사탕 박사 고창영/사탕 박사 고창영.java) |
-| [02511](https://boj.kr/2511) | 카드놀이 | Bronze II | [Java](./02xxx/2511. 카드놀이/카드놀이.java) |
-| [02512](https://boj.kr/2512) | 예산 | Silver II | [C++](./02xxx/2512. 예산/예산.cc) |
-| [02520](https://boj.kr/2520) | 팬케이크 사랑 | Bronze II | [Java](./02xxx/2520. 팬케이크 사랑/팬케이크 사랑.java) |
-| [02522](https://boj.kr/2522) | 별 찍기 - 12 | Bronze III | [Java](./02xxx/2522. 별 찍기 － 12/별 찍기 － 12.java) |
-| [02523](https://boj.kr/2523) | 별 찍기 - 13 | Bronze III | [Java](./02xxx/2523. 별 찍기 － 13/별 찍기 － 13.java) |
-| [02525](https://boj.kr/2525) | 오븐 시계 | Bronze III | [C](./02xxx/2525. 오븐 시계/오븐 시계.c) |
-| [02526](https://boj.kr/2526) | 싸이클 | Bronze I | [Java](./02xxx/2526. 싸이클/싸이클.java) |
-| [02529](https://boj.kr/2529) | 부등호 | Silver I | [C++](./02xxx/2529. 부등호/부등호.cc) |
-| [02530](https://boj.kr/2530) | 인공지능 시계 | Bronze IV | [C](./02xxx/2530. 인공지능 시계/인공지능 시계.c) |
-| [02533](https://boj.kr/2533) | 사회망 서비스(SNS) | Gold III | [C++](./02xxx/2533. 사회망 서비스（SNS）/사회망 서비스（SNS）.cc) |
-| [02535](https://boj.kr/2535) | 아시아 정보올림피아드 | Silver V | [Java](./02xxx/2535. 아시아 정보올림피아드/아시아 정보올림피아드.java) |
-| [02545](https://boj.kr/2545) | 팬케익 먹기 | Silver IV | [C++](./02xxx/2545. 팬케익 먹기/팬케익 먹기.cc) |
-| [02546](https://boj.kr/2546) | 경제학과 정원영 | Bronze I | [Java](./02xxx/2546. 경제학과 정원영/경제학과 정원영.java) |
-| [02547](https://boj.kr/2547) | 사탕 선생 고창영 | Bronze III | [Java](./02xxx/2547. 사탕 선생 고창영/사탕 선생 고창영.java) |
-| [02548](https://boj.kr/2548) | 대표 자연수 | Silver III | [C++](./02xxx/2548. 대표 자연수/대표 자연수.cc) |
-| [02553](https://boj.kr/2553) | 마지막 팩토리얼 수 | Silver II | [Java](./02xxx/2553. 마지막 팩토리얼 수/마지막 팩토리얼 수.java) |
-| [02556](https://boj.kr/2556) | 별 찍기 - 14 | Unrated | [Java](./02xxx/2556. 별 찍기 － 14/별 찍기 － 14.java) |
-| [02557](https://boj.kr/2557) | Hello World | Bronze V | [C](./02xxx/2557. Hello World/Hello World.c) [C++](./02xxx/2557. Hello World/Hello World.cc) [Java](./02xxx/2557. Hello World/Hello World.java) [Python](./02xxx/2557. Hello World/Hello World.py) [Text](./02xxx/2557. Hello World/Hello World.txt) |
-| [02558](https://boj.kr/2558) | A+B - 2 | Bronze V | [C](./02xxx/2558. A＋B － 2/A＋B － 2.c) |
-| [02559](https://boj.kr/2559) | 수열 | Silver III | [Java](./02xxx/2559. 수열/수열.java) |
-| [02562](https://boj.kr/2562) | 최댓값 | Bronze III | [C](./02xxx/2562. 최댓값/최댓값.c) |
-| [02563](https://boj.kr/2563) | 색종이 | Silver V | [Java](./02xxx/2563. 색종이/색종이.java) |
-| [02565](https://boj.kr/2565) | 전깃줄 | Gold V | [C++](./02xxx/2565. 전깃줄/전깃줄.cc) |
-| [02566](https://boj.kr/2566) | 최댓값 | Bronze III | [Java](./02xxx/2566. 최댓값/최댓값.java) |
-| [02567](https://boj.kr/2567) | 색종이 - 2 | Silver IV | [C++](./02xxx/2567. 색종이 － 2/색종이 － 2.cc) |
-| [02570](https://boj.kr/2570) | 비숍2 | Platinum II | [C++](./02xxx/2570. 비숍2/비숍2.cc) |
-| [02573](https://boj.kr/2573) | 빙산 | Gold IV | [C++](./02xxx/2573. 빙산/빙산.cc) |
+| [02303](https://boj.kr/2303) | 숫자 게임 | Silver V | [Java](./02xxx/2303. 숫자 게임/숫자 게임.java) |
+| [02304](https://boj.kr/2304) | 창고 다각형 | Silver II | [C++](./02xxx/2304. 창고 다각형/창고 다각형.cc) |
+| [02307](https://boj.kr/2307) | 도로검문 | Gold I | [C++](./02xxx/2307. 도로검문/도로검문.cc) |
+| [02309](https://boj.kr/2309) | 일곱 난쟁이 | Bronze I | [Java](./02xxx/2309. 일곱 난쟁이/일곱 난쟁이.java) |
+| [02312](https://boj.kr/2312) | 수 복원하기 | Silver III | [C++](./02xxx/2312. 수 복원하기/수 복원하기.cc) |
+| [02316](https://boj.kr/2316) | 도시 왕복하기 2 | Platinum III | [C++](./02xxx/2316. 도시 왕복하기 2/도시 왕복하기 2.cc) |
+| [02321](https://boj.kr/2321) | Crowing | Unrated | [Fortran](./02xxx/2321. Crowing/Crowing.f) |
+| [02325](https://boj.kr/2325) | 개코전쟁 | Platinum V | [C++](./02xxx/2325. 개코전쟁/개코전쟁.cc) |
+| [02331](https://boj.kr/2331) | 반복수열 | Silver IV | [C++](./02xxx/2331. 반복수열/반복수열.cc) |
+| [02338](https://boj.kr/2338) | 긴자리 계산 | Bronze V | [Java](./02xxx/2338. 긴자리 계산/긴자리 계산.java) |
+| [02343](https://boj.kr/2343) | 기타 레슨 | Silver I | [C++](./02xxx/2343. 기타 레슨/기타 레슨.cc) |
+| [02346](https://boj.kr/2346) | 풍선 터뜨리기 | Silver III | [Java](./02xxx/2346. 풍선 터뜨리기/풍선 터뜨리기.java) |
+| [02355](https://boj.kr/2355) | 시그마 | Bronze II | [Java](./02xxx/2355. 시그마/시그마.java) |
+| [02357](https://boj.kr/2357) | 최솟값과 최댓값 | Gold I | [C++](./02xxx/2357. 최솟값과 최댓값/최솟값과 최댓값.cc) |
+| [02358](https://boj.kr/2358) | 평행선 | Silver IV | [Java](./02xxx/2358. 평행선/평행선.java) |
+| [02371](https://boj.kr/2371) | 파일 구별하기 | Silver III | [C++](./02xxx/2371. 파일 구별하기/파일 구별하기.cc) |
+| [02372](https://boj.kr/2372) | Livestock Count | Unrated | [Ada](./02xxx/2372. Livestock Count/Livestock Count.ada) |
+| [02377](https://boj.kr/2377) | Pottery | Unrated | [FreeBASIC](./02xxx/2377. Pottery/Pottery.bas) |
+| [02381](https://boj.kr/2381) | 최대 거리 | Gold II | [C++](./02xxx/2381. 최대 거리/최대 거리.cc) |
+| [02386](https://boj.kr/2386) | 도비의 영어 공부 | Bronze II | [Java](./02xxx/2386. 도비의 영어 공부/도비의 영어 공부.java) |
+| [02387](https://boj.kr/2387) | Howl | Unrated | [Algol 68](./02xxx/2387. Howl/Howl.a68) |
+| [02391](https://boj.kr/2391) | Sascha | Bronze II | [Java](./02xxx/2391. Sascha/Sascha.java) |
+| [02393](https://boj.kr/2393) | Rook | Bronze V | [Java](./02xxx/2393. Rook/Rook.java) |
+| [02399](https://boj.kr/2399) | 거리의 합 | Bronze II | [Java](./02xxx/2399. 거리의 합/거리의 합.java) |
+| [02406](https://boj.kr/2406) | 안정적인 네트워크 | Gold III | [Java](./02xxx/2406. 안정적인 네트워크/안정적인 네트워크.java) |
+| [02407](https://boj.kr/2407) | 조합 | Silver III | [Java](./02xxx/2407. 조합/조합.java) |
+| [02408](https://boj.kr/2408) | 큰 수 계산 | Bronze II | [Java](./02xxx/2408. 큰 수 계산/큰 수 계산.java) |
+| [02410](https://boj.kr/2410) | 2의 멱수의 합 | Gold V | [C++](./02xxx/2410. 2의 멱수의 합/2의 멱수의 합.cc) |
+| [02414](https://boj.kr/2414) | 게시판 구멍 막기 | Platinum III | [C++](./02xxx/2414. 게시판 구멍 막기/게시판 구멍 막기.cc) |
+| [02417](https://boj.kr/2417) | 정수 제곱근 | Silver IV | [C++](./02xxx/2417. 정수 제곱근/정수 제곱근.cc) |
+| [02420](https://boj.kr/2420) | 사파리월드 | Bronze V | [C](./02xxx/2420. 사파리월드/사파리월드.c) |
+| [02422](https://boj.kr/2422) | 한윤정이 이탈리아에 가서 아이스크림을 사먹는데 | Silver IV | [C++](./02xxx/2422. 한윤정이 이탈리아에 가서 아이스크림을 사먹는데/한윤정이 이탈리아에 가서 아이스크림을 사먹는데.cc) |
+| [02428](https://boj.kr/2428) | 표절 | Silver III | [C++](./02xxx/2428. 표절/표절.cc) |
+| [02435](https://boj.kr/2435) | 기상청 인턴 신현수 | Bronze I | [Java](./02xxx/2435. 기상청 인턴 신현수/기상청 인턴 신현수.java) |
+| [02436](https://boj.kr/2436) | 공약수 | Gold V | [C++](./02xxx/2436. 공약수/공약수.cc) |
+| [02438](https://boj.kr/2438) | 별 찍기 - 1 | Bronze V | [Java](./02xxx/2438. 별 찍기 － 1/별 찍기 － 1.java) |
+| [02439](https://boj.kr/2439) | 별 찍기 - 2 | Bronze IV | [Java](./02xxx/2439. 별 찍기 － 2/별 찍기 － 2.java) |
+| [02440](https://boj.kr/2440) | 별 찍기 - 3 | Bronze IV | [Java](./02xxx/2440. 별 찍기 － 3/별 찍기 － 3.java) |
+| [02441](https://boj.kr/2441) | 별 찍기 - 4 | Bronze III | [Java](./02xxx/2441. 별 찍기 － 4/별 찍기 － 4.java) |
+| [02442](https://boj.kr/2442) | 별 찍기 - 5 | Bronze III | [Java](./02xxx/2442. 별 찍기 － 5/별 찍기 － 5.java) |
+| [02443](https://boj.kr/2443) | 별 찍기 - 6 | Bronze III | [Java](./02xxx/2443. 별 찍기 － 6/별 찍기 － 6.java) |
+| [02444](https://boj.kr/2444) | 별 찍기 - 7 | Bronze III | [Java](./02xxx/2444. 별 찍기 － 7/별 찍기 － 7.java) |
+| [02445](https://boj.kr/2445) | 별 찍기 - 8 | Bronze III | [Java](./02xxx/2445. 별 찍기 － 8/별 찍기 － 8.java) |
+| [02446](https://boj.kr/2446) | 별 찍기 - 9 | Bronze III | [Java](./02xxx/2446. 별 찍기 － 9/별 찍기 － 9.java) |
+| [02447](https://boj.kr/2447) | 별 찍기 - 10 | Gold V | [Java](./02xxx/2447. 별 찍기 － 10/별 찍기 － 10.java) |
+| [02448](https://boj.kr/2448) | 별 찍기 - 11 | Gold IV | [Java](./02xxx/2448. 별 찍기 － 11/별 찍기 － 11.java) |
+| [02455](https://boj.kr/2455) | 지능형 기차 | Bronze III | [Java](./02xxx/2455. 지능형 기차/지능형 기차.java) |
+| [02456](https://boj.kr/2456) | 나는 학급회장이다 | Bronze I | [Java](./02xxx/2456. 나는 학급회장이다/나는 학급회장이다.java) |
+| [02458](https://boj.kr/2458) | 키 순서 | Gold IV | [Java](./02xxx/2458. 키 순서/키 순서.java) |
+| [02460](https://boj.kr/2460) | 지능형 기차 2 | Bronze III | [Java](./02xxx/2460. 지능형 기차 2/지능형 기차 2.java) |
 | [02576](https://boj.kr/2576) | 홀수 | Bronze III | [Java](./02xxx/2576. 홀수/홀수.java) |
 | [02577](https://boj.kr/2577) | 숫자의 개수 | Bronze II | [C](./02xxx/2577. 숫자의 개수/숫자의 개수.c) |
 | [02578](https://boj.kr/2578) | 빙고 | Silver IV | [C++](./02xxx/2578. 빙고/빙고.cc) |
@@ -529,6 +529,7 @@
 | [02621](https://boj.kr/2621) | 카드게임 | Silver III | [C++](./02xxx/2621. 카드게임/카드게임.cc) |
 | [02623](https://boj.kr/2623) | 음악프로그램 | Gold III | [Java](./02xxx/2623. 음악프로그램/음악프로그램.java) |
 | [02628](https://boj.kr/2628) | 종이자르기 | Silver V | [C++](./02xxx/2628. 종이자르기/종이자르기.cc) |
+| [02629](https://boj.kr/2629) | 양팔저울 | Gold III | [C++](./02xxx/2629. 양팔저울/양팔저울.cc) |
 | [02630](https://boj.kr/2630) | 색종이 만들기 | Silver II | [Java](./02xxx/2630. 색종이 만들기/색종이 만들기.java) |
 | [02635](https://boj.kr/2635) | 수 이어가기 | Silver V | [C++](./02xxx/2635. 수 이어가기/수 이어가기.cc) |
 | [02636](https://boj.kr/2636) | 치즈 | Gold IV | [C++](./02xxx/2636. 치즈/치즈.cc) |
@@ -1107,107 +1108,107 @@
 | [06909](https://boj.kr/6909) | Trucking Troubles | Gold IV | [Java](./06xxx/6909. Trucking Troubles/Trucking Troubles.java) |
 | [06916](https://boj.kr/6916) | 0123456789 | Unrated | [Java](./06xxx/6916. 0123456789/0123456789.java) |
 | [06917](https://boj.kr/6917) | AmeriCanadian | Bronze II | [Java](./06xxx/6917. AmeriCanadian/AmeriCanadian.java) |
-| [06918](https://boj.kr/6918) | The Students' Council Breakfast | Bronze II | [Java](./06xxx/6918. The Students' Council Breakfast/The Students' Council Breakfast.java) |
-| [06927](https://boj.kr/6927) | Connect The Campus | Gold IV | [Java](./06xxx/6927. Connect The Campus/Connect The Campus.java) |
-| [06929](https://boj.kr/6929) | Dressing Up | Bronze II | [Java](./06xxx/6929. Dressing Up/Dressing Up.java) |
-| [06930](https://boj.kr/6930) | Mod Inverse | Bronze II | [Java](./06xxx/6930. Mod Inverse/Mod Inverse.java) |
-| [06965](https://boj.kr/6965) | Censor | Bronze II | [Java](./06xxx/6965. Censor/Censor.java) |
-| [06974](https://boj.kr/6974) | Long Division | Bronze III | [Java](./06xxx/6974. Long Division/Long Division.java) |
-| [06975](https://boj.kr/6975) | Deficient, Perfect, and Abundant | Bronze III | [Java](./06xxx/6975. Deficient， Perfect， and Abundant/Deficient， Perfect， and Abundant.java) |
-| [06976](https://boj.kr/6976) | Divisibility by 11 | Bronze II | [Java](./06xxx/6976. Divisibility by 11/Divisibility by 11.java) |
-| [06979](https://boj.kr/6979) | Maximum Distance | Bronze II | [Java](./06xxx/6979. Maximum Distance/Maximum Distance.java) |
-| [06986](https://boj.kr/6986) | 절사평균 | Silver III | [C++](./06xxx/6986. 절사평균/절사평균.cc) |
-| [06992](https://boj.kr/6992) | Arithmetic Sequence | Bronze II | [Java](./06xxx/6992. Arithmetic Sequence/Arithmetic Sequence.java) |
-| [06993](https://boj.kr/6993) | Shift Letters | Bronze II | [Java](./06xxx/6993. Shift Letters/Shift Letters.java) |
-| [06996](https://boj.kr/6996) | 애너그램 | Bronze I | [Java](./06xxx/6996. 애너그램/애너그램.java) |
-| [07015](https://boj.kr/7015) | Millennium | Bronze II | [Java](./07xxx/7015. Millennium/Millennium.java) |
-| [07044](https://boj.kr/7044) | Bad Cowtractors | Gold IV | [Java](./07xxx/7044. Bad Cowtractors/Bad Cowtractors.java) |
-| [07120](https://boj.kr/7120) | String | Bronze II | [Java](./07xxx/7120. String/String.java) |
-| [07130](https://boj.kr/7130) | Milk and Honey | Bronze III | [Java](./07xxx/7130. Milk and Honey/Milk and Honey.java) |
-| [07132](https://boj.kr/7132) | Hammasrattad | Bronze I | [Java](./07xxx/7132. Hammasrattad/Hammasrattad.java) |
-| [07168](https://boj.kr/7168) | Nonogramm | Bronze II | [Java](./07xxx/7168. Nonogramm/Nonogramm.java) |
-| [07173](https://boj.kr/7173) | Klass | Bronze II | [Java](./07xxx/7173. Klass/Klass.java) |
-| [07181](https://boj.kr/7181) | Mõttemeister | Bronze III | [Java](./07xxx/7181. Mõttemeister/Mõttemeister.java) |
-| [07214](https://boj.kr/7214) | Ateivių kojinės | Bronze I | [C++](./07xxx/7214. Ateivių kojinės/Ateivių kojinės.cc) |
-| [07215](https://boj.kr/7215) | Ateivių kojinės | Bronze I | [C++](./07xxx/7215. Ateivių kojinės/Ateivių kojinės.cc) |
-| [07218](https://boj.kr/7218) | Pasislėpę romėniški skaičiai | Bronze III | [C](./07xxx/7218. Pasislėpę romėniški skaičiai/Pasislėpę romėniški skaičiai.c) |
-| [07239](https://boj.kr/7239) | Pjūklas | Bronze I | [Java](./07xxx/7239. Pjūklas/Pjūklas.java) |
-| [07240](https://boj.kr/7240) | Rogutės | Bronze III | [Java](./07xxx/7240. Rogutės/Rogutės.java) |
-| [07241](https://boj.kr/7241) | Skaičiai | Bronze II | [Java](./07xxx/7241. Skaičiai/Skaičiai.java) |
-| [07255](https://boj.kr/7255) | Sujungimas | Gold IV | [Java](./07xxx/7255. Sujungimas/Sujungimas.java) |
-| [07271](https://boj.kr/7271) | Viršininkai | Gold IV | [Java](./07xxx/7271. Viršininkai/Viršininkai.java) |
-| [07274](https://boj.kr/7274) | Liftas | Silver V | [C++](./07xxx/7274. Liftas/Liftas.cc) |
-| [07275](https://boj.kr/7275) | Skalbiniai | Bronze II | [Java](./07xxx/7275. Skalbiniai/Skalbiniai.java) |
-| [07279](https://boj.kr/7279) | Autobusas | Bronze III | [Java](./07xxx/7279. Autobusas/Autobusas.java) |
-| [07280](https://boj.kr/7280) | Kortos | Bronze III | [Java](./07xxx/7280. Kortos/Kortos.java) |
-| [07281](https://boj.kr/7281) | Internetas | Bronze III | [Java](./07xxx/7281. Internetas/Internetas.java) |
-| [07286](https://boj.kr/7286) | Ancient Keyboard | Bronze II | [Java](./07xxx/7286. Ancient Keyboard/Ancient Keyboard.java) |
-| [07287](https://boj.kr/7287) | 등록 | Bronze V | [C](./07xxx/7287. 등록/등록.c) |
-| [07326](https://boj.kr/7326) | Number Steps | Bronze I | [Java](./07xxx/7326. Number Steps/Number Steps.java) |
-| [07360](https://boj.kr/7360) | Undercut | Bronze II | [Java](./07xxx/7360. Undercut/Undercut.java) |
-| [07366](https://boj.kr/7366) | Counting Sheep | Bronze II | [Java](./07xxx/7366. Counting Sheep/Counting Sheep.java) |
-| [07432](https://boj.kr/7432) | 디스크 트리 | Gold III | [C++](./07xxx/7432. 디스크 트리/디스크 트리.cc) |
-| [07453](https://boj.kr/7453) | 합이 0인 네 정수 | Gold II | [C++](./07xxx/7453. 합이 0인 네 정수/합이 0인 네 정수.cc) |
-| [07482](https://boj.kr/7482) | 상자 만들기 | Silver V | [Java](./07xxx/7482. 상자 만들기/상자 만들기.java) |
-| [07489](https://boj.kr/7489) | 팩토리얼 | Bronze II | [Java](./07xxx/7489. 팩토리얼/팩토리얼.java) |
-| [07510](https://boj.kr/7510) | 고급 수학 | Bronze III | [Java](./07xxx/7510. 고급 수학/고급 수학.java) |
-| [07511](https://boj.kr/7511) | 소셜 네트워킹 어플리케이션 | Gold V | [Java](./07xxx/7511. 소셜 네트워킹 어플리케이션/소셜 네트워킹 어플리케이션.java) |
-| [07512](https://boj.kr/7512) | 연속하는 소수의 합 | Gold III | [C++](./07xxx/7512. 연속하는 소수의 합/연속하는 소수의 합.cc) |
-| [07513](https://boj.kr/7513) | 준살 프로그래밍 대회 | Bronze I | [Java](./07xxx/7513. 준살 프로그래밍 대회/준살 프로그래밍 대회.java) |
-| [07523](https://boj.kr/7523) | Gauß | Bronze III | [Java](./07xxx/7523. Gauß/Gauß.java) |
-| [07547](https://boj.kr/7547) | Heavy Transportation | Gold IV | [Java](./07xxx/7547. Heavy Transportation/Heavy Transportation.java) |
-| [07562](https://boj.kr/7562) | 나이트의 이동 | Silver I | [Java](./07xxx/7562. 나이트의 이동/나이트의 이동.java) |
+| [06591](https://boj.kr/6591) | 이항 쇼다운 | Silver III | [C++](./06xxx/6591. 이항 쇼다운/이항 쇼다운.cc) |
+| [06593](https://boj.kr/6593) | 상범 빌딩 | Gold V | [Java](./06xxx/6593. 상범 빌딩/상범 빌딩.java) |
+| [06603](https://boj.kr/6603) | 로또 | Silver II | [Java](./06xxx/6603. 로또/로또.java) |
+| [06609](https://boj.kr/6609) | 모기곱셈 | Bronze II | [Python](./06xxx/6609. 모기곱셈/모기곱셈.py) |
+| [06679](https://boj.kr/6679) | 싱기한 네자리 숫자 | Bronze II | [Java](./06xxx/6679. 싱기한 네자리 숫자/싱기한 네자리 숫자.java) |
+| [06693](https://boj.kr/6693) | Complicated Route | Bronze II | [Python](./06xxx/6693. Complicated Route/Complicated Route.py) |
+| [06696](https://boj.kr/6696) | Too Much Water | Bronze II | [Java](./06xxx/6696. Too Much Water/Too Much Water.java) |
+| [06721](https://boj.kr/6721) | Backward numbers | Bronze III | [Java](./06xxx/6721. Backward numbers/Backward numbers.java) |
+| [06736](https://boj.kr/6736) | The Idiot of the Year Contest! | Bronze II | [Java](./06xxx/6736. The Idiot of the Year Contest！/The Idiot of the Year Contest！.java) |
+| [06749](https://boj.kr/6749) | Next in line | Bronze IV | [C](./06xxx/6749. Next in line/Next in line.c) |
+| [06750](https://boj.kr/6750) | Rotating letters | Bronze III | [Java](./06xxx/6750. Rotating letters/Rotating letters.java) |
+| [06751](https://boj.kr/6751) | From 1987 to 2013 | Bronze II | [Java](./06xxx/6751. From 1987 to 2013/From 1987 to 2013.java) |
+| [06763](https://boj.kr/6763) | Speed fines are not fine! | Bronze IV | [C](./06xxx/6763. Speed fines are not fine！/Speed fines are not fine！.c) |
+| [06764](https://boj.kr/6764) | Sounds fishy! | Bronze IV | [C](./06xxx/6764. Sounds fishy！/Sounds fishy！.c) |
+| [06765](https://boj.kr/6765) | Icon Scaling | Bronze II | [Java](./06xxx/6765. Icon Scaling/Icon Scaling.java) |
+| [06766](https://boj.kr/6766) | Big Bang Secrets | Bronze II | [Java](./06xxx/6766. Big Bang Secrets/Big Bang Secrets.java) |
+| [06768](https://boj.kr/6768) | Don’t pass me the ball! | Bronze III | [Java](./06xxx/6768. Don’t pass me the ball！/Don’t pass me the ball！.java) |
+| [06769](https://boj.kr/6769) | Aromatic Numbers | Bronze II | [Java](./06xxx/6769. Aromatic Numbers/Aromatic Numbers.java) |
+| [06778](https://boj.kr/6778) | Which Alien? | Bronze IV | [C](./06xxx/6778. Which Alien？/Which Alien？.c) |
+| [06779](https://boj.kr/6779) | Who Has Seen The Wind | Bronze III | [Java](./06xxx/6779. Who Has Seen The Wind/Who Has Seen The Wind.java) |
+| [06780](https://boj.kr/6780) | Sumac Sequences | Bronze III | [Java](./06xxx/6780. Sumac Sequences/Sumac Sequences.java) |
+| [06783](https://boj.kr/6783) | English or French? | Bronze II | [Java](./06xxx/6783. English or French？/English or French？.java) |
+| [06784](https://boj.kr/6784) | Multiple Choice | Bronze III | [Java](./06xxx/6784. Multiple Choice/Multiple Choice.java) |
+| [06794](https://boj.kr/6794) | What is n, Daddy? | Bronze III | [Java](./06xxx/6794. What is n， Daddy？/What is n， Daddy？.java) |
+| [06795](https://boj.kr/6795) | Up and Down | Bronze II | [Java](./06xxx/6795. Up and Down/Up and Down.java) |
+| [06796](https://boj.kr/6796) | Punchy | Bronze I | [Java](./06xxx/6796. Punchy/Punchy.java) |
+| [06810](https://boj.kr/6810) | ISBN | Bronze IV | [C](./06xxx/6810. ISBN/ISBN.c) |
+| [06811](https://boj.kr/6811) | Old Fishin’ Hole | Bronze II | [Java](./06xxx/6811. Old Fishin’ Hole/Old Fishin’ Hole.java) |
+| [06812](https://boj.kr/6812) | Good times | Bronze III | [Java](./06xxx/6812. Good times/Good times.java) |
+| [06815](https://boj.kr/6815) | Cool Numbers | Bronze II | [Java](./06xxx/6815. Cool Numbers/Cool Numbers.java) |
+| [06825](https://boj.kr/6825) | Body Mass Index | Bronze IV | [Java](./06xxx/6825. Body Mass Index/Body Mass Index.java) |
+| [06830](https://boj.kr/6830) | It’s Cold Here! | Bronze III | [Java](./06xxx/6830. It’s Cold Here！/It’s Cold Here！.java) |
+| [06840](https://boj.kr/6840) | Who is in the middle? | Bronze V | [C](./06xxx/6840. Who is in the middle？/Who is in the middle？.c) |
+| [06841](https://boj.kr/6841) | I Speak TXTMSG | Bronze IV | [Java](./06xxx/6841. I Speak TXTMSG/I Speak TXTMSG.java) |
+| [06843](https://boj.kr/6843) | Anagram Checker | Bronze II | [Java](./06xxx/6843. Anagram Checker/Anagram Checker.java) |
+| [06845](https://boj.kr/6845) | Federal Voting Age | Bronze III | [Java](./06xxx/6845. Federal Voting Age/Federal Voting Age.java) |
+| [06856](https://boj.kr/6856) | Roll the Dice | Bronze III | [Java](./06xxx/6856. Roll the Dice/Roll the Dice.java) |
+| [06876](https://boj.kr/6876) | Snow Calls | Bronze II | [Java](./06xxx/6876. Snow Calls/Snow Calls.java) |
+| [06877](https://boj.kr/6877) | Mouse Move | Bronze II | [Java](./06xxx/6877. Mouse Move/Mouse Move.java) |
+| [06884](https://boj.kr/6884) | 소수 부분 수열 | Silver II | [C++](./06xxx/6884. 소수 부분 수열/소수 부분 수열.cc) |
+| [06887](https://boj.kr/6887) | Squares | Bronze IV | [Java](./06xxx/6887. Squares/Squares.java) |
+| [06888](https://boj.kr/6888) | Terms of Office | Bronze IV | [Java](./06xxx/6888. Terms of Office/Terms of Office.java) |
+| [06889](https://boj.kr/6889) | Smile with Similes | Bronze III | [Java](./06xxx/6889. Smile with Similes/Smile with Similes.java) |
+| [06890](https://boj.kr/6890) | Simple Encryption | Bronze II | [Java](./06xxx/6890. Simple Encryption/Simple Encryption.java) |
+| [06892](https://boj.kr/6892) | Fix | Bronze II | [Java](./06xxx/6892. Fix/Fix.java) |
+| [06903](https://boj.kr/6903) | Trident | Bronze III | [Java](./06xxx/6903. Trident/Trident.java) |
+| [06904](https://boj.kr/6904) | Picture Perfect | Bronze II | [Java](./06xxx/6904. Picture Perfect/Picture Perfect.java) |
+| [06909](https://boj.kr/6909) | Trucking Troubles | Gold IV | [Java](./06xxx/6909. Trucking Troubles/Trucking Troubles.java) |
+| [06916](https://boj.kr/6916) | 0123456789 | Unrated | [Java](./06xxx/6916. 0123456789/0123456789.java) |
+| [06917](https://boj.kr/6917) | AmeriCanadian | Bronze II | [Java](./06xxx/6917. AmeriCanadian/AmeriCanadian.java) |
 | [07567](https://boj.kr/7567) | 그릇 | Bronze II | [Java](./07xxx/7567. 그릇/그릇.java) |
-| [06927](https://boj.kr/6927) | Connect The Campus | Gold IV | [Java](./06xxx/6927. Connect The Campus/Connect The Campus.java) |
-| [06929](https://boj.kr/6929) | Dressing Up | Bronze II | [Java](./06xxx/6929. Dressing Up/Dressing Up.java) |
-| [06930](https://boj.kr/6930) | Mod Inverse | Bronze II | [Java](./06xxx/6930. Mod Inverse/Mod Inverse.java) |
-| [06965](https://boj.kr/6965) | Censor | Bronze II | [Java](./06xxx/6965. Censor/Censor.java) |
-| [06974](https://boj.kr/6974) | Long Division | Bronze III | [Java](./06xxx/6974. Long Division/Long Division.java) |
-| [06975](https://boj.kr/6975) | Deficient, Perfect, and Abundant | Bronze III | [Java](./06xxx/6975. Deficient， Perfect， and Abundant/Deficient， Perfect， and Abundant.java) |
-| [06976](https://boj.kr/6976) | Divisibility by 11 | Bronze II | [Java](./06xxx/6976. Divisibility by 11/Divisibility by 11.java) |
-| [06979](https://boj.kr/6979) | Maximum Distance | Bronze II | [Java](./06xxx/6979. Maximum Distance/Maximum Distance.java) |
-| [06986](https://boj.kr/6986) | 절사평균 | Silver III | [C++](./06xxx/6986. 절사평균/절사평균.cc) |
-| [06992](https://boj.kr/6992) | Arithmetic Sequence | Bronze II | [Java](./06xxx/6992. Arithmetic Sequence/Arithmetic Sequence.java) |
-| [06993](https://boj.kr/6993) | Shift Letters | Bronze II | [Java](./06xxx/6993. Shift Letters/Shift Letters.java) |
-| [06996](https://boj.kr/6996) | 애너그램 | Bronze I | [Java](./06xxx/6996. 애너그램/애너그램.java) |
-| [07015](https://boj.kr/7015) | Millennium | Bronze II | [Java](./07xxx/7015. Millennium/Millennium.java) |
-| [07044](https://boj.kr/7044) | Bad Cowtractors | Gold IV | [Java](./07xxx/7044. Bad Cowtractors/Bad Cowtractors.java) |
-| [07120](https://boj.kr/7120) | String | Bronze II | [Java](./07xxx/7120. String/String.java) |
-| [07130](https://boj.kr/7130) | Milk and Honey | Bronze III | [Java](./07xxx/7130. Milk and Honey/Milk and Honey.java) |
-| [07132](https://boj.kr/7132) | Hammasrattad | Bronze I | [Java](./07xxx/7132. Hammasrattad/Hammasrattad.java) |
-| [07168](https://boj.kr/7168) | Nonogramm | Bronze II | [Java](./07xxx/7168. Nonogramm/Nonogramm.java) |
-| [07173](https://boj.kr/7173) | Klass | Bronze II | [Java](./07xxx/7173. Klass/Klass.java) |
-| [07181](https://boj.kr/7181) | Mõttemeister | Bronze III | [Java](./07xxx/7181. Mõttemeister/Mõttemeister.java) |
-| [07214](https://boj.kr/7214) | Ateivių kojinės | Bronze I | [C++](./07xxx/7214. Ateivių kojinės/Ateivių kojinės.cc) |
-| [07215](https://boj.kr/7215) | Ateivių kojinės | Bronze I | [C++](./07xxx/7215. Ateivių kojinės/Ateivių kojinės.cc) |
-| [07218](https://boj.kr/7218) | Pasislėpę romėniški skaičiai | Bronze III | [C](./07xxx/7218. Pasislėpę romėniški skaičiai/Pasislėpę romėniški skaičiai.c) |
-| [07239](https://boj.kr/7239) | Pjūklas | Bronze I | [Java](./07xxx/7239. Pjūklas/Pjūklas.java) |
-| [07240](https://boj.kr/7240) | Rogutės | Bronze III | [Java](./07xxx/7240. Rogutės/Rogutės.java) |
-| [07241](https://boj.kr/7241) | Skaičiai | Bronze II | [Java](./07xxx/7241. Skaičiai/Skaičiai.java) |
-| [07255](https://boj.kr/7255) | Sujungimas | Gold IV | [Java](./07xxx/7255. Sujungimas/Sujungimas.java) |
-| [07271](https://boj.kr/7271) | Viršininkai | Gold IV | [Java](./07xxx/7271. Viršininkai/Viršininkai.java) |
-| [07274](https://boj.kr/7274) | Liftas | Silver V | [C++](./07xxx/7274. Liftas/Liftas.cc) |
-| [07275](https://boj.kr/7275) | Skalbiniai | Bronze II | [Java](./07xxx/7275. Skalbiniai/Skalbiniai.java) |
-| [07279](https://boj.kr/7279) | Autobusas | Bronze III | [Java](./07xxx/7279. Autobusas/Autobusas.java) |
-| [07280](https://boj.kr/7280) | Kortos | Bronze III | [Java](./07xxx/7280. Kortos/Kortos.java) |
-| [07281](https://boj.kr/7281) | Internetas | Bronze III | [Java](./07xxx/7281. Internetas/Internetas.java) |
-| [07286](https://boj.kr/7286) | Ancient Keyboard | Bronze II | [Java](./07xxx/7286. Ancient Keyboard/Ancient Keyboard.java) |
-| [07287](https://boj.kr/7287) | 등록 | Bronze V | [C](./07xxx/7287. 등록/등록.c) |
-| [07326](https://boj.kr/7326) | Number Steps | Bronze I | [Java](./07xxx/7326. Number Steps/Number Steps.java) |
-| [07360](https://boj.kr/7360) | Undercut | Bronze II | [Java](./07xxx/7360. Undercut/Undercut.java) |
-| [07366](https://boj.kr/7366) | Counting Sheep | Bronze II | [Java](./07xxx/7366. Counting Sheep/Counting Sheep.java) |
-| [07432](https://boj.kr/7432) | 디스크 트리 | Gold III | [C++](./07xxx/7432. 디스크 트리/디스크 트리.cc) |
-| [07453](https://boj.kr/7453) | 합이 0인 네 정수 | Gold II | [C++](./07xxx/7453. 합이 0인 네 정수/합이 0인 네 정수.cc) |
-| [07482](https://boj.kr/7482) | 상자 만들기 | Silver V | [Java](./07xxx/7482. 상자 만들기/상자 만들기.java) |
-| [07489](https://boj.kr/7489) | 팩토리얼 | Bronze II | [Java](./07xxx/7489. 팩토리얼/팩토리얼.java) |
-| [07510](https://boj.kr/7510) | 고급 수학 | Bronze III | [Java](./07xxx/7510. 고급 수학/고급 수학.java) |
-| [07511](https://boj.kr/7511) | 소셜 네트워킹 어플리케이션 | Gold V | [Java](./07xxx/7511. 소셜 네트워킹 어플리케이션/소셜 네트워킹 어플리케이션.java) |
-| [07512](https://boj.kr/7512) | 연속하는 소수의 합 | Gold III | [C++](./07xxx/7512. 연속하는 소수의 합/연속하는 소수의 합.cc) |
-| [07513](https://boj.kr/7513) | 준살 프로그래밍 대회 | Bronze I | [Java](./07xxx/7513. 준살 프로그래밍 대회/준살 프로그래밍 대회.java) |
-| [07523](https://boj.kr/7523) | Gauß | Bronze III | [Java](./07xxx/7523. Gauß/Gauß.java) |
-| [07547](https://boj.kr/7547) | Heavy Transportation | Gold IV | [Java](./07xxx/7547. Heavy Transportation/Heavy Transportation.java) |
-| [07562](https://boj.kr/7562) | 나이트의 이동 | Silver I | [Java](./07xxx/7562. 나이트의 이동/나이트의 이동.java) |
-| [07567](https://boj.kr/7567) | 그릇 | Bronze II | [Java](./07xxx/7567. 그릇/그릇.java) |
+| [07568](https://boj.kr/7568) | 덩치 | Silver V | [Java](./07xxx/7568. 덩치/덩치.java) |
+| [07569](https://boj.kr/7569) | 토마토 | Gold V | [Java](./07xxx/7569. 토마토/토마토.java) |
+| [07572](https://boj.kr/7572) | 간지(干支) | Bronze II | [Java](./07xxx/7572. 간지（干支）/간지（干支）.java) |
+| [07576](https://boj.kr/7576) | 토마토 | Gold V | [Java](./07xxx/7576. 토마토/토마토.java) |
+| [07579](https://boj.kr/7579) | 앱 | Gold III | [C++](./07xxx/7579. 앱/앱.cc) |
+| [07581](https://boj.kr/7581) | Cuboids | Bronze III | [Java](./07xxx/7581. Cuboids/Cuboids.java) |
+| [07582](https://boj.kr/7582) | On the Bus | Bronze II | [Java](./07xxx/7582. On the Bus/On the Bus.java) |
+| [07583](https://boj.kr/7583) | Jumbled Words | Bronze II | [Java](./07xxx/7583. Jumbled Words/Jumbled Words.java) |
+| [07585](https://boj.kr/7585) | Brackets | Silver IV | [Java](./07xxx/7585. Brackets/Brackets.java) |
+| [07595](https://boj.kr/7595) | Triangles | Bronze IV | [C](./07xxx/7595. Triangles/Triangles.c) |
+| [07598](https://boj.kr/7598) | Bookings | Bronze II | [Java](./07xxx/7598. Bookings/Bookings.java) |
+| [07599](https://boj.kr/7599) | Library Codes | Bronze II | [Java](./07xxx/7599. Library Codes/Library Codes.java) |
+| [07600](https://boj.kr/7600) | 문자가 몇갤까 | Bronze II | [Java](./07xxx/7600. 문자가 몇갤까/문자가 몇갤까.java) |
+| [07637](https://boj.kr/7637) | AAAAHH! Overbooked! | Bronze I | [Java](./07xxx/7637. AAAAHH！ Overbooked！/AAAAHH！ Overbooked！.java) |
+| [07656](https://boj.kr/7656) | 만능 오라클 | Silver V | [Java](./07xxx/7656. 만능 오라클/만능 오라클.java) |
+| [07662](https://boj.kr/7662) | 이중 우선순위 큐 | Gold IV | [Java](./07xxx/7662. 이중 우선순위 큐/이중 우선순위 큐.java) |
+| [07770](https://boj.kr/7770) | 아즈텍 피라미드 | Bronze II | [Java](./07xxx/7770. 아즈텍 피라미드/아즈텍 피라미드.java) |
+| [07771](https://boj.kr/7771) | 배틀쉽 | Gold V | [C++](./07xxx/7771. 배틀쉽/배틀쉽.cc) |
+| [07782](https://boj.kr/7782) | Alien | Bronze III | [Java](./07xxx/7782. Alien/Alien.java) |
+| [07785](https://boj.kr/7785) | 회사에 있는 사람 | Silver V | [Java](./07xxx/7785. 회사에 있는 사람/회사에 있는 사람.java) |
+| [07789](https://boj.kr/7789) | 텔레프라임 | Bronze II | [Java](./07xxx/7789. 텔레프라임/텔레프라임.java) |
+| [07790](https://boj.kr/7790) | Joke | Bronze II | [Java](./07xxx/7790. Joke/Joke.java) |
+| [07795](https://boj.kr/7795) | 먹을 것인가 먹힐 것인가 | Silver III | [C++](./07xxx/7795. 먹을 것인가 먹힐 것인가/먹을 것인가 먹힐 것인가.cc) |
+| [07891](https://boj.kr/7891) | Can you add this? | Bronze V | [C](./07xxx/7891. Can you add this？/Can you add this？.c) |
+| [07947](https://boj.kr/7947) | Koncert | Bronze III | [Java](./07xxx/7947. Koncert/Koncert.java) |
+| [07977](https://boj.kr/7977) | 크리스 마틴 | Gold IV | [C++](./07xxx/7977. 크리스 마틴/크리스 마틴.cc) |
+| [08012](https://boj.kr/8012) | 한동이는 영업사원! | Platinum V | [C++](./08xxx/8012. 한동이는 영업사원！/한동이는 영업사원！.cc) |
+| [08246](https://boj.kr/8246) | Stół | Bronze II | [Java](./08xxx/8246. Stół/Stół.java) |
+| [08270](https://boj.kr/8270) | Tulips | Bronze II | [Java](./08xxx/8270. Tulips/Tulips.java) |
+| [08295](https://boj.kr/8295) | Rectangles | Bronze II | [Java](./08xxx/8295. Rectangles/Rectangles.java) |
+| [08320](https://boj.kr/8320) | 직사각형을 만드는 방법 | Bronze II | [Java](./08xxx/8320. 직사각형을 만드는 방법/직사각형을 만드는 방법.java) |
+| [08370](https://boj.kr/8370) | Plane | Bronze V | [C](./08xxx/8370. Plane/Plane.c) |
+| [08371](https://boj.kr/8371) | Dyslexia | Bronze III | [Java](./08xxx/8371. Dyslexia/Dyslexia.java) |
+| [08387](https://boj.kr/8387) | Dyslexia | Bronze III | [Java](./08xxx/8387. Dyslexia/Dyslexia.java) |
+| [08393](https://boj.kr/8393) | 합 | Bronze V | [C](./08xxx/8393. 합/합.c) |
+| [08394](https://boj.kr/8394) | 악수 | Silver III | [Java](./08xxx/8394. 악수/악수.java) |
+| [08436](https://boj.kr/8436) | Kamil | Bronze II | [C++](./08xxx/8436. Kamil/Kamil.cc) |
+| [08437](https://boj.kr/8437) | Julka | Bronze V | [Java](./08xxx/8437. Julka/Julka.java) |
+| [08537](https://boj.kr/8537) | Imiona mrówek | Bronze II | [Java](./08xxx/8537. Imiona mrówek/Imiona mrówek.java) |
+| [08538](https://boj.kr/8538) | Bałagan i Stonki | Bronze I | [Java](./08xxx/8538. Bałagan i Stonki/Bałagan i Stonki.java) |
+| [08545](https://boj.kr/8545) | Zadanie próbne | Bronze V | [Java](./08xxx/8545. Zadanie próbne/Zadanie próbne.java) |
+| [08549](https://boj.kr/8549) | Autostrady | Gold IV | [Java](./08xxx/8549. Autostrady/Autostrady.java) |
+| [08558](https://boj.kr/8558) | Silnia | Bronze IV | [Java](./08xxx/8558. Silnia/Silnia.java) |
+| [08559](https://boj.kr/8559) | Potęga | Bronze II | [Java](./08xxx/8559. Potęga/Potęga.java) |
+| [08574](https://boj.kr/8574) | Ratownik | Bronze III | [Java](./08xxx/8574. Ratownik/Ratownik.java) |
+| [08595](https://boj.kr/8595) | 히든 넘버 | Bronze I | [Java](./08xxx/8595. 히든 넘버/히든 넘버.java) |
+| [08611](https://boj.kr/8611) | 팰린드롬 숫자 | Silver V | [Java](./08xxx/8611. 팰린드롬 숫자/팰린드롬 숫자.java) |
+| [08620](https://boj.kr/8620) | Hurtownia | Bronze I | [Java](./08xxx/8620. Hurtownia/Hurtownia.java) |
+| [08635](https://boj.kr/8635) | Zliczacz liter | Bronze II | [Java](./08xxx/8635. Zliczacz liter/Zliczacz liter.java) |
+| [08638](https://boj.kr/8638) | Zwycięzcy | Bronze II | [Java](./08xxx/8638. Zwycięzcy/Zwycięzcy.java) |
 | [08658](https://boj.kr/8658) | Liczba | Bronze III | [Java](./08xxx/8658. Liczba/Liczba.java) |
 | [08661](https://boj.kr/8661) | Stopki | Bronze III | [Java](./08xxx/8661. Stopki/Stopki.java) |
 | [08663](https://boj.kr/8663) | Konik polny | Bronze II | [Java](./08xxx/8663. Konik polny/Konik polny.java) |
@@ -1260,7 +1261,7 @@
 | [09024](https://boj.kr/9024) | 두 수의 합 | Gold V | [C++](./09xxx/9024. 두 수의 합/두 수의 합.cc) |
 | [09037](https://boj.kr/9037) | The candy war | Silver V | [Java](./09xxx/9037. The candy war/The candy war.java) |
 | [09046](https://boj.kr/9046) | 복호화 | Bronze II | [Java](./09xxx/9046. 복호화/복호화.java) |
-| [09047](https://boj.kr/9047) | 6174 | Bronze I | [Java](./09xxx/9047. 6174/6174.java) |
+| [09047](https://boj.kr/9047) | 6174 | Silver V | [Java](./09xxx/9047. 6174/6174.java) |
 | [09056](https://boj.kr/9056) | Letter Bank | Bronze II | [Java](./09xxx/9056. Letter Bank/Letter Bank.java) |
 | [09063](https://boj.kr/9063) | 대지 | Bronze III | [Java](./09xxx/9063. 대지/대지.java) |
 | [09070](https://boj.kr/9070) | 장보기 | Bronze II | [Java](./09xxx/9070. 장보기/장보기.java) |
@@ -1617,6 +1618,7 @@
 | [11037](https://boj.kr/11037) | 중복 없는 수 | Gold IV | [C++](./11xxx/11037. 중복 없는 수/중복 없는 수.cc) |
 | [11047](https://boj.kr/11047) | 동전 0 | Silver IV | [Java](./11xxx/11047. 동전 0/동전 0.java) |
 | [11048](https://boj.kr/11048) | 이동하기 | Silver II | [Java](./11xxx/11048. 이동하기/이동하기.java) |
+| [11049](https://boj.kr/11049) | 행렬 곱셈 순서 | Gold III | [C++](./11xxx/11049. 행렬 곱셈 순서/행렬 곱셈 순서.cc) |
 | [11050](https://boj.kr/11050) | 이항 계수 1 | Bronze I | [Java](./11xxx/11050. 이항 계수 1/이항 계수 1.java) |
 | [11051](https://boj.kr/11051) | 이항 계수 2 | Silver II | [Java](./11xxx/11051. 이항 계수 2/이항 계수 2.java) |
 | [11052](https://boj.kr/11052) | 카드 구매하기 | Silver I | [Java](./11xxx/11052. 카드 구매하기/카드 구매하기.java) |
@@ -1742,7 +1744,7 @@
 | [11659](https://boj.kr/11659) | 구간 합 구하기 4 | Silver III | [Java](./11xxx/11659. 구간 합 구하기 4/구간 합 구하기 4.java) |
 | [11660](https://boj.kr/11660) | 구간 합 구하기 5 | Silver I | [Java](./11xxx/11660. 구간 합 구하기 5/구간 합 구하기 5.java) |
 | [11663](https://boj.kr/11663) | 선분 위의 점 | Silver III | [C++](./11xxx/11663. 선분 위의 점/선분 위의 점.cc) |
-| [11665](https://boj.kr/11665) | 직육면체 교집합 | Bronze I | [Java](./11xxx/11665. 직육면체 교집합/직육면체 교집합.java) |
+| [11665](https://boj.kr/11665) | 직육면체 교집합 | Silver V | [Java](./11xxx/11665. 직육면체 교집합/직육면체 교집합.java) |
 | [11680](https://boj.kr/11680) | Dice Cup | Bronze II | [Java](./11xxx/11680. Dice Cup/Dice Cup.java) |
 | [11689](https://boj.kr/11689) | GCD(n, k) = 1 | Gold I | [C++](./11xxx/11689. GCD（n， k） ＝ 1/GCD（n， k） ＝ 1.cc) |
 | [11690](https://boj.kr/11690) | LCM(1, 2, ..., n) | Gold III | [C++](./11xxx/11690. LCM（1， 2， ．．．， n）/LCM（1， 2， ．．．， n）.cc) |
@@ -1825,6 +1827,7 @@
 | [12607](https://boj.kr/12607) | T9 Spelling (Small) | Bronze I | [Java](./12xxx/12607. T9 Spelling （Small）/T9 Spelling （Small）.java) |
 | [12608](https://boj.kr/12608) | T9 Spelling (Large) | Bronze I | [Java](./12xxx/12608. T9 Spelling （Large）/T9 Spelling （Large）.java) |
 | [12657](https://boj.kr/12657) | Watersheds (Small) | Silver II | [C++](./12xxx/12657. Watersheds （Small）/Watersheds （Small）.cc) |
+| [12738](https://boj.kr/12738) | 가장 긴 증가하는 부분 수열 3 | Gold II | [C++](./12xxx/12738. 가장 긴 증가하는 부분 수열 3/가장 긴 증가하는 부분 수열 3.cc) |
 | [12755](https://boj.kr/12755) | 수면 장애 | Silver IV | [C++](./12xxx/12755. 수면 장애/수면 장애.cc) |
 | [12756](https://boj.kr/12756) | 고급 여관 | Bronze III | [Java](./12xxx/12756. 고급 여관/고급 여관.java) |
 | [12759](https://boj.kr/12759) | 틱! 택! 토! | Silver V | [Java](./12xxx/12759. 틱！ 택！ 토！/틱！ 택！ 토！.java) |
@@ -2017,7 +2020,7 @@
 | [14290](https://boj.kr/14290) | Diwali lightings (Small) | Bronze II | [Java](./14xxx/14290. Diwali lightings （Small）/Diwali lightings （Small）.java) |
 | [14291](https://boj.kr/14291) | Diwali lightings (Large) | Silver IV | [Java](./14xxx/14291. Diwali lightings （Large）/Diwali lightings （Large）.java) |
 | [14322](https://boj.kr/14322) | Country Leader (Small) | Bronze II | [Java](./14xxx/14322. Country Leader （Small）/Country Leader （Small）.java) |
-| [14323](https://boj.kr/14323) | Country Leader (Large) | Bronze II | [Java](./14xxx/14323. Country Leader （Large）/Country Leader （Large）.java) |
+| [14323](https://boj.kr/14323) | Country Leader (Large) | Bronze I | [Java](./14xxx/14323. Country Leader （Large）/Country Leader （Large）.java) |
 | [14337](https://boj.kr/14337) | Helicopter | Unrated | [Visual Basic](./14xxx/14337. Helicopter/Helicopter.vb) |
 | [14405](https://boj.kr/14405) | 피카츄 | Silver V | [Java](./14xxx/14405. 피카츄/피카츄.java) |
 | [14409](https://boj.kr/14409) | Tuna | Bronze II | [Java](./14xxx/14409. Tuna/Tuna.java) |
@@ -2115,6 +2118,7 @@
 | [14710](https://boj.kr/14710) | 고장난 시계 | Bronze II | [Java](./14xxx/14710. 고장난 시계/고장난 시계.java) |
 | [14715](https://boj.kr/14715) | 전생했더니 슬라임 연구자였던 건에 대하여 (Easy) | Gold V | [Java](./14xxx/14715. 전생했더니 슬라임 연구자였던 건에 대하여 （Easy）/전생했더니 슬라임 연구자였던 건에 대하여 （Easy）.java) |
 | [14716](https://boj.kr/14716) | 현수막 | Silver I | [C++](./14xxx/14716. 현수막/현수막.cc) |
+| [14719](https://boj.kr/14719) | 빗물 | Gold V | [Python](./14xxx/14719. 빗물/빗물.py) |
 | [14720](https://boj.kr/14720) | 우유 축제 | Bronze II | [Java](./14xxx/14720. 우유 축제/우유 축제.java) |
 | [14723](https://boj.kr/14723) | 이산수학 과제 | Bronze II | [Java](./14xxx/14723. 이산수학 과제/이산수학 과제.java) |
 | [14724](https://boj.kr/14724) | 관리자는 누구? | Bronze II | [Java](./14xxx/14724. 관리자는 누구？/관리자는 누구？.java) |
@@ -2480,6 +2484,7 @@
 | [17093](https://boj.kr/17093) | Total Circle | Bronze I | [Java](./17xxx/17093. Total Circle/Total Circle.java) |
 | [17094](https://boj.kr/17094) | Serious Problem | Bronze III | [Java](./17xxx/17094. Serious Problem/Serious Problem.java) |
 | [17103](https://boj.kr/17103) | 골드바흐 파티션 | Silver II | [Java](./17xxx/17103. 골드바흐 파티션/골드바흐 파티션.java) |
+| [17106](https://boj.kr/17106) | 빙고 | Platinum V | [Text](./17xxx/17106. 빙고/빙고.txt) |
 | [17114](https://boj.kr/17114) | 하이퍼 토마토 | Gold I | [C++](./17xxx/17114. 하이퍼 토마토/하이퍼 토마토.cc) |
 | [17122](https://boj.kr/17122) | 체스 | Bronze II | [Java](./17xxx/17122. 체스/체스.java) |
 | [17127](https://boj.kr/17127) | 벚꽃이 정보섬에 피어난 이유 | Silver V | [C++](./17xxx/17127. 벚꽃이 정보섬에 피어난 이유/벚꽃이 정보섬에 피어난 이유.cc) |
@@ -2555,7 +2560,7 @@
 | [17484](https://boj.kr/17484) | 진우의 달 여행 (Small) | Silver III | [C++](./17xxx/17484. 진우의 달 여행 （Small）/진우의 달 여행 （Small）.cc) |
 | [17487](https://boj.kr/17487) | 타자 연습 | Bronze II | [Java](./17xxx/17487. 타자 연습/타자 연습.java) |
 | [17488](https://boj.kr/17488) | 수강 바구니 | Silver IV | [C++](./17xxx/17488. 수강 바구니/수강 바구니.cc) |
-| [17490](https://boj.kr/17490) | 일감호에 다리 놓기 | Gold III | [Java](./17xxx/17490. 일감호에 다리 놓기/일감호에 다리 놓기.java) |
+| [17490](https://boj.kr/17490) | 일감호에 다리 놓기 | Gold IV | [Java](./17xxx/17490. 일감호에 다리 놓기/일감호에 다리 놓기.java) |
 | [17496](https://boj.kr/17496) | 스타후르츠 | Bronze III | [Java](./17xxx/17496. 스타후르츠/스타후르츠.java) |
 | [17502](https://boj.kr/17502) | 클레어와 팰린드롬 | Bronze II | [Java](./17xxx/17502. 클레어와 팰린드롬/클레어와 팰린드롬.java) |
 | [17504](https://boj.kr/17504) | 제리와 톰 2 | Silver V | [C++](./17xxx/17504. 제리와 톰 2/제리와 톰 2.cc) |
@@ -2860,6 +2865,7 @@
 | [21638](https://boj.kr/21638) | SMS from MCHS | Bronze IV | [Java](./21xxx/21638. SMS from MCHS/SMS from MCHS.java) |
 | [21645](https://boj.kr/21645) | Ролевая игра | Bronze III | [Java](./21xxx/21645. Ролевая игра/Ролевая игра.java) |
 | [21665](https://boj.kr/21665) | Миша и негатив | Bronze IV | [Java](./21xxx/21665. Миша и негатив/Миша и негатив.java) |
+| [21666](https://boj.kr/21666) | Треугольник Максима | Bronze I | [Python](./21xxx/21666. Треугольник Максима/Треугольник Максима.py) |
 | [21675](https://boj.kr/21675) | Черно-белая графика | Bronze II | [Java](./21xxx/21675. Черно－белая графика/Черно－белая графика.java) |
 | [21679](https://boj.kr/21679) | Клавиатура | Bronze III | [Java](./21xxx/21679. Клавиатура/Клавиатура.java) |
 | [21734](https://boj.kr/21734) | SMUPC의 등장 | Bronze II | [Java](./21xxx/21734. SMUPC의 등장/SMUPC의 등장.java) |
@@ -2909,7 +2915,7 @@
 | [22334](https://boj.kr/22334) | XOR 4 | Silver IV | [Text](./22xxx/22334. XOR 4/XOR 4.txt) |
 | [22335](https://boj.kr/22335) | XOR 5 | Silver II | [Text](./22xxx/22335. XOR 5/XOR 5.txt) |
 | [22336](https://boj.kr/22336) | XOR 6 | Silver IV | [Text](./22xxx/22336. XOR 6/XOR 6.txt) |
-| [22338](https://boj.kr/22338) | XOR 8 | Silver III | [Text](./22xxx/22338. XOR 8/XOR 8.txt) |
+| [22338](https://boj.kr/22338) | XOR 8 | Silver II | [Text](./22xxx/22338. XOR 8/XOR 8.txt) |
 | [22341](https://boj.kr/22341) | 사각형 면적 | Bronze II | [Java](./22xxx/22341. 사각형 면적/사각형 면적.java) |
 | [22342](https://boj.kr/22342) | 계산 로봇 | Silver I | [C++](./22xxx/22342. 계산 로봇/계산 로봇.cc) |
 | [22351](https://boj.kr/22351) | 수학은 체육과목 입니다 3 | Silver IV | [C++](./22xxx/22351. 수학은 체육과목 입니다 3/수학은 체육과목 입니다 3.cc) |
@@ -3335,6 +3341,7 @@
 | [26307](https://boj.kr/26307) | Correct | Bronze V | [C](./26xxx/26307. Correct/Correct.c) |
 | [26314](https://boj.kr/26314) | Vowel Count | Bronze III | [Java](./26xxx/26314. Vowel Count/Vowel Count.java) |
 | [26332](https://boj.kr/26332) | Buying in Bulk | Bronze IV | [Java](./26xxx/26332. Buying in Bulk/Buying in Bulk.java) |
+| [26336](https://boj.kr/26336) | Are We Stopping Again? | Bronze III | [Python](./26xxx/26336. Are We Stopping Again？/Are We Stopping Again？.py) |
 | [26340](https://boj.kr/26340) | Fold the Paper Nicely | Bronze IV | [Java](./26xxx/26340. Fold the Paper Nicely/Fold the Paper Nicely.java) |
 | [26350](https://boj.kr/26350) | Good Coin Denomination | Bronze IV | [Java](./26xxx/26350. Good Coin Denomination/Good Coin Denomination.java) |
 | [26360](https://boj.kr/26360) | Basket | Bronze III | [C++](./26xxx/26360. Basket/Basket.cc) |
@@ -3358,56 +3365,56 @@
 | [26532](https://boj.kr/26532) | Acres | Bronze IV | [Java](./26xxx/26532. Acres/Acres.java) |
 | [26534](https://boj.kr/26534) | Goats | Bronze II | [Java](./26xxx/26534. Goats/Goats.java) |
 | [26535](https://boj.kr/26535) | Chicken Pen | Bronze III | [Java](./26xxx/26535. Chicken Pen/Chicken Pen.java) |
-| [26082](https://boj.kr/26082) | WARBOY | Bronze V | [C](./26xxx/26082. WARBOY/WARBOY.c) |
-| [26085](https://boj.kr/26085) | 효구와 호규 (Easy) | Silver I | [Java](./26xxx/26085. 효구와 호규 （Easy）/효구와 호규 （Easy）.java) |
-| [26091](https://boj.kr/26091) | 현대모비스 소프트웨어 아카데미 | Silver I | [C++](./26xxx/26091. 현대모비스 소프트웨어 아카데미/현대모비스 소프트웨어 아카데미.cc) |
-| [26097](https://boj.kr/26097) | 효구와 호규 (Hard) | Gold I | [Java](./26xxx/26097. 효구와 호규 （Hard）/효구와 호규 （Hard）.java) |
-| [26099](https://boj.kr/26099) | 설탕 배달 2 | Silver IV | [Java](./26xxx/26099. 설탕 배달 2/설탕 배달 2.java) |
-| [26122](https://boj.kr/26122) | 가장 긴 막대 자석 | Silver V | [C++](./26xxx/26122. 가장 긴 막대 자석/가장 긴 막대 자석.cc) |
-| [26145](https://boj.kr/26145) | 출제비 재분배 | Bronze III | [Java](./26xxx/26145. 출제비 재분배/출제비 재분배.java) |
-| [26146](https://boj.kr/26146) | 즉흥 여행 (Easy) | Platinum V | [C++](./26xxx/26146. 즉흥 여행 （Easy）/즉흥 여행 （Easy）.cc) |
-| [26150](https://boj.kr/26150) | Identify, Sort, Index, Solve | Silver V | [C++](./26xxx/26150. Identify， Sort， Index， Solve/Identify， Sort， Index， Solve.cc) |
-| [26153](https://boj.kr/26153) | 로하의 농사 | Gold IV | [C++](./26xxx/26153. 로하의 농사/로하의 농사.cc) |
-| [26155](https://boj.kr/26155) | 배수관 미스터리 | Gold I | [C++](./26xxx/26155. 배수관 미스터리/배수관 미스터리.cc) |
-| [26168](https://boj.kr/26168) | 배열 전체 탐색하기 | Silver IV | [C++](./26xxx/26168. 배열 전체 탐색하기/배열 전체 탐색하기.cc) |
-| [26171](https://boj.kr/26171) | An Interactive Problem | Bronze I | [C++](./26xxx/26171. An Interactive Problem/An Interactive Problem.cc) |
-| [26173](https://boj.kr/26173) | Cup Covering | Bronze II | [Java](./26xxx/26173. Cup Covering/Cup Covering.java) |
-| [26198](https://boj.kr/26198) | Chronogram | Bronze III | [Java](./26xxx/26198. Chronogram/Chronogram.java) |
-| [26201](https://boj.kr/26201) | Finding Maximal Non-Trivial Monotones | Bronze II | [Java](./26xxx/26201. Finding Maximal Non－Trivial Monotones/Finding Maximal Non－Trivial Monotones.java) |
-| [26205](https://boj.kr/26205) | Eliminating Ballons | Silver I | [C++](./26xxx/26205. Eliminating Ballons/Eliminating Ballons.cc) |
-| [26206](https://boj.kr/26206) | Multidimensional Hangman | Silver III | [C++](./26xxx/26206. Multidimensional Hangman/Multidimensional Hangman.cc) |
-| [26209](https://boj.kr/26209) | Intercepting Information | Bronze V | [C](./26xxx/26209. Intercepting Information/Intercepting Information.c) |
-| [26210](https://boj.kr/26210) | Playing 23 | Silver IV | [C++](./26xxx/26210. Playing 23/Playing 23.cc) |
-| [26217](https://boj.kr/26217) | 별꽃의 세레나데 (Easy) | Gold V | [C++](./26xxx/26217. 별꽃의 세레나데 （Easy）/별꽃의 세레나데 （Easy）.cc) |
-| [26258](https://boj.kr/26258) | 다중 일차 함수 | Silver III | [C++](./26xxx/26258. 다중 일차 함수/다중 일차 함수.cc) |
-| [26264](https://boj.kr/26264) | 빅데이터? 정보보호! | Bronze III | [Java](./26xxx/26264. 빅데이터？ 정보보호！/빅데이터？ 정보보호！.java) |
-| [26265](https://boj.kr/26265) | 멘토와 멘티 | Silver V | [Java](./26xxx/26265. 멘토와 멘티/멘토와 멘티.java) |
-| [26307](https://boj.kr/26307) | Correct | Bronze V | [C](./26xxx/26307. Correct/Correct.c) |
-| [26314](https://boj.kr/26314) | Vowel Count | Bronze III | [Java](./26xxx/26314. Vowel Count/Vowel Count.java) |
-| [26332](https://boj.kr/26332) | Buying in Bulk | Bronze IV | [Java](./26xxx/26332. Buying in Bulk/Buying in Bulk.java) |
-| [26340](https://boj.kr/26340) | Fold the Paper Nicely | Bronze IV | [Java](./26xxx/26340. Fold the Paper Nicely/Fold the Paper Nicely.java) |
-| [26350](https://boj.kr/26350) | Good Coin Denomination | Bronze IV | [Java](./26xxx/26350. Good Coin Denomination/Good Coin Denomination.java) |
-| [26360](https://boj.kr/26360) | Basket | Bronze III | [C++](./26xxx/26360. Basket/Basket.cc) |
-| [26392](https://boj.kr/26392) | Desni klik | Bronze III | [Java](./26xxx/26392. Desni klik/Desni klik.java) |
-| [26416](https://boj.kr/26416) | New Password | Bronze II | [Java](./26xxx/26416. New Password/New Password.java) |
-| [26432](https://boj.kr/26432) | Walktober | Bronze III | [Java](./26xxx/26432. Walktober/Walktober.java) |
-| [26473](https://boj.kr/26473) | 連番 | Bronze I | [Java](./26xxx/26473. 連番/連番.java) |
-| [26489](https://boj.kr/26489) | Gum Gum for Jay Jay | Bronze V | [C](./26xxx/26489. Gum Gum for Jay Jay/Gum Gum for Jay Jay.c) |
-| [26495](https://boj.kr/26495) | Big Number | Bronze IV | [Java](./26xxx/26495. Big Number/Big Number.java) |
-| [26500](https://boj.kr/26500) | Absolutely | Bronze IV | [Java](./26xxx/26500. Absolutely/Absolutely.java) |
-| [26502](https://boj.kr/26502) | Decoder | Bronze III | [Java](./26xxx/26502. Decoder/Decoder.java) |
-| [26509](https://boj.kr/26509) | Triangle | Bronze III | [Java](./26xxx/26509. Triangle/Triangle.java) |
-| [26510](https://boj.kr/26510) | V for Vendetta | Bronze III | [Java](./26xxx/26510. V for Vendetta/V for Vendetta.java) |
-| [26511](https://boj.kr/26511) | Complexity | Bronze I | [C++](./26xxx/26511. Complexity/Complexity.cc) |
-| [26513](https://boj.kr/26513) | Egg Drop | Bronze II | [C++](./26xxx/26513. Egg Drop/Egg Drop.cc) |
-| [26516](https://boj.kr/26516) | Mutint | Bronze II | [Java](./26xxx/26516. Mutint/Mutint.java) |
-| [26517](https://boj.kr/26517) | 연속인가? ? | Silver V | [Java](./26xxx/26517. 연속인가？ ？/연속인가？ ？.java) |
-| [26529](https://boj.kr/26529) | Bunnies | Bronze II | [Java](./26xxx/26529. Bunnies/Bunnies.java) |
-| [26530](https://boj.kr/26530) | Shipping | Bronze IV | [Java](./26xxx/26530. Shipping/Shipping.java) |
-| [26531](https://boj.kr/26531) | Simple Sum | Bronze IV | [C](./26xxx/26531. Simple Sum/Simple Sum.c) |
-| [26532](https://boj.kr/26532) | Acres | Bronze IV | [Java](./26xxx/26532. Acres/Acres.java) |
-| [26534](https://boj.kr/26534) | Goats | Bronze II | [Java](./26xxx/26534. Goats/Goats.java) |
-| [26535](https://boj.kr/26535) | Chicken Pen | Bronze III | [Java](./26xxx/26535. Chicken Pen/Chicken Pen.java) |
+| [26545](https://boj.kr/26545) | Mathematics | Bronze V | [Java](./26xxx/26545. Mathematics/Mathematics.java) |
+| [26546](https://boj.kr/26546) | Reverse | Bronze IV | [Java](./26xxx/26546. Reverse/Reverse.java) |
+| [26547](https://boj.kr/26547) | Square | Bronze III | [Java](./26xxx/26547. Square/Square.java) |
+| [26548](https://boj.kr/26548) | Quadratics | Bronze III | [Java](./26xxx/26548. Quadratics/Quadratics.java) |
+| [26550](https://boj.kr/26550) | Ornaments | Bronze III | [Java](./26xxx/26550. Ornaments/Ornaments.java) |
+| [26552](https://boj.kr/26552) | Zero | Bronze II | [Java](./26xxx/26552. Zero/Zero.java) |
+| [26560](https://boj.kr/26560) | Periods | Bronze IV | [Java](./26xxx/26560. Periods/Periods.java) |
+| [26561](https://boj.kr/26561) | Population | Bronze IV | [C](./26xxx/26561. Population/Population.c) |
+| [26563](https://boj.kr/26563) | Exam | Bronze I | [Java](./26xxx/26563. Exam/Exam.java) |
+| [26564](https://boj.kr/26564) | Poker Hand | Bronze III | [Java](./26xxx/26564. Poker Hand/Poker Hand.java) |
+| [26565](https://boj.kr/26565) | Time Limits | Bronze II | [Java](./26xxx/26565. Time Limits/Time Limits.java) |
+| [26566](https://boj.kr/26566) | Pizza | Bronze IV | [Java](./26xxx/26566. Pizza/Pizza.java) |
+| [26570](https://boj.kr/26570) | Semiperfect | Silver II | [C++](./26xxx/26570. Semiperfect/Semiperfect.cc) |
+| [26574](https://boj.kr/26574) | Copier | Bronze V | [C](./26xxx/26574. Copier/Copier.c) |
+| [26575](https://boj.kr/26575) | Pups | Bronze V | [C](./26xxx/26575. Pups/Pups.c) |
+| [26582](https://boj.kr/26582) | Treasure | Gold V | [C++](./26xxx/26582. Treasure/Treasure.cc) |
+| [26583](https://boj.kr/26583) | Scale | Bronze III | [Java](./26xxx/26583. Scale/Scale.java) |
+| [26590](https://boj.kr/26590) | Word Mix | Bronze II | [Java](./26xxx/26590. Word Mix/Word Mix.java) |
+| [26592](https://boj.kr/26592) | Triangle Height | Bronze IV | [Java](./26xxx/26592. Triangle Height/Triangle Height.java) |
+| [26594](https://boj.kr/26594) | ZOAC 5 | Bronze III | [Java](./26xxx/26594. ZOAC 5/ZOAC 5.java) |
+| [26595](https://boj.kr/26595) | 전투의 신 | Silver V | [C++](./26xxx/26595. 전투의 신/전투의 신.cc) |
+| [26596](https://boj.kr/26596) | 황금 칵테일 | Silver IV | [Java](./26xxx/26596. 황금 칵테일/황금 칵테일.java) |
+| [26615](https://boj.kr/26615) | 다오의 행사 계획하기 | Platinum IV | [C++](./26xxx/26615. 다오의 행사 계획하기/다오의 행사 계획하기.cc) |
+| [26645](https://boj.kr/26645) | 성장의 비약 선택권 | Bronze III | [Java](./26xxx/26645. 성장의 비약 선택권/성장의 비약 선택권.java) |
+| [26650](https://boj.kr/26650) | 그램팬 | Silver I | [C++](./26xxx/26650. 그램팬/그램팬.cc) |
+| [26676](https://boj.kr/26676) | Wybór zadań | Bronze III | [Java](./26xxx/26676. Wybór zadań/Wybór zadań.java) |
+| [26711](https://boj.kr/26711) | A+B | Bronze V | [Java](./26xxx/26711. A＋B/A＋B.java) |
+| [26714](https://boj.kr/26714) | Liczenie punktów | Bronze III | [Java](./26xxx/26714. Liczenie punktów/Liczenie punktów.java) |
+| [26731](https://boj.kr/26731) | Zagubiona litera | Bronze IV | [Java](./26xxx/26731. Zagubiona litera/Zagubiona litera.java) |
+| [26736](https://boj.kr/26736) | Wynik meczu | Bronze IV | [C](./26xxx/26736. Wynik meczu/Wynik meczu.c) |
+| [26741](https://boj.kr/26741) | Farma | Bronze III | [Java](./26xxx/26741. Farma/Farma.java) |
+| [26742](https://boj.kr/26742) | Skarpetki | Bronze IV | [C](./26xxx/26742. Skarpetki/Skarpetki.c) |
+| [26751](https://boj.kr/26751) | Najmniejsza liczba | Bronze II | [Java](./26xxx/26751. Najmniejsza liczba/Najmniejsza liczba.java) |
+| [26752](https://boj.kr/26752) | Zegarek | Bronze III | [Java](./26xxx/26752. Zegarek/Zegarek.java) |
+| [26766](https://boj.kr/26766) | Serca | Bronze V | [C](./26xxx/26766. Serca/Serca.c) |
+| [26767](https://boj.kr/26767) | Hurra! | Bronze IV | [Java](./26xxx/26767. Hurra！/Hurra！.java) |
+| [26768](https://boj.kr/26768) | H4x0r | Bronze IV | [Java](./26xxx/26768. H4x0r/H4x0r.java) |
+| [26772](https://boj.kr/26772) | Poziome serca | Bronze IV | [Java](./26xxx/26772. Poziome serca/Poziome serca.java) |
+| [26849](https://boj.kr/26849) | Non Classical Problem | Bronze III | [Java](./26xxx/26849. Non Classical Problem/Non Classical Problem.java) |
+| [26863](https://boj.kr/26863) | Absolutely Flat | Bronze III | [Java](./26xxx/26863. Absolutely Flat/Absolutely Flat.java) |
+| [26884](https://boj.kr/26884) | Kent-buggen | Bronze I | [Java](./26xxx/26884. Kent－buggen/Kent－buggen.java) |
+| [26906](https://boj.kr/26906) | Vikingahackare | Bronze III | [Java](./26xxx/26906. Vikingahackare/Vikingahackare.java) |
+| [26933](https://boj.kr/26933) | Receptet | Bronze III | [Java](./26xxx/26933. Receptet/Receptet.java) |
+| [26940](https://boj.kr/26940) | Chokladkartongen | Bronze III | [Java](./26xxx/26940. Chokladkartongen/Chokladkartongen.java) |
+| [26941](https://boj.kr/26941) | Pyramidbygge | Bronze III | [Java](./26xxx/26941. Pyramidbygge/Pyramidbygge.java) |
+| [26943](https://boj.kr/26943) | Turnering | Bronze II | [C++](./26xxx/26943. Turnering/Turnering.cc) |
+| [26949](https://boj.kr/26949) | Kylskåpstransport | Bronze II | [Java](./26xxx/26949. Kylskåpstransport/Kylskåpstransport.java) |
+| [27058](https://boj.kr/27058) | Message Decowding | Bronze II | [Java](./27xxx/27058. Message Decowding/Message Decowding.java) |
+| [27065](https://boj.kr/27065) | 2022년이 아름다웠던 이유 | Bronze I | [Java](./27xxx/27065. 2022년이 아름다웠던 이유/2022년이 아름다웠던 이유.java) |
+| [27087](https://boj.kr/27087) | 직육면체 | Gold V | [C++](./27xxx/27087. 직육면체/직육면체.cc) |
 | [27101](https://boj.kr/27101) | Metric Matrices | Bronze II | [Java](./27xxx/27101. Metric Matrices/Metric Matrices.java) |
 | [27106](https://boj.kr/27106) | Making Change | Bronze II | [Java](./27xxx/27106. Making Change/Making Change.java) |
 | [27110](https://boj.kr/27110) | 특식 배부 | Bronze IV | [C](./27xxx/27110. 특식 배부/특식 배부.c) |
@@ -3751,56 +3758,56 @@
 | [30395](https://boj.kr/30395) | 내 스트릭을 돌려내! | Bronze II | [Java](./30xxx/30395.%E2%80%85내%E2%80%85스트릭을%E2%80%85돌려내!/내 스트릭을 돌려내！.java) |
 | [30402](https://boj.kr/30402) | 감마선을 맞은 컴퓨터 | Bronze IV | [Java](./30xxx/30402.%E2%80%85감마선을%E2%80%85맞은%E2%80%85컴퓨터/감마선을 맞은 컴퓨터.java) |
 | [30403](https://boj.kr/30403) | 무지개 만들기 | Bronze II | [Java](./30xxx/30403. 무지개 만들기/무지개 만들기.java) |
-| [30445](https://boj.kr/30445) | 행복 점수 | Bronze I | [Java](./30xxx/30445. 행복 점수/행복 점수.java) |
-| [30446](https://boj.kr/30446) | 회문수 | Silver II | [Java](./30xxx/30446. 회문수/회문수.java) |
-| [30454](https://boj.kr/30454) | 얼룩말을 찾아라! | Bronze III | [Java](./30xxx/30454. 얼룩말을 찾아라！/얼룩말을 찾아라！.java) |
-| [30455](https://boj.kr/30455) | 이제는 더 이상 물러날 곳이 없다 | Bronze I | [Java](./30xxx/30455. 이제는 더 이상 물러날 곳이 없다/이제는 더 이상 물러날 곳이 없다.java) |
-| [30456](https://boj.kr/30456) | 바닥수 | Bronze I | [Java](./30xxx/30456. 바닥수/바닥수.java) |
-| [30457](https://boj.kr/30457) | 단체줄넘기 | Silver V | [Java](./30xxx/30457. 단체줄넘기/단체줄넘기.java) |
-| [30458](https://boj.kr/30458) | 팰린드롬 애너그램 | Silver IV | [Java](./30xxx/30458. 팰린드롬 애너그램/팰린드롬 애너그램.java) |
-| [30460](https://boj.kr/30460) | 스위치 | Gold V | [C++](./30xxx/30460. 스위치/스위치.cc) |
-| [30461](https://boj.kr/30461) | 낚시 | Gold IV | [C++](./30xxx/30461. 낚시/낚시.cc) |
-| [30468](https://boj.kr/30468) | 호반우가 학교에 지각한 이유 1 | Bronze IV | [Java](./30xxx/30468. 호반우가 학교에 지각한 이유 1/호반우가 학교에 지각한 이유 1.java) |
-| [30489](https://boj.kr/30489) | <code>apt upgrade</code> | Bronze II | [Java](./30xxx/30489. ＜code＞apt upgrade＜／code＞/＜code＞apt upgrade＜／code＞.java) |
-| [30490](https://boj.kr/30490) | Battle Bots | Bronze II | [C++](./30xxx/30490. Battle Bots/Battle Bots.cc) |
-| [30492](https://boj.kr/30492) | Democratic Naming | Bronze II | [Java](./30xxx/30492. Democratic Naming/Democratic Naming.java) |
-| [30501](https://boj.kr/30501) | 관공... 어찌하여 목만 오셨소... | Bronze IV | [Java](./30xxx/30501. 관공．．． 어찌하여 목만 오셨소．．．/관공．．． 어찌하여 목만 오셨소．．．.java) |
-| [30502](https://boj.kr/30502) | 미역은 식물 아닌데요 | Bronze I | [Java](./30xxx/30502. 미역은 식물 아닌데요/미역은 식물 아닌데요.java) |
-| [30503](https://boj.kr/30503) | 방형구 탐색 (Easy) | Bronze I | [Java](./30xxx/30503. 방형구 탐색 （Easy）/방형구 탐색 （Easy）.java) |
-| [30527](https://boj.kr/30527) | Cornhusker | Bronze III | [C++](./30xxx/30527. Cornhusker/Cornhusker.cc) |
-| [30536](https://boj.kr/30536) | 시루의 산책 | Gold IV | [C++](./30xxx/30536. 시루의 산책/시루의 산책.cc) |
-| [30542](https://boj.kr/30542) | Anti-Palindrome | Bronze II | [Java](./30xxx/30542. Anti－Palindrome/Anti－Palindrome.java) |
-| [30544](https://boj.kr/30544) | Cuckoo! Cuckoo! | Bronze III | [Java](./30xxx/30544. Cuckoo！ Cuckoo！/Cuckoo！ Cuckoo！.java) |
-| [30552](https://boj.kr/30552) | Attendance | Bronze III | [Java](./30xxx/30552. Attendance/Attendance.java) |
-| [30569](https://boj.kr/30569) | Last One Standing | Bronze III | [Java](./30xxx/30569. Last One Standing/Last One Standing.java) |
-| [30584](https://boj.kr/30584) | Середина игры | Bronze II | [Java](./30xxx/30584. Середина игры/Середина игры.java) |
-| [30585](https://boj.kr/30585) | Поп-ит | Bronze IV | [Java](./30xxx/30585. Поп－ит/Поп－ит.java) |
-| [30596](https://boj.kr/30596) | Axis-Aligned Area | Bronze III | [Java](./30xxx/30596. Axis－Aligned Area/Axis－Aligned Area.java) |
-| [30617](https://boj.kr/30617) | Knob | Bronze III | [Java](./30xxx/30617. Knob/Knob.java) |
-| [30618](https://boj.kr/30618) | donstructive | Silver IV | [Java](./30xxx/30618. donstructive/donstructive.java) |
-| [30620](https://boj.kr/30620) | 서로소 싫어 | Silver II | [C++](./30xxx/30620. 서로소 싫어/서로소 싫어.cc) |
-| [30625](https://boj.kr/30625) | 댄스타임 | Silver I | [C++](./30xxx/30625. 댄스타임/댄스타임.cc) |
-| [30642](https://boj.kr/30642) | 아이그루스와 화장실 | Bronze III | [Java](./30xxx/30642.%E2%80%85아이그루스와%E2%80%85화장실/아이그루스와 화장실.java) |
-| [30655](https://boj.kr/30655) | Pique Esconde | Bronze III | [Java](./30xxx/30655. Pique Esconde/Pique Esconde.java) |
-| [30658](https://boj.kr/30658) | Os últimos serão os primeiros | Bronze IV | [Java](./30xxx/30658. Os últimos serão os primeiros/Os últimos serão os primeiros.java) |
-| [30664](https://boj.kr/30664) | Loteria Falha | Bronze V | [Java](./30xxx/30664. Loteria Falha/Loteria Falha.java) |
-| [30676](https://boj.kr/30676) | 이 별은 무슨 색일까 | Bronze V | [Java](./30xxx/30676. 이 별은 무슨 색일까/이 별은 무슨 색일까.java) |
-| [30684](https://boj.kr/30684) | 모르고리즘 회장 정하기 | Bronze II | [Java](./30xxx/30684. 모르고리즘 회장 정하기/모르고리즘 회장 정하기.java) |
-| [30700](https://boj.kr/30700) | KOREA 문자열 만들기 | Bronze II | [Java](./30xxx/30700.%E2%80%85KOREA%E2%80%85문자열%E2%80%85만들기/KOREA 문자열 만들기.java) |
-| [30716](https://boj.kr/30716) | Дети и буквы | Bronze II | [Java](./30xxx/30716. Дети и буквы/Дети и буквы.java) |
-| [30767](https://boj.kr/30767) | Dungeons & Dragons | Bronze II | [Java](./30xxx/30767. Dungeons ＆ Dragons/Dungeons ＆ Dragons.java) |
-| [30775](https://boj.kr/30775) | Рассадка | Bronze III | [Java](./30xxx/30775. Рассадка/Рассадка.java) |
-| [30791](https://boj.kr/30791) | gahui and sousenkyo 1 | Bronze IV | [Java](./30xxx/30791. gahui and sousenkyo 1/gahui and sousenkyo 1.java) |
-| [30792](https://boj.kr/30792) | gahui and sousenkyo 2 | Bronze III | [Java](./30xxx/30792. gahui and sousenkyo 2/gahui and sousenkyo 2.java) |
-| [30793](https://boj.kr/30793) | gahui and sousenkyo 3 | Bronze IV | [Java](./30xxx/30793. gahui and sousenkyo 3/gahui and sousenkyo 3.java) |
-| [30794](https://boj.kr/30794) | 가희와 클럽 오디션 1 | Bronze IV | [Java](./30xxx/30794. 가희와 클럽 오디션 1/가희와 클럽 오디션 1.java) |
-| [30797](https://boj.kr/30797) | 가희와 여행가요 | Gold IV | [Java](./30xxx/30797. 가희와 여행가요/가희와 여행가요.java) |
-| [30802](https://boj.kr/30802) | 웰컴 키트 | Bronze III | [Java](./30xxx/30802. 웰컴 키트/웰컴 키트.java) |
-| [30803](https://boj.kr/30803) | 수도꼭지 | Silver IV | [Java](./30xxx/30803. 수도꼭지/수도꼭지.java) |
-| [30804](https://boj.kr/30804) | 과일 탕후루 | Silver II | [C++](./30xxx/30804. 과일 탕후루/과일 탕후루.cc) |
-| [30805](https://boj.kr/30805) | 사전 순 최대 공통 부분 수열 | Gold IV | [C++](./30xxx/30805. 사전 순 최대 공통 부분 수열/사전 순 최대 공통 부분 수열.cc) |
-| [30821](https://boj.kr/30821) | 별자리가 될 수 있다면 | Bronze III | [Java](./30xxx/30821. 별자리가 될 수 있다면/별자리가 될 수 있다면.java) |
-| [30822](https://boj.kr/30822) | UOSPC 세기 | Bronze III | [Java](./30xxx/30822. UOSPC 세기/UOSPC 세기.java) |
+| [30018](https://boj.kr/30018) | 타슈 | Bronze III | [Java](./30xxx/30018. 타슈/타슈.java) |
+| [30019](https://boj.kr/30019) | 강의실 예약 시스템 | Bronze II | [Java](./30xxx/30019. 강의실 예약 시스템/강의실 예약 시스템.java) |
+| [30021](https://boj.kr/30021) | 순열 선물하기 | Silver II | [C++](./30xxx/30021. 순열 선물하기/순열 선물하기.cc) |
+| [30022](https://boj.kr/30022) | 행사 준비 | Silver II | [Java](./30xxx/30022. 행사 준비/행사 준비.java) |
+| [30030](https://boj.kr/30030) | 스위트콘 가격 구하기 | Bronze V | [Java](./30xxx/30030. 스위트콘 가격 구하기/스위트콘 가격 구하기.java) |
+| [30031](https://boj.kr/30031) | 지폐 세기 | Bronze IV | [Java](./30xxx/30031. 지폐 세기/지폐 세기.java) |
+| [30032](https://boj.kr/30032) | 알파벳 뒤집기 | Bronze III | [Java](./30xxx/30032. 알파벳 뒤집기/알파벳 뒤집기.java) |
+| [30033](https://boj.kr/30033) | Rust Study | Bronze IV | [Java](./30xxx/30033.%E2%80%85Rust%E2%80%85Study/Rust Study.java) |
+| [30034](https://boj.kr/30034) | Slice String | Bronze I | [Java](./30xxx/30034.%E2%80%85Slice%E2%80%85String/Slice String.java) |
+| [30045](https://boj.kr/30045) | ZOAC 6 | Bronze IV | [Java](./30xxx/30045.%E2%80%85ZOAC%E2%80%856/ZOAC 6.java) |
+| [30063](https://boj.kr/30063) | Pabėgimo kambarys | Bronze I | [Java](./30xxx/30063. Pabėgimo kambarys/Pabėgimo kambarys.java) |
+| [30067](https://boj.kr/30067) | Paslėpta suma | Bronze IV | [Java](./30xxx/30067. Paslėpta suma/Paslėpta suma.java) |
+| [30068](https://boj.kr/30068) | Stovėjimo aikštelė | Bronze II | [Java](./30xxx/30068. Stovėjimo aikštelė/Stovėjimo aikštelė.java) |
+| [30075](https://boj.kr/30075) | Sveikas, Pasauli! | Bronze II | [Java](./30xxx/30075. Sveikas， Pasauli！/Sveikas， Pasauli！.java) |
+| [30087](https://boj.kr/30087) | 진흥원 세미나 | Bronze V | [Java](./30xxx/30087. 진흥원 세미나/진흥원 세미나.java) |
+| [30088](https://boj.kr/30088) | 공포의 면담실 | Silver V | [C++](./30xxx/30088. 공포의 면담실/공포의 면담실.cc) |
+| [30089](https://boj.kr/30089) | 새로운 문자열 만들기 | Silver IV | [C++](./30xxx/30089. 새로운 문자열 만들기/새로운 문자열 만들기.cc) |
+| [30092](https://boj.kr/30092) | 슥삭슥삭 나무자르기 | Platinum I | [C++](./30xxx/30092. 슥삭슥삭 나무자르기/슥삭슥삭 나무자르기.cc) |
+| [30143](https://boj.kr/30143) | Cookie Piles | Bronze IV | [C++](./30xxx/30143. Cookie Piles/Cookie Piles.cc) |
+| [30156](https://boj.kr/30156) | Malvika is peculiar about color of balloons | Bronze IV | [Java](./30xxx/30156. Malvika is peculiar about color of balloons/Malvika is peculiar about color of balloons.java) |
+| [30162](https://boj.kr/30162) | Filling Shapes | Bronze II | [Java](./30xxx/30162. Filling Shapes/Filling Shapes.java) |
+| [30167](https://boj.kr/30167) | Distinct Digits | Bronze II | [Java](./30xxx/30167. Distinct Digits/Distinct Digits.java) |
+| [30174](https://boj.kr/30174) | Filling Diamonds | Bronze II | [Java](./30xxx/30174. Filling Diamonds/Filling Diamonds.java) |
+| [30189](https://boj.kr/30189) | 경우의 수의 합 | Bronze I | [C++](./30xxx/30189. 경우의 수의 합/경우의 수의 합.cc) |
+| [30204](https://boj.kr/30204) | 병영외 급식 | Bronze II | [Java](./30xxx/30204. 병영외 급식/병영외 급식.java) |
+| [30205](https://boj.kr/30205) | 전역 임무 | Silver II | [Java](./30xxx/30205. 전역 임무/전역 임무.java) |
+| [30214](https://boj.kr/30214) | An Easy-Peasy Problem | Bronze V | [Java](./30xxx/30214. An Easy－Peasy Problem/An Easy－Peasy Problem.java) |
+| [30215](https://boj.kr/30215) | Age Expression | Bronze III | [Java](./30xxx/30215. Age Expression/Age Expression.java) |
+| [30216](https://boj.kr/30216) | Increasing Sublist | Bronze III | [Java](./30xxx/30216. Increasing Sublist/Increasing Sublist.java) |
+| [30217](https://boj.kr/30217) | Let’s Portmanteau | Bronze II | [Java](./30xxx/30217. Let’s Portmanteau/Let’s Portmanteau.java) |
+| [30224](https://boj.kr/30224) | Lucky 7 | Bronze V | [Java](./30xxx/30224. Lucky 7/Lucky 7.java) |
+| [30236](https://boj.kr/30236) | 증가 수열 | Bronze I | [Java](./30xxx/30236. 증가 수열/증가 수열.java) |
+| [30260](https://boj.kr/30260) | Finding Your Roots | Bronze III | [Java](./30xxx/30260. Finding Your Roots/Finding Your Roots.java) |
+| [30266](https://boj.kr/30266) | Hurricane Warning | Bronze III | [Java](./30xxx/30266. Hurricane Warning/Hurricane Warning.java) |
+| [30272](https://boj.kr/30272) | Atsitiktinių skaičių generatorius | Bronze II | [Java](./30xxx/30272. Atsitiktinių skaičių generatorius/Atsitiktinių skaičių generatorius.java) |
+| [30281](https://boj.kr/30281) | Saldainiai | Bronze III | [Java](./30xxx/30281. Saldainiai/Saldainiai.java) |
+| [30306](https://boj.kr/30306) | Better Dice | Bronze III | [Java](./30xxx/30306. Better Dice/Better Dice.java) |
+| [30310](https://boj.kr/30310) | Finding Forks | Bronze III | [Java](./30xxx/30310. Finding Forks/Finding Forks.java) |
+| [30314](https://boj.kr/30314) | Just a Joystick | Bronze III | [Java](./30xxx/30314. Just a Joystick/Just a Joystick.java) |
+| [30315](https://boj.kr/30315) | King's Keep | Bronze II | [Java](./30xxx/30315. King's Keep/King's Keep.java) |
+| [30319](https://boj.kr/30319) | Advance to Taoyuan Regional | Bronze IV | [Java](./30xxx/30319. Advance to Taoyuan Regional/Advance to Taoyuan Regional.java) |
+| [30328](https://boj.kr/30328) | Java Warriors | Bronze V | [Java](./30xxx/30328. Java Warriors/Java Warriors.java) |
+| [30329](https://boj.kr/30329) | Kick | Bronze III | [Java](./30xxx/30329. Kick/Kick.java) |
+| [30348](https://boj.kr/30348) | Telefonai | Bronze II | [Java](./30xxx/30348. Telefonai/Telefonai.java) |
+| [30349](https://boj.kr/30349) | Taikinys | Bronze II | [C++](./30xxx/30349. Taikinys/Taikinys.cc) |
+| [30366](https://boj.kr/30366) | Roller Coaster | Bronze III | [Java](./30xxx/30366. Roller Coaster/Roller Coaster.java) |
+| [30394](https://boj.kr/30394) | 회전하지 않는 캘리퍼스 | Bronze III | [Java](./30xxx/30394. 회전하지 않는 캘리퍼스/회전하지 않는 캘리퍼스.java) |
+| [30395](https://boj.kr/30395) | 내 스트릭을 돌려내! | Bronze II | [Java](./30xxx/30395.%E2%80%85내%E2%80%85스트릭을%E2%80%85돌려내!/내 스트릭을 돌려내！.java) |
+| [30402](https://boj.kr/30402) | 감마선을 맞은 컴퓨터 | Bronze IV | [Java](./30xxx/30402.%E2%80%85감마선을%E2%80%85맞은%E2%80%85컴퓨터/감마선을 맞은 컴퓨터.java) |
+| [30403](https://boj.kr/30403) | 무지개 만들기 | Bronze II | [Java](./30xxx/30403. 무지개 만들기/무지개 만들기.java) |
 | [30841](https://boj.kr/30841) | Ложки | Bronze III | [Java](./30xxx/30841. Ложки/Ложки.java) |
 | [30868](https://boj.kr/30868) | 개표 | Bronze IV | [Java](./30xxx/30868. 개표/개표.java) |
 | [30869](https://boj.kr/30869) | 빨리 기다리기 | Gold I | [C++](./30xxx/30869. 빨리 기다리기/빨리 기다리기.cc) |
@@ -3863,7 +3870,7 @@
 | [31458](https://boj.kr/31458) | !!초콜릿 중독 주의!! | Bronze II | [Java](./31xxx/31458. ！！초콜릿 중독 주의！！/！！초콜릿 중독 주의！！.java) |
 | [31460](https://boj.kr/31460) | 초콜릿과 11과 팰린드롬 | Silver IV | [C++](./31xxx/31460. 초콜릿과 11과 팰린드롬/초콜릿과 11과 팰린드롬.cc) |
 | [31472](https://boj.kr/31472) | 갈래의 색종이 자르기 | Bronze III | [Java](./31xxx/31472.%E2%80%85갈래의%E2%80%85색종이%E2%80%85자르기/갈래의 색종이 자르기.java) |
-| [31473](https://boj.kr/31473) | 하늘과 핑크 | Bronze II | [Java](./31xxx/31473. 하늘과 핑크/하늘과 핑크.java) |
+| [31473](https://boj.kr/31473) | 하늘과 핑크 | Bronze I | [Java](./31xxx/31473. 하늘과 핑크/하늘과 핑크.java) |
 | [31495](https://boj.kr/31495) | 그게 무슨 코드니.. | Bronze IV | [Java](./31xxx/31495. 그게 무슨 코드니．．/그게 무슨 코드니．．.java) |
 | [31496](https://boj.kr/31496) | 자작나무가 없소~ | Bronze II | [Python](./31xxx/31496. 자작나무가 없소～/자작나무가 없소～.py) |
 | [31497](https://boj.kr/31497) | 생일 축하합니다~ | Bronze II | [Java](./31xxx/31497. 생일 축하합니다～/생일 축하합니다～.java) |
@@ -3986,6 +3993,7 @@
 | [32342](https://boj.kr/32342) | 와우와 쿼리 | Bronze III | [C++](./32xxx/32342. 와우와 쿼리/와우와 쿼리.cc) |
 | [32364](https://boj.kr/32364) | Hat Circle | Bronze III | [C++](./32xxx/32364. Hat Circle/Hat Circle.cc) |
 | [32369](https://boj.kr/32369) | 양파 실험 | Bronze IV | [C++](./32xxx/32369. 양파 실험/양파 실험.cc) |
+| [32370](https://boj.kr/32370) | Rook | Bronze II | [Python](./32xxx/32370. Rook/Rook.py) |
 | [32384](https://boj.kr/32384) | 사랑은 고려대입니다 | Bronze V | [Python](./32xxx/32384. 사랑은 고려대입니다/사랑은 고려대입니다.py) |
 | [32385](https://boj.kr/32385) | $\frac{1}{2}$(MatKor+ALPS)=AlKor | Silver III | [Python](./32xxx/32385. $＼frac｛1｝｛2｝$（MatKor＋ALPS）＝AlKor/$＼frac｛1｝｛2｝$（MatKor＋ALPS）＝AlKor.py) |
 | [32399](https://boj.kr/32399) | 햄버거 정렬 | Bronze III | [C++](./32xxx/32399. 햄버거 정렬/햄버거 정렬.cc) |
