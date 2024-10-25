@@ -2964,6 +2964,7 @@
 | [23055](https://boj.kr/23055) | 공사장 표지판 | Bronze II | [Java](./23xxx/23055. 공사장 표지판/공사장 표지판.java) |
 | [23057](https://boj.kr/23057) | 도전 숫자왕 | Silver II | [C++](./23xxx/23057. 도전 숫자왕/도전 숫자왕.cc) |
 | [23080](https://boj.kr/23080) | 스키테일 암호 | Bronze III | [Java](./23xxx/23080. 스키테일 암호/스키테일 암호.java) |
+| [23083](https://boj.kr/23083) | 꿀벌 승연이 | Gold V | [Python](./23xxx/23083. 꿀벌 승연이/꿀벌 승연이.py) |
 | [23085](https://boj.kr/23085) | 판치기 | Gold IV | [C++](./23xxx/23085. 판치기/판치기.cc) |
 | [23103](https://boj.kr/23103) | Academic Distance | Bronze III | [Java](./23xxx/23103. Academic Distance/Academic Distance.java) |
 | [23175](https://boj.kr/23175) | Histogram Sequence 3 | Bronze II | [Java](./23xxx/23175. Histogram Sequence 3/Histogram Sequence 3.java) |
