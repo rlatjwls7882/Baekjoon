@@ -688,6 +688,7 @@
 | [03145](https://boj.kr/3145) | 지리지도 | Platinum IV | [C++](./03xxx/3145. 지리지도/지리지도.cc) |
 | [03164](https://boj.kr/3164) | 패턴 | Gold IV | [C++](./03xxx/3164. 패턴/패턴.cc) |
 | [03176](https://boj.kr/3176) | 도로 네트워크 | Platinum IV | [C++](./03xxx/3176. 도로 네트워크/도로 네트워크.cc) |
+| [03178](https://boj.kr/3178) | 코코스 | Gold III | [C++](./03xxx/3178. 코코스/코코스.cc) |
 | [03181](https://boj.kr/3181) | 줄임말 만들기 | Bronze II | [Java](./03xxx/3181. 줄임말 만들기/줄임말 만들기.java) |
 | [03182](https://boj.kr/3182) | 한동이는 공부가 하기 싫어! | Silver III | [C++](./03xxx/3182. 한동이는 공부가 하기 싫어！/한동이는 공부가 하기 싫어！.cc) |
 | [03183](https://boj.kr/3183) | Dates | Bronze II | [Java](./03xxx/3183. Dates/Dates.java) |
