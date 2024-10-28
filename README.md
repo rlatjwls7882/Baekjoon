@@ -42,7 +42,7 @@
 | [01065](https://boj.kr/1065) | 한수 | Silver IV | [Java](./01xxx/1065. 한수/한수.java) |
 | [01068](https://boj.kr/1068) | 트리 | Gold V | [C++](./01xxx/1068. 트리/트리.cc) |
 | [01072](https://boj.kr/1072) | 게임 | Silver III | [C++](./01xxx/1072. 게임/게임.cc) |
-| [01074](https://boj.kr/1074) | Z | Silver I | [C++](./01xxx/1074. Z/Z.cc) |
+| [01074](https://boj.kr/1074) | Z | Gold V | [C++](./01xxx/1074. Z/Z.cc) |
 | [01075](https://boj.kr/1075) | 나누기 | Bronze II | [Java](./01xxx/1075. 나누기/나누기.java) |
 | [01076](https://boj.kr/1076) | 저항 | Bronze II | [Java](./01xxx/1076. 저항/저항.java) |
 | [01080](https://boj.kr/1080) | 행렬 | Silver I | [C++](./01xxx/1080. 행렬/행렬.cc) |
@@ -2301,6 +2301,7 @@
 | [15828](https://boj.kr/15828) | Router | Silver IV | [Java](./15xxx/15828. Router/Router.java) |
 | [15829](https://boj.kr/15829) | Hashing | Bronze II | [Java](./15xxx/15829. Hashing/Hashing.java) |
 | [15835](https://boj.kr/15835) | Explorace | Gold IV | [Java](./15xxx/15835. Explorace/Explorace.java) |
+| [15838](https://boj.kr/15838) | Wak Sani Satay | Bronze III | [Python](./15xxx/15838. Wak Sani Satay/Wak Sani Satay.py) |
 | [15841](https://boj.kr/15841) | Virus Outbreak | Bronze II | [Java](./15xxx/15841. Virus Outbreak/Virus Outbreak.java) |
 | [15845](https://boj.kr/15845) | Winning ICPC | Bronze II | [Java](./15xxx/15845. Winning ICPC/Winning ICPC.java) |
 | [15858](https://boj.kr/15858) | Simple Arithmetic | Bronze III | [Java](./15xxx/15858. Simple Arithmetic/Simple Arithmetic.java) |
@@ -3248,6 +3249,7 @@
 | [25501](https://boj.kr/25501) | 재귀의 귀재 | Bronze II | [Java](./25xxx/25501. 재귀의 귀재/재귀의 귀재.java) |
 | [25502](https://boj.kr/25502) | 등차수열? 등비수열? | Gold IV | [C++](./25xxx/25502. 등차수열？ 등비수열？/등차수열？ 등비수열？.cc) |
 | [25511](https://boj.kr/25511) | 값이 k인 트리 노드의 깊이 | Silver II | [C++](./25xxx/25511. 값이 k인 트리 노드의 깊이/값이 k인 트리 노드의 깊이.cc) |
+| [25514](https://boj.kr/25514) | 고속의 오름차순 숫자 탐색 | Gold IV | [C++](./25xxx/25514. 고속의 오름차순 숫자 탐색/고속의 오름차순 숫자 탐색.cc) |
 | [25527](https://boj.kr/25527) | Counting Peaks of Infection | Bronze III | [Java](./25xxx/25527. Counting Peaks of Infection/Counting Peaks of Infection.java) |
 | [25558](https://boj.kr/25558) | 내비게이션 | Bronze II | [Java](./25xxx/25558. 내비게이션/내비게이션.java) |
 | [25576](https://boj.kr/25576) | 찾았다 악질 | Bronze II | [Java](./25xxx/25576. 찾았다 악질/찾았다 악질.java) |
@@ -4016,4 +4018,5 @@
 | [32458](https://boj.kr/32458) | Just Round Down | Bronze V | [Python](./32xxx/32458. Just Round Down/Just Round Down.py) |
 | [32498](https://boj.kr/32498) | Call for Problems | Bronze V | [Python](./32xxx/32498. Call for Problems/Call for Problems.py) |
 | [32500](https://boj.kr/32500) | Dishonest Lottery | Bronze III | [C++](./32xxx/32500. Dishonest Lottery/Dishonest Lottery.cc) |
+| [32529](https://boj.kr/32529) | 래환이의 여자친구 사귀기 대작전 | Bronze II | [C++](./32xxx/32529. 래환이의 여자친구 사귀기 대작전/래환이의 여자친구 사귀기 대작전.cc) |
 </div>
