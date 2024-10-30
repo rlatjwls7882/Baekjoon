@@ -4,7 +4,7 @@
 
  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rlatjwls3333)](https://solved.ac/rlatjwls3333/)
  ![mazandi profile](http://mazandi.herokuapp.com/api?handle=rlatjwls3333&theme=dark)
-#### [여기에](https://github.com/Hiyabye/Baekjoon/blob/main/scripts/update_readme.py) 있는 코드를 변경하여 자동으로 생성하였습니다.
+#### [여기](https://github.com/Hiyabye/Baekjoon/blob/main/scripts/update_readme.py)에 있는 코드를 변경하여 자동으로 생성하였습니다.
 #### 500KB까지 렌더링되기에 중간에 짤립니다. 전체 목록은 [여기에](./README.md)
 
 | No. | Title | Difficulty | Solution |
@@ -3401,7 +3401,7 @@
 | [26596](https://boj.kr/26596) | 황금 칵테일 | Silver IV | [Java](./26xxx/26596. 황금 칵테일/황금 칵테일.java) |
 | [26615](https://boj.kr/26615) | 다오의 행사 계획하기 | Platinum IV | [C++](./26xxx/26615. 다오의 행사 계획하기/다오의 행사 계획하기.cc) |
 | [26645](https://boj.kr/26645) | 성장의 비약 선택권 | Bronze III | [Java](./26xxx/26645. 성장의 비약 선택권/성장의 비약 선택권.java) |
-| [26650](https://boj.kr/26650) | 그램팬 | Silver I | [C++](./26xxx/26650. 그램팬/그램팬.cc) |
+| [26650](https://boj.kr/26650) | 그램팬 | Gold V | [C++](./26xxx/26650. 그램팬/그램팬.cc) |
 | [26676](https://boj.kr/26676) | Wybór zadań | Bronze III | [Java](./26xxx/26676. Wybór zadań/Wybór zadań.java) |
 | [26711](https://boj.kr/26711) | A+B | Bronze V | [Java](./26xxx/26711. A＋B/A＋B.java) |
 | [26714](https://boj.kr/26714) | Liczenie punktów | Bronze III | [Java](./26xxx/26714. Liczenie punktów/Liczenie punktów.java) |
@@ -4020,4 +4020,5 @@
 | [32498](https://boj.kr/32498) | Call for Problems | Bronze V | [Python](./32xxx/32498. Call for Problems/Call for Problems.py) |
 | [32500](https://boj.kr/32500) | Dishonest Lottery | Bronze III | [C++](./32xxx/32500. Dishonest Lottery/Dishonest Lottery.cc) |
 | [32529](https://boj.kr/32529) | 래환이의 여자친구 사귀기 대작전 | Bronze II | [C++](./32xxx/32529. 래환이의 여자친구 사귀기 대작전/래환이의 여자친구 사귀기 대작전.cc) |
+| [32560](https://boj.kr/32560) | Amalgram | Bronze III | [Python](./32xxx/32560. Amalgram/Amalgram.py) |
 </div>
