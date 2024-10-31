@@ -239,7 +239,7 @@
 | [01725](https://boj.kr/1725) | 히스토그램 | Platinum V | [C++](./01xxx/1725. 히스토그램/히스토그램.cc) |
 | [01731](https://boj.kr/1731) | 추론 | Bronze II | [Java](./01xxx/1731. 추론/추론.java) |
 | [01735](https://boj.kr/1735) | 분수 합 | Silver III | [Java](./01xxx/1735. 분수 합/분수 합.java) |
-| [01740](https://boj.kr/1740) | 거듭제곱 | Silver IV | [C++](./01xxx/1740. 거듭제곱/거듭제곱.cc) |
+| [01740](https://boj.kr/1740) | 거듭제곱 | Silver III | [C++](./01xxx/1740. 거듭제곱/거듭제곱.cc) |
 | [01743](https://boj.kr/1743) | 음식물 피하기 | Silver I | [C++](./01xxx/1743. 음식물 피하기/음식물 피하기.cc) |
 | [01744](https://boj.kr/1744) | 수 묶기 | Gold IV | [C++](./01xxx/1744. 수 묶기/수 묶기.cc) |
 | [01747](https://boj.kr/1747) | 소수&팰린드롬 | Silver I | [C++](./01xxx/1747. 소수＆팰린드롬/소수＆팰린드롬.cc) |
@@ -1836,6 +1836,7 @@
 | [12755](https://boj.kr/12755) | 수면 장애 | Silver IV | [C++](./12xxx/12755. 수면 장애/수면 장애.cc) |
 | [12756](https://boj.kr/12756) | 고급 여관 | Bronze III | [Java](./12xxx/12756. 고급 여관/고급 여관.java) |
 | [12759](https://boj.kr/12759) | 틱! 택! 토! | Silver V | [Java](./12xxx/12759. 틱！ 택！ 토！/틱！ 택！ 토！.java) |
+| [12760](https://boj.kr/12760) | 최후의 승자는 누구? | Silver V | [Python](./12xxx/12760. 최후의 승자는 누구？/최후의 승자는 누구？.py) |
 | [12778](https://boj.kr/12778) | CTP공국으로 이민 가자 | Bronze II | [Java](./12xxx/12778. CTP공국으로 이민 가자/CTP공국으로 이민 가자.java) |
 | [12779](https://boj.kr/12779) | 상품 is 뭔들 | Silver III | [C++](./12xxx/12779. 상품 is 뭔들/상품 is 뭔들.cc) |
 | [12780](https://boj.kr/12780) | 원피스 | Bronze II | [Java](./12xxx/12780. 원피스/원피스.java) |
