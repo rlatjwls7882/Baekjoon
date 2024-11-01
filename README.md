@@ -2416,7 +2416,7 @@
 | [16504](https://boj.kr/16504) | 종이접기 | Bronze III | [Java](./16xxx/16504. 종이접기/종이접기.java) |
 | [16505](https://boj.kr/16505) | 별 | Silver II | [Java](./16xxx/16505. 별/별.java) |
 | [16515](https://boj.kr/16515) | Euler’s Number | Bronze II | [Java](./16xxx/16515. Euler’s Number/Euler’s Number.java) |
-| [16533](https://boj.kr/16533) | Mount Marathon | Bronze II | [C++](./16xxx/16533. Mount Marathon/Mount Marathon.cc) |
+| [16533](https://boj.kr/16533) | Mount Marathon | Bronze I | [C++](./16xxx/16533. Mount Marathon/Mount Marathon.cc) |
 | [16546](https://boj.kr/16546) | Missing Runners | Bronze III | [Java](./16xxx/16546. Missing Runners/Missing Runners.java) |
 | [16561](https://boj.kr/16561) | 3의 배수 | Bronze II | [Java](./16xxx/16561. 3의 배수/3의 배수.java) |
 | [16562](https://boj.kr/16562) | 친구비 | Gold IV | [Java](./16xxx/16562. 친구비/친구비.java) |
@@ -4022,4 +4022,6 @@
 | [32500](https://boj.kr/32500) | Dishonest Lottery | Bronze III | [C++](./32xxx/32500. Dishonest Lottery/Dishonest Lottery.cc) |
 | [32529](https://boj.kr/32529) | 래환이의 여자친구 사귀기 대작전 | Bronze II | [C++](./32xxx/32529. 래환이의 여자친구 사귀기 대작전/래환이의 여자친구 사귀기 대작전.cc) |
 | [32560](https://boj.kr/32560) | Amalgram | Bronze III | [Python](./32xxx/32560. Amalgram/Amalgram.py) |
+| [32585](https://boj.kr/32585) | Building Pyramids | Bronze III | [Python](./32xxx/32585. Building Pyramids/Building Pyramids.py) |
+| [32604](https://boj.kr/32604) | Jumbled Scoreboards | Bronze IV | [Python](./32xxx/32604. Jumbled Scoreboards/Jumbled Scoreboards.py) |
 </div>
