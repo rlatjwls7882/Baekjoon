@@ -628,6 +628,7 @@
 | [02929](https://boj.kr/2929) | 머신 코드 | Bronze I | [Java](./02xxx/2929. 머신 코드/머신 코드.java) |
 | [02930](https://boj.kr/2930) | 가위 바위 보 | Bronze I | [C++](./02xxx/2930. 가위 바위 보/가위 바위 보.cc) |
 | [02935](https://boj.kr/2935) | 소음 | Bronze III | [Java](./02xxx/2935. 소음/소음.java) |
+| [02937](https://boj.kr/2937) | 블록 정리 | Gold IV | [C++](./02xxx/2937. 블록 정리/블록 정리.cc) |
 | [02941](https://boj.kr/2941) | 크로아티아 알파벳 | Silver V | [Java](./02xxx/2941. 크로아티아 알파벳/크로아티아 알파벳.java) |
 | [02942](https://boj.kr/2942) | 퍼거슨과 사과 | Silver II | [C++](./02xxx/2942. 퍼거슨과 사과/퍼거슨과 사과.cc) |
 | [02947](https://boj.kr/2947) | 나무 조각 | Bronze I | [Java](./02xxx/2947. 나무 조각/나무 조각.java) |
@@ -2012,6 +2013,7 @@
 | [14217](https://boj.kr/14217) | 그래프 탐색 | Gold V | [C++](./14xxx/14217. 그래프 탐색/그래프 탐색.cc) |
 | [14218](https://boj.kr/14218) | 그래프 탐색 2 | Silver I | [C++](./14xxx/14218. 그래프 탐색 2/그래프 탐색 2.cc) |
 | [14219](https://boj.kr/14219) | 막대과자 포장 | Bronze II | [Java](./14xxx/14219. 막대과자 포장/막대과자 포장.java) |
+| [14223](https://boj.kr/14223) | 작은 정사각형 1 | Silver III | [C++](./14xxx/14223. 작은 정사각형 1/작은 정사각형 1.cc) |
 | [14226](https://boj.kr/14226) | 이모티콘 | Gold IV | [C++](./14xxx/14226. 이모티콘/이모티콘.cc) |
 | [14231](https://boj.kr/14231) | 박스 포장 | Silver II | [C++](./14xxx/14231. 박스 포장/박스 포장.cc) |
 | [14235](https://boj.kr/14235) | 크리스마스 선물 | Silver III | [C++](./14xxx/14235. 크리스마스 선물/크리스마스 선물.cc) |
@@ -2984,6 +2986,7 @@
 | [23278](https://boj.kr/23278) | 영화 평가 | Bronze I | [Java](./23xxx/23278. 영화 평가/영화 평가.java) |
 | [23279](https://boj.kr/23279) | 서열 사회 | Silver I | [C++](./23xxx/23279. 서열 사회/서열 사회.cc) |
 | [23292](https://boj.kr/23292) | 코딩 바이오리듬 | Bronze II | [Java](./23xxx/23292. 코딩 바이오리듬/코딩 바이오리듬.java) |
+| [23295](https://boj.kr/23295) | 스터디 시간 정하기 1 | Gold III | [C++](./23xxx/23295. 스터디 시간 정하기 1/스터디 시간 정하기 1.cc) |
 | [23303](https://boj.kr/23303) | 이 문제는 D2 입니다. | Bronze III | [Java](./23xxx/23303. 이 문제는 D2 입니다．/이 문제는 D2 입니다．.java) |
 | [23304](https://boj.kr/23304) | 아카라카 | Silver II | [C++](./23xxx/23304. 아카라카/아카라카.cc) |
 | [23320](https://boj.kr/23320) | 홍익 절대평가 | Bronze II | [Java](./23xxx/23320. 홍익 절대평가/홍익 절대평가.java) |
@@ -3807,6 +3810,7 @@
 | [30664](https://boj.kr/30664) | Loteria Falha | Bronze V | [Java](./30xxx/30664. Loteria Falha/Loteria Falha.java) |
 | [30676](https://boj.kr/30676) | 이 별은 무슨 색일까 | Bronze V | [Java](./30xxx/30676. 이 별은 무슨 색일까/이 별은 무슨 색일까.java) |
 | [30684](https://boj.kr/30684) | 모르고리즘 회장 정하기 | Bronze II | [Java](./30xxx/30684. 모르고리즘 회장 정하기/모르고리즘 회장 정하기.java) |
+| [30685](https://boj.kr/30685) | 버터 녹이기 | Silver II | [C++](./30xxx/30685. 버터 녹이기/버터 녹이기.cc) |
 | [30700](https://boj.kr/30700) | KOREA 문자열 만들기 | Bronze II | [Java](./30xxx/30700.%E2%80%85KOREA%E2%80%85문자열%E2%80%85만들기/KOREA 문자열 만들기.java) |
 | [30716](https://boj.kr/30716) | Дети и буквы | Bronze II | [Java](./30xxx/30716. Дети и буквы/Дети и буквы.java) |
 | [30767](https://boj.kr/30767) | Dungeons & Dragons | Bronze II | [Java](./30xxx/30767. Dungeons ＆ Dragons/Dungeons ＆ Dragons.java) |
@@ -4023,5 +4027,6 @@
 | [32529](https://boj.kr/32529) | 래환이의 여자친구 사귀기 대작전 | Bronze II | [C++](./32xxx/32529. 래환이의 여자친구 사귀기 대작전/래환이의 여자친구 사귀기 대작전.cc) |
 | [32560](https://boj.kr/32560) | Amalgram | Bronze III | [Python](./32xxx/32560. Amalgram/Amalgram.py) |
 | [32585](https://boj.kr/32585) | Building Pyramids | Bronze III | [Python](./32xxx/32585. Building Pyramids/Building Pyramids.py) |
+| [32587](https://boj.kr/32587) | Dragged-out Duel | Bronze III | [C++](./32xxx/32587. Dragged－out Duel/Dragged－out Duel.cc) |
 | [32604](https://boj.kr/32604) | Jumbled Scoreboards | Bronze IV | [Python](./32xxx/32604. Jumbled Scoreboards/Jumbled Scoreboards.py) |
 </div>
