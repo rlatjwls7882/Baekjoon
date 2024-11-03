@@ -174,6 +174,7 @@
 | [01459](https://boj.kr/1459) | 걷기 | Silver III | [C++](./01xxx/1459. 걷기/걷기.cc) |
 | [01461](https://boj.kr/1461) | 도서관 | Gold IV | [C++](./01xxx/1461. 도서관/도서관.cc) |
 | [01463](https://boj.kr/1463) | 1로 만들기 | Silver III | [Java](./01xxx/1463. 1로 만들기/1로 만들기.java) |
+| [01471](https://boj.kr/1471) | 사탕 돌리기 | Platinum IV | [C++](./01xxx/1471. 사탕 돌리기/사탕 돌리기.cc) |
 | [01475](https://boj.kr/1475) | 방 번호 | Silver V | [Java](./01xxx/1475. 방 번호/방 번호.java) |
 | [01476](https://boj.kr/1476) | 날짜 계산 | Silver V | [Java](./01xxx/1476. 날짜 계산/날짜 계산.java) |
 | [01485](https://boj.kr/1485) | 정사각형 | Silver III | [C++](./01xxx/1485. 정사각형/정사각형.cc) |
@@ -3073,7 +3074,7 @@
 | [24081](https://boj.kr/24081) | 箱と鍵 (Boxes and Keys) | Bronze II | [Java](./24xxx/24081. 箱と鍵 （Boxes and Keys）/箱と鍵 （Boxes and Keys）.java) |
 | [24082](https://boj.kr/24082) | 立方体 (Cube) | Bronze V | [C](./24xxx/24082. 立方体 （Cube）/立方体 （Cube）.c) |
 | [24083](https://boj.kr/24083) | 短針 (Hour Hand) | Bronze IV | [Java](./24xxx/24083. 短針 （Hour Hand）/短針 （Hour Hand）.java) |
-| [24084](https://boj.kr/24084) | 次の文字 (Next Character) | Bronze III | [Java](./24xxx/24084. 次の文字 （Next Character）/次の文字 （Next Character）.java) |
+| [24084](https://boj.kr/24084) | 次の文字 (Next Character) | Bronze IV | [Java](./24xxx/24084. 次の文字 （Next Character）/次の文字 （Next Character）.java) |
 | [24085](https://boj.kr/24085) | 希少な数 (Rare Number) | Bronze II | [Java](./24xxx/24085. 希少な数 （Rare Number）/希少な数 （Rare Number）.java) |
 | [24086](https://boj.kr/24086) | 身長 (Height) | Bronze V | [Java](./24xxx/24086. 身長 （Height）/身長 （Height）.java) |
 | [24087](https://boj.kr/24087) | アイスクリーム (Ice Cream) | Bronze IV | [Java](./24xxx/24087. アイスクリーム （Ice Cream）/アイスクリーム （Ice Cream）.java) |
