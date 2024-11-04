@@ -1007,7 +1007,7 @@
 | [05778](https://boj.kr/5778) | Fake tickets | Bronze II | [Java](./05xxx/5778. Fake tickets/Fake tickets.java) |
 | [05789](https://boj.kr/5789) | 한다 안한다 | Bronze III | [Java](./05xxx/5789. 한다 안한다/한다 안한다.java) |
 | [05800](https://boj.kr/5800) | 성적 통계 | Silver V | [Java](./05xxx/5800. 성적 통계/성적 통계.java) |
-| [05874](https://boj.kr/5874) | 소를 찾아라 | Silver III | [C++](./05xxx/5874. 소를 찾아라/소를 찾아라.cc) |
+| [05874](https://boj.kr/5874) | 소를 찾아라 | Silver IV | [C++](./05xxx/5874. 소를 찾아라/소를 찾아라.cc) |
 | [05893](https://boj.kr/5893) | 17배 | Bronze III | [Java](./05xxx/5893. 17배/17배.java) |
 | [05916](https://boj.kr/5916) | 농장 관리 | Platinum I | [C++](./05xxx/5916. 농장 관리/농장 관리.cc) |
 | [05919](https://boj.kr/5919) | Hay Bales | Bronze II | [Java](./05xxx/5919. Hay Bales/Hay Bales.java) |
@@ -3004,7 +3004,7 @@
 | [23397](https://boj.kr/23397) | Kathmandu | Bronze III | [Java](./23xxx/23397. Katmandu/Katmandu.java) |
 | [23401](https://boj.kr/23401) | Ljeto | Bronze II | [Java](./23xxx/23401. Ljeto/Ljeto.java) |
 | [23530](https://boj.kr/23530) | Not A + B | Bronze III | [Java](./23xxx/23530. Not A ＋ B/Not A ＋ B.java) |
-| [23544](https://boj.kr/23544) | Kinder Surprise | Bronze I | [Java](./23xxx/23544. Kinder Surprise/Kinder Surprise.java) |
+| [23544](https://boj.kr/23544) | Kinder Surprise | Bronze II | [Java](./23xxx/23544. Kinder Surprise/Kinder Surprise.java) |
 | [23560](https://boj.kr/23560) | 약 | Silver II | [C++](./23xxx/23560. 약/약.cc) |
 | [23563](https://boj.kr/23563) | 벽 타기 | Gold III | [Java](./23xxx/23563. 벽 타기/벽 타기.java) |
 | [23627](https://boj.kr/23627) | driip | Bronze II | [Java](./23xxx/23627. driip/driip.java) |
@@ -4011,6 +4011,7 @@
 | [32326](https://boj.kr/32326) | Conveyor Belt Sushi | Bronze V | [C++](./32xxx/32326. Conveyor Belt Sushi/Conveyor Belt Sushi.cc) |
 | [32327](https://boj.kr/32327) | Dusa And The Yobis | Bronze III | [C++](./32xxx/32327. Dusa And The Yobis/Dusa And The Yobis.cc) |
 | [32342](https://boj.kr/32342) | 와우와 쿼리 | Bronze III | [C++](./32xxx/32342. 와우와 쿼리/와우와 쿼리.cc) |
+| [32357](https://boj.kr/32357) | 더블팰린드롬 | Bronze I | [C++](./32xxx/32357. 더블팰린드롬/더블팰린드롬.cc) |
 | [32364](https://boj.kr/32364) | Hat Circle | Bronze III | [C++](./32xxx/32364. Hat Circle/Hat Circle.cc) |
 | [32369](https://boj.kr/32369) | 양파 실험 | Bronze IV | [C++](./32xxx/32369. 양파 실험/양파 실험.cc) |
 | [32370](https://boj.kr/32370) | Rook | Bronze II | [Python](./32xxx/32370. Rook/Rook.py) |
@@ -4025,6 +4026,7 @@
 | [32458](https://boj.kr/32458) | Just Round Down | Bronze V | [Python](./32xxx/32458. Just Round Down/Just Round Down.py) |
 | [32498](https://boj.kr/32498) | Call for Problems | Bronze V | [Python](./32xxx/32498. Call for Problems/Call for Problems.py) |
 | [32500](https://boj.kr/32500) | Dishonest Lottery | Bronze III | [C++](./32xxx/32500. Dishonest Lottery/Dishonest Lottery.cc) |
+| [32515](https://boj.kr/32515) | BB84 | Bronze III | [C++](./32xxx/32515. BB84/BB84.cc) |
 | [32529](https://boj.kr/32529) | 래환이의 여자친구 사귀기 대작전 | Bronze II | [C++](./32xxx/32529. 래환이의 여자친구 사귀기 대작전/래환이의 여자친구 사귀기 대작전.cc) |
 | [32560](https://boj.kr/32560) | Amalgram | Bronze III | [Python](./32xxx/32560. Amalgram/Amalgram.py) |
 | [32585](https://boj.kr/32585) | Building Pyramids | Bronze III | [Python](./32xxx/32585. Building Pyramids/Building Pyramids.py) |
