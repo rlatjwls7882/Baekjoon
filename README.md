@@ -43,7 +43,7 @@
 | [01065](https://boj.kr/1065) | 한수 | Silver IV | [Java](./01xxx/1065. 한수/한수.java) |
 | [01068](https://boj.kr/1068) | 트리 | Gold V | [C++](./01xxx/1068. 트리/트리.cc) |
 | [01072](https://boj.kr/1072) | 게임 | Silver III | [C++](./01xxx/1072. 게임/게임.cc) |
-| [01074](https://boj.kr/1074) | Z | Gold V | [C++](./01xxx/1074. Z/Z.cc) |
+| [01074](https://boj.kr/1074) | Z | Silver I | [C++](./01xxx/1074. Z/Z.cc) |
 | [01075](https://boj.kr/1075) | 나누기 | Bronze II | [Java](./01xxx/1075. 나누기/나누기.java) |
 | [01076](https://boj.kr/1076) | 저항 | Bronze II | [Java](./01xxx/1076. 저항/저항.java) |
 | [01080](https://boj.kr/1080) | 행렬 | Silver I | [C++](./01xxx/1080. 행렬/행렬.cc) |
