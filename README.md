@@ -1845,6 +1845,7 @@
 | [12782](https://boj.kr/12782) | 비트 우정지수 | Silver IV | [C++](./12xxx/12782. 비트 우정지수/비트 우정지수.cc) |
 | [12784](https://boj.kr/12784) | 인하니카 공화국 | Gold III | [C++](./12xxx/12784. 인하니카 공화국/인하니카 공화국.cc) |
 | [12785](https://boj.kr/12785) | 토쟁이의 등굣길 | Silver I | [C++](./12xxx/12785. 토쟁이의 등굣길/토쟁이의 등굣길.cc) |
+| [12787](https://boj.kr/12787) | 지금 밥이 문제냐 | Silver V | [C++](./12xxx/12787. 지금 밥이 문제냐/지금 밥이 문제냐.cc) |
 | [12788](https://boj.kr/12788) | 제 2회 IUPC는 잘 개최될 수 있을까? | Silver IV | [C++](./12xxx/12788. 제 2회 IUPC는 잘 개최될 수 있을까？/제 2회 IUPC는 잘 개최될 수 있을까？.cc) |
 | [12789](https://boj.kr/12789) | 도키도키 간식드리미 | Silver III | [Java](./12xxx/12789. 도키도키 간식드리미/도키도키 간식드리미.java) |
 | [12790](https://boj.kr/12790) | Mini Fantasy War | Bronze III | [Java](./12xxx/12790. Mini Fantasy War/Mini Fantasy War.java) |
