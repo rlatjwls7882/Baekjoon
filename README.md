@@ -2436,7 +2436,7 @@
 | [16675](https://boj.kr/16675) | 두 개의 손 | Bronze II | [Java](./16xxx/16675. 두 개의 손/두 개의 손.java) |
 | [16676](https://boj.kr/16676) | 근우의 다이어리 꾸미기 | Bronze II | [Java](./16xxx/16676. 근우의 다이어리 꾸미기/근우의 다이어리 꾸미기.java) |
 | [16693](https://boj.kr/16693) | Pizza Deal | Bronze IV | [Java](./16xxx/16693. Pizza Deal/Pizza Deal.java) |
-| [16713](https://boj.kr/16713) | Generic Queries | Silver I | [C++](./16xxx/16713. Generic Queries/Generic Queries.cc) |
+| [16713](https://boj.kr/16713) | Generic Queries | Silver II | [C++](./16xxx/16713. Generic Queries/Generic Queries.cc) |
 | [16715](https://boj.kr/16715) | Inspiration | Bronze I | [Java](./16xxx/16715. Inspiration/Inspiration.java) |
 | [16719](https://boj.kr/16719) | ZOAC | Gold V | [C++](./16xxx/16719. ZOAC/ZOAC.cc) |
 | [16722](https://boj.kr/16722) | 결! 합! | Gold V | [Java](./16xxx/16722. 결！ 합！/결！ 합！.java) |
@@ -4003,6 +4003,7 @@
 | [32278](https://boj.kr/32278) | 선택 가능성이 가장 높은 자료형 | Bronze IV | [C++](./32xxx/32278. 선택 가능성이 가장 높은 자료형/선택 가능성이 가장 높은 자료형.cc) |
 | [32279](https://boj.kr/32279) | 수열의 비밀 (Easy) | Bronze II | [C++](./32xxx/32279. 수열의 비밀 （Easy）/수열의 비밀 （Easy）.cc) |
 | [32280](https://boj.kr/32280) | 지각생 | Bronze II | [C++](./32xxx/32280. 지각생/지각생.cc) |
+| [32281](https://boj.kr/32281) | 유리구슬 (Glass Bead) | Silver V | [C++](./32xxx/32281. 유리구슬 （Glass Bead）/유리구슬 （Glass Bead）.cc) |
 | [32288](https://boj.kr/32288) | 바코드 닉네임 | Bronze IV | [Java](./32xxx/32288. 바코드 닉네임/바코드 닉네임.java) |
 | [32297](https://boj.kr/32297) | 문자열을 만들어요 | Bronze III | [C++](./32xxx/32297. 문자열을 만들어요/문자열을 만들어요.cc) |
 | [32305](https://boj.kr/32305) | Farmers’ Market | Bronze III | [C++](./32xxx/32305. Farmers’ Market/Farmers’ Market.cc) |
