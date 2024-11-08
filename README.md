@@ -43,7 +43,7 @@
 | [01065](https://boj.kr/1065) | 한수 | Silver IV | [Java](./01xxx/1065. 한수/한수.java) |
 | [01068](https://boj.kr/1068) | 트리 | Gold V | [C++](./01xxx/1068. 트리/트리.cc) |
 | [01072](https://boj.kr/1072) | 게임 | Silver III | [C++](./01xxx/1072. 게임/게임.cc) |
-| [01074](https://boj.kr/1074) | Z | Silver I | [C++](./01xxx/1074. Z/Z.cc) |
+| [01074](https://boj.kr/1074) | Z | Gold V | [C++](./01xxx/1074. Z/Z.cc) |
 | [01075](https://boj.kr/1075) | 나누기 | Bronze II | [Java](./01xxx/1075. 나누기/나누기.java) |
 | [01076](https://boj.kr/1076) | 저항 | Bronze II | [Java](./01xxx/1076. 저항/저항.java) |
 | [01080](https://boj.kr/1080) | 행렬 | Silver I | [C++](./01xxx/1080. 행렬/행렬.cc) |
@@ -112,6 +112,7 @@
 | [01297](https://boj.kr/1297) | TV 크기 | Bronze II | [Java](./01xxx/1297. TV 크기/TV 크기.java) |
 | [01298](https://boj.kr/1298) | 노트북의 주인을 찾아서 | Platinum IV | [C++](./01xxx/1298. 노트북의 주인을 찾아서/노트북의 주인을 찾아서.cc) |
 | [01300](https://boj.kr/1300) | K번째 수 | Gold I | [C++](./01xxx/1300. K번째 수/K번째 수.cc) |
+| [01301](https://boj.kr/1301) | 비즈 공예 | Gold III | [C++](./01xxx/1301. 비즈 공예/비즈 공예.cc) |
 | [01302](https://boj.kr/1302) | 베스트셀러 | Silver IV | [Java](./01xxx/1302. 베스트셀러/베스트셀러.java) |
 | [01303](https://boj.kr/1303) | 전쟁 - 전투 | Silver I | [C++](./01xxx/1303. 전쟁 － 전투/전쟁 － 전투.cc) |
 | [01305](https://boj.kr/1305) | 광고 | Platinum IV | [Java](./01xxx/1305. 광고/광고.java) |
