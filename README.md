@@ -3566,6 +3566,7 @@
 | [28136](https://boj.kr/28136) | 원, 탁! | Silver V | [C++](./28xxx/28136. 원， 탁！/원， 탁！.cc) |
 | [28140](https://boj.kr/28140) | 빨강~ 빨강~ 파랑! 파랑! 달콤한 솜사탕! | Gold V | [C++](./28xxx/28140. 빨강～ 빨강～ 파랑！ 파랑！ 달콤한 솜사탕！/빨강～ 빨강～ 파랑！ 파랑！ 달콤한 솜사탕！.cc) |
 | [28214](https://boj.kr/28214) | 크림빵 | Bronze III | [Java](./28xxx/28214. 크림빵/크림빵.java) |
+| [28215](https://boj.kr/28215) | 대피소 | Silver IV | [C++](./28xxx/28215. 대피소/대피소.cc) |
 | [28224](https://boj.kr/28224) | Final Price | Bronze IV | [C](./28xxx/28224. Final Price/Final Price.c) |
 | [28225](https://boj.kr/28225) | Flower Festival | Bronze III | [Java](./28xxx/28225. Flower Festival/Flower Festival.java) |
 | [28235](https://boj.kr/28235) | 코드마스터 2023 | Bronze V | [C](./28xxx/28235. 코드마스터 2023/코드마스터 2023.c) |
