@@ -806,7 +806,7 @@
 | [04471](https://boj.kr/4471) | The Navi-Computer is Down! | Bronze II | [Java](./04xxx/4471. The Navi－Computer is Down！/The Navi－Computer is Down！.java) |
 | [04482](https://boj.kr/4482) | Tetrahedral Stacks of Cannonballs | Bronze II | [Java](./04xxx/4482. Tetrahedral Stacks of Cannonballs/Tetrahedral Stacks of Cannonballs.java) |
 | [04485](https://boj.kr/4485) | 녹색 옷 입은 애가 젤다지? | Gold IV | [Java](./04xxx/4485. 녹색 옷 입은 애가 젤다지？/녹색 옷 입은 애가 젤다지？.java) |
-| [04486](https://boj.kr/4486) | Pencils from the 19th Century | Bronze II | [Python](./04xxx/4486. Pencils from the 19th Century/Pencils from the 19th Century.py) |
+| [04486](https://boj.kr/4486) | Pencils from the 19th Century | Bronze I | [Python](./04xxx/4486. Pencils from the 19th Century/Pencils from the 19th Century.py) |
 | [04493](https://boj.kr/4493) | 가위 바위 보? | Bronze III | [Java](./04xxx/4493. 가위 바위 보？/가위 바위 보？.java) |
 | [04504](https://boj.kr/4504) | 배수 찾기 | Bronze III | [Java](./04xxx/4504. 배수 찾기/배수 찾기.java) |
 | [04539](https://boj.kr/4539) | 반올림 | Bronze I | [Java](./04xxx/4539. 반올림/반올림.java) |
@@ -1668,6 +1668,7 @@
 | [11258](https://boj.kr/11258) | Thai Lottery Checking | Bronze III | [Java](./11xxx/11258. Thai Lottery Checking/Thai Lottery Checking.java) |
 | [11260](https://boj.kr/11260) | Cell Counting | Silver V | [Java](./11xxx/11260. Cell Counting/Cell Counting.java) |
 | [11262](https://boj.kr/11262) | Minions’ Master | Bronze II | [Java](./11xxx/11262. Minions’ Master/Minions’ Master.java) |
+| [11266](https://boj.kr/11266) | 단절점 | Platinum IV | [C++](./11xxx/11266. 단절점/단절점.cc) |
 | [11269](https://boj.kr/11269) | Cryptographer’s Conundrum | Bronze II | [Java](./11xxx/11269. Cryptographer’s Conundrum/Cryptographer’s Conundrum.java) |
 | [11277](https://boj.kr/11277) | 2-SAT - 1 | Silver I | [C++](./11xxx/11277. 2－SAT － 1/2－SAT － 1.cc) |
 | [11278](https://boj.kr/11278) | 2-SAT - 2 | Silver I | [C++](./11xxx/11278. 2－SAT － 2/2－SAT － 2.cc) |
@@ -1998,7 +1999,7 @@
 | [13985](https://boj.kr/13985) | Equality | Bronze IV | [C](./13xxx/13985. Equality/Equality.c) |
 | [13987](https://boj.kr/13987) | Six Sides | Bronze II | [Java](./13xxx/13987. Six Sides/Six Sides.java) |
 | [14002](https://boj.kr/14002) | 가장 긴 증가하는 부분 수열 4 | Gold IV | [Java](./14xxx/14002. 가장 긴 증가하는 부분 수열 4/가장 긴 증가하는 부분 수열 4.java) |
-| [14004](https://boj.kr/14004) | ICPC | Bronze II | [C++](./14xxx/14004. ICPC/ICPC.cc) |
+| [14004](https://boj.kr/14004) | ICPC | Bronze I | [C++](./14xxx/14004. ICPC/ICPC.cc) |
 | [14013](https://boj.kr/14013) | Unit Conversion | Bronze III | [Java](./14xxx/14013. Unit Conversion/Unit Conversion.java) |
 | [14038](https://boj.kr/14038) | Tournament Selection | Bronze IV | [Java](./14xxx/14038. Tournament Selection/Tournament Selection.java) |
 | [14039](https://boj.kr/14039) | Magic Squares | Bronze III | [Java](./14xxx/14039. Magic Squares/Magic Squares.java) |
@@ -3510,7 +3511,7 @@
 | [27593](https://boj.kr/27593) | Walking Boy | Bronze II | [Java](./27xxx/27593. Walking Boy/Walking Boy.java) |
 | [27621](https://boj.kr/27621) | Sum of Three Cubes | Bronze III | [Java](./27xxx/27621. Sum of Three Cubes/Sum of Three Cubes.java) |
 | [27622](https://boj.kr/27622) | Suspicious Event | Bronze II | [Java](./27xxx/27622. Suspicious Event/Suspicious Event.java) |
-| [27627](https://boj.kr/27627) | Splitology | Bronze III | [Java](./27xxx/27627. Splitology/Splitology.java) |
+| [27627](https://boj.kr/27627) | Splitology | Bronze II | [Java](./27xxx/27627. Splitology/Splitology.java) |
 | [27648](https://boj.kr/27648) | 증가 배열 만들기 | Silver V | [C++](./27xxx/27648. 증가 배열 만들기/증가 배열 만들기.cc) |
 | [27649](https://boj.kr/27649) | 토크나이저 | Silver III | [Java](./27xxx/27649. 토크나이저/토크나이저.java) |
 | [27652](https://boj.kr/27652) | AB | Platinum V | [C++](./27xxx/27652. AB/AB.cc) |
