@@ -2835,6 +2835,8 @@
 | [20977](https://boj.kr/20977) | JOI ソート (JOI Sort) | Bronze II | [Java](./20xxx/20977. JOI ソート （JOI Sort）/JOI ソート （JOI Sort）.java) |
 | [20978](https://boj.kr/20978) | 共通要素 (Common Elements) | Bronze II | [Java](./20xxx/20978. 共通要素 （Common Elements）/共通要素 （Common Elements）.java) |
 | [21022](https://boj.kr/21022) | Three Points for a Win | Bronze III | [Java](./21xxx/21022. Three Points for a Win/Three Points for a Win.java) |
+| [21047](https://boj.kr/21047) | Array of Discord | Silver IV | [C++](./21xxx/21047. Array of Discord/Array of Discord.cc) |
+| [21053](https://boj.kr/21053) | Gig Combinatorics | Gold V | [C++](./21xxx/21053. Gig Combinatorics/Gig Combinatorics.cc) |
 | [21059](https://boj.kr/21059) | Methodic Multiplication | Bronze I | [Java](./21xxx/21059. Methodic Multiplication/Methodic Multiplication.java) |
 | [21105](https://boj.kr/21105) | New Financial Year | Bronze III | [Java](./21xxx/21105. New Financial Year/New Financial Year.java) |
 | [21143](https://boj.kr/21143) | Magic Trick | Bronze II | [Java](./21xxx/21143. Magic Trick/Magic Trick.java) |
@@ -3964,7 +3966,7 @@
 | [31945](https://boj.kr/31945) | 정육면체의 네 꼭짓점 | Bronze II | [C++](./31xxx/31945. 정육면체의 네 꼭짓점/정육면체의 네 꼭짓점.cc) |
 | [31946](https://boj.kr/31946) | 죽음의 등굣길 | Silver I | [C++](./31xxx/31946.%E2%80%85죽음의%E2%80%85등굣길/죽음의 등굣길.cc) |
 | [31962](https://boj.kr/31962) | 등교 | Bronze IV | [C++](./31xxx/31962. 등교/등교.cc) |
-| [31964](https://boj.kr/31964) | 반품 회수 | Silver I | [C++](./31xxx/31964. 반품 회수/반품 회수.cc) |
+| [31964](https://boj.kr/31964) | 반품 회수 | Silver II | [C++](./31xxx/31964. 반품 회수/반품 회수.cc) |
 | [31994](https://boj.kr/31994) | 강당 대관 | Bronze IV | [C++](./31xxx/31994. 강당 대관/강당 대관.cc) |
 | [31995](https://boj.kr/31995) | 게임말 올려놓기 | Bronze II | [C++](./31xxx/31995. 게임말 올려놓기/게임말 올려놓기.cc) |
 | [32025](https://boj.kr/32025) | 체육은 수학과목 입니다 | Bronze IV | [C++](./32xxx/32025. 체육은 수학과목 입니다/체육은 수학과목 입니다.cc) |
