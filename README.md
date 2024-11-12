@@ -955,7 +955,7 @@
 | [05545](https://boj.kr/5545) | 최고의 피자 | Silver III | [C++](./05xxx/5545. 최고의 피자/최고의 피자.cc) |
 | [05554](https://boj.kr/5554) | 심부름 가는 길 | Bronze IV | [C](./05xxx/5554. 심부름 가는 길/심부름 가는 길.c) |
 | [05555](https://boj.kr/5555) | 반지 | Silver V | [Java](./05xxx/5555. 반지/반지.java) |
-| [05556](https://boj.kr/5556) | 타일 | Silver V | [C++](./05xxx/5556. 타일/타일.cc) |
+| [05556](https://boj.kr/5556) | 타일 | Bronze I | [C++](./05xxx/5556. 타일/타일.cc) |
 | [05557](https://boj.kr/5557) | 1학년 | Gold V | [C++](./05xxx/5557. 1학년/1학년.cc) |
 | [05565](https://boj.kr/5565) | 영수증 | Bronze III | [Java](./05xxx/5565. 영수증/영수증.java) |
 | [05566](https://boj.kr/5566) | 주사위 게임 | Bronze II | [Java](./05xxx/5566. 주사위 게임/주사위 게임.java) |
@@ -2836,6 +2836,7 @@
 | [20978](https://boj.kr/20978) | 共通要素 (Common Elements) | Bronze II | [Java](./20xxx/20978. 共通要素 （Common Elements）/共通要素 （Common Elements）.java) |
 | [21022](https://boj.kr/21022) | Three Points for a Win | Bronze III | [Java](./21xxx/21022. Three Points for a Win/Three Points for a Win.java) |
 | [21047](https://boj.kr/21047) | Array of Discord | Silver IV | [C++](./21xxx/21047. Array of Discord/Array of Discord.cc) |
+| [21049](https://boj.kr/21049) | Coin Stacks | Silver II | [C++](./21xxx/21049. Coin Stacks/Coin Stacks.cc) |
 | [21053](https://boj.kr/21053) | Gig Combinatorics | Gold V | [C++](./21xxx/21053. Gig Combinatorics/Gig Combinatorics.cc) |
 | [21059](https://boj.kr/21059) | Methodic Multiplication | Bronze I | [Java](./21xxx/21059. Methodic Multiplication/Methodic Multiplication.java) |
 | [21105](https://boj.kr/21105) | New Financial Year | Bronze III | [Java](./21xxx/21105. New Financial Year/New Financial Year.java) |
@@ -4039,4 +4040,8 @@
 | [32585](https://boj.kr/32585) | Building Pyramids | Bronze III | [Python](./32xxx/32585. Building Pyramids/Building Pyramids.py) |
 | [32587](https://boj.kr/32587) | Dragged-out Duel | Bronze III | [C++](./32xxx/32587. Dragged－out Duel/Dragged－out Duel.cc) |
 | [32604](https://boj.kr/32604) | Jumbled Scoreboards | Bronze IV | [Python](./32xxx/32604. Jumbled Scoreboards/Jumbled Scoreboards.py) |
+| [32651](https://boj.kr/32651) | 인간은 무엇인가 | Bronze IV | |
+| [32652](https://boj.kr/32652) | 아카라카 2 | Bronze III | |
+| [32653](https://boj.kr/32653) | 흑백 요리사 | Silver IV | |
+| [32654](https://boj.kr/32654) | 게임 오브 데쓰 (Easy) | Gold IV | |
 </div>
