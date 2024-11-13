@@ -352,7 +352,7 @@
 | [02061](https://boj.kr/2061) | 좋은 암호 | Bronze III | [Java](./02xxx/2061. 좋은 암호/좋은 암호.java) |
 | [02073](https://boj.kr/2073) | 수도배관공사 | Gold IV | [C++](./02xxx/2073. 수도배관공사/수도배관공사.cc) |
 | [02074](https://boj.kr/2074) | 거듭제곱 계산하기 | Gold II | [C++](./02xxx/2074. 거듭제곱 계산하기/거듭제곱 계산하기.cc) |
-| [02075](https://boj.kr/2075) | N번째 큰 수 | Silver II | [C++](./02xxx/2075. N번째 큰 수/N번째 큰 수.cc) |
+| [02075](https://boj.kr/2075) | N번째 큰 수 | Silver III | [C++](./02xxx/2075. N번째 큰 수/N번째 큰 수.cc) |
 | [02082](https://boj.kr/2082) | 시계 | Silver III | [C++](./02xxx/2082. 시계/시계.cc) |
 | [02083](https://boj.kr/2083) | 럭비 클럽 | Bronze IV | [C](./02xxx/2083. 럭비 클럽/럭비 클럽.c) |
 | [02089](https://boj.kr/2089) | -2진수 | Silver II | [C++](./02xxx/2089. －2진수/－2진수.cc) |
@@ -2837,7 +2837,9 @@
 | [21022](https://boj.kr/21022) | Three Points for a Win | Bronze III | [Java](./21xxx/21022. Three Points for a Win/Three Points for a Win.java) |
 | [21047](https://boj.kr/21047) | Array of Discord | Silver IV | [C++](./21xxx/21047. Array of Discord/Array of Discord.cc) |
 | [21049](https://boj.kr/21049) | Coin Stacks | Silver II | [C++](./21xxx/21049. Coin Stacks/Coin Stacks.cc) |
+| [21050](https://boj.kr/21050) | Dams in Distress | Gold II | [C++](./21xxx/21050. Dams in Distress/Dams in Distress.cc) |
 | [21053](https://boj.kr/21053) | Gig Combinatorics | Gold V | [C++](./21xxx/21053. Gig Combinatorics/Gig Combinatorics.cc) |
+| [21056](https://boj.kr/21056) | Joining Flows | Gold II | [C++](./21xxx/21056. Joining Flows/Joining Flows.cc) |
 | [21059](https://boj.kr/21059) | Methodic Multiplication | Bronze I | [Java](./21xxx/21059. Methodic Multiplication/Methodic Multiplication.java) |
 | [21105](https://boj.kr/21105) | New Financial Year | Bronze III | [Java](./21xxx/21105. New Financial Year/New Financial Year.java) |
 | [21143](https://boj.kr/21143) | Magic Trick | Bronze II | [Java](./21xxx/21143. Magic Trick/Magic Trick.java) |
@@ -3353,7 +3355,7 @@
 | [26173](https://boj.kr/26173) | Cup Covering | Bronze II | [Java](./26xxx/26173. Cup Covering/Cup Covering.java) |
 | [26198](https://boj.kr/26198) | Chronogram | Bronze III | [Java](./26xxx/26198. Chronogram/Chronogram.java) |
 | [26201](https://boj.kr/26201) | Finding Maximal Non-Trivial Monotones | Bronze II | [Java](./26xxx/26201. Finding Maximal Non－Trivial Monotones/Finding Maximal Non－Trivial Monotones.java) |
-| [26205](https://boj.kr/26205) | Eliminating Ballons | Silver I | [C++](./26xxx/26205. Eliminating Ballons/Eliminating Ballons.cc) |
+| [26205](https://boj.kr/26205) | Eliminating Ballons | Gold V | [C++](./26xxx/26205. Eliminating Ballons/Eliminating Ballons.cc) |
 | [26206](https://boj.kr/26206) | Multidimensional Hangman | Silver III | [C++](./26xxx/26206. Multidimensional Hangman/Multidimensional Hangman.cc) |
 | [26209](https://boj.kr/26209) | Intercepting Information | Bronze V | [C](./26xxx/26209. Intercepting Information/Intercepting Information.c) |
 | [26210](https://boj.kr/26210) | Playing 23 | Silver IV | [C++](./26xxx/26210. Playing 23/Playing 23.cc) |
