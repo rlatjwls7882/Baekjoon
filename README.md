@@ -2840,6 +2840,7 @@
 | [21050](https://boj.kr/21050) | Dams in Distress | Gold II | [C++](./21xxx/21050. Dams in Distress/Dams in Distress.cc) |
 | [21053](https://boj.kr/21053) | Gig Combinatorics | Gold V | [C++](./21xxx/21053. Gig Combinatorics/Gig Combinatorics.cc) |
 | [21056](https://boj.kr/21056) | Joining Flows | Gold II | [C++](./21xxx/21056. Joining Flows/Joining Flows.cc) |
+| [21057](https://boj.kr/21057) | Keep Calm And Carry Off | Gold I | [C++](./21xxx/21057. Keep Calm And Carry Off/Keep Calm And Carry Off.cc) |
 | [21059](https://boj.kr/21059) | Methodic Multiplication | Bronze I | [Java](./21xxx/21059. Methodic Multiplication/Methodic Multiplication.java) |
 | [21105](https://boj.kr/21105) | New Financial Year | Bronze III | [Java](./21xxx/21105. New Financial Year/New Financial Year.java) |
 | [21143](https://boj.kr/21143) | Magic Trick | Bronze II | [Java](./21xxx/21143. Magic Trick/Magic Trick.java) |
@@ -4042,6 +4043,7 @@
 | [32585](https://boj.kr/32585) | Building Pyramids | Bronze III | [Python](./32xxx/32585. Building Pyramids/Building Pyramids.py) |
 | [32587](https://boj.kr/32587) | Dragged-out Duel | Bronze III | [C++](./32xxx/32587. Dragged－out Duel/Dragged－out Duel.cc) |
 | [32604](https://boj.kr/32604) | Jumbled Scoreboards | Bronze IV | [Python](./32xxx/32604. Jumbled Scoreboards/Jumbled Scoreboards.py) |
+| [32642](https://boj.kr/32642) | 당구 좀 치자 제발 | Bronze IV | [C++](./32xxx/32642. 당구 좀 치자 제발/당구 좀 치자 제발.cc) |
 | [32651](https://boj.kr/32651) | 인간은 무엇인가 | Bronze IV | |
 | [32652](https://boj.kr/32652) | 아카라카 2 | Bronze III | |
 | [32653](https://boj.kr/32653) | 흑백 요리사 | Silver IV | |
