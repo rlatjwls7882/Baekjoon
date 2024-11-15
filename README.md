@@ -2089,7 +2089,7 @@
 | [14592](https://boj.kr/14592) | 2017 아주대학교 프로그래밍 경시대회 (Small) | Bronze III | |
 | [14593](https://boj.kr/14593) | 2017 아주대학교 프로그래밍 경시대회 (Large) | Bronze II | [Java](./14xxx/14593. 2017 아주대학교 프로그래밍 경시대회 （Large）/2017 아주대학교 프로그래밍 경시대회 （Large）.java) |
 | [14594](https://boj.kr/14594) | 동방 프로젝트 (Small) | Silver IV | [Java](./14xxx/14594. 동방 프로젝트 （Small）/동방 프로젝트 （Small）.java) |
-| [14595](https://boj.kr/14595) | 동방 프로젝트 (Large) | Gold III | [C++](./14xxx/14595. 동방 프로젝트 （Large）/동방 프로젝트 （Large）.cc) |
+| [14595](https://boj.kr/14595) | 동방 프로젝트 (Large) | Gold IV | [C++](./14xxx/14595. 동방 프로젝트 （Large）/동방 프로젝트 （Large）.cc) |
 | [14606](https://boj.kr/14606) | 피자 (Small) | Silver V | [Java](./14xxx/14606. 피자 （Small）/피자 （Small）.java) |
 | [14607](https://boj.kr/14607) | 피자 (Large) | Silver III | [Java](./14xxx/14607. 피자 （Large）/피자 （Large）.java) |
 | [14608](https://boj.kr/14608) | 구분구적법 (Small) | Silver V | [C++](./14xxx/14608. 구분구적법 （Small）/구분구적법 （Small）.cc) |
@@ -2210,6 +2210,7 @@
 | [15232](https://boj.kr/15232) | Rectangles | Bronze V | [C](./15xxx/15232. Rectangles/Rectangles.c) |
 | [15233](https://boj.kr/15233) | Final Score | Silver IV | [Java](./15xxx/15233. Final Score/Final Score.java) |
 | [15234](https://boj.kr/15234) | Number Pairs | Bronze II | [Java](./15xxx/15234. Number Pairs/Number Pairs.java) |
+| [15235](https://boj.kr/15235) | Olympiad Pizza | Silver V | [C++](./15xxx/15235. Olympiad Pizza/Olympiad Pizza.cc) |
 | [15236](https://boj.kr/15236) | Dominos | Bronze III | [Java](./15xxx/15236. Dominos/Dominos.java) |
 | [15238](https://boj.kr/15238) | Pirates | Bronze III | [Java](./15xxx/15238. Pirates/Pirates.java) |
 | [15239](https://boj.kr/15239) | Password check | Bronze II | [Java](./15xxx/15239. Password check/Password check.java) |
@@ -2642,6 +2643,7 @@
 | [18126](https://boj.kr/18126) | 너구리 구구 | Silver II | [Java](./18xxx/18126. 너구리 구구/너구리 구구.java) |
 | [18127](https://boj.kr/18127) | 모형결정 | Bronze III | [Java](./18xxx/18127. 모형결정/모형결정.java) |
 | [18129](https://boj.kr/18129) | 이상한 암호코드 | Bronze I | [Java](./18xxx/18129. 이상한 암호코드/이상한 암호코드.java) |
+| [18130](https://boj.kr/18130) | 여름나기 | Bronze I | [C++](./18xxx/18130. 여름나기/여름나기.cc) |
 | [18138](https://boj.kr/18138) | 리유나는 세일러복을 좋아해 | Platinum IV | [C++](./18xxx/18138. 리유나는 세일러복을 좋아해/리유나는 세일러복을 좋아해.cc) |
 | [18141](https://boj.kr/18141) | Are They All Integers? | Bronze II | [Java](./18xxx/18141. Are They All Integers？/Are They All Integers？.java) |
 | [18142](https://boj.kr/18142) | Tapioka | Bronze II | [Java](./18xxx/18142. Tapioka/Tapioka.java) |
@@ -2838,6 +2840,7 @@
 | [21047](https://boj.kr/21047) | Array of Discord | Silver IV | [C++](./21xxx/21047. Array of Discord/Array of Discord.cc) |
 | [21049](https://boj.kr/21049) | Coin Stacks | Silver II | [C++](./21xxx/21049. Coin Stacks/Coin Stacks.cc) |
 | [21050](https://boj.kr/21050) | Dams in Distress | Gold II | [C++](./21xxx/21050. Dams in Distress/Dams in Distress.cc) |
+| [21052](https://boj.kr/21052) | Film Critics | Platinum III | [C++](./21xxx/21052. Film Critics/Film Critics.cc) |
 | [21053](https://boj.kr/21053) | Gig Combinatorics | Gold V | [C++](./21xxx/21053. Gig Combinatorics/Gig Combinatorics.cc) |
 | [21056](https://boj.kr/21056) | Joining Flows | Gold II | [C++](./21xxx/21056. Joining Flows/Joining Flows.cc) |
 | [21057](https://boj.kr/21057) | Keep Calm And Carry Off | Gold I | [C++](./21xxx/21057. Keep Calm And Carry Off/Keep Calm And Carry Off.cc) |
@@ -4048,4 +4051,5 @@
 | [32652](https://boj.kr/32652) | 아카라카 2 | Bronze III | |
 | [32653](https://boj.kr/32653) | 흑백 요리사 | Silver IV | |
 | [32654](https://boj.kr/32654) | 게임 오브 데쓰 (Easy) | Gold IV | |
+| [32661](https://boj.kr/32661) | Airfare Grants | Bronze III | [Python](./32xxx/32661. Airfare Grants/Airfare Grants.py) |
 </div>
