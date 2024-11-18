@@ -710,7 +710,7 @@
 | [03271](https://boj.kr/3271) | MEADOW | Gold III | [Java](./03xxx/3271. MEADOW/MEADOW.java) |
 | [03273](https://boj.kr/3273) | 두 수의 합 | Silver III | [Java](./03xxx/3273. 두 수의 합/두 수의 합.java) |
 | [03276](https://boj.kr/3276) | ICONS | Bronze III | [Java](./03xxx/3276. ICONS/ICONS.java) |
-| [03282](https://boj.kr/3282) | ROOMS | Bronze II | [Java](./03xxx/3282. ROOMS/ROOMS.java) |
+| [03282](https://boj.kr/3282) | ROOMS | Bronze I | [Java](./03xxx/3282. ROOMS/ROOMS.java) |
 | [03295](https://boj.kr/3295) | 단방향 링크 네트워크 | Platinum II | [C++](./03xxx/3295. 단방향 링크 네트워크/단방향 링크 네트워크.cc) |
 | [03372](https://boj.kr/3372) | 보드 점프 | Silver I | [Java](./03xxx/3372. 보드 점프/보드 점프.java) |
 | [03407](https://boj.kr/3407) | 맹세 | Silver II | [C++](./03xxx/3407. 맹세/맹세.cc) |
@@ -2292,6 +2292,7 @@
 | [15751](https://boj.kr/15751) | Teleportation | Bronze III | [Java](./15xxx/15751. Teleportation/Teleportation.java) |
 | [15780](https://boj.kr/15780) | 멀티탭 충분하니? | Bronze III | [Java](./15xxx/15780. 멀티탭 충분하니？/멀티탭 충분하니？.java) |
 | [15781](https://boj.kr/15781) | 헬멧과 조끼 | Bronze III | [Java](./15xxx/15781. 헬멧과 조끼/헬멧과 조끼.java) |
+| [15783](https://boj.kr/15783) | 세진 바이러스 | Platinum IV | [C++](./15xxx/15783. 세진 바이러스/세진 바이러스.cc) |
 | [15784](https://boj.kr/15784) | 질투진서 | Bronze III | [Java](./15xxx/15784. 질투진서/질투진서.java) |
 | [15786](https://boj.kr/15786) | Send me the money | Bronze I | [Java](./15xxx/15786. Send me the money/Send me the money.java) |
 | [15787](https://boj.kr/15787) | 기차가 어둠을 헤치고 은하수를 | Silver II | [C++](./15xxx/15787. 기차가 어둠을 헤치고 은하수를/기차가 어둠을 헤치고 은하수를.cc) |
@@ -2646,6 +2647,7 @@
 | [18127](https://boj.kr/18127) | 모형결정 | Bronze III | [Java](./18xxx/18127. 모형결정/모형결정.java) |
 | [18129](https://boj.kr/18129) | 이상한 암호코드 | Bronze I | [Java](./18xxx/18129. 이상한 암호코드/이상한 암호코드.java) |
 | [18130](https://boj.kr/18130) | 여름나기 | Bronze I | [C++](./18xxx/18130. 여름나기/여름나기.cc) |
+| [18133](https://boj.kr/18133) | 가톨릭대학교에 워터 슬라이드를?? | Platinum IV | [C++](./18xxx/18133. 가톨릭대학교에 워터 슬라이드를？？/가톨릭대학교에 워터 슬라이드를？？.cc) |
 | [18138](https://boj.kr/18138) | 리유나는 세일러복을 좋아해 | Platinum IV | [C++](./18xxx/18138. 리유나는 세일러복을 좋아해/리유나는 세일러복을 좋아해.cc) |
 | [18141](https://boj.kr/18141) | Are They All Integers? | Bronze II | [Java](./18xxx/18141. Are They All Integers？/Are They All Integers？.java) |
 | [18142](https://boj.kr/18142) | Tapioka | Bronze II | [Java](./18xxx/18142. Tapioka/Tapioka.java) |
@@ -4058,4 +4060,6 @@
 | [32653](https://boj.kr/32653) | 흑백 요리사 | Silver IV | |
 | [32654](https://boj.kr/32654) | 게임 오브 데쓰 (Easy) | Gold IV | |
 | [32661](https://boj.kr/32661) | Airfare Grants | Bronze III | [Python](./32xxx/32661. Airfare Grants/Airfare Grants.py) |
+| [32682](https://boj.kr/32682) | Which Number Kind Is It? | Bronze III | [C++](./32xxx/32682. Which Number Kind Is It？/Which Number Kind Is It？.cc) |
+| [32684](https://boj.kr/32684) | 장기 | Bronze IV | [Python](./32xxx/32684. 장기/장기.py) |
 </div>
