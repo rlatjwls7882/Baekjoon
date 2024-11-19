@@ -3922,7 +3922,7 @@
 | [31561](https://boj.kr/31561) | 시계탑 | Bronze III | [Python](./31xxx/31561. 시계탑/시계탑.py) |
 | [31562](https://boj.kr/31562) | 전주 듣고 노래 맞히기 | Bronze I | [Java](./31xxx/31562. 전주 듣고 노래 맞히기/전주 듣고 노래 맞히기.java) |
 | [31565](https://boj.kr/31565) | 전역 역전 | Gold IV | [C++](./31xxx/31565. 전역 역전/전역 역전.cc) |
-| [31602](https://boj.kr/31602) | There and Back Again | Platinum IV | [C++](./31xxx/31602. There and Back Again/There and Back Again.cc) |
+| [31602](https://boj.kr/31602) | There and Back Again | Platinum V | [C++](./31xxx/31602. There and Back Again/There and Back Again.cc) |
 | [31606](https://boj.kr/31606) | 果物 (Fruit) | Bronze V | [Python](./31xxx/31606. 果物 （Fruit）/果物 （Fruit）.py) |
 | [31607](https://boj.kr/31607) | 和の判定 (Sum Checker) | Bronze IV | [Python](./31xxx/31607. 和の判定 （Sum Checker）/和の判定 （Sum Checker）.py) |
 | [31608](https://boj.kr/31608) | ハミング距離 (Hamming Distance) | Bronze IV | [Python](./31xxx/31608. ハミング距離 （Hamming Distance）/ハミング距離 （Hamming Distance）.py) |
