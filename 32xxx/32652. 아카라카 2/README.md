@@ -1,10 +1,7 @@
-# <img width="20px"  src="https://d2gd6pc034wcta.cloudfront.net/tier/3.svg" class="solvedac-tier"> [아카라카 2](https://www.acmicpc.net/problem/32652) 
-
-| 제출 번호 | 닉네임 | 채점 결과 | 메모리 | 시간 | 언어 | 코드 길이 |
-|---|---|---|---|---|---|---|
-|86680028| rlatjwls3333|맞았습니다!! 맞았습니다!!|2020KB|0ms|C++20|195B|
+# <img width="20px"  src="https://d2gd6pc034wcta.cloudfront.net/tier/3.svg" class="solvedac-tier"> [아카라카 2](https://www.acmicpc.net/problem/32652)
 
 ## 문제
+
 <blockquote>
 <p><em>아카라카!</em></p>
 
@@ -20,8 +17,9 @@
 <p>형진이는 <strong>AKARAKA</strong>가 최대한 많이 보이는 문자열을 만들고 싶어졌다. <strong>AKARAKA</strong>가 연속 부분 문자열로 정확히 $K$번 등장하는 문자열들 중 가장 짧은 문자열을 만들어보자. 그러한 문자열이 존재하며 유일함을 증명할 수 있다.</p>
 
 ## 입력
+
 <p>첫 번째 줄에 양의 정수 $K$가 입력으로 주어진다. $(1 \le K \le 50)$</p>
 
 ## 출력
-<p>첫 번째 줄에 길이가 $7$인 모든 연속 부분 문자열 중 <strong>AKARAKA</strong>가 정확히 $K$번 나타나는 가장 짧은 문자열을 출력한다.</p>
 
+<p>첫 번째 줄에 길이가 $7$인 모든 연속 부분 문자열 중 <strong>AKARAKA</strong>가 정확히 $K$번 나타나는 가장 짧은 문자열을 출력한다.</p>
