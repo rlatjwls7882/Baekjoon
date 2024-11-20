@@ -4062,4 +4062,5 @@
 | [32661](https://boj.kr/32661) | Airfare Grants | Bronze III | [Python](./32xxx/32661. Airfare Grants/Airfare Grants.py) |
 | [32682](https://boj.kr/32682) | Which Number Kind Is It? | Bronze III | [C++](./32xxx/32682. Which Number Kind Is It？/Which Number Kind Is It？.cc) |
 | [32684](https://boj.kr/32684) | 장기 | Bronze IV | [Python](./32xxx/32684. 장기/장기.py) |
+| [32722](https://boj.kr/32722) | Juta teekond | Bronze IV | [Python](./32xxx/32722. Juta teekond/Juta teekond.py) |
 </div>
