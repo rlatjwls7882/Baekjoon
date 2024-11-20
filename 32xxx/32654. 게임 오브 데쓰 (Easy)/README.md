@@ -1,10 +1,7 @@
-# <img width="20px"  src="https://d2gd6pc034wcta.cloudfront.net/tier/12.svg" class="solvedac-tier"> [게임 오브 데쓰 (Easy)](https://www.acmicpc.net/problem/32654) 
-
-| 제출 번호 | 닉네임 | 채점 결과 | 메모리 | 시간 | 언어 | 코드 길이 |
-|---|---|---|---|---|---|---|
-|86680313| rlatjwls3333|맞았습니다!! 맞았습니다!!|2192KB|4ms|C++20|752B|
+# <img width="20px"  src="https://d2gd6pc034wcta.cloudfront.net/tier/12.svg" class="solvedac-tier"> [게임 오브 데쓰 (Easy)](https://www.acmicpc.net/problem/32654)
 
 ## 문제
+
 <p><strong>이 문제는 "게임 오브 데쓰 (Hard)" 문제와 볼드체로 적혀 있는 부분의 조건이 다르다. </strong></p>
 
 <div style="background:#eeeeee;border:1px solid #cccccc;padding:5px 10px;">
@@ -22,10 +19,11 @@
 <p>이번에 형진이가 $1$번을 부여받아 $K$의 값을 정하게 되었다. 각 사람이 누구를 지목했는지가 모두 주어졌을 때, 형진이가 패배하는 일이 없도록 적당한 $K$를 정해보자. 만약 어떠한 $K$를 고르더라도 형진이가 패배할 가능성이 있다면 <code>-1</code>을 출력한다.</p>
 
 ## 입력
+
 <p>첫 번째 줄에 참여하는 사람 수 $N$이 주어진다. $(2 \le N \le 1\,000)$</p>
 
 <p>다음 $N$개의 줄에는 각 참가자가 지목한 사람의 정보가 주어진다. 그중 $i$번째 줄에는 $i$번 참가자가 지목한 사람의 번호인 $L_i$, $R_i$가 공백을 사이에 두고 주어진다. $(1 \le L_i, R_i \le N,$ $L_i \neq i,$ $R_i \neq i)$</p>
 
 ## 출력
-<p>문제의 조건을 만족하는 $K$ ($10\le K \le 99$)를 출력한다. 만약 그러한 $K$가 존재하지 않다면 <code>-1</code>을 출력한다.</p>
 
+<p>문제의 조건을 만족하는 $K$ ($10\le K \le 99$)를 출력한다. 만약 그러한 $K$가 존재하지 않다면 <code>-1</code>을 출력한다.</p>
