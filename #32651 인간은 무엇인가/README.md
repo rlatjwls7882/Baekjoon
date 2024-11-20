@@ -1,0 +1,30 @@
+# <img width="20px"  src="https://d2gd6pc034wcta.cloudfront.net/tier/2.svg" class="solvedac-tier"> [인간은 무엇인가](https://www.acmicpc.net/problem/32651) 
+
+| 제출 번호 | 닉네임 | 채점 결과 | 메모리 | 시간 | 언어 | 코드 길이 |
+|---|---|---|---|---|---|---|
+|86454271| rlatjwls3333|맞았습니다!! 맞았습니다!!|2020KB|0ms|C++20|219B|
+
+## 문제
+<div style="background:#eeeeee;border:1px solid #cccccc;padding:5px 10px;">
+<p>그렇다면 우리에게 남는 질문은 이것이다.</p>
+
+<p>인간은 무엇인가.</p>
+
+<p>인간이 무엇이지 않기 위해 우리는 무엇을 해야 하는가.</p>
+
+<p>한강 <소년이 온다> 中</p>
+</div>
+
+<p>"역사적 트라우마에 맞서고 인간 생의 연약함을 드러낸 강렬한 시적 산문."</p>
+
+<p>연세대학교 국어국문학과 89학번, 한강 작가의 노벨문학상 수상을 진심으로 축하드립니다.</p>
+
+<hr>
+<p>형진이는 $2024$년을 기념하기 위해, $100\,000$ 이하의 $2024$의 배수를 모두 기억해 두었다. 양의 정수 $N$이 입력으로 주어질 때, 형진이가 기억하는 수라면 <span style="color:#e74c3c;"><code>Yes</code></span>를, 그렇지 않다면 <span style="color:#e74c3c;"><code>No</code></span>를 출력하자.</p>
+
+## 입력
+<p>첫 번째 줄에 양의 정수 $N$이 주어진다. $(1 \le N \le 10^9)$</p>
+
+## 출력
+<p>$N$이 형진이가 기억하는 수라면 <span style="color:#e74c3c;"><code>Yes</code></span>를, 아니라면 <span style="color:#e74c3c;"><code>No</code></span>를 출력한다.</p>
+
