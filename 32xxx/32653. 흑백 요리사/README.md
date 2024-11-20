@@ -1,10 +1,7 @@
-# <img width="20px"  src="https://d2gd6pc034wcta.cloudfront.net/tier/7.svg" class="solvedac-tier"> [흑백 요리사](https://www.acmicpc.net/problem/32653) 
-
-| 제출 번호 | 닉네임 | 채점 결과 | 메모리 | 시간 | 언어 | 코드 길이 |
-|---|---|---|---|---|---|---|
-|86680131| rlatjwls3333|맞았습니다!! 맞았습니다!!|2020KB|20ms|C++20|275B|
+# <img width="20px"  src="https://d2gd6pc034wcta.cloudfront.net/tier/7.svg" class="solvedac-tier"> [흑백 요리사](https://www.acmicpc.net/problem/32653)
 
 ## 문제
+
 <p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/e20a77f8-aa19-454c-bd95-798c20c8d424/-/preview/"></p>
 
 <p>성현이는 요리 경연에 출전해 다음과 같은 혹평을 받게 된다.</p>
@@ -22,10 +19,11 @@
 <p>고기는 너무 오래 구우면 질겨지므로, 성현이는 주어진 조건을 만족하면서 가장 빨리 모든 스테이크를 굽고 싶다. 성현이는 몇 분 동안 스테이크를 구워야 할까?</p>
 
 ## 입력
+
 <p>첫 번째 줄에 스테이크의 개수 $N$이 주어진다. $(1 \leq N \leq 200\,000)$</p>
 
 <p>두 번째 줄에 각 스테이크의 두께인 양의 정수 $x_i$가 공백으로 구분되어 주어진다. $(1 \leq x_i \leq 25)$</p>
 
 ## 출력
-<p>성현이가 모든 스테이크를 even 하게 굽기 위해 필요한 최소 시간을 분 단위로 출력한다.</p>
 
+<p>성현이가 모든 스테이크를 even 하게 굽기 위해 필요한 최소 시간을 분 단위로 출력한다.</p>
