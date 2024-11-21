@@ -1579,6 +1579,7 @@
 | [10872](https://boj.kr/10872) | 팩토리얼 | Bronze III | [Java](./10xxx/10872. 팩토리얼/팩토리얼.java) |
 | [10874](https://boj.kr/10874) | 이교수님의 시험 | Bronze III | [Java](./10xxx/10874. 이교수님의 시험/이교수님의 시험.java) |
 | [10886](https://boj.kr/10886) | 0 = not cute / 1 = cute | Bronze III | [Java](./10xxx/10886. 0 ＝ not cute ／ 1 ＝ cute/0 ＝ not cute ／ 1 ＝ cute.java) |
+| [10891](https://boj.kr/10891) | Cactus? Not cactus? | Platinum III | [C++](./10xxx/10891. Cactus？ Not cactus？/Cactus？ Not cactus？.cc) |
 | [10892](https://boj.kr/10892) | Divide into triangle | Silver III | [C++](./10xxx/10892. Divide into triangle/Divide into triangle.cc) |
 | [10902](https://boj.kr/10902) | Penalty calculation | Bronze III | [Java](./10xxx/10902. Penalty calculation/Penalty calculation.java) |
 | [10914](https://boj.kr/10914) | Veni, vidi, vici | Bronze I | [Java](./10xxx/10914. Veni， vidi， vici/Veni， vidi， vici.java) |
@@ -1699,6 +1700,7 @@
 | [11382](https://boj.kr/11382) | 꼬마 정민 | Bronze V | [C](./11xxx/11382. 꼬마 정민/꼬마 정민.c) [C++](./11xxx/11382. 꼬마 정민/꼬마 정민.cc) |
 | [11383](https://boj.kr/11383) | 뚊 | Bronze I | [Java](./11xxx/11383. 뚊/뚊.java) |
 | [11399](https://boj.kr/11399) | ATM | Silver IV | [Java](./11xxx/11399. ATM/ATM.java) |
+| [11400](https://boj.kr/11400) | 단절선 | Platinum IV | [C++](./11xxx/11400. 단절선/단절선.cc) |
 | [11401](https://boj.kr/11401) | 이항 계수 3 | Gold I | [Java](./11xxx/11401. 이항 계수 3/이항 계수 3.java) |
 | [11403](https://boj.kr/11403) | 경로 찾기 | Silver I | [Java](./11xxx/11403. 경로 찾기/경로 찾기.java) |
 | [11404](https://boj.kr/11404) | 플로이드 | Gold IV | [Java](./11xxx/11404. 플로이드/플로이드.java) |
@@ -3922,7 +3924,7 @@
 | [31561](https://boj.kr/31561) | 시계탑 | Bronze III | [Python](./31xxx/31561. 시계탑/시계탑.py) |
 | [31562](https://boj.kr/31562) | 전주 듣고 노래 맞히기 | Bronze I | [Java](./31xxx/31562. 전주 듣고 노래 맞히기/전주 듣고 노래 맞히기.java) |
 | [31565](https://boj.kr/31565) | 전역 역전 | Gold IV | [C++](./31xxx/31565. 전역 역전/전역 역전.cc) |
-| [31602](https://boj.kr/31602) | There and Back Again | Platinum V | [C++](./31xxx/31602. There and Back Again/There and Back Again.cc) |
+| [31602](https://boj.kr/31602) | There and Back Again | Platinum IV | [C++](./31xxx/31602. There and Back Again/There and Back Again.cc) |
 | [31606](https://boj.kr/31606) | 果物 (Fruit) | Bronze V | [Python](./31xxx/31606. 果物 （Fruit）/果物 （Fruit）.py) |
 | [31607](https://boj.kr/31607) | 和の判定 (Sum Checker) | Bronze IV | [Python](./31xxx/31607. 和の判定 （Sum Checker）/和の判定 （Sum Checker）.py) |
 | [31608](https://boj.kr/31608) | ハミング距離 (Hamming Distance) | Bronze IV | [Python](./31xxx/31608. ハミング距離 （Hamming Distance）/ハミング距離 （Hamming Distance）.py) |
@@ -4054,11 +4056,12 @@
 | [32585](https://boj.kr/32585) | Building Pyramids | Bronze III | [Python](./32xxx/32585. Building Pyramids/Building Pyramids.py) |
 | [32587](https://boj.kr/32587) | Dragged-out Duel | Bronze III | [C++](./32xxx/32587. Dragged－out Duel/Dragged－out Duel.cc) |
 | [32604](https://boj.kr/32604) | Jumbled Scoreboards | Bronze IV | [Python](./32xxx/32604. Jumbled Scoreboards/Jumbled Scoreboards.py) |
+| [32626](https://boj.kr/32626) | SPC에 가는 길 | Bronze II | [C++](./32xxx/32626. SPC에 가는 길/SPC에 가는 길.cc) |
 | [32642](https://boj.kr/32642) | 당구 좀 치자 제발 | Bronze IV | [C++](./32xxx/32642. 당구 좀 치자 제발/당구 좀 치자 제발.cc) |
-| [32651](https://boj.kr/32651) | 인간은 무엇인가 | Bronze IV | |
-| [32652](https://boj.kr/32652) | 아카라카 2 | Bronze III | |
-| [32653](https://boj.kr/32653) | 흑백 요리사 | Silver IV | |
-| [32654](https://boj.kr/32654) | 게임 오브 데쓰 (Easy) | Gold IV | |
+| [32651](https://boj.kr/32651) | 인간은 무엇인가 | Bronze IV | [C++](./32xxx/32651.%E2%80%85인간은%E2%80%85무엇인가/인간은 무엇인가.cc) |
+| [32652](https://boj.kr/32652) | 아카라카 2 | Bronze III | [C++](./32xxx/32652.%E2%80%85아카라카%E2%80%852/아카라카 2.cc) |
+| [32653](https://boj.kr/32653) | 흑백 요리사 | Silver IV | [C++](./32xxx/32653.%E2%80%85흑백%E2%80%85요리사/흑백 요리사.cc) |
+| [32654](https://boj.kr/32654) | 게임 오브 데쓰 (Easy) | Gold IV | [C++](./32xxx/32654.%E2%80%85게임%E2%80%85오브%E2%80%85데쓰%E2%80%85(Easy)/게임 오브 데쓰 （Easy）.cc) |
 | [32661](https://boj.kr/32661) | Airfare Grants | Bronze III | [Python](./32xxx/32661. Airfare Grants/Airfare Grants.py) |
 | [32682](https://boj.kr/32682) | Which Number Kind Is It? | Bronze III | [C++](./32xxx/32682. Which Number Kind Is It？/Which Number Kind Is It？.cc) |
 | [32684](https://boj.kr/32684) | 장기 | Bronze IV | [Python](./32xxx/32684. 장기/장기.py) |
