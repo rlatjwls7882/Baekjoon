@@ -739,6 +739,7 @@
 | [03711](https://boj.kr/3711) | 학번 | Silver V | [Java](./03xxx/3711. 학번/학번.java) |
 | [03724](https://boj.kr/3724) | 표 | Bronze I | [Java](./03xxx/3724. 표/표.java) |
 | [03733](https://boj.kr/3733) | Shares | Bronze V | [C](./03xxx/3733. Shares/Shares.c) |
+| [03737](https://boj.kr/3737) | Cycles of Lanes | Platinum III | [C++](./03xxx/3737. Cycles of Lanes/Cycles of Lanes.cc) |
 | [03747](https://boj.kr/3747) | 완벽한 선거! | Platinum IV | [C++](./03xxx/3747. 완벽한 선거！/완벽한 선거！.cc) |
 | [03758](https://boj.kr/3758) | KCPC | Silver II | [C++](./03xxx/3758. KCPC/KCPC.cc) |
 | [03765](https://boj.kr/3765) | Celebrity jeopardy | Bronze IV | [Java](./03xxx/3765. Celebrity jeopardy/Celebrity jeopardy.java) |
@@ -1929,6 +1930,7 @@
 | [13335](https://boj.kr/13335) | 트럭 | Silver I | [C++](./13xxx/13335. 트럭/트럭.cc) |
 | [13363](https://boj.kr/13363) | Jumbled Compass | Bronze III | [Java](./13xxx/13363. Jumbled Compass/Jumbled Compass.java) |
 | [13366](https://boj.kr/13366) | Math Contest | Bronze III | [C++](./13xxx/13366. Math Contest/Math Contest.cc) |
+| [13383](https://boj.kr/13383) | Oil | Gold V | [C++](./13xxx/13383. Oil/Oil.cc) |
 | [13398](https://boj.kr/13398) | 연속합 2 | Gold V | [C++](./13xxx/13398. 연속합 2/연속합 2.cc) |
 | [13410](https://boj.kr/13410) | 거꾸로 구구단 | Bronze II | [Java](./13xxx/13410. 거꾸로 구구단/거꾸로 구구단.java) |
 | [13412](https://boj.kr/13412) | 서로소 쌍 | Silver II | [Java](./13xxx/13412. 서로소 쌍/서로소 쌍.java) |
@@ -2247,6 +2249,7 @@
 | [15593](https://boj.kr/15593) | Lifeguards (Bronze) | Bronze I | [Java](./15xxx/15593. Lifeguards （Bronze）/Lifeguards （Bronze）.java) |
 | [15595](https://boj.kr/15595) | 정답 비율 계산하기 | Silver III | [C++](./15xxx/15595. 정답 비율 계산하기/정답 비율 계산하기.cc) |
 | [15596](https://boj.kr/15596) | 정수 N개의 합 | Bronze II | [C](./15xxx/15596. 정수 N개의 합/정수 N개의 합.c) |
+| [15606](https://boj.kr/15606) | High Score | Gold V | [C++](./15xxx/15606. High Score/High Score.cc) |
 | [15610](https://boj.kr/15610) | Abbey Courtyard | Bronze IV | [Java](./15xxx/15610. Abbey Courtyard/Abbey Courtyard.java) |
 | [15612](https://boj.kr/15612) | Cube Bits | Bronze II | [Java](./15xxx/15612. Cube Bits/Cube Bits.java) |
 | [15624](https://boj.kr/15624) | 피보나치 수 7 | Silver IV | [Java](./15xxx/15624. 피보나치 수 7/피보나치 수 7.java) |
@@ -3181,7 +3184,7 @@
 | [24623](https://boj.kr/24623) | Изгороди | Bronze III | [Java](./24xxx/24623. Изгороди/Изгороди.java) |
 | [24638](https://boj.kr/24638) | Anno Domini 2022 | Bronze II | [Java](./24xxx/24638. Anno Domini 2022/Anno Domini 2022.java) |
 | [24653](https://boj.kr/24653) | Announcements | Silver III | [C++](./24xxx/24653. Announcements/Announcements.cc) |
-| [24654](https://boj.kr/24654) | Build The Grid | Gold II | [C++](./24xxx/24654. Build The Grid/Build The Grid.cc) |
+| [24654](https://boj.kr/24654) | Build The Grid | Gold III | [C++](./24xxx/24654. Build The Grid/Build The Grid.cc) |
 | [24657](https://boj.kr/24657) | Edges, Colors and MST | Platinum I | [C++](./24xxx/24657. Edges， Colors and MST/Edges， Colors and MST.cc) |
 | [24661](https://boj.kr/24661) | Items and Heroes | Platinum I | [C++](./24xxx/24661. Items and Heroes/Items and Heroes.cc) |
 | [24723](https://boj.kr/24723) | 녹색거탑 | Bronze IV | [Java](./24xxx/24723. 녹색거탑/녹색거탑.java) |
@@ -3381,6 +3384,8 @@
 | [26336](https://boj.kr/26336) | Are We Stopping Again? | Bronze III | [Python](./26xxx/26336. Are We Stopping Again？/Are We Stopping Again？.py) |
 | [26340](https://boj.kr/26340) | Fold the Paper Nicely | Bronze IV | [Java](./26xxx/26340. Fold the Paper Nicely/Fold the Paper Nicely.java) |
 | [26350](https://boj.kr/26350) | Good Coin Denomination | Bronze IV | [Java](./26xxx/26350. Good Coin Denomination/Good Coin Denomination.java) |
+| [26358](https://boj.kr/26358) | A Prickly Problem – Gold Edition | Platinum IV | [C++](./26xxx/26358. A Prickly Problem – Gold Edition/A Prickly Problem – Gold Edition.cc) |
+| [26359](https://boj.kr/26359) | A Prickly Problem – Black Edition | Platinum IV | [C++](./26xxx/26359. A Prickly Problem – Black Edition/A Prickly Problem – Black Edition.cc) |
 | [26360](https://boj.kr/26360) | Basket | Bronze III | [C++](./26xxx/26360. Basket/Basket.cc) |
 | [26392](https://boj.kr/26392) | Desni klik | Bronze III | [Java](./26xxx/26392. Desni klik/Desni klik.java) |
 | [26416](https://boj.kr/26416) | New Password | Bronze II | [Java](./26xxx/26416. New Password/New Password.java) |
@@ -4066,4 +4071,5 @@
 | [32682](https://boj.kr/32682) | Which Number Kind Is It? | Bronze III | [C++](./32xxx/32682. Which Number Kind Is It？/Which Number Kind Is It？.cc) |
 | [32684](https://boj.kr/32684) | 장기 | Bronze IV | [Python](./32xxx/32684. 장기/장기.py) |
 | [32722](https://boj.kr/32722) | Juta teekond | Bronze IV | [Python](./32xxx/32722. Juta teekond/Juta teekond.py) |
+| [32728](https://boj.kr/32728) | Sõnakuulelik Tom | Bronze III | [C++](./32xxx/32728. Sõnakuulelik Tom/Sõnakuulelik Tom.cc) |
 </div>
