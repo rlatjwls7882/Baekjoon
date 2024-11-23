@@ -4039,6 +4039,10 @@
 | [32314](https://boj.kr/32314) | Christmas Tree Adapter | Bronze V | [C++](./32xxx/32314. Christmas Tree Adapter/Christmas Tree Adapter.cc) |
 | [32326](https://boj.kr/32326) | Conveyor Belt Sushi | Bronze V | [C++](./32xxx/32326. Conveyor Belt Sushi/Conveyor Belt Sushi.cc) |
 | [32327](https://boj.kr/32327) | Dusa And The Yobis | Bronze III | [C++](./32xxx/32327. Dusa And The Yobis/Dusa And The Yobis.cc) |
+| [32331](https://boj.kr/32331) | 원교수님 A+ 주세요 | Silver IV | [C++](./32xxx/32331. 원교수님 A＋ 주세요/원교수님 A＋ 주세요.cc) |
+| [32333](https://boj.kr/32333) | 한양이의 새로운 시계 | Silver I | |
+| [32334](https://boj.kr/32334) | 자석 체스 | Silver I | [C++](./32xxx/32334. 자석 체스/자석 체스.cc) |
+| [32335](https://boj.kr/32335) | 부자가 될 거야! | Silver III | [C++](./32xxx/32335. 부자가 될 거야！/부자가 될 거야！.cc) |
 | [32342](https://boj.kr/32342) | 와우와 쿼리 | Bronze III | [C++](./32xxx/32342. 와우와 쿼리/와우와 쿼리.cc) |
 | [32357](https://boj.kr/32357) | 더블팰린드롬 | Bronze I | [C++](./32xxx/32357. 더블팰린드롬/더블팰린드롬.cc) |
 | [32364](https://boj.kr/32364) | Hat Circle | Bronze III | [C++](./32xxx/32364. Hat Circle/Hat Circle.cc) |
@@ -4061,6 +4065,7 @@
 | [32585](https://boj.kr/32585) | Building Pyramids | Bronze III | [Python](./32xxx/32585. Building Pyramids/Building Pyramids.py) |
 | [32587](https://boj.kr/32587) | Dragged-out Duel | Bronze III | [C++](./32xxx/32587. Dragged－out Duel/Dragged－out Duel.cc) |
 | [32604](https://boj.kr/32604) | Jumbled Scoreboards | Bronze IV | [Python](./32xxx/32604. Jumbled Scoreboards/Jumbled Scoreboards.py) |
+| [32621](https://boj.kr/32621) | 동아리비 횡령 | Bronze II | [Java](./32xxx/32621. 동아리비 횡령/동아리비 횡령.java) |
 | [32626](https://boj.kr/32626) | SPC에 가는 길 | Bronze II | [C++](./32xxx/32626. SPC에 가는 길/SPC에 가는 길.cc) |
 | [32642](https://boj.kr/32642) | 당구 좀 치자 제발 | Bronze IV | [C++](./32xxx/32642. 당구 좀 치자 제발/당구 좀 치자 제발.cc) |
 | [32651](https://boj.kr/32651) | 인간은 무엇인가 | Bronze IV | [C++](./32xxx/32651.%E2%80%85인간은%E2%80%85무엇인가/인간은 무엇인가.cc) |
