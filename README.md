@@ -3966,6 +3966,7 @@
 | [31799](https://boj.kr/31799) | 평점 변환 | Silver V | [C++](./31xxx/31799. 평점 변환/평점 변환.cc) |
 | [31821](https://boj.kr/31821) | 학식 사주기 | Bronze IV | [Java](./31xxx/31821. 학식 사주기/학식 사주기.java) |
 | [31822](https://boj.kr/31822) | 재수강 | Bronze IV | [Java](./31xxx/31822. 재수강/재수강.java) |
+| [31823](https://boj.kr/31823) | 악질 검거 | Bronze I | [C++](./31xxx/31823. 악질 검거/악질 검거.cc) |
 | [31829](https://boj.kr/31829) | 첫 차 타기 | Gold III | [C++](./31xxx/31829. 첫 차 타기/첫 차 타기.cc) |
 | [31831](https://boj.kr/31831) | 과민성 대장 증후군 | Bronze III | [Java](./31xxx/31831. 과민성 대장 증후군/과민성 대장 증후군.java) |
 | [31832](https://boj.kr/31832) | 팀명 정하기 2 | Bronze II | [Java](./31xxx/31832. 팀명 정하기 2/팀명 정하기 2.java) |
@@ -4040,7 +4041,7 @@
 | [32326](https://boj.kr/32326) | Conveyor Belt Sushi | Bronze V | [C++](./32xxx/32326. Conveyor Belt Sushi/Conveyor Belt Sushi.cc) |
 | [32327](https://boj.kr/32327) | Dusa And The Yobis | Bronze III | [C++](./32xxx/32327. Dusa And The Yobis/Dusa And The Yobis.cc) |
 | [32331](https://boj.kr/32331) | 원교수님 A+ 주세요 | Silver IV | [C++](./32xxx/32331. 원교수님 A＋ 주세요/원교수님 A＋ 주세요.cc) |
-| [32333](https://boj.kr/32333) | 한양이의 새로운 시계 | Silver I | |
+| [32333](https://boj.kr/32333) | 한양이의 새로운 시계 | Silver I | [C++](./32xxx/32333. 한양이의 새로운 시계/한양이의 새로운 시계.cc) |
 | [32334](https://boj.kr/32334) | 자석 체스 | Silver I | [C++](./32xxx/32334. 자석 체스/자석 체스.cc) |
 | [32335](https://boj.kr/32335) | 부자가 될 거야! | Silver III | [C++](./32xxx/32335. 부자가 될 거야！/부자가 될 거야！.cc) |
 | [32342](https://boj.kr/32342) | 와우와 쿼리 | Bronze III | [C++](./32xxx/32342. 와우와 쿼리/와우와 쿼리.cc) |
@@ -4075,6 +4076,8 @@
 | [32661](https://boj.kr/32661) | Airfare Grants | Bronze III | [Python](./32xxx/32661. Airfare Grants/Airfare Grants.py) |
 | [32682](https://boj.kr/32682) | Which Number Kind Is It? | Bronze III | [C++](./32xxx/32682. Which Number Kind Is It？/Which Number Kind Is It？.cc) |
 | [32684](https://boj.kr/32684) | 장기 | Bronze IV | [Python](./32xxx/32684. 장기/장기.py) |
+| [32685](https://boj.kr/32685) | 4-LSB | Bronze II | [C++](./32xxx/32685. 4－LSB/4－LSB.cc) |
 | [32722](https://boj.kr/32722) | Juta teekond | Bronze IV | [Python](./32xxx/32722. Juta teekond/Juta teekond.py) |
 | [32728](https://boj.kr/32728) | Sõnakuulelik Tom | Bronze III | [C++](./32xxx/32728. Sõnakuulelik Tom/Sõnakuulelik Tom.cc) |
+| [32795](https://boj.kr/32795) | Intuitive Elements | Bronze III | |
 </div>
