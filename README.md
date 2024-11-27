@@ -860,6 +860,7 @@
 | [04880](https://boj.kr/4880) | 다음수 | Bronze III | [Java](./04xxx/4880. 다음수/다음수.java) |
 | [04881](https://boj.kr/4881) | 자리수의 제곱 | Silver III | [C++](./04xxx/4881. 자리수의 제곱/자리수의 제곱.cc) |
 | [04883](https://boj.kr/4883) | 삼각 그래프 | Silver I | [C++](./04xxx/4883. 삼각 그래프/삼각 그래프.cc) |
+| [04889](https://boj.kr/4889) | 안정적인 문자열 | Silver I | [Python](./04xxx/4889. 안정적인 문자열/안정적인 문자열.py) |
 | [04890](https://boj.kr/4890) | Tiles of Tetris, NOT! | Bronze II | [Java](./04xxx/4890. Tiles of Tetris， NOT！/Tiles of Tetris， NOT！.java) |
 | [04892](https://boj.kr/4892) | 숫자 맞추기 게임 | Bronze III | [Java](./04xxx/4892. 숫자 맞추기 게임/숫자 맞추기 게임.java) |
 | [04909](https://boj.kr/4909) | Judging Olympia | Bronze III | [Java](./04xxx/4909. Judging Olympia/Judging Olympia.java) |
@@ -3352,6 +3353,7 @@
 | [26040](https://boj.kr/26040) | 특정 대문자를 소문자로 바꾸기 | Bronze III | [Java](./26xxx/26040. 특정 대문자를 소문자로 바꾸기/특정 대문자를 소문자로 바꾸기.java) |
 | [26041](https://boj.kr/26041) | 비슷한 전화번호 표시 | Bronze II | [Java](./26xxx/26041. 비슷한 전화번호 표시/비슷한 전화번호 표시.java) |
 | [26042](https://boj.kr/26042) | 식당 입구 대기 줄 | Silver V | [Java](./26xxx/26042. 식당 입구 대기 줄/식당 입구 대기 줄.java) |
+| [26043](https://boj.kr/26043) | 식당 메뉴 | Silver IV | [C++](./26xxx/26043. 식당 메뉴/식당 메뉴.cc) |
 | [26057](https://boj.kr/26057) | Большой удой | Bronze IV | [Java](./26xxx/26057. Большой удой/Большой удой.java) |
 | [26068](https://boj.kr/26068) | 치킨댄스를 추는 곰곰이를 본 임스 2 | Bronze IV | [Java](./26xxx/26068. 치킨댄스를 추는 곰곰이를 본 임스 2/치킨댄스를 추는 곰곰이를 본 임스 2.java) |
 | [26069](https://boj.kr/26069) | 붙임성 좋은 총총이 | Silver IV | [Java](./26xxx/26069. 붙임성 좋은 총총이/붙임성 좋은 총총이.java) |
@@ -4083,4 +4085,5 @@
 | [32722](https://boj.kr/32722) | Juta teekond | Bronze IV | [Python](./32xxx/32722. Juta teekond/Juta teekond.py) |
 | [32728](https://boj.kr/32728) | Sõnakuulelik Tom | Bronze III | [C++](./32xxx/32728. Sõnakuulelik Tom/Sõnakuulelik Tom.cc) |
 | [32795](https://boj.kr/32795) | Intuitive Elements | Bronze III | |
+| [32805](https://boj.kr/32805) | A Stack of Gold | Bronze II | [Python](./32xxx/32805. A Stack of Gold/A Stack of Gold.py) |
 </div>
