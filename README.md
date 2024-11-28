@@ -3043,6 +3043,7 @@
 | [23743](https://boj.kr/23743) | 방탈출 | Gold II | [Java](./23xxx/23743. 방탈출/방탈출.java) |
 | [23746](https://boj.kr/23746) | 문자열 압축 해제 | Bronze I | [Java](./23xxx/23746. 문자열 압축 해제/문자열 압축 해제.java) |
 | [23756](https://boj.kr/23756) | 노브 돌리기 | Bronze II | [Java](./23xxx/23756. 노브 돌리기/노브 돌리기.java) |
+| [23757](https://boj.kr/23757) | 아이들과 선물 상자 | Silver II | [C++](./23xxx/23757. 아이들과 선물 상자/아이들과 선물 상자.cc) [Python](./23xxx/23757. 아이들과 선물 상자/아이들과 선물 상자.py) |
 | [23758](https://boj.kr/23758) | 중앙값 제거 | Silver I | [C++](./23xxx/23758. 중앙값 제거/중앙값 제거.cc) |
 | [23787](https://boj.kr/23787) | Cyanide Rivers | Bronze II | [Java](./23xxx/23787. Cyanide Rivers/Cyanide Rivers.java) |
 | [23794](https://boj.kr/23794) | 골뱅이 찍기 - 정사각형 | Bronze III | [Java](./23xxx/23794. 골뱅이 찍기 － 정사각형/골뱅이 찍기 － 정사각형.java) |
@@ -3551,7 +3552,7 @@
 | [27891](https://boj.kr/27891) | 특별한 학교 이름 암호화 | Bronze II | [Java](./27xxx/27891. 특별한 학교 이름 암호화/특별한 학교 이름 암호화.java) |
 | [27893](https://boj.kr/27893) | 특별한 드롭킥 | Gold III | [C++](./27xxx/27893. 특별한 드롭킥/특별한 드롭킥.cc) |
 | [27907](https://boj.kr/27907) | The primes contain arbitrarily long arithmetic progressions | Silver V | [C++](./27xxx/27907. The primes contain arbitrarily long arithmetic progressions/The primes contain arbitrarily long arithmetic progressions.cc) |
-| [27908](https://boj.kr/27908) | Kalendar | Bronze II | [Java](./27xxx/27908. Kalendar/Kalendar.java) |
+| [27908](https://boj.kr/27908) | Kalendar | Bronze I | [Java](./27xxx/27908. Kalendar/Kalendar.java) |
 | [27913](https://boj.kr/27913) | SciComLove (2023) | Bronze II | [Java](./27xxx/27913. SciComLove （2023）/SciComLove （2023）.java) |
 | [27918](https://boj.kr/27918) | 탁구 경기 | Bronze IV | [Java](./27xxx/27918. 탁구 경기/탁구 경기.java) |
 | [27919](https://boj.kr/27919) | UDPC 파티 | Silver IV | [C++](./27xxx/27919. UDPC 파티/UDPC 파티.cc) |
