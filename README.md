@@ -2098,7 +2098,7 @@
 | [14595](https://boj.kr/14595) | 동방 프로젝트 (Large) | Gold IV | [C++](./14xxx/14595. 동방 프로젝트 （Large）/동방 프로젝트 （Large）.cc) |
 | [14606](https://boj.kr/14606) | 피자 (Small) | Silver V | [Java](./14xxx/14606. 피자 （Small）/피자 （Small）.java) |
 | [14607](https://boj.kr/14607) | 피자 (Large) | Silver III | [Java](./14xxx/14607. 피자 （Large）/피자 （Large）.java) |
-| [14608](https://boj.kr/14608) | 구분구적법 (Small) | Silver V | [C++](./14xxx/14608. 구분구적법 （Small）/구분구적법 （Small）.cc) |
+| [14608](https://boj.kr/14608) | 구분구적법 (Small) | Silver IV | [C++](./14xxx/14608. 구분구적법 （Small）/구분구적법 （Small）.cc) |
 | [14609](https://boj.kr/14609) | 구분구적법 (Large) | Gold V | [C++](./14xxx/14609. 구분구적법 （Large）/구분구적법 （Large）.cc) |
 | [14610](https://boj.kr/14610) | 좋은 대회 | Gold IV | [C++](./14xxx/14610. 좋은 대회/좋은 대회.cc) |
 | [14614](https://boj.kr/14614) | Calculate! | Bronze II | [Java](./14xxx/14614. Calculate！/Calculate！.java) |
@@ -4082,9 +4082,11 @@
 | [32682](https://boj.kr/32682) | Which Number Kind Is It? | Bronze III | [C++](./32xxx/32682. Which Number Kind Is It？/Which Number Kind Is It？.cc) |
 | [32684](https://boj.kr/32684) | 장기 | Bronze IV | [Python](./32xxx/32684. 장기/장기.py) |
 | [32685](https://boj.kr/32685) | 4-LSB | Bronze II | [C++](./32xxx/32685. 4－LSB/4－LSB.cc) |
-| [32710](https://boj.kr/32710) | 구구단표 | Bronze IV | |
+| [32710](https://boj.kr/32710) | 구구단표 | Bronze IV | [C++](./32xxx/32710. 구구단표/구구단표.cc) |
 | [32722](https://boj.kr/32722) | Juta teekond | Bronze IV | [Python](./32xxx/32722. Juta teekond/Juta teekond.py) |
 | [32728](https://boj.kr/32728) | Sõnakuulelik Tom | Bronze III | [C++](./32xxx/32728. Sõnakuulelik Tom/Sõnakuulelik Tom.cc) |
-| [32795](https://boj.kr/32795) | Intuitive Elements | Bronze III | |
+| [32795](https://boj.kr/32795) | Intuitive Elements | Bronze III | [C++](./32xxx/32795. Intuitive Elements/Intuitive Elements.cc) |
 | [32805](https://boj.kr/32805) | A Stack of Gold | Bronze II | [Python](./32xxx/32805. A Stack of Gold/A Stack of Gold.py) |
+| [32830](https://boj.kr/32830) | Cards Flipping | Gold I | [C++](./32xxx/32830. Cards Flipping/Cards Flipping.cc) |
+| [32834](https://boj.kr/32834) | Pair Sorting | Platinum III | [C++](./32xxx/32834. Pair Sorting/Pair Sorting.cc) |
 </div>
