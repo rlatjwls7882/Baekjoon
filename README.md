@@ -140,7 +140,7 @@
 | [01357](https://boj.kr/1357) | 뒤집힌 덧셈 | Bronze I | [Java](./01xxx/1357. 뒤집힌 덧셈/뒤집힌 덧셈.java) |
 | [01358](https://boj.kr/1358) | 하키 | Silver IV | [C++](./01xxx/1358. 하키/하키.cc) |
 | [01362](https://boj.kr/1362) | 펫 | Bronze II | [Java](./01xxx/1362. 펫/펫.java) |
-| [01364](https://boj.kr/1364) | 울타리 치기 | Gold IV | [C++](./01xxx/1364. 울타리 치기/울타리 치기.cc) |
+| [01364](https://boj.kr/1364) | 울타리 치기 | Gold III | [C++](./01xxx/1364. 울타리 치기/울타리 치기.cc) |
 | [01368](https://boj.kr/1368) | 물대기 | Gold II | [Java](./01xxx/1368. 물대기/물대기.java) |
 | [01371](https://boj.kr/1371) | 가장 많은 글자 | Bronze II | [Java](./01xxx/1371. 가장 많은 글자/가장 많은 글자.java) |
 | [01373](https://boj.kr/1373) | 2진수 8진수 | Bronze I | [Java](./01xxx/1373. 2진수 8진수/2진수 8진수.java) |
@@ -3283,6 +3283,7 @@
 | [25511](https://boj.kr/25511) | 값이 k인 트리 노드의 깊이 | Silver II | [C++](./25xxx/25511. 값이 k인 트리 노드의 깊이/값이 k인 트리 노드의 깊이.cc) |
 | [25514](https://boj.kr/25514) | 고속의 오름차순 숫자 탐색 | Gold IV | [C++](./25xxx/25514. 고속의 오름차순 숫자 탐색/고속의 오름차순 숫자 탐색.cc) |
 | [25527](https://boj.kr/25527) | Counting Peaks of Infection | Bronze III | [Java](./25xxx/25527. Counting Peaks of Infection/Counting Peaks of Infection.java) |
+| [25551](https://boj.kr/25551) | 멋쟁이 포닉스 | Bronze I | [C++](./25xxx/25551. 멋쟁이 포닉스/멋쟁이 포닉스.cc) |
 | [25558](https://boj.kr/25558) | 내비게이션 | Bronze II | [Java](./25xxx/25558. 내비게이션/내비게이션.java) |
 | [25576](https://boj.kr/25576) | 찾았다 악질 | Bronze II | [Java](./25xxx/25576. 찾았다 악질/찾았다 악질.java) |
 | [25584](https://boj.kr/25584) | 근무 지옥에 빠진 푸앙이 (Large) | Silver V | [Java](./25xxx/25584. 근무 지옥에 빠진 푸앙이 （Large）/근무 지옥에 빠진 푸앙이 （Large）.java) |
