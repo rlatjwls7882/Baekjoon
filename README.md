@@ -2917,6 +2917,7 @@
 | [21895](https://boj.kr/21895) | Rock-Paper-Scissors for three | Bronze II | [Python](./21xxx/21895. Rock－Paper－Scissors for three/Rock－Paper－Scissors for three.py) |
 | [21918](https://boj.kr/21918) | 전구 | Bronze II | [Java](./21xxx/21918. 전구/전구.java) |
 | [21919](https://boj.kr/21919) | 소수 최소 공배수 | Silver III | [C++](./21xxx/21919. 소수 최소 공배수/소수 최소 공배수.cc) |
+| [21920](https://boj.kr/21920) | 서로소 평균 | Silver IV | [C++](./21xxx/21920. 서로소 평균/서로소 평균.cc) |
 | [21921](https://boj.kr/21921) | 블로그 | Silver III | [C++](./21xxx/21921. 블로그/블로그.cc) |
 | [21924](https://boj.kr/21924) | 도시 건설 | Gold IV | [Java](./21xxx/21924. 도시 건설/도시 건설.java) |
 | [21938](https://boj.kr/21938) | 영상처리 | Silver II | [C++](./21xxx/21938. 영상처리/영상처리.cc) |
@@ -3287,6 +3288,7 @@
 | [25558](https://boj.kr/25558) | 내비게이션 | Bronze II | [Java](./25xxx/25558. 내비게이션/내비게이션.java) |
 | [25576](https://boj.kr/25576) | 찾았다 악질 | Bronze II | [Java](./25xxx/25576. 찾았다 악질/찾았다 악질.java) |
 | [25584](https://boj.kr/25584) | 근무 지옥에 빠진 푸앙이 (Large) | Silver V | [Java](./25xxx/25584. 근무 지옥에 빠진 푸앙이 （Large）/근무 지옥에 빠진 푸앙이 （Large）.java) |
+| [25585](https://boj.kr/25585) | 86 ─에이티식스─ 1 | Gold V | [C++](./25xxx/25585. 86 ─에이티식스─ 1/86 ─에이티식스─ 1.cc) |
 | [25591](https://boj.kr/25591) | 푸앙이와 종윤이 | Bronze IV | [Java](./25xxx/25591. 푸앙이와 종윤이/푸앙이와 종윤이.java) |
 | [25592](https://boj.kr/25592) | 바둑돌 게임 | Bronze I | [Java](./25xxx/25592. 바둑돌 게임/바둑돌 게임.java) |
 | [25593](https://boj.kr/25593) | 근무 지옥에 빠진 푸앙이 (Small) | Bronze I | [Java](./25xxx/25593. 근무 지옥에 빠진 푸앙이 （Small）/근무 지옥에 빠진 푸앙이 （Small）.java) |
@@ -3437,6 +3439,7 @@
 | [26596](https://boj.kr/26596) | 황금 칵테일 | Silver IV | [Java](./26xxx/26596. 황금 칵테일/황금 칵테일.java) |
 | [26615](https://boj.kr/26615) | 다오의 행사 계획하기 | Platinum IV | [C++](./26xxx/26615. 다오의 행사 계획하기/다오의 행사 계획하기.cc) |
 | [26645](https://boj.kr/26645) | 성장의 비약 선택권 | Bronze III | [Java](./26xxx/26645. 성장의 비약 선택권/성장의 비약 선택권.java) |
+| [26646](https://boj.kr/26646) | 알프스 케이블카 | Silver II | [C++](./26xxx/26646. 알프스 케이블카/알프스 케이블카.cc) |
 | [26650](https://boj.kr/26650) | 그램팬 | Gold V | [C++](./26xxx/26650. 그램팬/그램팬.cc) |
 | [26676](https://boj.kr/26676) | Wybór zadań | Bronze III | [Java](./26xxx/26676. Wybór zadań/Wybór zadań.java) |
 | [26711](https://boj.kr/26711) | A+B | Bronze V | [Java](./26xxx/26711. A＋B/A＋B.java) |
@@ -3671,6 +3674,7 @@
 | [29094](https://boj.kr/29094) | Баскетбол | Bronze II | [Java](./29xxx/29094. Баскетбол/Баскетбол.java) |
 | [29097](https://boj.kr/29097) | Короли | Bronze IV | [C++](./29xxx/29097. Короли/Короли.cc) |
 | [29108](https://boj.kr/29108) | Логины | Bronze III | [Java](./29xxx/29108. Логины/Логины.java) |
+| [29159](https://boj.kr/29159) | 케이크 두 개 | Silver III | [C++](./29xxx/29159. 케이크 두 개/케이크 두 개.cc) |
 | [29163](https://boj.kr/29163) | Счастье Мистера Бина | Bronze V | [Java](./29xxx/29163. Счастье Мистера Бина/Счастье Мистера Бина.java) |
 | [29196](https://boj.kr/29196) | 소수가 아닌 수 2 | Bronze I | [C++](./29xxx/29196. 소수가 아닌 수 2/소수가 아닌 수 2.cc) |
 | [29197](https://boj.kr/29197) | 아침 태권도 | Silver I | [Java](./29xxx/29197. 아침 태권도/아침 태권도.java) |
@@ -4087,6 +4091,7 @@
 | [32722](https://boj.kr/32722) | Juta teekond | Bronze IV | [Python](./32xxx/32722. Juta teekond/Juta teekond.py) |
 | [32728](https://boj.kr/32728) | Sõnakuulelik Tom | Bronze III | [C++](./32xxx/32728. Sõnakuulelik Tom/Sõnakuulelik Tom.cc) |
 | [32795](https://boj.kr/32795) | Intuitive Elements | Bronze III | [C++](./32xxx/32795. Intuitive Elements/Intuitive Elements.cc) |
+| [32801](https://boj.kr/32801) | Generalized FizzBuzz | Bronze IV | [C++](./32xxx/32801. Generalized FizzBuzz/Generalized FizzBuzz.cc) |
 | [32805](https://boj.kr/32805) | A Stack of Gold | Bronze II | [Python](./32xxx/32805. A Stack of Gold/A Stack of Gold.py) |
 | [32830](https://boj.kr/32830) | Cards Flipping | Gold I | [C++](./32xxx/32830. Cards Flipping/Cards Flipping.cc) |
 | [32834](https://boj.kr/32834) | Pair Sorting | Platinum III | [C++](./32xxx/32834. Pair Sorting/Pair Sorting.cc) |
