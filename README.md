@@ -4091,6 +4091,7 @@
 | [32722](https://boj.kr/32722) | Juta teekond | Bronze IV | [Python](./32xxx/32722. Juta teekond/Juta teekond.py) |
 | [32728](https://boj.kr/32728) | Sõnakuulelik Tom | Bronze III | [C++](./32xxx/32728. Sõnakuulelik Tom/Sõnakuulelik Tom.cc) |
 | [32795](https://boj.kr/32795) | Intuitive Elements | Bronze III | [C++](./32xxx/32795. Intuitive Elements/Intuitive Elements.cc) |
+| [32800](https://boj.kr/32800) | Bus Assignment | Bronze III | [C++](./32xxx/32800. Bus Assignment/Bus Assignment.cc) |
 | [32801](https://boj.kr/32801) | Generalized FizzBuzz | Bronze IV | [C++](./32xxx/32801. Generalized FizzBuzz/Generalized FizzBuzz.cc) |
 | [32805](https://boj.kr/32805) | A Stack of Gold | Bronze II | [Python](./32xxx/32805. A Stack of Gold/A Stack of Gold.py) |
 | [32830](https://boj.kr/32830) | Cards Flipping | Gold I | [C++](./32xxx/32830. Cards Flipping/Cards Flipping.cc) |
