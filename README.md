@@ -4090,6 +4090,7 @@
 | [32710](https://boj.kr/32710) | 구구단표 | Bronze IV | [C++](./32xxx/32710. 구구단표/구구단표.cc) |
 | [32722](https://boj.kr/32722) | Juta teekond | Bronze IV | [Python](./32xxx/32722. Juta teekond/Juta teekond.py) |
 | [32728](https://boj.kr/32728) | Sõnakuulelik Tom | Bronze III | [C++](./32xxx/32728. Sõnakuulelik Tom/Sõnakuulelik Tom.cc) |
+| [32775](https://boj.kr/32775) | 가희와 4시간의 벽 1 | Bronze V | [C++](./32xxx/32775. 가희와 4시간의 벽 1/가희와 4시간의 벽 1.cc) |
 | [32795](https://boj.kr/32795) | Intuitive Elements | Bronze III | [C++](./32xxx/32795. Intuitive Elements/Intuitive Elements.cc) |
 | [32800](https://boj.kr/32800) | Bus Assignment | Bronze III | [C++](./32xxx/32800. Bus Assignment/Bus Assignment.cc) |
 | [32801](https://boj.kr/32801) | Generalized FizzBuzz | Bronze IV | [C++](./32xxx/32801. Generalized FizzBuzz/Generalized FizzBuzz.cc) |
