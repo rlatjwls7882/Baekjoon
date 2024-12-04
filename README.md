@@ -663,7 +663,7 @@
 | [03023](https://boj.kr/3023) | 마술사 이민혁 | Bronze I | [Java](./03xxx/3023. 마술사 이민혁/마술사 이민혁.java) |
 | [03028](https://boj.kr/3028) | 창영마을 | Bronze II | [Java](./03xxx/3028. 창영마을/창영마을.java) |
 | [03029](https://boj.kr/3029) | 경고 | Bronze III | [Java](./03xxx/3029. 경고/경고.java) |
-| [03031](https://boj.kr/3031) | 리그 | Platinum V | [C++](./03xxx/3031. 리그/리그.cc) |
+| [03031](https://boj.kr/3031) | 리그 | Gold I | [C++](./03xxx/3031. 리그/리그.cc) |
 | [03034](https://boj.kr/3034) | 앵그리 창영 | Bronze III | [Java](./03xxx/3034. 앵그리 창영/앵그리 창영.java) |
 | [03035](https://boj.kr/3035) | 스캐너 | Bronze I | [Java](./03xxx/3035. 스캐너/스캐너.java) |
 | [03036](https://boj.kr/3036) | 링 | Silver IV | [C++](./03xxx/3036. 링/링.cc) |
@@ -4091,6 +4091,7 @@
 | [32722](https://boj.kr/32722) | Juta teekond | Bronze IV | [Python](./32xxx/32722. Juta teekond/Juta teekond.py) |
 | [32728](https://boj.kr/32728) | Sõnakuulelik Tom | Bronze III | [C++](./32xxx/32728. Sõnakuulelik Tom/Sõnakuulelik Tom.cc) |
 | [32775](https://boj.kr/32775) | 가희와 4시간의 벽 1 | Bronze V | [C++](./32xxx/32775. 가희와 4시간의 벽 1/가희와 4시간의 벽 1.cc) |
+| [32776](https://boj.kr/32776) | 가희와 4시간의 벽 2 | Bronze IV | [C++](./32xxx/32776. 가희와 4시간의 벽 2/가희와 4시간의 벽 2.cc) |
 | [32795](https://boj.kr/32795) | Intuitive Elements | Bronze III | [C++](./32xxx/32795. Intuitive Elements/Intuitive Elements.cc) |
 | [32800](https://boj.kr/32800) | Bus Assignment | Bronze III | [C++](./32xxx/32800. Bus Assignment/Bus Assignment.cc) |
 | [32801](https://boj.kr/32801) | Generalized FizzBuzz | Bronze IV | [C++](./32xxx/32801. Generalized FizzBuzz/Generalized FizzBuzz.cc) |
