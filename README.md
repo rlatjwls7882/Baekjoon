@@ -4098,4 +4098,5 @@
 | [32805](https://boj.kr/32805) | A Stack of Gold | Bronze II | [Python](./32xxx/32805. A Stack of Gold/A Stack of Gold.py) |
 | [32830](https://boj.kr/32830) | Cards Flipping | Gold I | [C++](./32xxx/32830. Cards Flipping/Cards Flipping.cc) |
 | [32834](https://boj.kr/32834) | Pair Sorting | Platinum III | [C++](./32xxx/32834. Pair Sorting/Pair Sorting.cc) |
+| [32902](https://boj.kr/32902) | Chips | Bronze IV | [C++](./32xxx/32902. Chips/Chips.cc) |
 </div>
