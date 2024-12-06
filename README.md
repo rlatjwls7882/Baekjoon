@@ -3939,7 +3939,7 @@
 | [31561](https://boj.kr/31561) | 시계탑 | Bronze III | [Python](./31xxx/31561. 시계탑/시계탑.py) |
 | [31562](https://boj.kr/31562) | 전주 듣고 노래 맞히기 | Bronze I | [Java](./31xxx/31562. 전주 듣고 노래 맞히기/전주 듣고 노래 맞히기.java) |
 | [31565](https://boj.kr/31565) | 전역 역전 | Gold IV | [C++](./31xxx/31565. 전역 역전/전역 역전.cc) |
-| [31602](https://boj.kr/31602) | There and Back Again | Platinum IV | [C++](./31xxx/31602. There and Back Again/There and Back Again.cc) |
+| [31602](https://boj.kr/31602) | There and Back Again | Platinum V | [C++](./31xxx/31602. There and Back Again/There and Back Again.cc) |
 | [31606](https://boj.kr/31606) | 果物 (Fruit) | Bronze V | [Python](./31xxx/31606. 果物 （Fruit）/果物 （Fruit）.py) |
 | [31607](https://boj.kr/31607) | 和の判定 (Sum Checker) | Bronze IV | [Python](./31xxx/31607. 和の判定 （Sum Checker）/和の判定 （Sum Checker）.py) |
 | [31608](https://boj.kr/31608) | ハミング距離 (Hamming Distance) | Bronze IV | [Python](./31xxx/31608. ハミング距離 （Hamming Distance）/ハミング距離 （Hamming Distance）.py) |
@@ -4092,6 +4092,7 @@
 | [32728](https://boj.kr/32728) | Sõnakuulelik Tom | Bronze III | [C++](./32xxx/32728. Sõnakuulelik Tom/Sõnakuulelik Tom.cc) |
 | [32775](https://boj.kr/32775) | 가희와 4시간의 벽 1 | Bronze V | [C++](./32xxx/32775. 가희와 4시간의 벽 1/가희와 4시간의 벽 1.cc) |
 | [32776](https://boj.kr/32776) | 가희와 4시간의 벽 2 | Bronze IV | [C++](./32xxx/32776. 가희와 4시간의 벽 2/가희와 4시간의 벽 2.cc) |
+| [32778](https://boj.kr/32778) | 가희와 부역명 | Bronze III | [C++](./32xxx/32778. 가희와 부역명/가희와 부역명.cc) |
 | [32795](https://boj.kr/32795) | Intuitive Elements | Bronze III | [C++](./32xxx/32795. Intuitive Elements/Intuitive Elements.cc) |
 | [32800](https://boj.kr/32800) | Bus Assignment | Bronze III | [C++](./32xxx/32800. Bus Assignment/Bus Assignment.cc) |
 | [32801](https://boj.kr/32801) | Generalized FizzBuzz | Bronze IV | [C++](./32xxx/32801. Generalized FizzBuzz/Generalized FizzBuzz.cc) |
