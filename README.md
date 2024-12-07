@@ -4092,6 +4092,7 @@
 | [32728](https://boj.kr/32728) | Sõnakuulelik Tom | Bronze III | [C++](./32xxx/32728. Sõnakuulelik Tom/Sõnakuulelik Tom.cc) |
 | [32775](https://boj.kr/32775) | 가희와 4시간의 벽 1 | Bronze V | [C++](./32xxx/32775. 가희와 4시간의 벽 1/가희와 4시간의 벽 1.cc) |
 | [32776](https://boj.kr/32776) | 가희와 4시간의 벽 2 | Bronze IV | [C++](./32xxx/32776. 가희와 4시간의 벽 2/가희와 4시간의 벽 2.cc) |
+| [32777](https://boj.kr/32777) | 가희와 서울 지하철 2호선 | Bronze III | [C++](./32xxx/32777. 가희와 서울 지하철 2호선/가희와 서울 지하철 2호선.cc) |
 | [32778](https://boj.kr/32778) | 가희와 부역명 | Bronze III | [C++](./32xxx/32778. 가희와 부역명/가희와 부역명.cc) |
 | [32795](https://boj.kr/32795) | Intuitive Elements | Bronze III | [C++](./32xxx/32795. Intuitive Elements/Intuitive Elements.cc) |
 | [32800](https://boj.kr/32800) | Bus Assignment | Bronze III | [C++](./32xxx/32800. Bus Assignment/Bus Assignment.cc) |
