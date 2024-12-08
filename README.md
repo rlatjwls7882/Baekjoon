@@ -4090,6 +4090,7 @@
 | [32710](https://boj.kr/32710) | 구구단표 | Bronze IV | [C++](./32xxx/32710. 구구단표/구구단표.cc) |
 | [32722](https://boj.kr/32722) | Juta teekond | Bronze IV | [Python](./32xxx/32722. Juta teekond/Juta teekond.py) |
 | [32728](https://boj.kr/32728) | Sõnakuulelik Tom | Bronze III | [C++](./32xxx/32728. Sõnakuulelik Tom/Sõnakuulelik Tom.cc) |
+| [32748](https://boj.kr/32748) | $f(A + B)$ | Silver V | [C++](./32xxx/32748. $f（A ＋ B）$/$f（A ＋ B）$.cc) |
 | [32775](https://boj.kr/32775) | 가희와 4시간의 벽 1 | Bronze V | [C++](./32xxx/32775. 가희와 4시간의 벽 1/가희와 4시간의 벽 1.cc) |
 | [32776](https://boj.kr/32776) | 가희와 4시간의 벽 2 | Bronze IV | [C++](./32xxx/32776. 가희와 4시간의 벽 2/가희와 4시간의 벽 2.cc) |
 | [32777](https://boj.kr/32777) | 가희와 서울 지하철 2호선 | Bronze III | [C++](./32xxx/32777. 가희와 서울 지하철 2호선/가희와 서울 지하철 2호선.cc) |
