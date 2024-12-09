@@ -2342,6 +2342,7 @@
 | [15927](https://boj.kr/15927) | 회문은 회문아니야!! | Gold V | [C++](./15xxx/15927. 회문은 회문아니야！！/회문은 회문아니야！！.cc) |
 | [15947](https://boj.kr/15947) | 아기 석환 뚜루루 뚜루 | Bronze I | [Java](./15xxx/15947. 아기 석환 뚜루루 뚜루/아기 석환 뚜루루 뚜루.java) |
 | [15953](https://boj.kr/15953) | 상금 헌터 | Bronze III | [Java](./15xxx/15953. 상금 헌터/상금 헌터.java) |
+| [15954](https://boj.kr/15954) | 인형들 | Silver I | [C++](./15xxx/15954. 인형들/인형들.cc) |
 | [15962](https://boj.kr/15962) | 새로운 시작 | Bronze V | [C](./15xxx/15962. 새로운 시작/새로운 시작.c) |
 | [15963](https://boj.kr/15963) | CASIO | Bronze V | [C](./15xxx/15963. CASIO/CASIO.c) |
 | [15964](https://boj.kr/15964) | 이상한 기호 | Bronze V | [C](./15xxx/15964. 이상한 기호/이상한 기호.c) |
