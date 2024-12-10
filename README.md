@@ -4103,4 +4103,5 @@
 | [32830](https://boj.kr/32830) | Cards Flipping | Gold I | [C++](./32xxx/32830. Cards Flipping/Cards Flipping.cc) |
 | [32834](https://boj.kr/32834) | Pair Sorting | Platinum III | [C++](./32xxx/32834. Pair Sorting/Pair Sorting.cc) |
 | [32902](https://boj.kr/32902) | Chips | Bronze IV | [C++](./32xxx/32902. Chips/Chips.cc) |
+| [32929](https://boj.kr/32929) | UOS 문자열 | Bronze V | [C++](./32xxx/32929. UOS 문자열/UOS 문자열.cc) |
 </div>
