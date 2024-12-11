@@ -3832,7 +3832,7 @@
 | [30503](https://boj.kr/30503) | 방형구 탐색 (Easy) | Bronze I | [Java](./30xxx/30503. 방형구 탐색 （Easy）/방형구 탐색 （Easy）.java) |
 | [30527](https://boj.kr/30527) | Cornhusker | Bronze III | [C++](./30xxx/30527. Cornhusker/Cornhusker.cc) |
 | [30536](https://boj.kr/30536) | 시루의 산책 | Gold IV | [C++](./30xxx/30536. 시루의 산책/시루의 산책.cc) |
-| [30542](https://boj.kr/30542) | Anti-Palindrome | Bronze II | [Java](./30xxx/30542. Anti－Palindrome/Anti－Palindrome.java) |
+| [30542](https://boj.kr/30542) | Anti-Palindrome | Bronze I | [Java](./30xxx/30542. Anti－Palindrome/Anti－Palindrome.java) |
 | [30544](https://boj.kr/30544) | Cuckoo! Cuckoo! | Bronze II | [Java](./30xxx/30544. Cuckoo！ Cuckoo！/Cuckoo！ Cuckoo！.java) |
 | [30552](https://boj.kr/30552) | Attendance | Bronze III | [Java](./30xxx/30552. Attendance/Attendance.java) |
 | [30569](https://boj.kr/30569) | Last One Standing | Bronze III | [Java](./30xxx/30569. Last One Standing/Last One Standing.java) |
@@ -3907,7 +3907,7 @@
 | [31261](https://boj.kr/31261) | НАМИСЛИХ СИ ЧИСЛО | Bronze IV | [Java](./31xxx/31261. НАМИСЛИХ СИ ЧИСЛО/НАМИСЛИХ СИ ЧИСЛО.java) |
 | [31262](https://boj.kr/31262) | ПОДАРЪК | Bronze II | [C++](./31xxx/31262. ПОДАРЪК/ПОДАРЪК.cc) |
 | [31263](https://boj.kr/31263) | 대한민국을 지키는 가장 긴 힘 | Silver III | [C++](./31xxx/31263. 대한민국을 지키는 가장 긴 힘/대한민국을 지키는 가장 긴 힘.cc) |
-| [31269](https://boj.kr/31269) | Eurokod | Bronze I | [Java](./31xxx/31269. Eurokod/Eurokod.java) |
+| [31269](https://boj.kr/31269) | Eurokod | Silver V | [Java](./31xxx/31269. Eurokod/Eurokod.java) |
 | [31280](https://boj.kr/31280) | ФАКИР | Bronze IV | [Java](./31xxx/31280. ФАКИР/ФАКИР.java) |
 | [31281](https://boj.kr/31281) | ЗЛАТНАТА СРЕДА | Bronze IV | [Java](./31xxx/31281. ЗЛАТНАТА СРЕДА/ЗЛАТНАТА СРЕДА.java) |
 | [31282](https://boj.kr/31282) | ЛОВНО КУЧЕ | Bronze IV | [Java](./31xxx/31282. ЛОВНО КУЧЕ/ЛОВНО КУЧЕ.java) |
@@ -4092,6 +4092,7 @@
 | [32722](https://boj.kr/32722) | Juta teekond | Bronze IV | [Python](./32xxx/32722. Juta teekond/Juta teekond.py) |
 | [32728](https://boj.kr/32728) | Sõnakuulelik Tom | Bronze III | [C++](./32xxx/32728. Sõnakuulelik Tom/Sõnakuulelik Tom.cc) |
 | [32748](https://boj.kr/32748) | $f(A + B)$ | Silver V | [C++](./32xxx/32748. $f（A ＋ B）$/$f（A ＋ B）$.cc) |
+| [32751](https://boj.kr/32751) | 햄버거 | Bronze II | [C++](./32xxx/32751. 햄버거/햄버거.cc) |
 | [32775](https://boj.kr/32775) | 가희와 4시간의 벽 1 | Bronze V | [C++](./32xxx/32775. 가희와 4시간의 벽 1/가희와 4시간의 벽 1.cc) |
 | [32776](https://boj.kr/32776) | 가희와 4시간의 벽 2 | Bronze IV | [C++](./32xxx/32776. 가희와 4시간의 벽 2/가희와 4시간의 벽 2.cc) |
 | [32777](https://boj.kr/32777) | 가희와 서울 지하철 2호선 | Bronze III | [C++](./32xxx/32777. 가희와 서울 지하철 2호선/가희와 서울 지하철 2호선.cc) |
@@ -4100,8 +4101,9 @@
 | [32800](https://boj.kr/32800) | Bus Assignment | Bronze III | [C++](./32xxx/32800. Bus Assignment/Bus Assignment.cc) |
 | [32801](https://boj.kr/32801) | Generalized FizzBuzz | Bronze IV | [C++](./32xxx/32801. Generalized FizzBuzz/Generalized FizzBuzz.cc) |
 | [32805](https://boj.kr/32805) | A Stack of Gold | Bronze II | [Python](./32xxx/32805. A Stack of Gold/A Stack of Gold.py) |
-| [32830](https://boj.kr/32830) | Cards Flipping | Gold I | [C++](./32xxx/32830. Cards Flipping/Cards Flipping.cc) |
+| [32830](https://boj.kr/32830) | Cards Flipping | Platinum V | [C++](./32xxx/32830. Cards Flipping/Cards Flipping.cc) |
 | [32834](https://boj.kr/32834) | Pair Sorting | Platinum III | [C++](./32xxx/32834. Pair Sorting/Pair Sorting.cc) |
+| [32866](https://boj.kr/32866) | 코인의 신 건모 | Bronze III | [C++](./32xxx/32866. 코인의 신 건모/코인의 신 건모.cc) |
 | [32902](https://boj.kr/32902) | Chips | Bronze IV | [C++](./32xxx/32902. Chips/Chips.cc) |
 | [32929](https://boj.kr/32929) | UOS 문자열 | Bronze V | [C++](./32xxx/32929. UOS 문자열/UOS 문자열.cc) |
 </div>
