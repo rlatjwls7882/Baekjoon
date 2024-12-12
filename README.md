@@ -266,7 +266,7 @@
 | [01788](https://boj.kr/1788) | 피보나치 수의 확장 | Silver III | [Java](./01xxx/1788. 피보나치 수의 확장/피보나치 수의 확장.java) |
 | [01789](https://boj.kr/1789) | 수들의 합 | Silver V | [Java](./01xxx/1789. 수들의 합/수들의 합.java) |
 | [01793](https://boj.kr/1793) | 타일링 | Silver II | [Java](./01xxx/1793. 타일링/타일링.java) |
-| [01799](https://boj.kr/1799) | 비숍 | Gold I | [C++](./01xxx/1799. 비숍/비숍.cc) |
+| [01799](https://boj.kr/1799) | 비숍 | Platinum V | [C++](./01xxx/1799. 비숍/비숍.cc) |
 | [01806](https://boj.kr/1806) | 부분합 | Gold IV | [Java](./01xxx/1806. 부분합/부분합.java) |
 | [01809](https://boj.kr/1809) | Moo | Bronze V | [Golfscript](./01xxx/1809. Moo/Moo.gs) |
 | [01810](https://boj.kr/1810) | 징검다리 달리기 2 | Gold II | [C++](./01xxx/1810. 징검다리 달리기 2/징검다리 달리기 2.cc) |
@@ -2717,7 +2717,7 @@
 | [19532](https://boj.kr/19532) | 수학은 비대면강의입니다 | Bronze II | [Java](./19xxx/19532. 수학은 비대면강의입니다/수학은 비대면강의입니다.java) |
 | [19539](https://boj.kr/19539) | 사과나무 | Gold V | [C++](./19xxx/19539. 사과나무/사과나무.cc) |
 | [19542](https://boj.kr/19542) | 전단지 돌리기 | Gold III | [C++](./19xxx/19542. 전단지 돌리기/전단지 돌리기.cc) |
-| [19563](https://boj.kr/19563) | 개구리 1 | Bronze II | [Java](./19xxx/19563. 개구리 1/개구리 1.java) |
+| [19563](https://boj.kr/19563) | 개구리 1 | Bronze I | [Java](./19xxx/19563. 개구리 1/개구리 1.java) |
 | [19564](https://boj.kr/19564) | 반복 | Bronze I | [Java](./19xxx/19564. 반복/반복.java) |
 | [19572](https://boj.kr/19572) | 가뭄(Small) | Bronze III | [Java](./19xxx/19572. 가뭄（Small）/가뭄（Small）.java) |
 | [19575](https://boj.kr/19575) | Polynomial | Bronze I | [Java](./19xxx/19575. Polynomial/Polynomial.java) |
@@ -3904,6 +3904,7 @@
 | [31245](https://boj.kr/31245) | ТАБЕЛА | Bronze III | [C++](./31xxx/31245. ТАБЕЛА/ТАБЕЛА.cc) |
 | [31246](https://boj.kr/31246) | 모바일 광고 입찰 | Silver V | [C++](./31xxx/31246. 모바일 광고 입찰/모바일 광고 입찰.cc) |
 | [31259](https://boj.kr/31259) | ЧЕСТОТА | Bronze II | [Java](./31xxx/31259. ЧЕСТОТА/ЧЕСТОТА.java) |
+| [31260](https://boj.kr/31260) | ПРАВОЪГЪЛНИК | Bronze III | [C++](./31xxx/31260. ПРАВОЪГЪЛНИК/ПРАВОЪГЪЛНИК.cc) |
 | [31261](https://boj.kr/31261) | НАМИСЛИХ СИ ЧИСЛО | Bronze IV | [Java](./31xxx/31261. НАМИСЛИХ СИ ЧИСЛО/НАМИСЛИХ СИ ЧИСЛО.java) |
 | [31262](https://boj.kr/31262) | ПОДАРЪК | Bronze II | [C++](./31xxx/31262. ПОДАРЪК/ПОДАРЪК.cc) |
 | [31263](https://boj.kr/31263) | 대한민국을 지키는 가장 긴 힘 | Silver III | [C++](./31xxx/31263. 대한민국을 지키는 가장 긴 힘/대한민국을 지키는 가장 긴 힘.cc) |
