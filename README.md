@@ -4061,6 +4061,7 @@
 | [32364](https://boj.kr/32364) | Hat Circle | Bronze III | [C++](./32xxx/32364. Hat Circle/Hat Circle.cc) |
 | [32369](https://boj.kr/32369) | 양파 실험 | Bronze IV | [C++](./32xxx/32369. 양파 실험/양파 실험.cc) |
 | [32370](https://boj.kr/32370) | Rook | Bronze II | [Python](./32xxx/32370. Rook/Rook.py) |
+| [32371](https://boj.kr/32371) | 샷건 | Bronze I | [C++](./32xxx/32371. 샷건/샷건.cc) |
 | [32384](https://boj.kr/32384) | 사랑은 고려대입니다 | Bronze V | [Python](./32xxx/32384. 사랑은 고려대입니다/사랑은 고려대입니다.py) |
 | [32385](https://boj.kr/32385) | $\frac{1}{2}$(MatKor+ALPS)=AlKor | Silver III | [Python](./32xxx/32385. $＼frac｛1｝｛2｝$（MatKor＋ALPS）＝AlKor/$＼frac｛1｝｛2｝$（MatKor＋ALPS）＝AlKor.py) |
 | [32399](https://boj.kr/32399) | 햄버거 정렬 | Bronze III | [C++](./32xxx/32399. 햄버거 정렬/햄버거 정렬.cc) |
