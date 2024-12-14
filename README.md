@@ -4107,5 +4107,6 @@
 | [32834](https://boj.kr/32834) | Pair Sorting | Platinum III | [C++](./32xxx/32834. Pair Sorting/Pair Sorting.cc) |
 | [32866](https://boj.kr/32866) | 코인의 신 건모 | Bronze III | [C++](./32xxx/32866. 코인의 신 건모/코인의 신 건모.cc) |
 | [32902](https://boj.kr/32902) | Chips | Bronze IV | [C++](./32xxx/32902. Chips/Chips.cc) |
+| [32905](https://boj.kr/32905) | RACI | Bronze IV | [C++](./32xxx/32905. RACI/RACI.cc) |
 | [32929](https://boj.kr/32929) | UOS 문자열 | Bronze V | [C++](./32xxx/32929. UOS 문자열/UOS 문자열.cc) |
 </div>
