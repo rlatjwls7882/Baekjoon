@@ -2222,7 +2222,7 @@
 | [15239](https://boj.kr/15239) | Password check | Bronze II | [Java](./15xxx/15239. Password check/Password check.java) |
 | [15252](https://boj.kr/15252) | Opening Ceremony | Bronze II | [Java](./15xxx/15252. Opening Ceremony/Opening Ceremony.java) |
 | [15272](https://boj.kr/15272) | Hissing Microphone | Bronze III | [Java](./15xxx/15272. Hissing Microphone/Hissing Microphone.java) |
-| [15279](https://boj.kr/15279) | Heart Rate | Bronze III | [Java](./15xxx/15279. Heart Rate/Heart Rate.java) |
+| [15279](https://boj.kr/15279) | Heart Rate | Bronze II | [Java](./15xxx/15279. Heart Rate/Heart Rate.java) |
 | [15295](https://boj.kr/15295) | Chanukah Challenge | Bronze III | [Java](./15xxx/15295. Chanukah Challenge/Chanukah Challenge.java) |
 | [15296](https://boj.kr/15296) | Sum Squared Digits Function | Bronze II | [Java](./15xxx/15296. Sum Squared Digits Function/Sum Squared Digits Function.java) |
 | [15312](https://boj.kr/15312) | 이름 궁합 | Silver V | [Java](./15xxx/15312. 이름 궁합/이름 궁합.java) |
@@ -2359,7 +2359,7 @@
 | [15995](https://boj.kr/15995) | 잉여역수 구하기 | Bronze II | [Java](./15xxx/15995. 잉여역수 구하기/잉여역수 구하기.java) |
 | [15996](https://boj.kr/15996) | 팩토리얼 나누기 | Silver III | [C++](./15xxx/15996. 팩토리얼 나누기/팩토리얼 나누기.cc) |
 | [16017](https://boj.kr/16017) | Telemarketer or not? | Bronze IV | [Java](./16xxx/16017. Telemarketer or not？/Telemarketer or not？.java) |
-| [16018](https://boj.kr/16018) | Occupy parking | Bronze II | [Java](./16xxx/16018. Occupy parking/Occupy parking.java) |
+| [16018](https://boj.kr/16018) | Occupy parking | Bronze III | [Java](./16xxx/16018. Occupy parking/Occupy parking.java) |
 | [16019](https://boj.kr/16019) | Are we there yet? | Bronze II | [Java](./16xxx/16019. Are we there yet？/Are we there yet？.java) |
 | [16020](https://boj.kr/16020) | Sunflowers | Bronze I | [Java](./16xxx/16020. Sunflowers/Sunflowers.java) |
 | [16032](https://boj.kr/16032) | Income Inequality | Bronze II | [Java](./16xxx/16032. Income Inequality/Income Inequality.java) |
@@ -4105,6 +4105,7 @@
 | [32805](https://boj.kr/32805) | A Stack of Gold | Bronze II | [Python](./32xxx/32805. A Stack of Gold/A Stack of Gold.py) |
 | [32830](https://boj.kr/32830) | Cards Flipping | Platinum V | [C++](./32xxx/32830. Cards Flipping/Cards Flipping.cc) |
 | [32834](https://boj.kr/32834) | Pair Sorting | Platinum III | [C++](./32xxx/32834. Pair Sorting/Pair Sorting.cc) |
+| [32860](https://boj.kr/32860) | 수수수수퍼노바 | Bronze II | [C++](./32xxx/32860. 수수수수퍼노바/수수수수퍼노바.cc) |
 | [32866](https://boj.kr/32866) | 코인의 신 건모 | Bronze III | [C++](./32xxx/32866. 코인의 신 건모/코인의 신 건모.cc) |
 | [32902](https://boj.kr/32902) | Chips | Bronze IV | [C++](./32xxx/32902. Chips/Chips.cc) |
 | [32905](https://boj.kr/32905) | RACI | Bronze IV | [C++](./32xxx/32905. RACI/RACI.cc) |
