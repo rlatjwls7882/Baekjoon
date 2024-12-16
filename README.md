@@ -247,7 +247,7 @@
 | [01744](https://boj.kr/1744) | 수 묶기 | Gold IV | [C++](./01xxx/1744. 수 묶기/수 묶기.cc) |
 | [01747](https://boj.kr/1747) | 소수&팰린드롬 | Silver I | [C++](./01xxx/1747. 소수＆팰린드롬/소수＆팰린드롬.cc) |
 | [01748](https://boj.kr/1748) | 수 이어 쓰기 1 | Silver IV | [C++](./01xxx/1748. 수 이어 쓰기 1/수 이어 쓰기 1.cc) |
-| [01750](https://boj.kr/1750) | 서로소의 개수 | Gold III | [C++](./01xxx/1750. 서로소의 개수/서로소의 개수.cc) |
+| [01750](https://boj.kr/1750) | 서로소의 개수 | Gold II | [C++](./01xxx/1750. 서로소의 개수/서로소의 개수.cc) |
 | [01753](https://boj.kr/1753) | 최단경로 | Gold IV | [Java](./01xxx/1753. 최단경로/최단경로.java) |
 | [01755](https://boj.kr/1755) | 숫자놀이 | Silver IV | [C++](./01xxx/1755. 숫자놀이/숫자놀이.cc) |
 | [01758](https://boj.kr/1758) | 알바생 강호 | Silver IV | [C++](./01xxx/1758. 알바생 강호/알바생 강호.cc) |
@@ -351,6 +351,7 @@
 | [02056](https://boj.kr/2056) | 작업 | Gold IV | [Java](./02xxx/2056. 작업/작업.java) |
 | [02057](https://boj.kr/2057) | 팩토리얼 분해 | Silver V | [C++](./02xxx/2057. 팩토리얼 분해/팩토리얼 분해.cc) |
 | [02061](https://boj.kr/2061) | 좋은 암호 | Bronze III | [Java](./02xxx/2061. 좋은 암호/좋은 암호.java) |
+| [02072](https://boj.kr/2072) | 오목 | Silver II | [C++](./02xxx/2072. 오목/오목.cc) |
 | [02073](https://boj.kr/2073) | 수도배관공사 | Gold IV | [C++](./02xxx/2073. 수도배관공사/수도배관공사.cc) |
 | [02074](https://boj.kr/2074) | 거듭제곱 계산하기 | Gold II | [C++](./02xxx/2074. 거듭제곱 계산하기/거듭제곱 계산하기.cc) |
 | [02075](https://boj.kr/2075) | N번째 큰 수 | Silver III | [C++](./02xxx/2075. N번째 큰 수/N번째 큰 수.cc) |
@@ -663,7 +664,7 @@
 | [03023](https://boj.kr/3023) | 마술사 이민혁 | Bronze I | [Java](./03xxx/3023. 마술사 이민혁/마술사 이민혁.java) |
 | [03028](https://boj.kr/3028) | 창영마을 | Bronze II | [Java](./03xxx/3028. 창영마을/창영마을.java) |
 | [03029](https://boj.kr/3029) | 경고 | Bronze III | [Java](./03xxx/3029. 경고/경고.java) |
-| [03031](https://boj.kr/3031) | 리그 | Gold I | [C++](./03xxx/3031. 리그/리그.cc) |
+| [03031](https://boj.kr/3031) | 리그 | Platinum V | [C++](./03xxx/3031. 리그/리그.cc) |
 | [03034](https://boj.kr/3034) | 앵그리 창영 | Bronze III | [Java](./03xxx/3034. 앵그리 창영/앵그리 창영.java) |
 | [03035](https://boj.kr/3035) | 스캐너 | Bronze I | [Java](./03xxx/3035. 스캐너/스캐너.java) |
 | [03036](https://boj.kr/3036) | 링 | Silver IV | [C++](./03xxx/3036. 링/링.cc) |
