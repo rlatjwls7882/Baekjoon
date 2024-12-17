@@ -4111,4 +4111,5 @@
 | [32902](https://boj.kr/32902) | Chips | Bronze IV | [C++](./32xxx/32902. Chips/Chips.cc) |
 | [32905](https://boj.kr/32905) | RACI | Bronze IV | [C++](./32xxx/32905. RACI/RACI.cc) |
 | [32929](https://boj.kr/32929) | UOS 문자열 | Bronze V | [C++](./32xxx/32929. UOS 문자열/UOS 문자열.cc) |
+| [32969](https://boj.kr/32969) | 학술대회 참가신청 | Bronze III | [C++](./32xxx/32969. 학술대회 참가신청/학술대회 참가신청.cc) |
 </div>
