@@ -1430,6 +1430,7 @@
 | [09950](https://boj.kr/9950) | Rectangles | Bronze III | [Java](./09xxx/9950. Rectangles/Rectangles.java) |
 | [09954](https://boj.kr/9954) | Cedric's Cypher | Bronze II | [Java](./09xxx/9954. Cedric's Cypher/Cedric's Cypher.java) |
 | [09971](https://boj.kr/9971) | The Hardest Problem Ever | Bronze II | [Java](./09xxx/9971. The Hardest Problem Ever/The Hardest Problem Ever.java) |
+| [09987](https://boj.kr/9987) | 포켓몬 마스터 | Unrated | [C++](./09xxx/9987. 포켓몬 마스터/포켓몬 마스터.cc) |
 | [09996](https://boj.kr/9996) | 한국이 그리울 땐 서버에 접속하지 | Silver III | [C++](./09xxx/9996. 한국이 그리울 땐 서버에 접속하지/한국이 그리울 땐 서버에 접속하지.cc) |
 | [10021](https://boj.kr/10021) | Watering the Fields | Gold III | [Java](./10xxx/10021. Watering the Fields/Watering the Fields.java) |
 | [10025](https://boj.kr/10025) | 게으른 백곰 | Silver III | [C++](./10xxx/10025. 게으른 백곰/게으른 백곰.cc) |
@@ -4108,6 +4109,7 @@
 | [32834](https://boj.kr/32834) | Pair Sorting | Platinum III | [C++](./32xxx/32834. Pair Sorting/Pair Sorting.cc) |
 | [32860](https://boj.kr/32860) | 수수수수퍼노바 | Bronze II | [C++](./32xxx/32860. 수수수수퍼노바/수수수수퍼노바.cc) |
 | [32866](https://boj.kr/32866) | 코인의 신 건모 | Bronze III | [C++](./32xxx/32866. 코인의 신 건모/코인의 신 건모.cc) |
+| [32888](https://boj.kr/32888) | Consolidating Windows | Bronze III | [C++](./32xxx/32888. Consolidating Windows/Consolidating Windows.cc) |
 | [32902](https://boj.kr/32902) | Chips | Bronze IV | [C++](./32xxx/32902. Chips/Chips.cc) |
 | [32905](https://boj.kr/32905) | RACI | Bronze IV | [C++](./32xxx/32905. RACI/RACI.cc) |
 | [32929](https://boj.kr/32929) | UOS 문자열 | Bronze V | [C++](./32xxx/32929. UOS 문자열/UOS 문자열.cc) |
