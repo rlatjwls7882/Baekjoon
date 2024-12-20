@@ -4098,6 +4098,7 @@
 | [32728](https://boj.kr/32728) | Sõnakuulelik Tom | Bronze III | [C++](./32xxx/32728. Sõnakuulelik Tom/Sõnakuulelik Tom.cc) |
 | [32748](https://boj.kr/32748) | $f(A + B)$ | Silver V | [C++](./32xxx/32748. $f（A ＋ B）$/$f（A ＋ B）$.cc) |
 | [32751](https://boj.kr/32751) | 햄버거 | Bronze II | [C++](./32xxx/32751. 햄버거/햄버거.cc) |
+| [32762](https://boj.kr/32762) | 더치 페이 | Bronze II | [C++](./32xxx/32762. 더치 페이/더치 페이.cc) |
 | [32775](https://boj.kr/32775) | 가희와 4시간의 벽 1 | Bronze V | [C++](./32xxx/32775. 가희와 4시간의 벽 1/가희와 4시간의 벽 1.cc) |
 | [32776](https://boj.kr/32776) | 가희와 4시간의 벽 2 | Bronze IV | [C++](./32xxx/32776. 가희와 4시간의 벽 2/가희와 4시간의 벽 2.cc) |
 | [32777](https://boj.kr/32777) | 가희와 서울 지하철 2호선 | Bronze III | [C++](./32xxx/32777. 가희와 서울 지하철 2호선/가희와 서울 지하철 2호선.cc) |
