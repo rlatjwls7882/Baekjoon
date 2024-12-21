@@ -305,7 +305,7 @@
 | [01926](https://boj.kr/1926) | 그림 | Silver I | [Java](./01xxx/1926. 그림/그림.java) |
 | [01927](https://boj.kr/1927) | 최소 힙 | Silver II | [Java](./01xxx/1927. 최소 힙/최소 힙.java) |
 | [01929](https://boj.kr/1929) | 소수 구하기 | Silver III | [Java](./01xxx/1929. 소수 구하기/소수 구하기.java) |
-| [01931](https://boj.kr/1931) | 회의실 배정 | Silver I | [Java](./01xxx/1931. 회의실 배정/회의실 배정.java) |
+| [01931](https://boj.kr/1931) | 회의실 배정 | Gold V | [Java](./01xxx/1931. 회의실 배정/회의실 배정.java) |
 | [01932](https://boj.kr/1932) | 정수 삼각형 | Silver I | [Java](./01xxx/1932. 정수 삼각형/정수 삼각형.java) |
 | [01934](https://boj.kr/1934) | 최소공배수 | Bronze I | [Java](./01xxx/1934. 최소공배수/최소공배수.java) |
 | [01935](https://boj.kr/1935) | 후위 표기식2 | Silver III | [Java](./01xxx/1935. 후위 표기식2/후위 표기식2.java) |
@@ -2637,6 +2637,7 @@
 | [17949](https://boj.kr/17949) | Drop The Byte! | Bronze I | [Java](./17xxx/17949. Drop The Byte！/Drop The Byte！.java) |
 | [17950](https://boj.kr/17950) | 스노우볼 | Bronze I | [Java](./17xxx/17950. 스노우볼/스노우볼.java) |
 | [17952](https://boj.kr/17952) | 과제는 끝나지 않아! | Silver III | [C++](./17xxx/17952. 과제는 끝나지 않아！/과제는 끝나지 않아！.cc) |
+| [17953](https://boj.kr/17953) | 디저트 | Gold V | [C++](./17xxx/17953. 디저트/디저트.cc) |
 | [17987](https://boj.kr/17987) | Howl | Bronze II | [Java](./17xxx/17987. Howl/Howl.java) |
 | [17998](https://boj.kr/17998) | Levenshtein Distance | Silver IV | [C++](./17xxx/17998. Levenshtein Distance/Levenshtein Distance.cc) |
 | [18004](https://boj.kr/18004) | From A to B | Silver II | [C++](./18xxx/18004. From A to B/From A to B.cc) |
@@ -3348,7 +3349,7 @@
 | [25915](https://boj.kr/25915) | 연세여 사랑한다 | Bronze III | [Java](./25xxx/25915. 연세여 사랑한다/연세여 사랑한다.java) |
 | [25916](https://boj.kr/25916) | 싫은데요 | Silver I | [C++](./25xxx/25916. 싫은데요/싫은데요.cc) |
 | [25918](https://boj.kr/25918) | 북극곰은 괄호를 찢어 | Silver I | [C++](./25xxx/25918. 북극곰은 괄호를 찢어/북극곰은 괄호를 찢어.cc) |
-| [25921](https://boj.kr/25921) | 건너 아는 사이 | Gold III | [C++](./25xxx/25921. 건너 아는 사이/건너 아는 사이.cc) |
+| [25921](https://boj.kr/25921) | 건너 아는 사이 | Gold IV | [C++](./25xxx/25921. 건너 아는 사이/건너 아는 사이.cc) |
 | [25932](https://boj.kr/25932) | Find the Twins | Bronze IV | [Java](./25xxx/25932. Find the Twins/Find the Twins.java) |
 | [25933](https://boj.kr/25933) | Medal Ranking | Bronze III | [Java](./25xxx/25933. Medal Ranking/Medal Ranking.java) |
 | [25943](https://boj.kr/25943) | 양팔저울 | Silver IV | [C++](./25xxx/25943. 양팔저울/양팔저울.cc) |
@@ -3432,7 +3433,7 @@
 | [26566](https://boj.kr/26566) | Pizza | Bronze IV | [Java](./26xxx/26566. Pizza/Pizza.java) |
 | [26570](https://boj.kr/26570) | Semiperfect | Silver II | [C++](./26xxx/26570. Semiperfect/Semiperfect.cc) |
 | [26574](https://boj.kr/26574) | Copier | Bronze V | [C](./26xxx/26574. Copier/Copier.c) |
-| [26575](https://boj.kr/26575) | Pups | Bronze IV | [C](./26xxx/26575. Pups/Pups.c) |
+| [26575](https://boj.kr/26575) | Pups | Bronze V | [C](./26xxx/26575. Pups/Pups.c) |
 | [26577](https://boj.kr/26577) | Math | Bronze II | [C++](./26xxx/26577. Math/Math.cc) |
 | [26582](https://boj.kr/26582) | Treasure | Gold V | [C++](./26xxx/26582. Treasure/Treasure.cc) |
 | [26583](https://boj.kr/26583) | Scale | Bronze III | [Java](./26xxx/26583. Scale/Scale.java) |
