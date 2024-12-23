@@ -779,6 +779,7 @@
 | [04196](https://boj.kr/4196) | 도미노 | Platinum 4 | [C++](./04xxx/4196. 도미노/도미노.cc) |
 | [04233](https://boj.kr/4233) | 가짜소수 | Gold 5 | [C++](./04xxx/4233. 가짜소수/가짜소수.cc) |
 | [04246](https://boj.kr/4246) | To and Fro | Bronze 1 | [Java](./04xxx/4246. To and Fro/To and Fro.java) |
+| [04270](https://boj.kr/4270) | WFF 'N PROOF | Silver 3 | [C++](./04xxx/4270. WFF 'N PROOF/WFF 'N PROOF.cc) |
 | [04285](https://boj.kr/4285) | Prerequisites? | Bronze 2 | [Java](./04xxx/4285. Prerequisites？/Prerequisites？.java) |
 | [04287](https://boj.kr/4287) | Word Ratios | Bronze 2 | [Java](./04xxx/4287. Word Ratios/Word Ratios.java) |
 | [04299](https://boj.kr/4299) | AFC 윔블던 | Bronze 4 | [C](./04xxx/4299. AFC 윔블던/AFC 윔블던.c) |
@@ -1051,6 +1052,7 @@
 | [06321](https://boj.kr/6321) | IBM 빼기 1 | Bronze 3 | [Java](./06xxx/6321. IBM 빼기 1/IBM 빼기 1.java) |
 | [06322](https://boj.kr/6322) | 직각 삼각형의 두 변 | Bronze 3 | [Java](./06xxx/6322. 직각 삼각형의 두 변/직각 삼각형의 두 변.java) |
 | [06359](https://boj.kr/6359) | 만취한 상범 | Bronze 2 | [Java](./06xxx/6359. 만취한 상범/만취한 상범.java) |
+| [06360](https://boj.kr/6360) | L-I-N-G-O: LINGO | Gold 4 | [C++](./06xxx/6360. L－I－N－G－O： LINGO/L－I－N－G－O： LINGO.cc) |
 | [06376](https://boj.kr/6376) | e 계산 | Bronze 2 | [Java](./06xxx/6376. e 계산/e 계산.java) |
 | [06378](https://boj.kr/6378) | 디지털 루트 | Bronze 3 | [Java](./06xxx/6378. 디지털 루트/디지털 루트.java) |
 | [06436](https://boj.kr/6436) | Floppies | Bronze 3 | [Java](./06xxx/6436. Floppies/Floppies.java) |
@@ -3552,6 +3554,7 @@
 | [27621](https://boj.kr/27621) | Sum of Three Cubes | Bronze 3 | [Java](./27xxx/27621. Sum of Three Cubes/Sum of Three Cubes.java) |
 | [27622](https://boj.kr/27622) | Suspicious Event | Bronze 2 | [Java](./27xxx/27622. Suspicious Event/Suspicious Event.java) |
 | [27627](https://boj.kr/27627) | Splitology | Bronze 2 | [Java](./27xxx/27627. Splitology/Splitology.java) |
+| [27646](https://boj.kr/27646) | Judicious cuts (Easy) | Bronze 1 | [C++](./27xxx/27646. Judicious cuts （Easy）/Judicious cuts （Easy）.cc) |
 | [27648](https://boj.kr/27648) | 증가 배열 만들기 | Silver 5 | [C++](./27xxx/27648. 증가 배열 만들기/증가 배열 만들기.cc) |
 | [27649](https://boj.kr/27649) | 토크나이저 | Silver 3 | [Java](./27xxx/27649. 토크나이저/토크나이저.java) |
 | [27652](https://boj.kr/27652) | AB | Platinum 5 | [C++](./27xxx/27652. AB/AB.cc) |
@@ -3771,6 +3774,7 @@
 | [30008](https://boj.kr/30008) | 준영이의 등급 | Bronze 4 | [Java](./30xxx/30008. 준영이의 등급/준영이의 등급.java) |
 | [30009](https://boj.kr/30009) | 포지션 제로 | Bronze 2 | [Java](./30xxx/30009. 포지션 제로/포지션 제로.java) |
 | [30010](https://boj.kr/30010) | 잘못된 버블정렬 | Silver 5 | [Java](./30xxx/30010. 잘못된 버블정렬/잘못된 버블정렬.java) |
+| [30013](https://boj.kr/30013) | 돌베어 법칙 | Gold 5 | [C++](./30xxx/30013. 돌베어 법칙/돌베어 법칙.cc) |
 | [30017](https://boj.kr/30017) | 치즈버거 만들기 | Bronze 4 | [Java](./30xxx/30017. 치즈버거 만들기/치즈버거 만들기.java) |
 | [30018](https://boj.kr/30018) | 타슈 | Bronze 3 | [Java](./30xxx/30018. 타슈/타슈.java) |
 | [30019](https://boj.kr/30019) | 강의실 예약 시스템 | Bronze 2 | [Java](./30xxx/30019. 강의실 예약 시스템/강의실 예약 시스템.java) |
@@ -4109,6 +4113,7 @@
 | [32776](https://boj.kr/32776) | 가희와 4시간의 벽 2 | Bronze 4 | [C++](./32xxx/32776. 가희와 4시간의 벽 2/가희와 4시간의 벽 2.cc) |
 | [32777](https://boj.kr/32777) | 가희와 서울 지하철 2호선 | Bronze 3 | [C++](./32xxx/32777. 가희와 서울 지하철 2호선/가희와 서울 지하철 2호선.cc) |
 | [32778](https://boj.kr/32778) | 가희와 부역명 | Bronze 3 | [C++](./32xxx/32778. 가희와 부역명/가희와 부역명.cc) |
+| [32789](https://boj.kr/32789) | Champernowne Subsequence | Silver 3 | [C++](./32xxx/32789. Champernowne Subsequence/Champernowne Subsequence.cc) |
 | [32795](https://boj.kr/32795) | Intuitive Elements | Bronze 3 | [C++](./32xxx/32795. Intuitive Elements/Intuitive Elements.cc) |
 | [32800](https://boj.kr/32800) | Bus Assignment | Bronze 3 | [C++](./32xxx/32800. Bus Assignment/Bus Assignment.cc) |
 | [32801](https://boj.kr/32801) | Generalized FizzBuzz | Bronze 4 | [C++](./32xxx/32801. Generalized FizzBuzz/Generalized FizzBuzz.cc) |
@@ -4121,5 +4126,8 @@
 | [32902](https://boj.kr/32902) | Chips | Bronze 4 | [C++](./32xxx/32902. Chips/Chips.cc) |
 | [32905](https://boj.kr/32905) | RACI | Bronze 4 | [C++](./32xxx/32905. RACI/RACI.cc) |
 | [32929](https://boj.kr/32929) | UOS 문자열 | Bronze 5 | [C++](./32xxx/32929. UOS 문자열/UOS 문자열.cc) |
+| [32941](https://boj.kr/32941) | 왜 맘대로 예약하냐고 | Bronze 4 | |
+| [32942](https://boj.kr/32942) | 그래프와 그래프 | Silver 5 | |
+| [32951](https://boj.kr/32951) | AI 선도대학 | Bronze 5 | [C++](./32xxx/32951. AI 선도대학/AI 선도대학.cc) |
 | [32969](https://boj.kr/32969) | 학술대회 참가신청 | Bronze 3 | [C++](./32xxx/32969. 학술대회 참가신청/학술대회 참가신청.cc) |
 </div>
