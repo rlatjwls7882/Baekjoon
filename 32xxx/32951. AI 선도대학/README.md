@@ -1,4 +1,4 @@
-# [Unrated] AI 선도대학
+# [Bronze V] AI 선도대학
 
 [문제 링크](https://www.acmicpc.net/problem/32951) 
 
