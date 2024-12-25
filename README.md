@@ -759,6 +759,7 @@
 | [03985](https://boj.kr/3985) | 롤 케이크 | Bronze 1 | [Java](./03xxx/3985. 롤 케이크/롤 케이크.java) |
 | [03986](https://boj.kr/3986) | 좋은 단어 | Silver 4 | [Java](./03xxx/3986. 좋은 단어/좋은 단어.java) |
 | [04013](https://boj.kr/4013) | ATM | Platinum 2 | [C++](./04xxx/4013. ATM/ATM.cc) |
+| [04028](https://boj.kr/4028) | Chain of Fools | Silver 5 | [C++](./04xxx/4028. Chain of Fools/Chain of Fools.cc) |
 | [04072](https://boj.kr/4072) | Words | Bronze 2 | [Java](./04xxx/4072. Words/Words.java) |
 | [04084](https://boj.kr/4084) | Viva la Diferencia | Bronze 3 | [Java](./04xxx/4084. Viva la Diferencia/Viva la Diferencia.java) |
 | [04096](https://boj.kr/4096) | 팰린드로미터 | Silver 4 | [C++](./04xxx/4096. 팰린드로미터/팰린드로미터.cc) |
@@ -1069,6 +1070,7 @@
 | [06550](https://boj.kr/6550) | 부분 문자열 | Silver 5 | [Java](./06xxx/6550. 부분 문자열/부분 문자열.java) |
 | [06565](https://boj.kr/6565) | Hard to Believe, but True! | Bronze 2 | [Java](./06xxx/6565. Hard to Believe， but True！/Hard to Believe， but True！.java) |
 | [06571](https://boj.kr/6571) | 피보나치 수의 개수 | Silver 3 | [Java](./06xxx/6571. 피보나치 수의 개수/피보나치 수의 개수.java) |
+| [06585](https://boj.kr/6585) | Team Queue | Silver 2 | [C++](./06xxx/6585. Team Queue/Team Queue.cc) |
 | [06588](https://boj.kr/6588) | 골드바흐의 추측 | Silver 1 | [Java](./06xxx/6588. 골드바흐의 추측/골드바흐의 추측.java) |
 | [06589](https://boj.kr/6589) | Heavy Cargo | Gold 4 | [Java](./06xxx/6589. Heavy Cargo/Heavy Cargo.java) |
 | [06591](https://boj.kr/6591) | 이항 쇼다운 | Silver 3 | [C++](./06xxx/6591. 이항 쇼다운/이항 쇼다운.cc) |
@@ -1117,6 +1119,7 @@
 | [06889](https://boj.kr/6889) | Smile with Similes | Bronze 3 | [Java](./06xxx/6889. Smile with Similes/Smile with Similes.java) |
 | [06890](https://boj.kr/6890) | Simple Encryption | Bronze 2 | [Java](./06xxx/6890. Simple Encryption/Simple Encryption.java) |
 | [06892](https://boj.kr/6892) | Fix | Bronze 2 | [Java](./06xxx/6892. Fix/Fix.java) |
+| [06893](https://boj.kr/6893) | TopYodeller | Silver 5 | [C++](./06xxx/6893. TopYodeller/TopYodeller.cc) |
 | [06903](https://boj.kr/6903) | Trident | Bronze 3 | [Java](./06xxx/6903. Trident/Trident.java) |
 | [06904](https://boj.kr/6904) | Picture Perfect | Bronze 2 | [Java](./06xxx/6904. Picture Perfect/Picture Perfect.java) |
 | [06909](https://boj.kr/6909) | Trucking Troubles | Gold 4 | [Java](./06xxx/6909. Trucking Troubles/Trucking Troubles.java) |
@@ -1189,6 +1192,7 @@
 | [07637](https://boj.kr/7637) | AAAAHH! Overbooked! | Bronze 1 | [Java](./07xxx/7637. AAAAHH！ Overbooked！/AAAAHH！ Overbooked！.java) |
 | [07656](https://boj.kr/7656) | 만능 오라클 | Silver 5 | [Java](./07xxx/7656. 만능 오라클/만능 오라클.java) |
 | [07662](https://boj.kr/7662) | 이중 우선순위 큐 | Gold 4 | [Java](./07xxx/7662. 이중 우선순위 큐/이중 우선순위 큐.java) |
+| [07696](https://boj.kr/7696) | 반복하지 않는 수 | Silver 3 | [C++](./07xxx/7696. 반복하지 않는 수/반복하지 않는 수.cc) |
 | [07770](https://boj.kr/7770) | 아즈텍 피라미드 | Bronze 2 | [Java](./07xxx/7770. 아즈텍 피라미드/아즈텍 피라미드.java) |
 | [07771](https://boj.kr/7771) | 배틀쉽 | Gold 5 | [C++](./07xxx/7771. 배틀쉽/배틀쉽.cc) |
 | [07782](https://boj.kr/7782) | Alien | Bronze 3 | [Java](./07xxx/7782. Alien/Alien.java) |
@@ -1200,6 +1204,7 @@
 | [07947](https://boj.kr/7947) | Koncert | Bronze 3 | [Java](./07xxx/7947. Koncert/Koncert.java) |
 | [07977](https://boj.kr/7977) | 크리스 마틴 | Gold 4 | [C++](./07xxx/7977. 크리스 마틴/크리스 마틴.cc) |
 | [08012](https://boj.kr/8012) | 한동이는 영업사원! | Platinum 5 | [C++](./08xxx/8012. 한동이는 영업사원！/한동이는 영업사원！.cc) |
+| [08063](https://boj.kr/8063) | Three-Coloring of Binary Trees | Gold 2 | [C++](./08xxx/8063. Three－Coloring of Binary Trees/Three－Coloring of Binary Trees.cc) |
 | [08246](https://boj.kr/8246) | Stół | Bronze 2 | [Java](./08xxx/8246. Stół/Stół.java) |
 | [08270](https://boj.kr/8270) | Tulips | Bronze 2 | [Java](./08xxx/8270. Tulips/Tulips.java) |
 | [08295](https://boj.kr/8295) | Rectangles | Bronze 2 | [Java](./08xxx/8295. Rectangles/Rectangles.java) |
@@ -2408,6 +2413,7 @@
 | [16316](https://boj.kr/16316) | Baby Bites | Bronze 3 | [Java](./16xxx/16316. Baby Bites/Baby Bites.java) |
 | [16337](https://boj.kr/16337) | Die | Bronze 2 | [Java](./16xxx/16337. Die/Die.java) |
 | [16360](https://boj.kr/16360) | Go Latin | Bronze 1 | [Java](./16xxx/16360. Go Latin/Go Latin.java) |
+| [16373](https://boj.kr/16373) | Prime Tree - 1 | Bronze 1 | [Text](./16xxx/16373. Prime Tree － 1/Prime Tree － 1.txt) |
 | [16394](https://boj.kr/16394) | 홍익대학교 | Bronze 5 | [C](./16xxx/16394. 홍익대학교/홍익대학교.c) |
 | [16395](https://boj.kr/16395) | 파스칼의 삼각형 | Silver 5 | [Java](./16xxx/16395. 파스칼의 삼각형/파스칼의 삼각형.java) |
 | [16396](https://boj.kr/16396) | 선 그리기 | Bronze 1 | [C++](./16xxx/16396. 선 그리기/선 그리기.cc) |
@@ -2534,7 +2540,7 @@
 | [17175](https://boj.kr/17175) | 피보나치는 지겨웡~ | Silver 3 | [C++](./17xxx/17175. 피보나치는 지겨웡～/피보나치는 지겨웡～.cc) |
 | [17176](https://boj.kr/17176) | 암호해독기 | Bronze 1 | [Java](./17xxx/17176. 암호해독기/암호해독기.java) |
 | [17177](https://boj.kr/17177) | 내접사각형 만들기 | Bronze 1 | [C++](./17xxx/17177. 내접사각형 만들기/내접사각형 만들기.cc) |
-| [17201](https://boj.kr/17201) | 자석 체인 | Bronze 2 | [Java](./17xxx/17201. 자석 체인/자석 체인.java) |
+| [17201](https://boj.kr/17201) | 자석 체인 | Bronze 3 | [Java](./17xxx/17201. 자석 체인/자석 체인.java) |
 | [17202](https://boj.kr/17202) | 핸드폰 번호 궁합 | Bronze 1 | [Java](./17xxx/17202. 핸드폰 번호 궁합/핸드폰 번호 궁합.java) |
 | [17204](https://boj.kr/17204) | 죽음의 게임 | Silver 3 | [C++](./17xxx/17204. 죽음의 게임/죽음의 게임.cc) |
 | [17206](https://boj.kr/17206) | 준석이의 수학 숙제 | Bronze 1 | [Java](./17xxx/17206. 준석이의 수학 숙제/준석이의 수학 숙제.java) |
@@ -4134,7 +4140,7 @@
 | [32905](https://boj.kr/32905) | RACI | Bronze 4 | [C++](./32xxx/32905. RACI/RACI.cc) |
 | [32929](https://boj.kr/32929) | UOS 문자열 | Bronze 5 | [C++](./32xxx/32929. UOS 문자열/UOS 문자열.cc) |
 | [32941](https://boj.kr/32941) | 왜 맘대로 예약하냐고 | Bronze 4 | [C++](./32xxx/32941. 왜 맘대로 예약하냐고/왜 맘대로 예약하냐고.cc) |
-| [32942](https://boj.kr/32942) | 그래프와 그래프 | Silver 5 | [C++](./32xxx/32942. 그래프와 그래프/그래프와 그래프.cc) |
+| [32942](https://boj.kr/32942) | 그래프와 그래프 | Bronze 1 | [C++](./32xxx/32942. 그래프와 그래프/그래프와 그래프.cc) |
 | [32951](https://boj.kr/32951) | AI 선도대학 | Bronze 5 | [C++](./32xxx/32951. AI 선도대학/AI 선도대학.cc) |
 | [32969](https://boj.kr/32969) | 학술대회 참가신청 | Bronze 3 | [C++](./32xxx/32969. 학술대회 참가신청/학술대회 참가신청.cc) |
 </div>
