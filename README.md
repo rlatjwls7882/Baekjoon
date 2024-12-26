@@ -870,6 +870,7 @@
 | [04920](https://boj.kr/4920) | 테트리스 게임 | Gold 4 | [C++](./04xxx/4920. 테트리스 게임/테트리스 게임.cc) |
 | [04921](https://boj.kr/4921) | 나무 블록 | Silver 4 | [Python](./04xxx/4921. 나무 블록/나무 블록.py) |
 | [04922](https://boj.kr/4922) | Walk Like an Egyptian | Bronze 3 | [Java](./04xxx/4922. Walk Like an Egyptian/Walk Like an Egyptian.java) |
+| [04927](https://boj.kr/4927) | Casting Out Nines | Bronze 1 | [Java](./04xxx/4927. Casting Out Nines/Casting Out Nines.java) |
 | [04948](https://boj.kr/4948) | 베르트랑 공준 | Silver 2 | [Java](./04xxx/4948. 베르트랑 공준/베르트랑 공준.java) |
 | [04949](https://boj.kr/4949) | 균형잡힌 세상 | Silver 4 | [Java](./04xxx/4949. 균형잡힌 세상/균형잡힌 세상.java) |
 | [04963](https://boj.kr/4963) | 섬의 개수 | Silver 2 | [Java](./04xxx/4963. 섬의 개수/섬의 개수.java) |
@@ -2513,7 +2514,7 @@
 | [17009](https://boj.kr/17009) | Winning Score | Bronze 4 | [C](./17xxx/17009. Winning Score/Winning Score.c) |
 | [17010](https://boj.kr/17010) | Time to Decompress | Bronze 4 | [Java](./17xxx/17010. Time to Decompress/Time to Decompress.java) |
 | [17011](https://boj.kr/17011) | Cold Compress | Bronze 2 | [Java](./17xxx/17011. Cold Compress/Cold Compress.java) |
-| [17013](https://boj.kr/17013) | Flipper | Bronze 1 | [Java](./17xxx/17013. Flipper/Flipper.java) |
+| [17013](https://boj.kr/17013) | Flipper | Bronze 2 | [Java](./17xxx/17013. Flipper/Flipper.java) |
 | [17027](https://boj.kr/17027) | Shell Game | Bronze 2 | [Java](./17xxx/17027. Shell Game/Shell Game.java) |
 | [17033](https://boj.kr/17033) | Cow Land | Platinum 1 | [C++](./17xxx/17033. Cow Land/Cow Land.cc) |
 | [17042](https://boj.kr/17042) | Elder | Bronze 3 | [Java](./17xxx/17042. Elder/Elder.java) |
@@ -3232,6 +3233,7 @@
 | [24820](https://boj.kr/24820) | Spelling Bee | Bronze 2 | [Java](./24xxx/24820. Spelling Bee/Spelling Bee.java) |
 | [24830](https://boj.kr/24830) | Broken Calculator | Bronze 3 | [Java](./24xxx/24830. Broken Calculator/Broken Calculator.java) |
 | [24831](https://boj.kr/24831) | Two Rabbits | Bronze 2 | [Java](./24xxx/24831. Two Rabbits/Two Rabbits.java) |
+| [24843](https://boj.kr/24843) | Friendly Rooks | Bronze 1 | [C++](./24xxx/24843. Friendly Rooks/Friendly Rooks.cc) |
 | [24855](https://boj.kr/24855) | Natives | Bronze 1 | [C++](./24xxx/24855. Natives/Natives.cc) |
 | [24860](https://boj.kr/24860) | Counting Antibodies | Bronze 4 | [Java](./24xxx/24860. Counting Antibodies/Counting Antibodies.java) |
 | [24867](https://boj.kr/24867) | Два станка | Bronze 3 | [Java](./24xxx/24867. Два станка/Два станка.java) |
@@ -3442,6 +3444,7 @@
 | [26548](https://boj.kr/26548) | Quadratics | Bronze 3 | [Java](./26xxx/26548. Quadratics/Quadratics.java) |
 | [26550](https://boj.kr/26550) | Ornaments | Bronze 3 | [Java](./26xxx/26550. Ornaments/Ornaments.java) |
 | [26552](https://boj.kr/26552) | Zero | Bronze 2 | [Java](./26xxx/26552. Zero/Zero.java) |
+| [26553](https://boj.kr/26553) | Work | Bronze 1 | [C++](./26xxx/26553. Work/Work.cc) |
 | [26560](https://boj.kr/26560) | Periods | Bronze 4 | [Java](./26xxx/26560. Periods/Periods.java) |
 | [26561](https://boj.kr/26561) | Population | Bronze 4 | [C](./26xxx/26561. Population/Population.c) |
 | [26563](https://boj.kr/26563) | Exam | Bronze 1 | [Java](./26xxx/26563. Exam/Exam.java) |
