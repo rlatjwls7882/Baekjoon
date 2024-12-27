@@ -1299,6 +1299,7 @@
 | [09176](https://boj.kr/9176) | 메르센 합성수 | Gold 4 | [C++](./09xxx/9176. 메르센 합성수/메르센 합성수.cc) |
 | [09182](https://boj.kr/9182) | Biorhythms | Bronze 2 | [C++](./09xxx/9182. Biorhythms/Biorhythms.cc) |
 | [09184](https://boj.kr/9184) | 신나는 함수 실행 | Silver 2 | [C++](./09xxx/9184. 신나는 함수 실행/신나는 함수 실행.cc) |
+| [09186](https://boj.kr/9186) | The Same Game | Gold 4 | [C++](./09xxx/9186. The Same Game/The Same Game.cc) |
 | [09196](https://boj.kr/9196) | 정수 직사각형 | Silver 5 | [C++](./09xxx/9196. 정수 직사각형/정수 직사각형.cc) |
 | [09202](https://boj.kr/9202) | Boggle | Platinum 5 | [C++](./09xxx/9202. Boggle/Boggle.cc) |
 | [09205](https://boj.kr/9205) | 맥주 마시면서 걸어가기 | Gold 5 | [C++](./09xxx/9205. 맥주 마시면서 걸어가기/맥주 마시면서 걸어가기.cc) |
@@ -1471,6 +1472,7 @@
 | [10180](https://boj.kr/10180) | Ship Selection | Bronze 3 | [Java](./10xxx/10180. Ship Selection/Ship Selection.java) |
 | [10181](https://boj.kr/10181) | Federation Favorites | Bronze 1 | [C++](./10xxx/10181. Federation Favorites/Federation Favorites.cc) |
 | [10182](https://boj.kr/10182) | AcidBase | Bronze 2 | [Java](./10xxx/10182. AcidBase/AcidBase.java) |
+| [10184](https://boj.kr/10184) | Coupon2 | Silver 4 | [C++](./10xxx/10184. Coupon2/Coupon2.cc) |
 | [10185](https://boj.kr/10185) | Focus | Bronze 3 | [Java](./10xxx/10185. Focus/Focus.java) |
 | [10187](https://boj.kr/10187) | Golden | Bronze 3 | [Java](./10xxx/10187. Golden/Golden.java) |
 | [10188](https://boj.kr/10188) | Quadrilateral | Bronze 4 | [Java](./10xxx/10188. Quadrilateral/Quadrilateral.java) |
@@ -2734,6 +2736,7 @@
 | [18964](https://boj.kr/18964) | Questionnaire | Bronze 3 | [Java](./18xxx/18964. Questionnaire/Questionnaire.java) |
 | [18979](https://boj.kr/18979) | Triangle Partition | Silver 3 | [C++](./18xxx/18979. Triangle Partition/Triangle Partition.cc) |
 | [19155](https://boj.kr/19155) | Copying Homework | Bronze 2 | [Java](./19xxx/19155. Copying Homework/Copying Homework.java) |
+| [19355](https://boj.kr/19355) | A Really Odd Sequence | Silver 1 | [C++](./19xxx/19355. A Really Odd Sequence/A Really Odd Sequence.cc) |
 | [19532](https://boj.kr/19532) | 수학은 비대면강의입니다 | Bronze 2 | [Java](./19xxx/19532. 수학은 비대면강의입니다/수학은 비대면강의입니다.java) |
 | [19539](https://boj.kr/19539) | 사과나무 | Gold 5 | [C++](./19xxx/19539. 사과나무/사과나무.cc) |
 | [19542](https://boj.kr/19542) | 전단지 돌리기 | Gold 3 | [C++](./19xxx/19542. 전단지 돌리기/전단지 돌리기.cc) |
@@ -4100,6 +4103,7 @@
 | [32436](https://boj.kr/32436) | Enigma of the Jewelry Case | Bronze 2 | [Java](./32xxx/32436. Enigma of the Jewelry Case/Enigma of the Jewelry Case.java) |
 | [32449](https://boj.kr/32449) | Animal Farm | Bronze 3 | [C++](./32xxx/32449. Animal Farm/Animal Farm.cc) |
 | [32458](https://boj.kr/32458) | Just Round Down | Bronze 5 | [Python](./32xxx/32458. Just Round Down/Just Round Down.py) |
+| [32477](https://boj.kr/32477) | Alien Attack 2 | Silver 2 | [C++](./32xxx/32477. Alien Attack 2/Alien Attack 2.cc) |
 | [32498](https://boj.kr/32498) | Call for Problems | Bronze 5 | [Python](./32xxx/32498. Call for Problems/Call for Problems.py) |
 | [32500](https://boj.kr/32500) | Dishonest Lottery | Bronze 3 | [C++](./32xxx/32500. Dishonest Lottery/Dishonest Lottery.cc) |
 | [32515](https://boj.kr/32515) | BB84 | Bronze 3 | [C++](./32xxx/32515. BB84/BB84.cc) |
@@ -4120,6 +4124,7 @@
 | [32684](https://boj.kr/32684) | 장기 | Bronze 4 | [Python](./32xxx/32684. 장기/장기.py) |
 | [32685](https://boj.kr/32685) | 4-LSB | Bronze 2 | [C++](./32xxx/32685. 4－LSB/4－LSB.cc) |
 | [32710](https://boj.kr/32710) | 구구단표 | Bronze 4 | [C++](./32xxx/32710. 구구단표/구구단표.cc) |
+| [32711](https://boj.kr/32711) | 홀수로 나눠라! 짝수로 나눠라! | Silver 3 | [C++](./32xxx/32711. 홀수로 나눠라！ 짝수로 나눠라！/홀수로 나눠라！ 짝수로 나눠라！.cc) |
 | [32722](https://boj.kr/32722) | Juta teekond | Bronze 4 | [Python](./32xxx/32722. Juta teekond/Juta teekond.py) |
 | [32728](https://boj.kr/32728) | Sõnakuulelik Tom | Bronze 3 | [C++](./32xxx/32728. Sõnakuulelik Tom/Sõnakuulelik Tom.cc) |
 | [32748](https://boj.kr/32748) | $f(A + B)$ | Silver 5 | [C++](./32xxx/32748. $f（A ＋ B）$/$f（A ＋ B）$.cc) |
