@@ -1854,6 +1854,7 @@
 | [12607](https://boj.kr/12607) | T9 Spelling (Small) | Bronze 1 | [Java](./12xxx/12607. T9 Spelling （Small）/T9 Spelling （Small）.java) |
 | [12608](https://boj.kr/12608) | T9 Spelling (Large) | Bronze 1 | [Java](./12xxx/12608. T9 Spelling （Large）/T9 Spelling （Large）.java) |
 | [12657](https://boj.kr/12657) | Watersheds (Small) | Silver 2 | [C++](./12xxx/12657. Watersheds （Small）/Watersheds （Small）.cc) |
+| [12727](https://boj.kr/12727) | Numbers (Small) | Gold 3 | [C++](./12xxx/12727. Numbers （Small）/Numbers （Small）.cc) |
 | [12738](https://boj.kr/12738) | 가장 긴 증가하는 부분 수열 3 | Gold 2 | [C++](./12xxx/12738. 가장 긴 증가하는 부분 수열 3/가장 긴 증가하는 부분 수열 3.cc) |
 | [12755](https://boj.kr/12755) | 수면 장애 | Silver 4 | [C++](./12xxx/12755. 수면 장애/수면 장애.cc) |
 | [12756](https://boj.kr/12756) | 고급 여관 | Bronze 3 | [Java](./12xxx/12756. 고급 여관/고급 여관.java) |
@@ -3540,6 +3541,7 @@
 | [27334](https://boj.kr/27334) | マラソン大会 (Marathon Race) | Bronze 3 | [Java](./27xxx/27334. マラソン大会 （Marathon Race）/マラソン大会 （Marathon Race）.java) |
 | [27335](https://boj.kr/27335) | 年齢の差 (Age Difference) | Bronze 2 | [Java](./27xxx/27335. 年齢の差 （Age Difference）/年齢の差 （Age Difference）.java) |
 | [27372](https://boj.kr/27372) | 미니 빙고 | Gold 4 | [Python](./27xxx/27372. 미니 빙고/미니 빙고.py) |
+| [27375](https://boj.kr/27375) | 금공강 사수 | Silver 1 | [C++](./27xxx/27375. 금공강 사수/금공강 사수.cc) |
 | [27386](https://boj.kr/27386) | Class Field Trip | Bronze 2 | [Java](./27xxx/27386. Class Field Trip/Class Field Trip.java) |
 | [27389](https://boj.kr/27389) | Metronome | Bronze 5 | [Java](./27xxx/27389. Metronome/Metronome.java) |
 | [27393](https://boj.kr/27393) | Smallest Calculated Value | Bronze 2 | [Java](./27xxx/27393. Smallest Calculated Value/Smallest Calculated Value.java) |
@@ -4151,4 +4153,5 @@
 | [32942](https://boj.kr/32942) | 그래프와 그래프 | Bronze 1 | [C++](./32xxx/32942. 그래프와 그래프/그래프와 그래프.cc) |
 | [32951](https://boj.kr/32951) | AI 선도대학 | Bronze 5 | [C++](./32xxx/32951. AI 선도대학/AI 선도대학.cc) |
 | [32969](https://boj.kr/32969) | 학술대회 참가신청 | Bronze 3 | [C++](./32xxx/32969. 학술대회 참가신청/학술대회 참가신청.cc) |
+| [33026](https://boj.kr/33026) | LOL Lovers | Bronze 3 | [C++](./33xxx/33026. LOL Lovers/LOL Lovers.cc) |
 </div>
