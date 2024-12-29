@@ -583,6 +583,7 @@
 | [02774](https://boj.kr/2774) | 아름다운 수 | Bronze 2 | [Java](./02xxx/2774. 아름다운 수/아름다운 수.java) |
 | [02775](https://boj.kr/2775) | 부녀회장이 될테야 | Bronze 1 | [Java](./02xxx/2775. 부녀회장이 될테야/부녀회장이 될테야.java) |
 | [02776](https://boj.kr/2776) | 암기왕 | Silver 4 | [Java](./02xxx/2776. 암기왕/암기왕.java) |
+| [02777](https://boj.kr/2777) | 숫자 놀이 | Silver 2 | [C++](./02xxx/2777. 숫자 놀이/숫자 놀이.cc) |
 | [02780](https://boj.kr/2780) | 비밀번호 | Silver 1 | [C++](./02xxx/2780. 비밀번호/비밀번호.cc) |
 | [02783](https://boj.kr/2783) | 삼각 김밥 | Bronze 3 | [Java](./02xxx/2783. 삼각 김밥/삼각 김밥.java) |
 | [02789](https://boj.kr/2789) | 유학 금지 | Bronze 2 | [Java](./02xxx/2789. 유학 금지/유학 금지.java) |
@@ -1049,6 +1050,7 @@
 | [06190](https://boj.kr/6190) | Another Cow Number Game | Bronze 3 | [Java](./06xxx/6190. Another Cow Number Game/Another Cow Number Game.java) |
 | [06198](https://boj.kr/6198) | 옥상 정원 꾸미기 | Gold 5 | [C++](./06xxx/6198. 옥상 정원 꾸미기/옥상 정원 꾸미기.cc) |
 | [06219](https://boj.kr/6219) | 소수의 자격 | Silver 3 | [C++](./06xxx/6219. 소수의 자격/소수의 자격.cc) |
+| [06243](https://boj.kr/6243) | Mileage Bank | Bronze 3 | [C++](./06xxx/6243. Mileage Bank/Mileage Bank.cc) |
 | [06246](https://boj.kr/6246) | 풍선 놀이 | Bronze 2 | [Java](./06xxx/6246. 풍선 놀이/풍선 놀이.java) |
 | [06318](https://boj.kr/6318) | Box of Bricks | Bronze 2 | [Java](./06xxx/6318. Box of Bricks/Box of Bricks.java) |
 | [06321](https://boj.kr/6321) | IBM 빼기 1 | Bronze 3 | [Java](./06xxx/6321. IBM 빼기 1/IBM 빼기 1.java) |
