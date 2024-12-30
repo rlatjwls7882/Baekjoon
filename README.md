@@ -3849,6 +3849,7 @@
 | [30395](https://boj.kr/30395) | 내 스트릭을 돌려내! | Bronze 2 | [Java](./30xxx/30395.%E2%80%85내%E2%80%85스트릭을%E2%80%85돌려내!/내 스트릭을 돌려내！.java) |
 | [30402](https://boj.kr/30402) | 감마선을 맞은 컴퓨터 | Bronze 4 | [Java](./30xxx/30402.%E2%80%85감마선을%E2%80%85맞은%E2%80%85컴퓨터/감마선을 맞은 컴퓨터.java) |
 | [30403](https://boj.kr/30403) | 무지개 만들기 | Bronze 2 | [Java](./30xxx/30403. 무지개 만들기/무지개 만들기.java) |
+| [30427](https://boj.kr/30427) | Reveals | Silver 2 | [C++](./30xxx/30427. Reveals/Reveals.cc) |
 | [30445](https://boj.kr/30445) | 행복 점수 | Bronze 1 | [Java](./30xxx/30445. 행복 점수/행복 점수.java) |
 | [30446](https://boj.kr/30446) | 회문수 | Silver 2 | [Java](./30xxx/30446. 회문수/회문수.java) |
 | [30454](https://boj.kr/30454) | 얼룩말을 찾아라! | Bronze 3 | [Java](./30xxx/30454. 얼룩말을 찾아라！/얼룩말을 찾아라！.java) |
@@ -4152,7 +4153,7 @@
 | [32905](https://boj.kr/32905) | RACI | Bronze 4 | [C++](./32xxx/32905. RACI/RACI.cc) |
 | [32929](https://boj.kr/32929) | UOS 문자열 | Bronze 5 | [C++](./32xxx/32929. UOS 문자열/UOS 문자열.cc) |
 | [32941](https://boj.kr/32941) | 왜 맘대로 예약하냐고 | Bronze 4 | [C++](./32xxx/32941. 왜 맘대로 예약하냐고/왜 맘대로 예약하냐고.cc) |
-| [32942](https://boj.kr/32942) | 그래프와 그래프 | Bronze 1 | [C++](./32xxx/32942. 그래프와 그래프/그래프와 그래프.cc) |
+| [32942](https://boj.kr/32942) | 그래프와 그래프 | Silver 5 | [C++](./32xxx/32942. 그래프와 그래프/그래프와 그래프.cc) |
 | [32951](https://boj.kr/32951) | AI 선도대학 | Bronze 5 | [C++](./32xxx/32951. AI 선도대학/AI 선도대학.cc) |
 | [32969](https://boj.kr/32969) | 학술대회 참가신청 | Bronze 3 | [C++](./32xxx/32969. 학술대회 참가신청/학술대회 참가신청.cc) |
 | [33026](https://boj.kr/33026) | LOL Lovers | Bronze 3 | [C++](./33xxx/33026. LOL Lovers/LOL Lovers.cc) |
