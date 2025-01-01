@@ -911,6 +911,7 @@
 | [05205](https://boj.kr/5205) | School Colors | Bronze 2 | [Java](./05xxx/5205. School Colors/School Colors.java) |
 | [05211](https://boj.kr/5211) | 가단조와 다장조 | Bronze 2 | [C++](./05xxx/5211. 가단조와 다장조/가단조와 다장조.cc) |
 | [05212](https://boj.kr/5212) | 지구 온난화 | Silver 2 | [C++](./05xxx/5212. 지구 온난화/지구 온난화.cc) |
+| [05213](https://boj.kr/5213) | 과외맨 | Gold 2 | [C++](./05xxx/5213. 과외맨/과외맨.cc) |
 | [05217](https://boj.kr/5217) | 쌍의 합 | Bronze 3 | [Java](./05xxx/5217. 쌍의 합/쌍의 합.java) |
 | [05218](https://boj.kr/5218) | 알파벳 거리 | Bronze 2 | [Java](./05xxx/5218. 알파벳 거리/알파벳 거리.java) |
 | [05220](https://boj.kr/5220) | Error Detection | Bronze 3 | [Java](./05xxx/5220. Error Detection/Error Detection.java) |
@@ -2189,6 +2190,7 @@
 | [14920](https://boj.kr/14920) | 3n+1 수열 | Bronze 3 | [Java](./14xxx/14920. 3n＋1 수열/3n＋1 수열.java) |
 | [14921](https://boj.kr/14921) | 용액 합성하기 | Gold 5 | [Java](./14xxx/14921. 용액 합성하기/용액 합성하기.java) |
 | [14924](https://boj.kr/14924) | 폰 노이만과 파리 | Bronze 4 | [C](./14xxx/14924. 폰 노이만과 파리/폰 노이만과 파리.c) |
+| [14925](https://boj.kr/14925) | 목장 건설하기 | Gold 4 | [C++](./14xxx/14925. 목장 건설하기/목장 건설하기.cc) |
 | [14928](https://boj.kr/14928) | 큰 수 (BIG) | Bronze 5 | [Java](./14xxx/14928. 큰 수 （BIG）/큰 수 （BIG）.java) |
 | [14929](https://boj.kr/14929) | 귀찮아 (SIB) | Silver 5 | [Java](./14xxx/14929. 귀찮아 （SIB）/귀찮아 （SIB）.java) |
 | [14931](https://boj.kr/14931) | 물수제비 (SUJEBI) | Silver 1 | [Python](./14xxx/14931. 물수제비 （SUJEBI）/물수제비 （SUJEBI）.py) |
@@ -3459,7 +3461,7 @@
 | [26566](https://boj.kr/26566) | Pizza | Bronze 4 | [Java](./26xxx/26566. Pizza/Pizza.java) |
 | [26570](https://boj.kr/26570) | Semiperfect | Silver 2 | [C++](./26xxx/26570. Semiperfect/Semiperfect.cc) |
 | [26574](https://boj.kr/26574) | Copier | Bronze 5 | [C](./26xxx/26574. Copier/Copier.c) |
-| [26575](https://boj.kr/26575) | Pups | Bronze 5 | [C](./26xxx/26575. Pups/Pups.c) |
+| [26575](https://boj.kr/26575) | Pups | Bronze 4 | [C](./26xxx/26575. Pups/Pups.c) |
 | [26577](https://boj.kr/26577) | Math | Bronze 2 | [C++](./26xxx/26577. Math/Math.cc) |
 | [26582](https://boj.kr/26582) | Treasure | Gold 5 | [C++](./26xxx/26582. Treasure/Treasure.cc) |
 | [26583](https://boj.kr/26583) | Scale | Bronze 3 | [Java](./26xxx/26583. Scale/Scale.java) |
