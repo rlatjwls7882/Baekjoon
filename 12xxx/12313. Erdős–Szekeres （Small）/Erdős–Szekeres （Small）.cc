@@ -1,13 +1,21 @@
 #include<bits/stdc++.h>
 using namespace std;
 
-int n, res[20], increasing[20], decreasing[20];
-bool prohibit[20];
+int n, last, res[2000], increasing[2000], decreasing[2000];
+bool prohibit[2000];
 
-bool chk(int pos) {
+bool decreasingChk(int pos) {
     if(decreasing[pos]==1) return true;
     for(int i=pos+1;i<n;i++) {
         if(res[i] && decreasing[i]+1==decreasing[pos]) return true;
+    }
+    return false;
+}
+
+bool increasingChk(int pos) {
+    if(increasing[pos]==1) return true;
+    for(int i=0;i<pos;i++) {
+        if(res[i] && increasing[i]+1==increasing[pos]) return true;
     }
     return false;
 }
@@ -20,15 +28,17 @@ int main() {
         for(int i=0;i<n;i++) cin >> increasing[i];
         for(int i=0;i<n;i++) cin >> decreasing[i];
 
-        int last=1;
+        last=1;
         memset(res, 0, sizeof(res));
         memset(prohibit, false, sizeof(prohibit));
-        while(last<=n) { // increasing이 낮은 순서대로 (같으면 뒤에 있는것부터) decreasing 순서에 맞춰(같으면 앞에 있는것부터) 채우기
+        while(last<=n) { // increasing이 낮은 순서, decreasing이 낮은 순서대로 채우기
             int pos=n;
-            for(int i=n-1;i>=0;i--) {
-                if(!res[i] && !prohibit[i] && (pos==n || increasing[pos]>increasing[i])) pos=i;
+            for(int i=0;i<n;i++) {
+                if(!res[i] && !prohibit[i] && (pos==n || increasing[pos]>increasing[i] || increasing[pos]==increasing[i] && decreasing[pos]>decreasing[i])) {
+                    pos=i;
+                }
             }
-            if(chk(pos)) {
+            if(!res[pos] && !prohibit[pos] && decreasingChk(pos) && increasingChk(pos)) {
                 res[pos]=last++;
                 memset(prohibit, false, sizeof(prohibit));
             } else {
