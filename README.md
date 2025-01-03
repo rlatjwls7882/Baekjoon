@@ -1837,6 +1837,7 @@
 | [12184](https://boj.kr/12184) | GBus count (Small) | Bronze 2 | [Java](./12xxx/12184. GBus count （Small）/GBus count （Small）.java) |
 | [12185](https://boj.kr/12185) | GBus count (Large) | Bronze 2 | [Java](./12xxx/12185. GBus count （Large）/GBus count （Large）.java) |
 | [12250](https://boj.kr/12250) | New Lottery Game (Small) | Bronze 3 | [Java](./12xxx/12250. New Lottery Game （Small）/New Lottery Game （Small）.java) |
+| [12313](https://boj.kr/12313) | Erdős–Szekeres (Small) | Gold 3 | [C++](./12xxx/12313. Erdős–Szekeres （Small）/Erdős–Szekeres （Small）.cc) |
 | [12348](https://boj.kr/12348) | 분해합 2 | Gold 5 | [Java](./12xxx/12348. 분해합 2/분해합 2.java) |
 | [12351](https://boj.kr/12351) | Hedgemony (Small) | Bronze 3 | [Java](./12xxx/12351. Hedgemony （Small）/Hedgemony （Small）.java) |
 | [12352](https://boj.kr/12352) | Hedgemony (Large) | Bronze 3 | [Java](./12xxx/12352. Hedgemony （Large）/Hedgemony （Large）.java) |
