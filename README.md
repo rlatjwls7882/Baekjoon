@@ -4159,6 +4159,7 @@
 | [32942](https://boj.kr/32942) | 그래프와 그래프 | Silver 5 | [C++](./32xxx/32942. 그래프와 그래프/그래프와 그래프.cc) |
 | [32951](https://boj.kr/32951) | AI 선도대학 | Bronze 5 | [C++](./32xxx/32951. AI 선도대학/AI 선도대학.cc) |
 | [32969](https://boj.kr/32969) | 학술대회 참가신청 | Bronze 3 | [C++](./32xxx/32969. 학술대회 참가신청/학술대회 참가신청.cc) |
+| [32978](https://boj.kr/32978) | 아 맞다 마늘 | Bronze 3 | [C++](./32xxx/32978. 아 맞다 마늘/아 맞다 마늘.cc) |
 | [33026](https://boj.kr/33026) | LOL Lovers | Bronze 3 | [C++](./33xxx/33026. LOL Lovers/LOL Lovers.cc) |
 | [33046](https://boj.kr/33046) | Alea Iacta Est | Bronze 4 | [C++](./33xxx/33046. Alea Iacta Est/Alea Iacta Est.cc) |
 </div>
