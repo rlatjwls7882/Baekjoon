@@ -2047,6 +2047,7 @@
 | [14218](https://boj.kr/14218) | 그래프 탐색 2 | Silver 1 | [C++](./14xxx/14218. 그래프 탐색 2/그래프 탐색 2.cc) |
 | [14219](https://boj.kr/14219) | 막대과자 포장 | Bronze 2 | [Java](./14xxx/14219. 막대과자 포장/막대과자 포장.java) |
 | [14223](https://boj.kr/14223) | 작은 정사각형 1 | Silver 3 | [C++](./14xxx/14223. 작은 정사각형 1/작은 정사각형 1.cc) |
+| [14225](https://boj.kr/14225) | 부분수열의 합 | Silver 1 | [C++](./14xxx/14225. 부분수열의 합/부분수열의 합.cc) |
 | [14226](https://boj.kr/14226) | 이모티콘 | Gold 4 | [C++](./14xxx/14226. 이모티콘/이모티콘.cc) |
 | [14231](https://boj.kr/14231) | 박스 포장 | Silver 2 | [C++](./14xxx/14231. 박스 포장/박스 포장.cc) |
 | [14235](https://boj.kr/14235) | 크리스마스 선물 | Silver 3 | [C++](./14xxx/14235. 크리스마스 선물/크리스마스 선물.cc) |
@@ -2334,7 +2335,7 @@
 | [15789](https://boj.kr/15789) | CTP 왕국은 한솔 왕국을 이길 수 있을까? | Gold 4 | [Java](./15xxx/15789. CTP 왕국은 한솔 왕국을 이길 수 있을까？/CTP 왕국은 한솔 왕국을 이길 수 있을까？.java) |
 | [15792](https://boj.kr/15792) | A/B - 2 | Bronze 1 | [Java](./15xxx/15792. A／B － 2/A／B － 2.java) |
 | [15803](https://boj.kr/15803) | PLAYERJINAH’S BOTTLEGROUNDS | Silver 5 | [C++](./15xxx/15803. PLAYERJINAH’S BOTTLEGROUNDS/PLAYERJINAH’S BOTTLEGROUNDS.cc) |
-| [15809](https://boj.kr/15809) | 전국시대 | Gold 4 | [Java](./15xxx/15809. 전국시대/전국시대.java) |
+| [15809](https://boj.kr/15809) | 전국시대 | Gold 3 | [Java](./15xxx/15809. 전국시대/전국시대.java) |
 | [15810](https://boj.kr/15810) | 풍선 공장 | Silver 2 | [C++](./15xxx/15810. 풍선 공장/풍선 공장.cc) |
 | [15813](https://boj.kr/15813) | 너의 이름은 몇 점이니? | Bronze 2 | [Java](./15xxx/15813. 너의 이름은 몇 점이니？/너의 이름은 몇 점이니？.java) |
 | [15814](https://boj.kr/15814) | 야바위 대장 | Bronze 2 | [Java](./15xxx/15814. 야바위 대장/야바위 대장.java) |
@@ -2962,6 +2963,7 @@
 | [21964](https://boj.kr/21964) | 선린인터넷고등학교 교가 | Bronze 4 | [Java](./21xxx/21964. 선린인터넷고등학교 교가/선린인터넷고등학교 교가.java) |
 | [21965](https://boj.kr/21965) | 드높은 남산 위에 우뚝 선 | Bronze 1 | [C++](./21xxx/21965. 드높은 남산 위에 우뚝 선/드높은 남산 위에 우뚝 선.cc) |
 | [21966](https://boj.kr/21966) | (중략) | Bronze 1 | [C++](./21xxx/21966. （중략）/（중략）.cc) |
+| [21967](https://boj.kr/21967) | 세워라 반석 위에 | Silver 3 | [C++](./21xxx/21967. 세워라 반석 위에/세워라 반석 위에.cc) |
 | [21968](https://boj.kr/21968) | 선린의 터를 | Silver 3 | [C++](./21xxx/21968. 선린의 터를/선린의 터를.cc) |
 | [21983](https://boj.kr/21983) | Basalt Breakdown | Bronze 3 | [Java](./21xxx/21983. Basalt Breakdown/Basalt Breakdown.java) |
 | [22015](https://boj.kr/22015) | 金平糖 (Konpeito) | Bronze 4 | [C](./22xxx/22015. 金平糖 （Konpeito）/金平糖 （Konpeito）.c) |
@@ -3026,6 +3028,7 @@
 | [22999](https://boj.kr/22999) | K-Goodness String | Bronze 2 | [Java](./22xxx/22999. K－Goodness String/K－Goodness String.java) |
 | [23027](https://boj.kr/23027) | 1번부터 문제의 상태가…? | Bronze 2 | [Java](./23xxx/23027. 1번부터 문제의 상태가…？/1번부터 문제의 상태가…？.java) |
 | [23028](https://boj.kr/23028) | 5학년은 다니기 싫어요 | Silver 5 | [Java](./23xxx/23028. 5학년은 다니기 싫어요/5학년은 다니기 싫어요.java) |
+| [23029](https://boj.kr/23029) | 시식 코너는 나의 것 | Silver 1 | [C++](./23xxx/23029. 시식 코너는 나의 것/시식 코너는 나의 것.cc) |
 | [23037](https://boj.kr/23037) | 5의 수난 | Bronze 2 | [Java](./23xxx/23037. 5의 수난/5의 수난.java) |
 | [23038](https://boj.kr/23038) | 박스 그림 문자 | Silver 4 | [C++](./23xxx/23038. 박스 그림 문자/박스 그림 문자.cc) |
 | [23039](https://boj.kr/23039) | 실 전화기 | Gold 2 | [C++](./23xxx/23039. 실 전화기/실 전화기.cc) |
