@@ -413,6 +413,7 @@
 | [02248](https://boj.kr/2248) | 이진수 찾기 | Gold 3 | [C++](./02xxx/2248. 이진수 찾기/이진수 찾기.cc) |
 | [02250](https://boj.kr/2250) | 트리의 높이와 너비 | Gold 2 | [C++](./02xxx/2250. 트리의 높이와 너비/트리의 높이와 너비.cc) |
 | [02252](https://boj.kr/2252) | 줄 세우기 | Gold 3 | [Java](./02xxx/2252. 줄 세우기/줄 세우기.java) |
+| [02257](https://boj.kr/2257) | 화학식량 | Silver 2 | [C++](./02xxx/2257. 화학식량/화학식량.cc) |
 | [02268](https://boj.kr/2268) | 수들의 합 7 | Gold 1 | [C++](./02xxx/2268. 수들의 합 7/수들의 합 7.cc) |
 | [02290](https://boj.kr/2290) | LCD Test | Silver 2 | [C++](./02xxx/2290. LCD Test/LCD Test.cc) |
 | [02292](https://boj.kr/2292) | 벌집 | Bronze 2 | [Java](./02xxx/2292. 벌집/벌집.java) |
@@ -627,6 +628,7 @@
 | [02875](https://boj.kr/2875) | 대회 or 인턴 | Bronze 3 | [Java](./02xxx/2875. 대회 or 인턴/대회 or 인턴.java) |
 | [02877](https://boj.kr/2877) | 4와 7 | Gold 5 | [C++](./02xxx/2877. 4와 7/4와 7.cc) |
 | [02884](https://boj.kr/2884) | 알람 시계 | Bronze 3 | [C](./02xxx/2884. 알람 시계/알람 시계.c) |
+| [02885](https://boj.kr/2885) | 초콜릿 식사 | Silver 2 | [C++](./02xxx/2885. 초콜릿 식사/초콜릿 식사.cc) |
 | [02887](https://boj.kr/2887) | 행성 터널 | Platinum 5 | [Java](./02xxx/2887. 행성 터널/행성 터널.java) |
 | [02890](https://boj.kr/2890) | 카약 | Silver 5 | [Java](./02xxx/2890. 카약/카약.java) |
 | [02891](https://boj.kr/2891) | 카약과 강풍 | Silver 5 | [Java](./02xxx/2891. 카약과 강풍/카약과 강풍.java) |
@@ -1910,6 +1912,7 @@
 | [12904](https://boj.kr/12904) | A와 B | Gold 5 | [Java](./12xxx/12904. A와 B/A와 B.java) |
 | [12924](https://boj.kr/12924) | 멋진 쌍 | Gold 5 | [C++](./12xxx/12924. 멋진 쌍/멋진 쌍.cc) |
 | [12927](https://boj.kr/12927) | 배수 스위치 | Silver 4 | [C++](./12xxx/12927. 배수 스위치/배수 스위치.cc) |
+| [12933](https://boj.kr/12933) | 오리 | Silver 2 | [C++](./12xxx/12933. 오리/오리.cc) |
 | [13003](https://boj.kr/13003) | 배수열 | Gold 2 | [C++](./13xxx/13003. 배수열/배수열.cc) |
 | [13015](https://boj.kr/13015) | 별 찍기 - 23 | Silver 4 | [Java](./13xxx/13015. 별 찍기 － 23/별 찍기 － 23.java) |
 | [13023](https://boj.kr/13023) | ABCDE | Gold 5 | [Java](./13xxx/13023. ABCDE/ABCDE.java) |
@@ -2445,6 +2448,7 @@
 | [16395](https://boj.kr/16395) | 파스칼의 삼각형 | Silver 5 | [Java](./16xxx/16395. 파스칼의 삼각형/파스칼의 삼각형.java) |
 | [16396](https://boj.kr/16396) | 선 그리기 | Bronze 1 | [C++](./16xxx/16396. 선 그리기/선 그리기.cc) |
 | [16398](https://boj.kr/16398) | 행성 연결 | Gold 4 | [Java](./16xxx/16398. 행성 연결/행성 연결.java) |
+| [16401](https://boj.kr/16401) | 과자 나눠주기 | Silver 2 | [C++](./16xxx/16401. 과자 나눠주기/과자 나눠주기.cc) |
 | [16402](https://boj.kr/16402) | 제국 | Gold 2 | [Java](./16xxx/16402. 제국/제국.java) |
 | [16406](https://boj.kr/16406) | Exam | Bronze 1 | [Java](./16xxx/16406. Exam/Exam.java) |
 | [16408](https://boj.kr/16408) | Poker Hand | Bronze 2 | [Java](./16xxx/16408. Poker Hand/Poker Hand.java) |
@@ -2797,6 +2801,7 @@
 | [19945](https://boj.kr/19945) | 새로운 언어 CC | Bronze 1 | [Java](./19xxx/19945. 새로운 언어 CC/새로운 언어 CC.java) |
 | [19946](https://boj.kr/19946) | 2의 제곱수 계산하기 | Bronze 2 | [Java](./19xxx/19946. 2의 제곱수 계산하기/2의 제곱수 계산하기.java) |
 | [19947](https://boj.kr/19947) | 투자의 귀재 배주형 | Silver 5 | [Java](./19xxx/19947. 투자의 귀재 배주형/투자의 귀재 배주형.java) |
+| [19949](https://boj.kr/19949) | 영재의 시험 | Silver 2 | [C++](./19xxx/19949. 영재의 시험/영재의 시험.cc) |
 | [19963](https://boj.kr/19963) | Санта Клаус | Bronze 3 | [Java](./19xxx/19963. Санта Клаус/Санта Клаус.java) |
 | [20001](https://boj.kr/20001) | 고무오리 디버깅 | Bronze 2 | [Java](./20xxx/20001. 고무오리 디버깅/고무오리 디버깅.java) |
 | [20006](https://boj.kr/20006) | 랭킹전 대기열 | Silver 2 | [C++](./20xxx/20006. 랭킹전 대기열/랭킹전 대기열.cc) |
