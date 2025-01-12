@@ -61,6 +61,7 @@
 | [01120](https://boj.kr/1120) | 문자열 | Silver 4 | [C++](./01xxx/1120. 문자열/문자열.cc) |
 | [01124](https://boj.kr/1124) | 언더프라임 | Silver 1 | [C++](./01xxx/1124. 언더프라임/언더프라임.cc) |
 | [01138](https://boj.kr/1138) | 한 줄로 서기 | Silver 2 | [C++](./01xxx/1138. 한 줄로 서기/한 줄로 서기.cc) |
+| [01141](https://boj.kr/1141) | 접두사 | Silver 1 | [C++](./01xxx/1141. 접두사/접두사.cc) |
 | [01145](https://boj.kr/1145) | 적어도 대부분의 배수 | Bronze 1 | [Java](./01xxx/1145. 적어도 대부분의 배수/적어도 대부분의 배수.java) |
 | [01149](https://boj.kr/1149) | RGB거리 | Silver 1 | [Java](./01xxx/1149. RGB거리/RGB거리.java) |
 | [01152](https://boj.kr/1152) | 단어의 개수 | Bronze 2 | [C](./01xxx/1152. 단어의 개수/단어의 개수.c) |
@@ -131,6 +132,7 @@
 | [01339](https://boj.kr/1339) | 단어 수학 | Gold 4 | [C++](./01xxx/1339. 단어 수학/단어 수학.cc) |
 | [01340](https://boj.kr/1340) | 연도 진행바 | Silver 5 | [C++](./01xxx/1340. 연도 진행바/연도 진행바.cc) |
 | [01341](https://boj.kr/1341) | 사이좋은 형제 | Gold 3 | [Python](./01xxx/1341. 사이좋은 형제/사이좋은 형제.py) |
+| [01342](https://boj.kr/1342) | 행운의 문자열 | Silver 1 | [C++](./01xxx/1342. 행운의 문자열/행운의 문자열.cc) |
 | [01343](https://boj.kr/1343) | 폴리오미노 | Silver 5 | [Java](./01xxx/1343. 폴리오미노/폴리오미노.java) |
 | [01346](https://boj.kr/1346) | 탑을 향해서 | Platinum 4 | [C++](./01xxx/1346. 탑을 향해서/탑을 향해서.cc) |
 | [01347](https://boj.kr/1347) | 미로 만들기 | Silver 2 | [C++](./01xxx/1347. 미로 만들기/미로 만들기.cc) |
@@ -193,8 +195,10 @@
 | [01515](https://boj.kr/1515) | 수 이어 쓰기 | Silver 3 | [C++](./01xxx/1515. 수 이어 쓰기/수 이어 쓰기.cc) |
 | [01516](https://boj.kr/1516) | 게임 개발 | Gold 3 | [Java](./01xxx/1516. 게임 개발/게임 개발.java) |
 | [01520](https://boj.kr/1520) | 내리막 길 | Gold 3 | [C++](./01xxx/1520. 내리막 길/내리막 길.cc) |
+| [01522](https://boj.kr/1522) | 문자열 교환 | Silver 1 | [C++](./01xxx/1522. 문자열 교환/문자열 교환.cc) |
 | [01524](https://boj.kr/1524) | 세준세비 | Bronze 1 | [Java](./01xxx/1524. 세준세비/세준세비.java) |
 | [01526](https://boj.kr/1526) | 가장 큰 금민수 | Bronze 1 | [Java](./01xxx/1526. 가장 큰 금민수/가장 큰 금민수.java) |
+| [01527](https://boj.kr/1527) | 금민수의 개수 | Silver 1 | [C++](./01xxx/1527. 금민수의 개수/금민수의 개수.cc) |
 | [01531](https://boj.kr/1531) | 투명 | Silver 5 | [Java](./01xxx/1531. 투명/투명.java) |
 | [01532](https://boj.kr/1532) | 동전 교환 | Gold 4 | [C++](./01xxx/1532. 동전 교환/동전 교환.cc) |
 | [01535](https://boj.kr/1535) | 안녕 | Silver 2 | [C++](./01xxx/1535. 안녕/안녕.cc) |
@@ -241,6 +245,7 @@
 | [01703](https://boj.kr/1703) | 생장점 | Bronze 3 | [Java](./01xxx/1703. 생장점/생장점.java) |
 | [01707](https://boj.kr/1707) | 이분 그래프 | Gold 4 | [C++](./01xxx/1707. 이분 그래프/이분 그래프.cc) |
 | [01712](https://boj.kr/1712) | 손익분기점 | Bronze 2 | [Java](./01xxx/1712. 손익분기점/손익분기점.java) |
+| [01713](https://boj.kr/1713) | 후보 추천하기 | Silver 1 | [C++](./01xxx/1713. 후보 추천하기/후보 추천하기.cc) |
 | [01715](https://boj.kr/1715) | 카드 정렬하기 | Gold 4 | [Java](./01xxx/1715. 카드 정렬하기/카드 정렬하기.java) |
 | [01717](https://boj.kr/1717) | 집합의 표현 | Gold 5 | [Java](./01xxx/1717. 집합의 표현/집합의 표현.java) |
 | [01718](https://boj.kr/1718) | 암호 | Bronze 2 | [Java](./01xxx/1718. 암호/암호.java) |
@@ -388,6 +393,7 @@
 | [02164](https://boj.kr/2164) | 카드2 | Silver 4 | [Java](./02xxx/2164. 카드2/카드2.java) |
 | [02166](https://boj.kr/2166) | 다각형의 면적 | Gold 5 | [Java](./02xxx/2166. 다각형의 면적/다각형의 면적.java) |
 | [02167](https://boj.kr/2167) | 2차원 배열의 합 | Silver 5 | [Java](./02xxx/2167. 2차원 배열의 합/2차원 배열의 합.java) |
+| [02168](https://boj.kr/2168) | 타일 위의 대각선 | Silver 1 | [C++](./02xxx/2168. 타일 위의 대각선/타일 위의 대각선.cc) |
 | [02170](https://boj.kr/2170) | 선 긋기 | Gold 5 | [C++](./02xxx/2170. 선 긋기/선 긋기.cc) |
 | [02178](https://boj.kr/2178) | 미로 탐색 | Silver 1 | [Java](./02xxx/2178. 미로 탐색/미로 탐색.java) |
 | [02188](https://boj.kr/2188) | 축사 배정 | Platinum 4 | [C++](./02xxx/2188. 축사 배정/축사 배정.cc) |
@@ -2070,6 +2076,7 @@
 | [14244](https://boj.kr/14244) | 트리 만들기 | Silver 4 | [Java](./14xxx/14244. 트리 만들기/트리 만들기.java) |
 | [14245](https://boj.kr/14245) | XOR | Platinum 4 | [C++](./14xxx/14245. XOR/XOR.cc) |
 | [14246](https://boj.kr/14246) | K보다 큰 구간 | Silver 2 | [C++](./14xxx/14246. K보다 큰 구간/K보다 큰 구간.cc) |
+| [14247](https://boj.kr/14247) | 나무 자르기 | Silver 2 | [C++](./14xxx/14247. 나무 자르기/나무 자르기.cc) |
 | [14248](https://boj.kr/14248) | 점프 점프 | Silver 2 | [C++](./14xxx/14248. 점프 점프/점프 점프.cc) |
 | [14254](https://boj.kr/14254) | 비밀번호 변경 | Gold 5 | [C++](./14xxx/14254. 비밀번호 변경/비밀번호 변경.cc) |
 | [14264](https://boj.kr/14264) | 정육각형과 삼각형 | Bronze 3 | [Java](./14xxx/14264. 정육각형과 삼각형/정육각형과 삼각형.java) |
@@ -2174,6 +2181,7 @@
 | [14698](https://boj.kr/14698) | 전생했더니 슬라임 연구자였던 건에 대하여 (Hard) | Gold 4 | [Java](./14xxx/14698. 전생했더니 슬라임 연구자였던 건에 대하여 （Hard）/전생했더니 슬라임 연구자였던 건에 대하여 （Hard）.java) |
 | [14709](https://boj.kr/14709) | 여우 사인 | Bronze 1 | [Java](./14xxx/14709. 여우 사인/여우 사인.java) |
 | [14710](https://boj.kr/14710) | 고장난 시계 | Bronze 2 | [Java](./14xxx/14710. 고장난 시계/고장난 시계.java) |
+| [14713](https://boj.kr/14713) | 앵무새 | Silver 2 | [Java](./14xxx/14713. 앵무새/앵무새.java) |
 | [14715](https://boj.kr/14715) | 전생했더니 슬라임 연구자였던 건에 대하여 (Easy) | Gold 5 | [Java](./14xxx/14715. 전생했더니 슬라임 연구자였던 건에 대하여 （Easy）/전생했더니 슬라임 연구자였던 건에 대하여 （Easy）.java) |
 | [14716](https://boj.kr/14716) | 현수막 | Silver 1 | [C++](./14xxx/14716. 현수막/현수막.cc) |
 | [14719](https://boj.kr/14719) | 빗물 | Gold 5 | [Python](./14xxx/14719. 빗물/빗물.py) |
@@ -2781,6 +2789,7 @@
 | [19621](https://boj.kr/19621) | 회의실 배정 2 | Silver 2 | [C++](./19xxx/19621. 회의실 배정 2/회의실 배정 2.cc) |
 | [19622](https://boj.kr/19622) | 회의실 배정 3 | Silver 2 | [C++](./19xxx/19622. 회의실 배정 3/회의실 배정 3.cc) |
 | [19637](https://boj.kr/19637) | IF문 좀 대신 써줘 | Silver 3 | [C++](./19xxx/19637. IF문 좀 대신 써줘/IF문 좀 대신 써줘.cc) |
+| [19638](https://boj.kr/19638) | 센티와 마법의 뿅망치 | Silver 1 | [C++](./19xxx/19638. 센티와 마법의 뿅망치/센티와 마법의 뿅망치.cc) |
 | [19644](https://boj.kr/19644) | 좀비 떼가 기관총 진지에도 오다니 | Gold 3 | [C++](./19xxx/19644. 좀비 떼가 기관총 진지에도 오다니/좀비 떼가 기관총 진지에도 오다니.cc) |
 | [19685](https://boj.kr/19685) | Palindromic FizzBuzz | Bronze 2 | [Java](./19xxx/19685. Palindromic FizzBuzz/Palindromic FizzBuzz.java) |
 | [19698](https://boj.kr/19698) | 헛간 청약 | Bronze 4 | [C](./19xxx/19698. 헛간 청약/헛간 청약.c) |
@@ -2929,6 +2938,7 @@
 | [21312](https://boj.kr/21312) | 홀짝 칵테일 | Bronze 3 | [Java](./21xxx/21312. 홀짝 칵테일/홀짝 칵테일.java) |
 | [21313](https://boj.kr/21313) | 문어 | Bronze 2 | [Java](./21xxx/21313. 문어/문어.java) |
 | [21316](https://boj.kr/21316) | 스피카 | Silver 3 | [C++](./21xxx/21316. 스피카/스피카.cc) |
+| [21317](https://boj.kr/21317) | 징검다리 건너기 | Silver 1 | [C++](./21xxx/21317. 징검다리 건너기/징검다리 건너기.cc) |
 | [21335](https://boj.kr/21335) | Another Eruption | Bronze 4 | [Java](./21xxx/21335. Another Eruption/Another Eruption.java) |
 | [21339](https://boj.kr/21339) | Contest Struggles | Bronze 3 | [Java](./21xxx/21339. Contest Struggles/Contest Struggles.java) |
 | [21354](https://boj.kr/21354) | Äpplen och päron | Bronze 4 | [Java](./21xxx/21354. Äpplen och päron/Äpplen och päron.java) |
