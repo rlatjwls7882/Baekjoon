@@ -357,6 +357,7 @@
 | [01978](https://boj.kr/1978) | 소수 찾기 | Bronze 2 | [C](./01xxx/1978. 소수 찾기/소수 찾기.c) |
 | [01985](https://boj.kr/1985) | 디지털 친구 | Silver 4 | [C++](./01xxx/1985. 디지털 친구/디지털 친구.cc) |
 | [01987](https://boj.kr/1987) | 알파벳 | Gold 4 | [Java](./01xxx/1987. 알파벳/알파벳.java) |
+| [01990](https://boj.kr/1990) | 소수인팰린드롬 | Gold 5 | [C++](./01xxx/1990. 소수인팰린드롬/소수인팰린드롬.cc) |
 | [01991](https://boj.kr/1991) | 트리 순회 | Silver 1 | [Java](./01xxx/1991. 트리 순회/트리 순회.java) |
 | [01992](https://boj.kr/1992) | 쿼드트리 | Silver 1 | [Java](./01xxx/1992. 쿼드트리/쿼드트리.java) |
 | [01996](https://boj.kr/1996) | 지뢰 찾기 | Silver 5 | [Java](./01xxx/1996. 지뢰 찾기/지뢰 찾기.java) |
@@ -388,6 +389,7 @@
 | [02096](https://boj.kr/2096) | 내려가기 | Gold 5 | [C++](./02xxx/2096. 내려가기/내려가기.cc) |
 | [02108](https://boj.kr/2108) | 통계학 | Silver 3 | [Java](./02xxx/2108. 통계학/통계학.java) |
 | [02110](https://boj.kr/2110) | 공유기 설치 | Gold 4 | [C++](./02xxx/2110. 공유기 설치/공유기 설치.cc) |
+| [02116](https://boj.kr/2116) | 주사위 쌓기 | Gold 5 | [C++](./02xxx/2116. 주사위 쌓기/주사위 쌓기.cc) |
 | [02131](https://boj.kr/2131) | 로봇 명령 | Gold 2 | [C++](./02xxx/2131. 로봇 명령/로봇 명령.cc) |
 | [02133](https://boj.kr/2133) | 타일 채우기 | Gold 4 | [C++](./02xxx/2133. 타일 채우기/타일 채우기.cc) |
 | [02137](https://boj.kr/2137) | 가장 가까운 분수 | Gold 4 | [C++](./02xxx/2137. 가장 가까운 분수/가장 가까운 분수.cc) |
@@ -418,6 +420,7 @@
 | [02206](https://boj.kr/2206) | 벽 부수고 이동하기 | Gold 3 | [C++](./02xxx/2206. 벽 부수고 이동하기/벽 부수고 이동하기.cc) |
 | [02207](https://boj.kr/2207) | 가위바위보 | Platinum 4 | [C++](./02xxx/2207. 가위바위보/가위바위보.cc) |
 | [02210](https://boj.kr/2210) | 숫자판 점프 | Silver 2 | [C++](./02xxx/2210. 숫자판 점프/숫자판 점프.cc) |
+| [02212](https://boj.kr/2212) | 센서 | Gold 5 | [C++](./02xxx/2212. 센서/센서.cc) |
 | [02213](https://boj.kr/2213) | 트리의 독립집합 | Gold 1 | [C++](./02xxx/2213. 트리의 독립집합/트리의 독립집합.cc) |
 | [02217](https://boj.kr/2217) | 로프 | Silver 4 | [C++](./02xxx/2217. 로프/로프.cc) |
 | [02225](https://boj.kr/2225) | 합분해 | Gold 5 | [C++](./02xxx/2225. 합분해/합분해.cc) |
@@ -1215,6 +1218,7 @@
 | [07453](https://boj.kr/7453) | 합이 0인 네 정수 | Gold 2 | [C++](./07xxx/7453. 합이 0인 네 정수/합이 0인 네 정수.cc) |
 | [07482](https://boj.kr/7482) | 상자 만들기 | Silver 5 | [Java](./07xxx/7482. 상자 만들기/상자 만들기.java) |
 | [07489](https://boj.kr/7489) | 팩토리얼 | Bronze 2 | [Java](./07xxx/7489. 팩토리얼/팩토리얼.java) |
+| [07490](https://boj.kr/7490) | 0 만들기 | Gold 5 | [C++](./07xxx/7490. 0 만들기/0 만들기.cc) |
 | [07510](https://boj.kr/7510) | 고급 수학 | Bronze 3 | [Java](./07xxx/7510. 고급 수학/고급 수학.java) |
 | [07511](https://boj.kr/7511) | 소셜 네트워킹 어플리케이션 | Gold 5 | [Java](./07xxx/7511. 소셜 네트워킹 어플리케이션/소셜 네트워킹 어플리케이션.java) |
 | [07512](https://boj.kr/7512) | 연속하는 소수의 합 | Gold 3 | [C++](./07xxx/7512. 연속하는 소수의 합/연속하는 소수의 합.cc) |
@@ -1962,6 +1966,7 @@
 | [13153](https://boj.kr/13153) | Formula | Bronze 1 | [Python](./13xxx/13153. Formula/Formula.py) |
 | [13156](https://boj.kr/13156) | Selling CPUs | Gold 5 | [C++](./13xxx/13156. Selling CPUs/Selling CPUs.cc) |
 | [13163](https://boj.kr/13163) | 닉네임에 갓 붙이기 | Bronze 3 | [Java](./13xxx/13163. 닉네임에 갓 붙이기/닉네임에 갓 붙이기.java) |
+| [13164](https://boj.kr/13164) | 행복 유치원 | Gold 5 | [C++](./13xxx/13164. 행복 유치원/행복 유치원.cc) |
 | [13171](https://boj.kr/13171) | A | Silver 3 | [C++](./13xxx/13171. A/A.cc) |
 | [13172](https://boj.kr/13172) | Σ | Gold 4 | [C++](./13xxx/13172. Σ/Σ.cc) |
 | [13216](https://boj.kr/13216) | Badminton | Bronze 1 | [Java](./13xxx/13216. Badminton/Badminton.java) |
