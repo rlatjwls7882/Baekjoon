@@ -558,12 +558,14 @@
 | [02587](https://boj.kr/2587) | 대표값2 | Bronze 2 | [Java](./02xxx/2587. 대표값2/대표값2.java) |
 | [02588](https://boj.kr/2588) | 곱셈 | Bronze 3 | [C](./02xxx/2588. 곱셈/곱셈.c) |
 | [02589](https://boj.kr/2589) | 보물섬 | Gold 5 | [C++](./02xxx/2589. 보물섬/보물섬.cc) |
+| [02591](https://boj.kr/2591) | 숫자카드 | Gold 5 | [C++](./02xxx/2591. 숫자카드/숫자카드.cc) |
 | [02592](https://boj.kr/2592) | 대표값 | Bronze 2 | [Java](./02xxx/2592. 대표값/대표값.java) |
 | [02594](https://boj.kr/2594) | 놀이공원 | Silver 3 | [C++](./02xxx/2594. 놀이공원/놀이공원.cc) |
 | [02596](https://boj.kr/2596) | 비밀편지 | Bronze 1 | [Java](./02xxx/2596. 비밀편지/비밀편지.java) |
 | [02605](https://boj.kr/2605) | 줄 세우기 | Bronze 2 | [Java](./02xxx/2605. 줄 세우기/줄 세우기.java) |
 | [02606](https://boj.kr/2606) | 바이러스 | Silver 3 | [Java](./02xxx/2606. 바이러스/바이러스.java) |
 | [02607](https://boj.kr/2607) | 비슷한 단어 | Silver 2 | [C++](./02xxx/2607. 비슷한 단어/비슷한 단어.cc) |
+| [02608](https://boj.kr/2608) | 로마 숫자 | Gold 5 | [C++](./02xxx/2608. 로마 숫자/로마 숫자.cc) |
 | [02609](https://boj.kr/2609) | 최대공약수와 최소공배수 | Bronze 1 | [Java](./02xxx/2609. 최대공약수와 최소공배수/최대공약수와 최소공배수.java) |
 | [02615](https://boj.kr/2615) | 오목 | Silver 1 | [C++](./02xxx/2615. 오목/오목.cc) |
 | [02621](https://boj.kr/2621) | 카드게임 | Silver 3 | [C++](./02xxx/2621. 카드게임/카드게임.cc) |
