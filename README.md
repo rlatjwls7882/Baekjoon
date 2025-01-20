@@ -436,7 +436,7 @@
 | [02248](https://boj.kr/2248) | 이진수 찾기 | Gold 3 | [C++](./02xxx/2248. 이진수 찾기/이진수 찾기.cc) |
 | [02250](https://boj.kr/2250) | 트리의 높이와 너비 | Gold 2 | [C++](./02xxx/2250. 트리의 높이와 너비/트리의 높이와 너비.cc) |
 | [02252](https://boj.kr/2252) | 줄 세우기 | Gold 3 | [Java](./02xxx/2252. 줄 세우기/줄 세우기.java) |
-| [02257](https://boj.kr/2257) | 화학식량 | Silver 2 | [C++](./02xxx/2257. 화학식량/화학식량.cc) |
+| [02257](https://boj.kr/2257) | 화학식량 | Silver 1 | [C++](./02xxx/2257. 화학식량/화학식량.cc) |
 | [02268](https://boj.kr/2268) | 수들의 합 7 | Gold 1 | [C++](./02xxx/2268. 수들의 합 7/수들의 합 7.cc) |
 | [02290](https://boj.kr/2290) | LCD Test | Silver 2 | [C++](./02xxx/2290. LCD Test/LCD Test.cc) |
 | [02292](https://boj.kr/2292) | 벌집 | Bronze 2 | [Java](./02xxx/2292. 벌집/벌집.java) |
@@ -1015,6 +1015,7 @@
 | [05543](https://boj.kr/5543) | 상근날드 | Bronze 4 | [C](./05xxx/5543. 상근날드/상근날드.c) |
 | [05544](https://boj.kr/5544) | 리그 | Bronze 1 | [Java](./05xxx/5544. 리그/리그.java) |
 | [05545](https://boj.kr/5545) | 최고의 피자 | Silver 3 | [C++](./05xxx/5545. 최고의 피자/최고의 피자.cc) |
+| [05549](https://boj.kr/5549) | 행성 탐사 | Gold 5 | [C++](./05xxx/5549. 행성 탐사/행성 탐사.cc) |
 | [05554](https://boj.kr/5554) | 심부름 가는 길 | Bronze 4 | [C](./05xxx/5554. 심부름 가는 길/심부름 가는 길.c) |
 | [05555](https://boj.kr/5555) | 반지 | Silver 5 | [Java](./05xxx/5555. 반지/반지.java) |
 | [05556](https://boj.kr/5556) | 타일 | Bronze 1 | [C++](./05xxx/5556. 타일/타일.cc) |
@@ -1072,6 +1073,7 @@
 | [05800](https://boj.kr/5800) | 성적 통계 | Silver 5 | [Java](./05xxx/5800. 성적 통계/성적 통계.java) |
 | [05874](https://boj.kr/5874) | 소를 찾아라 | Silver 4 | [C++](./05xxx/5874. 소를 찾아라/소를 찾아라.cc) |
 | [05893](https://boj.kr/5893) | 17배 | Bronze 3 | [Java](./05xxx/5893. 17배/17배.java) |
+| [05904](https://boj.kr/5904) | Moo 게임 | Gold 5 | [C++](./05xxx/5904. Moo 게임/Moo 게임.cc) |
 | [05916](https://boj.kr/5916) | 농장 관리 | Platinum 1 | [C++](./05xxx/5916. 농장 관리/농장 관리.cc) |
 | [05919](https://boj.kr/5919) | Hay Bales | Bronze 2 | [Java](./05xxx/5919. Hay Bales/Hay Bales.java) |
 | [05928](https://boj.kr/5928) | Contest Timing | Bronze 4 | [C](./05xxx/5928. Contest Timing/Contest Timing.c) |
@@ -2585,6 +2587,7 @@
 | [16928](https://boj.kr/16928) | 뱀과 사다리 게임 | Gold 5 | [Java](./16xxx/16928. 뱀과 사다리 게임/뱀과 사다리 게임.java) |
 | [16931](https://boj.kr/16931) | 겉넓이 구하기 | Silver 2 | [C++](./16xxx/16931. 겉넓이 구하기/겉넓이 구하기.cc) |
 | [16933](https://boj.kr/16933) | 벽 부수고 이동하기 3 | Gold 1 | [C++](./16xxx/16933. 벽 부수고 이동하기 3/벽 부수고 이동하기 3.cc) |
+| [16936](https://boj.kr/16936) | 나3곱2 | Gold 5 | [C++](./16xxx/16936. 나3곱2/나3곱2.cc) |
 | [16937](https://boj.kr/16937) | 두 스티커 | Silver 3 | [C++](./16xxx/16937. 두 스티커/두 스티커.cc) |
 | [16943](https://boj.kr/16943) | 숫자 재배치 | Silver 1 | [C++](./16xxx/16943. 숫자 재배치/숫자 재배치.cc) |
 | [16944](https://boj.kr/16944) | 강력한 비밀번호 | Bronze 2 | [Java](./16xxx/16944. 강력한 비밀번호/강력한 비밀번호.java) |
@@ -4266,4 +4269,5 @@
 | [32978](https://boj.kr/32978) | 아 맞다 마늘 | Bronze 3 | [C++](./32xxx/32978. 아 맞다 마늘/아 맞다 마늘.cc) |
 | [33026](https://boj.kr/33026) | LOL Lovers | Bronze 3 | [C++](./33xxx/33026. LOL Lovers/LOL Lovers.cc) |
 | [33046](https://boj.kr/33046) | Alea Iacta Est | Bronze 4 | [C++](./33xxx/33046. Alea Iacta Est/Alea Iacta Est.cc) |
+| [33161](https://boj.kr/33161) | 鉛筆 2 (Pencils 2) | Bronze 5 | [Python](./33xxx/33161. 鉛筆 2 （Pencils 2）/鉛筆 2 （Pencils 2）.py) |
 </div>
