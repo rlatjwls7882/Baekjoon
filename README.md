@@ -628,6 +628,7 @@
 | [02777](https://boj.kr/2777) | 숫자 놀이 | Silver 2 | [C++](./02xxx/2777. 숫자 놀이/숫자 놀이.cc) |
 | [02780](https://boj.kr/2780) | 비밀번호 | Silver 1 | [C++](./02xxx/2780. 비밀번호/비밀번호.cc) |
 | [02783](https://boj.kr/2783) | 삼각 김밥 | Bronze 3 | [Java](./02xxx/2783. 삼각 김밥/삼각 김밥.java) |
+| [02787](https://boj.kr/2787) | 흔한 수열 문제 | Platinum 3 | [C++](./02xxx/2787. 흔한 수열 문제/흔한 수열 문제.cc) |
 | [02789](https://boj.kr/2789) | 유학 금지 | Bronze 2 | [Java](./02xxx/2789. 유학 금지/유학 금지.java) |
 | [02792](https://boj.kr/2792) | 보석 상자 | Silver 1 | [C++](./02xxx/2792. 보석 상자/보석 상자.cc) |
 | [02798](https://boj.kr/2798) | 블랙잭 | Bronze 2 | [Java](./02xxx/2798. 블랙잭/블랙잭.java) |
@@ -788,6 +789,7 @@
 | [03622](https://boj.kr/3622) | 어떤 호박의 할로윈 여행 | Bronze 2 | [Java](./03xxx/3622. 어떤 호박의 할로윈 여행/어떤 호박의 할로윈 여행.java) |
 | [03648](https://boj.kr/3648) | 아이돌 | Platinum 3 | [C++](./03xxx/3648. 아이돌/아이돌.cc) |
 | [03649](https://boj.kr/3649) | 로봇 프로젝트 | Gold 5 | [C++](./03xxx/3649. 로봇 프로젝트/로봇 프로젝트.cc) |
+| [03683](https://boj.kr/3683) | 고양이와 개 | Platinum 2 | [C++](./03xxx/3683. 고양이와 개/고양이와 개.cc) |
 | [03711](https://boj.kr/3711) | 학번 | Silver 5 | [Java](./03xxx/3711. 학번/학번.java) |
 | [03724](https://boj.kr/3724) | 표 | Bronze 1 | [Java](./03xxx/3724. 표/표.java) |
 | [03733](https://boj.kr/3733) | Shares | Bronze 5 | [C](./03xxx/3733. Shares/Shares.c) |
@@ -1256,6 +1258,7 @@
 | [07637](https://boj.kr/7637) | AAAAHH! Overbooked! | Bronze 1 | [Java](./07xxx/7637. AAAAHH！ Overbooked！/AAAAHH！ Overbooked！.java) |
 | [07656](https://boj.kr/7656) | 만능 오라클 | Silver 5 | [Java](./07xxx/7656. 만능 오라클/만능 오라클.java) |
 | [07662](https://boj.kr/7662) | 이중 우선순위 큐 | Gold 4 | [Java](./07xxx/7662. 이중 우선순위 큐/이중 우선순위 큐.java) |
+| [07682](https://boj.kr/7682) | 틱택토 | Gold 5 | [C++](./07xxx/7682. 틱택토/틱택토.cc) |
 | [07696](https://boj.kr/7696) | 반복하지 않는 수 | Silver 3 | [C++](./07xxx/7696. 반복하지 않는 수/반복하지 않는 수.cc) |
 | [07770](https://boj.kr/7770) | 아즈텍 피라미드 | Bronze 2 | [Java](./07xxx/7770. 아즈텍 피라미드/아즈텍 피라미드.java) |
 | [07771](https://boj.kr/7771) | 배틀쉽 | Gold 5 | [C++](./07xxx/7771. 배틀쉽/배틀쉽.cc) |
@@ -1859,6 +1862,7 @@
 | [11760](https://boj.kr/11760) | Mastering Mastermind | Bronze 2 | [Java](./11xxx/11760. Mastering Mastermind/Mastering Mastermind.java) |
 | [11772](https://boj.kr/11772) | POT | Bronze 3 | [Java](./11xxx/11772. POT/POT.java) |
 | [11779](https://boj.kr/11779) | 최소비용 구하기 2 | Gold 3 | [Java](./11xxx/11779. 최소비용 구하기 2/최소비용 구하기 2.java) |
+| [11780](https://boj.kr/11780) | 플로이드 2 | Gold 2 | [C++](./11xxx/11780. 플로이드 2/플로이드 2.cc) |
 | [11784](https://boj.kr/11784) | Hex Code | Bronze 1 | [Java](./11xxx/11784. Hex Code/Hex Code.java) |
 | [11795](https://boj.kr/11795) | Donation Packaging | Bronze 3 | [Java](./11xxx/11795. Donation Packaging/Donation Packaging.java) |
 | [11800](https://boj.kr/11800) | Tawla | Bronze 3 | [Java](./11xxx/11800. Tawla/Tawla.java) |
@@ -2095,6 +2099,7 @@
 | [13985](https://boj.kr/13985) | Equality | Bronze 4 | [C](./13xxx/13985. Equality/Equality.c) |
 | [13987](https://boj.kr/13987) | Six Sides | Bronze 2 | [Java](./13xxx/13987. Six Sides/Six Sides.java) |
 | [14002](https://boj.kr/14002) | 가장 긴 증가하는 부분 수열 4 | Gold 4 | [Java](./14xxx/14002. 가장 긴 증가하는 부분 수열 4/가장 긴 증가하는 부분 수열 4.java) |
+| [14003](https://boj.kr/14003) | 가장 긴 증가하는 부분 수열 5 | Platinum 5 | [C++](./14xxx/14003. 가장 긴 증가하는 부분 수열 5/가장 긴 증가하는 부분 수열 5.cc) |
 | [14004](https://boj.kr/14004) | ICPC | Bronze 1 | [C++](./14xxx/14004. ICPC/ICPC.cc) |
 | [14013](https://boj.kr/14013) | Unit Conversion | Bronze 3 | [Java](./14xxx/14013. Unit Conversion/Unit Conversion.java) |
 | [14038](https://boj.kr/14038) | Tournament Selection | Bronze 4 | [Java](./14xxx/14038. Tournament Selection/Tournament Selection.java) |
