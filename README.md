@@ -1050,6 +1050,7 @@
 | [05637](https://boj.kr/5637) | 가장 긴 단어 | Silver 4 | [Java](./05xxx/5637. 가장 긴 단어/가장 긴 단어.java) |
 | [05639](https://boj.kr/5639) | 이진 검색 트리 | Gold 4 | [C++](./05xxx/5639. 이진 검색 트리/이진 검색 트리.cc) |
 | [05648](https://boj.kr/5648) | 역원소 정렬 | Silver 5 | [Java](./05xxx/5648. 역원소 정렬/역원소 정렬.java) |
+| [05651](https://boj.kr/5651) | 완전 중요한 간선 | Platinum 1 | [C++](./05xxx/5651. 완전 중요한 간선/완전 중요한 간선.cc) |
 | [05656](https://boj.kr/5656) | 비교 연산자 | Bronze 2 | [Java](./05xxx/5656. 비교 연산자/비교 연산자.java) |
 | [05666](https://boj.kr/5666) | Hot Dogs | Bronze 3 | [Java](./05xxx/5666. Hot Dogs/Hot Dogs.java) |
 | [05670](https://boj.kr/5670) | 휴대폰 자판 | Platinum 4 | [C++](./05xxx/5670. 휴대폰 자판/휴대폰 자판.cc) |
@@ -2322,6 +2323,7 @@
 | [15238](https://boj.kr/15238) | Pirates | Bronze 3 | [Java](./15xxx/15238. Pirates/Pirates.java) |
 | [15239](https://boj.kr/15239) | Password check | Bronze 2 | [Java](./15xxx/15239. Password check/Password check.java) |
 | [15252](https://boj.kr/15252) | Opening Ceremony | Bronze 2 | [Java](./15xxx/15252. Opening Ceremony/Opening Ceremony.java) |
+| [15271](https://boj.kr/15271) | 친구 팰린드롬 2 | Platinum 4 | [C++](./15xxx/15271. 친구 팰린드롬 2/친구 팰린드롬 2.cc) |
 | [15272](https://boj.kr/15272) | Hissing Microphone | Bronze 3 | [Java](./15xxx/15272. Hissing Microphone/Hissing Microphone.java) |
 | [15279](https://boj.kr/15279) | Heart Rate | Bronze 2 | [Java](./15xxx/15279. Heart Rate/Heart Rate.java) |
 | [15295](https://boj.kr/15295) | Chanukah Challenge | Bronze 3 | [Java](./15xxx/15295. Chanukah Challenge/Chanukah Challenge.java) |
@@ -3173,7 +3175,7 @@
 | [23544](https://boj.kr/23544) | Kinder Surprise | Bronze 2 | [Java](./23xxx/23544. Kinder Surprise/Kinder Surprise.java) |
 | [23560](https://boj.kr/23560) | 약 | Silver 2 | [C++](./23xxx/23560. 약/약.cc) |
 | [23563](https://boj.kr/23563) | 벽 타기 | Gold 3 | [Java](./23xxx/23563. 벽 타기/벽 타기.java) |
-| [23627](https://boj.kr/23627) | driip | Bronze 2 | [Java](./23xxx/23627. driip/driip.java) |
+| [23627](https://boj.kr/23627) | driip | Bronze 3 | [Java](./23xxx/23627. driip/driip.java) |
 | [23628](https://boj.kr/23628) | 악마의 연차 계산기 | Bronze 1 | [Java](./23xxx/23628. 악마의 연차 계산기/악마의 연차 계산기.java) |
 | [23631](https://boj.kr/23631) | 진심 좌우 반복뛰기 | Silver 1 | [C++](./23xxx/23631. 진심 좌우 반복뛰기/진심 좌우 반복뛰기.cc) |
 | [23663](https://boj.kr/23663) | Deja vu of Go Players | Bronze 3 | [Java](./23xxx/23663. Deja vu of Go Players/Deja vu of Go Players.java) |
