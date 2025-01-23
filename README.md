@@ -172,6 +172,7 @@
 | [01414](https://boj.kr/1414) | 불우이웃돕기 | Gold 3 | [Java](./01xxx/1414. 불우이웃돕기/불우이웃돕기.java) |
 | [01417](https://boj.kr/1417) | 국회의원 선거 | Silver 5 | [Java](./01xxx/1417. 국회의원 선거/국회의원 선거.java) |
 | [01418](https://boj.kr/1418) | K-세준수 | Silver 5 | [C++](./01xxx/1418. K－세준수/K－세준수.cc) |
+| [01420](https://boj.kr/1420) | 학교 가지마! | Platinum 2 | [C++](./01xxx/1420. 학교 가지마！/학교 가지마！.cc) |
 | [01427](https://boj.kr/1427) | 소트인사이드 | Silver 5 | [Java](./01xxx/1427. 소트인사이드/소트인사이드.java) |
 | [01431](https://boj.kr/1431) | 시리얼 번호 | Silver 3 | [C++](./01xxx/1431. 시리얼 번호/시리얼 번호.cc) |
 | [01434](https://boj.kr/1434) | 책 정리 | Bronze 2 | [Java](./01xxx/1434. 책 정리/책 정리.java) |
@@ -236,6 +237,7 @@
 | [01652](https://boj.kr/1652) | 누울 자리를 찾아라 | Silver 5 | [C++](./01xxx/1652. 누울 자리를 찾아라/누울 자리를 찾아라.cc) |
 | [01654](https://boj.kr/1654) | 랜선 자르기 | Silver 2 | [C++](./01xxx/1654. 랜선 자르기/랜선 자르기.cc) |
 | [01655](https://boj.kr/1655) | 가운데를 말해요 | Gold 2 | [Java](./01xxx/1655. 가운데를 말해요/가운데를 말해요.java) |
+| [01658](https://boj.kr/1658) | 돼지 잡기 | Platinum 2 | [C++](./01xxx/1658. 돼지 잡기/돼지 잡기.cc) |
 | [01660](https://boj.kr/1660) | 캡틴 이다솜 | Gold 5 | [C++](./01xxx/1660. 캡틴 이다솜/캡틴 이다솜.cc) |
 | [01668](https://boj.kr/1668) | 트로피 진열 | Bronze 2 | [Java](./01xxx/1668. 트로피 진열/트로피 진열.java) |
 | [01669](https://boj.kr/1669) | 멍멍이 쓰다듬기 | Gold 5 | [C++](./01xxx/1669. 멍멍이 쓰다듬기/멍멍이 쓰다듬기.cc) |
@@ -1256,6 +1258,7 @@
 | [07598](https://boj.kr/7598) | Bookings | Bronze 2 | [Java](./07xxx/7598. Bookings/Bookings.java) |
 | [07599](https://boj.kr/7599) | Library Codes | Bronze 2 | [Java](./07xxx/7599. Library Codes/Library Codes.java) |
 | [07600](https://boj.kr/7600) | 문자가 몇갤까 | Bronze 2 | [Java](./07xxx/7600. 문자가 몇갤까/문자가 몇갤까.java) |
+| [07616](https://boj.kr/7616) | 교실로 가는 길 | Platinum 2 | [C++](./07xxx/7616. 교실로 가는 길/교실로 가는 길.cc) |
 | [07637](https://boj.kr/7637) | AAAAHH! Overbooked! | Bronze 1 | [Java](./07xxx/7637. AAAAHH！ Overbooked！/AAAAHH！ Overbooked！.java) |
 | [07656](https://boj.kr/7656) | 만능 오라클 | Silver 5 | [Java](./07xxx/7656. 만능 오라클/만능 오라클.java) |
 | [07662](https://boj.kr/7662) | 이중 우선순위 큐 | Gold 4 | [Java](./07xxx/7662. 이중 우선순위 큐/이중 우선순위 큐.java) |
@@ -1795,6 +1798,7 @@
 | [11444](https://boj.kr/11444) | 피보나치 수 6 | Gold 2 | [C++](./11xxx/11444. 피보나치 수 6/피보나치 수 6.cc) |
 | [11466](https://boj.kr/11466) | Alex Origami Squares | Bronze 3 | [Java](./11xxx/11466. Alex Origami Squares/Alex Origami Squares.java) |
 | [11478](https://boj.kr/11478) | 서로 다른 부분 문자열의 개수 | Silver 3 | [Java](./11xxx/11478. 서로 다른 부분 문자열의 개수/서로 다른 부분 문자열의 개수.java) |
+| [11495](https://boj.kr/11495) | 격자 0 만들기 | Platinum 2 | [C++](./11xxx/11495. 격자 0 만들기/격자 0 만들기.cc) |
 | [11497](https://boj.kr/11497) | 통나무 건너뛰기 | Silver 1 | [C++](./11xxx/11497. 통나무 건너뛰기/통나무 건너뛰기.cc) |
 | [11501](https://boj.kr/11501) | 주식 | Silver 2 | [C++](./11xxx/11501. 주식/주식.cc) |
 | [11502](https://boj.kr/11502) | 세 개의 소수 문제 | Silver 4 | [C++](./11xxx/11502. 세 개의 소수 문제/세 개의 소수 문제.cc) |
@@ -4170,6 +4174,7 @@
 | [32115](https://boj.kr/32115) | 돌 놓기 게임 | Platinum 4 | [C++](./32xxx/32115. 돌 놓기 게임/돌 놓기 게임.cc) |
 | [32122](https://boj.kr/32122) | 밤양갱 | Platinum 3 | [C++](./32xxx/32122. 밤양갱/밤양갱.cc) |
 | [32124](https://boj.kr/32124) | 고장난 계산기 | Gold 3 | [C++](./32xxx/32124. 고장난 계산기/고장난 계산기.cc) |
+| [32126](https://boj.kr/32126) | 돌고래 사진 | Platinum 1 | [C++](./32xxx/32126. 돌고래 사진/돌고래 사진.cc) |
 | [32132](https://boj.kr/32132) | PlayStation이 아니에요 | Bronze 1 | [C++](./32xxx/32132. PlayStation이 아니에요/PlayStation이 아니에요.cc) |
 | [32141](https://boj.kr/32141) | 카드 게임 (Easy) | Bronze 2 | [C++](./32xxx/32141. 카드 게임 （Easy）/카드 게임 （Easy）.cc) |
 | [32154](https://boj.kr/32154) | SUAPC 2024 Winter | Bronze 5 | [Java](./32xxx/32154. SUAPC 2024 Winter/SUAPC 2024 Winter.java) |
