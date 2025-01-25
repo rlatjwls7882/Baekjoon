@@ -263,6 +263,7 @@
 | [01722](https://boj.kr/1722) | 순열의 순서 | Gold 5 | [C++](./01xxx/1722. 순열의 순서/순열의 순서.cc) |
 | [01725](https://boj.kr/1725) | 히스토그램 | Platinum 5 | [C++](./01xxx/1725. 히스토그램/히스토그램.cc) |
 | [01731](https://boj.kr/1731) | 추론 | Bronze 2 | [Java](./01xxx/1731. 추론/추론.java) |
+| [01732](https://boj.kr/1732) | 레이저 | Gold 2 | [C++](./01xxx/1732. 레이저/레이저.cc) |
 | [01735](https://boj.kr/1735) | 분수 합 | Silver 3 | [Java](./01xxx/1735. 분수 합/분수 합.java) |
 | [01740](https://boj.kr/1740) | 거듭제곱 | Silver 3 | [C++](./01xxx/1740. 거듭제곱/거듭제곱.cc) |
 | [01743](https://boj.kr/1743) | 음식물 피하기 | Silver 1 | [C++](./01xxx/1743. 음식물 피하기/음식물 피하기.cc) |
@@ -1006,6 +1007,7 @@
 | [05368](https://boj.kr/5368) | Escape Route | Bronze 2 | [Java](./05xxx/5368. Escape Route/Escape Route.java) |
 | [05370](https://boj.kr/5370) | Which Way | Bronze 2 | [Java](./05xxx/5370. Which Way/Which Way.java) |
 | [05397](https://boj.kr/5397) | 키로거 | Silver 2 | [C++](./05xxx/5397. 키로거/키로거.cc) |
+| [05398](https://boj.kr/5398) | 틀렸습니다 | Platinum 2 | [C++](./05xxx/5398. 틀렸습니다/틀렸습니다.cc) |
 | [05426](https://boj.kr/5426) | 비밀 편지 | Silver 5 | [Java](./05xxx/5426. 비밀 편지/비밀 편지.java) |
 | [05427](https://boj.kr/5427) | 불 | Gold 4 | [C++](./05xxx/5427. 불/불.cc) |
 | [05430](https://boj.kr/5430) | AC | Gold 5 | [Java](./05xxx/5430. AC/AC.java) |
@@ -1794,6 +1796,9 @@
 | [11401](https://boj.kr/11401) | 이항 계수 3 | Gold 1 | [Java](./11xxx/11401. 이항 계수 3/이항 계수 3.java) |
 | [11403](https://boj.kr/11403) | 경로 찾기 | Silver 1 | [Java](./11xxx/11403. 경로 찾기/경로 찾기.java) |
 | [11404](https://boj.kr/11404) | 플로이드 | Gold 4 | [Java](./11xxx/11404. 플로이드/플로이드.java) |
+| [11405](https://boj.kr/11405) | 책 구매하기 | Platinum 3 | [C++](./11xxx/11405. 책 구매하기/책 구매하기.cc) |
+| [11408](https://boj.kr/11408) | 열혈강호 5 | Platinum 3 | [C++](./11xxx/11408. 열혈강호 5/열혈강호 5.cc) |
+| [11409](https://boj.kr/11409) | 열혈강호 6 | Platinum 3 | [C++](./11xxx/11409. 열혈강호 6/열혈강호 6.cc) |
 | [11434](https://boj.kr/11434) | Ampelmännchen | Bronze 3 | [Java](./11xxx/11434. Ampelmännchen/Ampelmännchen.java) |
 | [11437](https://boj.kr/11437) | LCA | Gold 3 | [C++](./11xxx/11437. LCA/LCA.cc) |
 | [11438](https://boj.kr/11438) | LCA 2 | Platinum 5 | [C++](./11xxx/11438. LCA 2/LCA 2.cc) |
@@ -1977,7 +1982,7 @@
 | [12924](https://boj.kr/12924) | 멋진 쌍 | Gold 5 | [C++](./12xxx/12924. 멋진 쌍/멋진 쌍.cc) |
 | [12927](https://boj.kr/12927) | 배수 스위치 | Silver 4 | [C++](./12xxx/12927. 배수 스위치/배수 스위치.cc) |
 | [12933](https://boj.kr/12933) | 오리 | Silver 2 | [C++](./12xxx/12933. 오리/오리.cc) |
-| [13003](https://boj.kr/13003) | 배수열 | Gold 2 | [C++](./13xxx/13003. 배수열/배수열.cc) |
+| [13003](https://boj.kr/13003) | 배수열 | Gold 3 | [C++](./13xxx/13003. 배수열/배수열.cc) |
 | [13015](https://boj.kr/13015) | 별 찍기 - 23 | Silver 4 | [Java](./13xxx/13015. 별 찍기 － 23/별 찍기 － 23.java) |
 | [13023](https://boj.kr/13023) | ABCDE | Gold 5 | [Java](./13xxx/13023. ABCDE/ABCDE.java) |
 | [13063](https://boj.kr/13063) | Lobby | Bronze 3 | [Java](./13xxx/13063. Lobby/Lobby.java) |
