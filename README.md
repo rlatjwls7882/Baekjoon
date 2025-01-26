@@ -792,6 +792,7 @@
 | [03613](https://boj.kr/3613) | Java vs C++ | Silver 3 | [C++](./03xxx/3613. Java vs C＋＋/Java vs C＋＋.cc) |
 | [03621](https://boj.kr/3621) | 족보 | Silver 1 | [C++](./03xxx/3621. 족보/족보.cc) |
 | [03622](https://boj.kr/3622) | 어떤 호박의 할로윈 여행 | Bronze 2 | [Java](./03xxx/3622. 어떤 호박의 할로윈 여행/어떤 호박의 할로윈 여행.java) |
+| [03640](https://boj.kr/3640) | 제독 | Platinum 2 | [C++](./03xxx/3640. 제독/제독.cc) |
 | [03648](https://boj.kr/3648) | 아이돌 | Platinum 3 | [C++](./03xxx/3648. 아이돌/아이돌.cc) |
 | [03649](https://boj.kr/3649) | 로봇 프로젝트 | Gold 5 | [C++](./03xxx/3649. 로봇 프로젝트/로봇 프로젝트.cc) |
 | [03683](https://boj.kr/3683) | 고양이와 개 | Platinum 2 | [C++](./03xxx/3683. 고양이와 개/고양이와 개.cc) |
@@ -1797,6 +1798,7 @@
 | [11403](https://boj.kr/11403) | 경로 찾기 | Silver 1 | [Java](./11xxx/11403. 경로 찾기/경로 찾기.java) |
 | [11404](https://boj.kr/11404) | 플로이드 | Gold 4 | [Java](./11xxx/11404. 플로이드/플로이드.java) |
 | [11405](https://boj.kr/11405) | 책 구매하기 | Platinum 3 | [C++](./11xxx/11405. 책 구매하기/책 구매하기.cc) |
+| [11407](https://boj.kr/11407) | 책 구매하기 3 | Platinum 3 | [C++](./11xxx/11407. 책 구매하기 3/책 구매하기 3.cc) |
 | [11408](https://boj.kr/11408) | 열혈강호 5 | Platinum 3 | [C++](./11xxx/11408. 열혈강호 5/열혈강호 5.cc) |
 | [11409](https://boj.kr/11409) | 열혈강호 6 | Platinum 3 | [C++](./11xxx/11409. 열혈강호 6/열혈강호 6.cc) |
 | [11434](https://boj.kr/11434) | Ampelmännchen | Bronze 3 | [Java](./11xxx/11434. Ampelmännchen/Ampelmännchen.java) |
@@ -1806,6 +1808,7 @@
 | [11444](https://boj.kr/11444) | 피보나치 수 6 | Gold 2 | [C++](./11xxx/11444. 피보나치 수 6/피보나치 수 6.cc) |
 | [11466](https://boj.kr/11466) | Alex Origami Squares | Bronze 3 | [Java](./11xxx/11466. Alex Origami Squares/Alex Origami Squares.java) |
 | [11478](https://boj.kr/11478) | 서로 다른 부분 문자열의 개수 | Silver 3 | [Java](./11xxx/11478. 서로 다른 부분 문자열의 개수/서로 다른 부분 문자열의 개수.java) |
+| [11493](https://boj.kr/11493) | 동전 교환 | Platinum 1 | [C++](./11xxx/11493. 동전 교환/동전 교환.cc) |
 | [11495](https://boj.kr/11495) | 격자 0 만들기 | Platinum 2 | [C++](./11xxx/11495. 격자 0 만들기/격자 0 만들기.cc) |
 | [11497](https://boj.kr/11497) | 통나무 건너뛰기 | Silver 1 | [C++](./11xxx/11497. 통나무 건너뛰기/통나무 건너뛰기.cc) |
 | [11501](https://boj.kr/11501) | 주식 | Silver 2 | [C++](./11xxx/11501. 주식/주식.cc) |
