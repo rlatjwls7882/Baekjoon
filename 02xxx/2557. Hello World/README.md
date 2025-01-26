@@ -1,18 +1,6 @@
-# [Bronze V] Hello World - 2557 
+# [Bronze V] Hello World
 
 [문제 링크](https://www.acmicpc.net/problem/2557) 
-
-### 성능 요약
-
-메모리: 2020 KB, 시간: 0 ms
-
-### 분류
-
-구현
-
-### 제출 일자
-
-2024년 1월 31일 02:10:28
 
 ### 문제 설명
 
