@@ -9,7 +9,7 @@
 
 | No. | Title | Difficulty | Solution |
 |:---|:---|:----:|:---:|
-| [01000](https://boj.kr/1000) | A+B | Bronze 5 | [C++](./01xxx/1000. A＋B/A＋B.cc) [Java](./01xxx/1000. A＋B/A＋B.java) |
+| [01000](https://boj.kr/1000) | A+B | Bronze 5 | [C++](./01xxx/1000. A＋B/A＋B.cc) [Java](./01xxx/1000. A＋B/A＋B.java) [Python](./01xxx/1000. A＋B/A＋B.py) |
 | [01001](https://boj.kr/1001) | A-B | Bronze 5 | [C++](./01xxx/1001. A－B/A－B.cc) [Java](./01xxx/1001. A－B/A－B.java) |
 | [01002](https://boj.kr/1002) | 터렛 | Silver 3 | [C++](./01xxx/1002. 터렛/터렛.cc) |
 | [01003](https://boj.kr/1003) | 피보나치 함수 | Silver 3 | [Java](./01xxx/1003. 피보나치 함수/피보나치 함수.java) |
@@ -433,6 +433,7 @@
 | [02230](https://boj.kr/2230) | 수 고르기 | Gold 5 | [C++](./02xxx/2230. 수 고르기/수 고르기.cc) |
 | [02231](https://boj.kr/2231) | 분해합 | Bronze 2 | [Java](./02xxx/2231. 분해합/분해합.java) |
 | [02234](https://boj.kr/2234) | 성곽 | Gold 3 | [C++](./02xxx/2234. 성곽/성곽.cc) |
+| [02236](https://boj.kr/2236) | 칩 만들기 | Silver 3 | [C++](./02xxx/2236. 칩 만들기/칩 만들기.cc) |
 | [02238](https://boj.kr/2238) | 경매 | Silver 5 | [C++](./02xxx/2238. 경매/경매.cc) |
 | [02239](https://boj.kr/2239) | 스도쿠 | Gold 4 | [C++](./02xxx/2239. 스도쿠/스도쿠.cc) |
 | [02240](https://boj.kr/2240) | 자두나무 | Gold 5 | [C++](./02xxx/2240. 자두나무/자두나무.cc) |
@@ -2722,6 +2723,7 @@
 | [17435](https://boj.kr/17435) | 합성함수와 쿼리 | Gold 1 | [Java](./17xxx/17435. 합성함수와 쿼리/합성함수와 쿼리.java) |
 | [17436](https://boj.kr/17436) | 소수의 배수 | Gold 3 | [C++](./17xxx/17436. 소수의 배수/소수의 배수.cc) |
 | [17450](https://boj.kr/17450) | 과자 사기 | Bronze 3 | [Java](./17xxx/17450. 과자 사기/과자 사기.java) |
+| [17451](https://boj.kr/17451) | 평행 우주 | Silver 3 | [C++](./17xxx/17451. 평행 우주/평행 우주.cc) |
 | [17466](https://boj.kr/17466) | N! mod P (1) | Bronze 2 | [Java](./17xxx/17466. N！ mod P （1）/N！ mod P （1）.java) |
 | [17472](https://boj.kr/17472) | 다리 만들기 2 | Gold 1 | [Java](./17xxx/17472. 다리 만들기 2/다리 만들기 2.java) |
 | [17478](https://boj.kr/17478) | 재귀함수가 뭔가요? | Silver 5 | [Java](./17xxx/17478. 재귀함수가 뭔가요？/재귀함수가 뭔가요？.java) |
@@ -3472,6 +3474,7 @@
 | [25705](https://boj.kr/25705) | 돌림판 문자열 | Bronze 1 | [Java](./25xxx/25705. 돌림판 문자열/돌림판 문자열.java) |
 | [25706](https://boj.kr/25706) | 자전거 묘기 | Silver 3 | [Java](./25xxx/25706. 자전거 묘기/자전거 묘기.java) |
 | [25709](https://boj.kr/25709) | 1 빼기 | Silver 3 | [Java](./25xxx/25709. 1 빼기/1 빼기.java) |
+| [25710](https://boj.kr/25710) | 점수 계산 | Silver 2 | [C++](./25xxx/25710. 점수 계산/점수 계산.cc) |
 | [25755](https://boj.kr/25755) | 거울반사 | Bronze 2 | [Java](./25xxx/25755. 거울반사/거울반사.java) |
 | [25756](https://boj.kr/25756) | 방어율 무시 계산하기 | Bronze 3 | [Java](./25xxx/25756. 방어율 무시 계산하기/방어율 무시 계산하기.java) |
 | [25757](https://boj.kr/25757) | 임스와 함께하는 미니게임 | Silver 5 | [Java](./25xxx/25757. 임스와 함께하는 미니게임/임스와 함께하는 미니게임.java) |
@@ -4114,7 +4117,7 @@
 | [31561](https://boj.kr/31561) | 시계탑 | Bronze 3 | [Python](./31xxx/31561. 시계탑/시계탑.py) |
 | [31562](https://boj.kr/31562) | 전주 듣고 노래 맞히기 | Bronze 1 | [Java](./31xxx/31562. 전주 듣고 노래 맞히기/전주 듣고 노래 맞히기.java) |
 | [31565](https://boj.kr/31565) | 전역 역전 | Gold 4 | [C++](./31xxx/31565. 전역 역전/전역 역전.cc) |
-| [31602](https://boj.kr/31602) | There and Back Again | Platinum 5 | [C++](./31xxx/31602. There and Back Again/There and Back Again.cc) |
+| [31602](https://boj.kr/31602) | There and Back Again | Platinum 4 | [C++](./31xxx/31602. There and Back Again/There and Back Again.cc) |
 | [31606](https://boj.kr/31606) | 果物 (Fruit) | Bronze 5 | [Python](./31xxx/31606. 果物 （Fruit）/果物 （Fruit）.py) |
 | [31607](https://boj.kr/31607) | 和の判定 (Sum Checker) | Bronze 4 | [Python](./31xxx/31607. 和の判定 （Sum Checker）/和の判定 （Sum Checker）.py) |
 | [31608](https://boj.kr/31608) | ハミング距離 (Hamming Distance) | Bronze 4 | [Python](./31xxx/31608. ハミング距離 （Hamming Distance）/ハミング距離 （Hamming Distance）.py) |
@@ -4300,5 +4303,12 @@
 | [33026](https://boj.kr/33026) | LOL Lovers | Bronze 3 | [C++](./33xxx/33026. LOL Lovers/LOL Lovers.cc) |
 | [33046](https://boj.kr/33046) | Alea Iacta Est | Bronze 4 | [C++](./33xxx/33046. Alea Iacta Est/Alea Iacta Est.cc) |
 | [33161](https://boj.kr/33161) | 鉛筆 2 (Pencils 2) | Bronze 5 | [Python](./33xxx/33161. 鉛筆 2 （Pencils 2）/鉛筆 2 （Pencils 2）.py) |
+| [33162](https://boj.kr/33162) | 散歩 (Walking) | Bronze 4 | [C++](./33xxx/33162. 散歩 （Walking）/散歩 （Walking）.cc) |
+| [33163](https://boj.kr/33163) | OIJ (OIJ) | Bronze 4 | [C++](./33xxx/33163. OIJ （OIJ）/OIJ （OIJ）.cc) |
+| [33165](https://boj.kr/33165) | 徒競走 (Footrace) | Bronze 5 | [C++](./33xxx/33165. 徒競走 （Footrace）/徒競走 （Footrace）.cc) |
+| [33166](https://boj.kr/33166) | 鉄道旅行 3 (Railway Trip 3) | Bronze 4 | [C++](./33xxx/33166. 鉄道旅行 3 （Railway Trip 3）/鉄道旅行 3 （Railway Trip 3）.cc) |
+| [33169](https://boj.kr/33169) | 所持金 (Money On Me) | Bronze 5 | [C++](./33xxx/33169. 所持金 （Money On Me）/所持金 （Money On Me）.cc) |
+| [33170](https://boj.kr/33170) | ブラックジャック (Blackjack) | Bronze 5 | [C++](./33xxx/33170. ブラックジャック （Blackjack）/ブラックジャック （Blackjack）.cc) |
+| [33191](https://boj.kr/33191) | Yalda | Bronze 4 | [C++](./33xxx/33191. Yalda/Yalda.cc) |
 | [33243](https://boj.kr/33243) | Family Tree | Silver 1 | [C++](./33xxx/33243. Family Tree/Family Tree.cc) |
 </div>
