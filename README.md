@@ -2000,6 +2000,7 @@
 | [13144](https://boj.kr/13144) | List of Unique Numbers | Gold 4 | [C++](./13xxx/13144. List of Unique Numbers/List of Unique Numbers.cc) |
 | [13153](https://boj.kr/13153) | Formula | Bronze 1 | [Python](./13xxx/13153. Formula/Formula.py) |
 | [13156](https://boj.kr/13156) | Selling CPUs | Gold 5 | [C++](./13xxx/13156. Selling CPUs/Selling CPUs.cc) |
+| [13161](https://boj.kr/13161) | 분단의 슬픔 | Platinum 1 | [C++](./13xxx/13161. 분단의 슬픔/분단의 슬픔.cc) |
 | [13163](https://boj.kr/13163) | 닉네임에 갓 붙이기 | Bronze 3 | [Java](./13xxx/13163. 닉네임에 갓 붙이기/닉네임에 갓 붙이기.java) |
 | [13164](https://boj.kr/13164) | 행복 유치원 | Gold 5 | [C++](./13xxx/13164. 행복 유치원/행복 유치원.cc) |
 | [13171](https://boj.kr/13171) | A | Silver 3 | [C++](./13xxx/13171. A/A.cc) |
@@ -4305,10 +4306,12 @@
 | [33161](https://boj.kr/33161) | 鉛筆 2 (Pencils 2) | Bronze 5 | [Python](./33xxx/33161. 鉛筆 2 （Pencils 2）/鉛筆 2 （Pencils 2）.py) |
 | [33162](https://boj.kr/33162) | 散歩 (Walking) | Bronze 4 | [C++](./33xxx/33162. 散歩 （Walking）/散歩 （Walking）.cc) |
 | [33163](https://boj.kr/33163) | OIJ (OIJ) | Bronze 4 | [C++](./33xxx/33163. OIJ （OIJ）/OIJ （OIJ）.cc) |
+| [33164](https://boj.kr/33164) | どら焼き (Dorayaki) | Bronze 3 | [C++](./33xxx/33164. どら焼き （Dorayaki）/どら焼き （Dorayaki）.cc) |
 | [33165](https://boj.kr/33165) | 徒競走 (Footrace) | Bronze 5 | [C++](./33xxx/33165. 徒競走 （Footrace）/徒競走 （Footrace）.cc) |
 | [33166](https://boj.kr/33166) | 鉄道旅行 3 (Railway Trip 3) | Bronze 4 | [C++](./33xxx/33166. 鉄道旅行 3 （Railway Trip 3）/鉄道旅行 3 （Railway Trip 3）.cc) |
 | [33169](https://boj.kr/33169) | 所持金 (Money On Me) | Bronze 5 | [C++](./33xxx/33169. 所持金 （Money On Me）/所持金 （Money On Me）.cc) |
 | [33170](https://boj.kr/33170) | ブラックジャック (Blackjack) | Bronze 5 | [C++](./33xxx/33170. ブラックジャック （Blackjack）/ブラックジャック （Blackjack）.cc) |
+| [33178](https://boj.kr/33178) | Micromasters | Bronze 5 | [C++](./33xxx/33178. Micromasters/Micromasters.cc) |
 | [33191](https://boj.kr/33191) | Yalda | Bronze 4 | [C++](./33xxx/33191. Yalda/Yalda.cc) |
 | [33243](https://boj.kr/33243) | Family Tree | Silver 1 | [C++](./33xxx/33243. Family Tree/Family Tree.cc) |
 </div>
