@@ -3184,7 +3184,7 @@
 | [23323](https://boj.kr/23323) | 황소 다마고치 | Silver 2 | [C++](./23xxx/23323. 황소 다마고치/황소 다마고치.cc) |
 | [23324](https://boj.kr/23324) | 어려운 모든 정점 쌍 최단 거리 | Gold 4 | [Java](./23xxx/23324. 어려운 모든 정점 쌍 최단 거리/어려운 모든 정점 쌍 최단 거리.java) |
 | [23326](https://boj.kr/23326) | 홍익 투어리스트 | Gold 3 | [C++](./23xxx/23326. 홍익 투어리스트/홍익 투어리스트.cc) |
-| [23328](https://boj.kr/23328) | 마을 구하기 | Gold 2 | [C++](./23xxx/23328. 마을 구하기/마을 구하기.cc) |
+| [23328](https://boj.kr/23328) | 마을 구하기 | Gold 1 | [C++](./23xxx/23328. 마을 구하기/마을 구하기.cc) |
 | [23334](https://boj.kr/23334) | Olympic Ranking | Bronze 2 | [Java](./23xxx/23334. Olympic Ranking/Olympic Ranking.java) |
 | [23343](https://boj.kr/23343) | JavaScript | Bronze 3 | [Java](./23xxx/23343. JavaScript/JavaScript.java) |
 | [23348](https://boj.kr/23348) | 스트릿 코딩 파이터 | Bronze 3 | [Java](./23xxx/23348. 스트릿 코딩 파이터/스트릿 코딩 파이터.java) |
