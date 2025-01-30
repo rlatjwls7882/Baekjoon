@@ -1121,6 +1121,7 @@
 | [06198](https://boj.kr/6198) | 옥상 정원 꾸미기 | Gold 5 | [C++](./06xxx/6198. 옥상 정원 꾸미기/옥상 정원 꾸미기.cc) |
 | [06219](https://boj.kr/6219) | 소수의 자격 | Silver 3 | [C++](./06xxx/6219. 소수의 자격/소수의 자격.cc) |
 | [06236](https://boj.kr/6236) | 용돈 관리 | Silver 1 | [C++](./06xxx/6236. 용돈 관리/용돈 관리.cc) |
+| [06241](https://boj.kr/6241) | Dining | Platinum 1 | [C++](./06xxx/6241. Dining/Dining.cc) |
 | [06243](https://boj.kr/6243) | Mileage Bank | Bronze 3 | [C++](./06xxx/6243. Mileage Bank/Mileage Bank.cc) |
 | [06246](https://boj.kr/6246) | 풍선 놀이 | Bronze 2 | [Java](./06xxx/6246. 풍선 놀이/풍선 놀이.java) |
 | [06318](https://boj.kr/6318) | Box of Bricks | Bronze 2 | [Java](./06xxx/6318. Box of Bricks/Box of Bricks.java) |
@@ -2146,7 +2147,7 @@
 | [14244](https://boj.kr/14244) | 트리 만들기 | Silver 4 | [Java](./14xxx/14244. 트리 만들기/트리 만들기.java) |
 | [14245](https://boj.kr/14245) | XOR | Platinum 4 | [C++](./14xxx/14245. XOR/XOR.cc) |
 | [14246](https://boj.kr/14246) | K보다 큰 구간 | Silver 2 | [C++](./14xxx/14246. K보다 큰 구간/K보다 큰 구간.cc) |
-| [14247](https://boj.kr/14247) | 나무 자르기 | Silver 2 | [C++](./14xxx/14247. 나무 자르기/나무 자르기.cc) |
+| [14247](https://boj.kr/14247) | 나무 자르기 | Silver 1 | [C++](./14xxx/14247. 나무 자르기/나무 자르기.cc) |
 | [14248](https://boj.kr/14248) | 점프 점프 | Silver 2 | [C++](./14xxx/14248. 점프 점프/점프 점프.cc) |
 | [14254](https://boj.kr/14254) | 비밀번호 변경 | Gold 5 | [C++](./14xxx/14254. 비밀번호 변경/비밀번호 변경.cc) |
 | [14264](https://boj.kr/14264) | 정육각형과 삼각형 | Bronze 3 | [Java](./14xxx/14264. 정육각형과 삼각형/정육각형과 삼각형.java) |
