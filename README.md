@@ -2676,7 +2676,7 @@
 | [17218](https://boj.kr/17218) | 비밀번호 만들기 | Gold 4 | [C++](./17xxx/17218. 비밀번호 만들기/비밀번호 만들기.cc) |
 | [17219](https://boj.kr/17219) | 비밀번호 찾기 | Silver 4 | [Java](./17xxx/17219. 비밀번호 찾기/비밀번호 찾기.java) |
 | [17224](https://boj.kr/17224) | APC는 왜 서브태스크 대회가 되었을까? | Bronze 1 | [Java](./17xxx/17224. APC는 왜 서브태스크 대회가 되었을까？/APC는 왜 서브태스크 대회가 되었을까？.java) |
-| [17225](https://boj.kr/17225) | 세훈이의 선물가게 | Silver 1 | [C++](./17xxx/17225. 세훈이의 선물가게/세훈이의 선물가게.cc) |
+| [17225](https://boj.kr/17225) | 세훈이의 선물가게 | Gold 5 | [C++](./17xxx/17225. 세훈이의 선물가게/세훈이의 선물가게.cc) |
 | [17247](https://boj.kr/17247) | 택시 거리 | Bronze 1 | [Java](./17xxx/17247. 택시 거리/택시 거리.java) |
 | [17249](https://boj.kr/17249) | 태보태보 총난타 | Bronze 2 | [Java](./17xxx/17249. 태보태보 총난타/태보태보 총난타.java) |
 | [17250](https://boj.kr/17250) | 은하철도 | Gold 4 | [Java](./17xxx/17250. 은하철도/은하철도.java) |
@@ -3436,6 +3436,7 @@
 | [25377](https://boj.kr/25377) | 빵 | Bronze 4 | [Java](./25xxx/25377. 빵/빵.java) |
 | [25379](https://boj.kr/25379) | 피하자 | Silver 4 | [C++](./25xxx/25379. 피하자/피하자.cc) |
 | [25391](https://boj.kr/25391) | 특별상 | Gold 5 | [C++](./25xxx/25391. 특별상/특별상.cc) |
+| [25393](https://boj.kr/25393) | 교집합 만들기 | Gold 5 | [C++](./25xxx/25393. 교집합 만들기/교집합 만들기.cc) |
 | [25400](https://boj.kr/25400) | 제자리 | Bronze 1 | [C++](./25xxx/25400. 제자리/제자리.cc) |
 | [25418](https://boj.kr/25418) | 정수 a를 k로 만들기 | Silver 3 | [Java](./25xxx/25418. 정수 a를 k로 만들기/정수 a를 k로 만들기.java) |
 | [25425](https://boj.kr/25425) | 운동회 | Bronze 1 | [Java](./25xxx/25425. 운동회/운동회.java) |
@@ -4313,6 +4314,7 @@
 | [33169](https://boj.kr/33169) | 所持金 (Money On Me) | Bronze 5 | [C++](./33xxx/33169. 所持金 （Money On Me）/所持金 （Money On Me）.cc) |
 | [33170](https://boj.kr/33170) | ブラックジャック (Blackjack) | Bronze 5 | [C++](./33xxx/33170. ブラックジャック （Blackjack）/ブラックジャック （Blackjack）.cc) |
 | [33178](https://boj.kr/33178) | Micromasters | Bronze 5 | [C++](./33xxx/33178. Micromasters/Micromasters.cc) |
+| [33179](https://boj.kr/33179) | Hezardastan’s Annual Report | Bronze 4 | [C++](./33xxx/33179. Hezardastan’s Annual Report/Hezardastan’s Annual Report.cc) |
 | [33191](https://boj.kr/33191) | Yalda | Bronze 4 | [C++](./33xxx/33191. Yalda/Yalda.cc) |
 | [33243](https://boj.kr/33243) | Family Tree | Silver 1 | [C++](./33xxx/33243. Family Tree/Family Tree.cc) |
 </div>
