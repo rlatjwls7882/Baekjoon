@@ -718,7 +718,7 @@
 | [03023](https://boj.kr/3023) | 마술사 이민혁 | Bronze 1 | [Java](./03xxx/3023. 마술사 이민혁/마술사 이민혁.java) |
 | [03028](https://boj.kr/3028) | 창영마을 | Bronze 2 | [Java](./03xxx/3028. 창영마을/창영마을.java) |
 | [03029](https://boj.kr/3029) | 경고 | Bronze 3 | [Java](./03xxx/3029. 경고/경고.java) |
-| [03031](https://boj.kr/3031) | 리그 | Platinum 5 | [C++](./03xxx/3031. 리그/리그.cc) |
+| [03031](https://boj.kr/3031) | 리그 | Gold 1 | [C++](./03xxx/3031. 리그/리그.cc) |
 | [03034](https://boj.kr/3034) | 앵그리 창영 | Bronze 3 | [Java](./03xxx/3034. 앵그리 창영/앵그리 창영.java) |
 | [03035](https://boj.kr/3035) | 스캐너 | Bronze 1 | [Java](./03xxx/3035. 스캐너/스캐너.java) |
 | [03036](https://boj.kr/3036) | 링 | Silver 4 | [C++](./03xxx/3036. 링/링.cc) |
@@ -2945,7 +2945,7 @@
 | [20299](https://boj.kr/20299) | 3대 측정 | Bronze 2 | [Java](./20xxx/20299. 3대 측정/3대 측정.java) |
 | [20300](https://boj.kr/20300) | 서강근육맨 | Silver 3 | [C++](./20xxx/20300. 서강근육맨/서강근육맨.cc) |
 | [20301](https://boj.kr/20301) | 반전 요세푸스 | Silver 3 | [Java](./20xxx/20301. 반전 요세푸스/반전 요세푸스.java) |
-| [20303](https://boj.kr/20303) | 할로윈의 양아치 | Gold 3 | [C++](./20xxx/20303. 할로윈의 양아치/할로윈의 양아치.cc) |
+| [20303](https://boj.kr/20303) | 할로윈의 양아치 | Gold 2 | [C++](./20xxx/20303. 할로윈의 양아치/할로윈의 양아치.cc) |
 | [20309](https://boj.kr/20309) | 트리플 소트 | Silver 3 | [C++](./20xxx/20309. 트리플 소트/트리플 소트.cc) |
 | [20310](https://boj.kr/20310) | 타노스 | Silver 3 | [C++](./20xxx/20310. 타노스/타노스.cc) |
 | [20332](https://boj.kr/20332) | Divvying Up | Bronze 3 | [Java](./20xxx/20332. Divvying Up/Divvying Up.java) |
