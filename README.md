@@ -3976,7 +3976,7 @@
 | [30260](https://boj.kr/30260) | Finding Your Roots | Bronze 2 | [Java](./30xxx/30260. Finding Your Roots/Finding Your Roots.java) |
 | [30266](https://boj.kr/30266) | Hurricane Warning | Bronze 3 | [Java](./30xxx/30266. Hurricane Warning/Hurricane Warning.java) |
 | [30272](https://boj.kr/30272) | Atsitiktinių skaičių generatorius | Bronze 2 | [Java](./30xxx/30272. Atsitiktinių skaičių generatorius/Atsitiktinių skaičių generatorius.java) |
-| [30281](https://boj.kr/30281) | Saldainiai | Bronze 3 | [Java](./30xxx/30281. Saldainiai/Saldainiai.java) |
+| [30281](https://boj.kr/30281) | Saldainiai | Bronze 2 | [Java](./30xxx/30281. Saldainiai/Saldainiai.java) |
 | [30306](https://boj.kr/30306) | Better Dice | Bronze 3 | [Java](./30xxx/30306. Better Dice/Better Dice.java) |
 | [30310](https://boj.kr/30310) | Finding Forks | Bronze 3 | [Java](./30xxx/30310. Finding Forks/Finding Forks.java) |
 | [30314](https://boj.kr/30314) | Just a Joystick | Bronze 3 | [Java](./30xxx/30314. Just a Joystick/Just a Joystick.java) |
@@ -4305,6 +4305,7 @@
 | [32978](https://boj.kr/32978) | 아 맞다 마늘 | Bronze 3 | [C++](./32xxx/32978. 아 맞다 마늘/아 맞다 마늘.cc) |
 | [33026](https://boj.kr/33026) | LOL Lovers | Bronze 3 | [C++](./33xxx/33026. LOL Lovers/LOL Lovers.cc) |
 | [33046](https://boj.kr/33046) | Alea Iacta Est | Bronze 4 | [C++](./33xxx/33046. Alea Iacta Est/Alea Iacta Est.cc) |
+| [33135](https://boj.kr/33135) | Append and Panic! | Bronze 3 | [C++](./33xxx/33135. Append and Panic！/Append and Panic！.cc) |
 | [33161](https://boj.kr/33161) | 鉛筆 2 (Pencils 2) | Bronze 5 | [Python](./33xxx/33161. 鉛筆 2 （Pencils 2）/鉛筆 2 （Pencils 2）.py) |
 | [33162](https://boj.kr/33162) | 散歩 (Walking) | Bronze 4 | [C++](./33xxx/33162. 散歩 （Walking）/散歩 （Walking）.cc) |
 | [33163](https://boj.kr/33163) | OIJ (OIJ) | Bronze 4 | [C++](./33xxx/33163. OIJ （OIJ）/OIJ （OIJ）.cc) |
@@ -4317,4 +4318,5 @@
 | [33179](https://boj.kr/33179) | Hezardastan’s Annual Report | Bronze 4 | [C++](./33xxx/33179. Hezardastan’s Annual Report/Hezardastan’s Annual Report.cc) |
 | [33191](https://boj.kr/33191) | Yalda | Bronze 4 | [C++](./33xxx/33191. Yalda/Yalda.cc) |
 | [33243](https://boj.kr/33243) | Family Tree | Silver 1 | [C++](./33xxx/33243. Family Tree/Family Tree.cc) |
+| [33277](https://boj.kr/33277) | 국방시계 | Bronze 3 | [C++](./33xxx/33277. 국방시계/국방시계.cc) |
 </div>
