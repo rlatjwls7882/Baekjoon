@@ -745,7 +745,7 @@
 | [03085](https://boj.kr/3085) | 사탕 게임 | Silver 2 | [C++](./03xxx/3085. 사탕 게임/사탕 게임.cc) |
 | [03095](https://boj.kr/3095) | 플러스의 개수 | Gold 4 | [C++](./03xxx/3095. 플러스의 개수/플러스의 개수.cc) |
 | [03097](https://boj.kr/3097) | 산책 경로 | Silver 4 | [C++](./03xxx/3097. 산책 경로/산책 경로.cc) |
-| [03107](https://boj.kr/3107) | IPv6 | Silver 1 | [C++](./03xxx/3107. IPv6/IPv6.cc) |
+| [03107](https://boj.kr/3107) | IPv6 | Gold 5 | [C++](./03xxx/3107. IPv6/IPv6.cc) |
 | [03135](https://boj.kr/3135) | 라디오 | Silver 5 | [Java](./03xxx/3135. 라디오/라디오.java) |
 | [03145](https://boj.kr/3145) | 지리지도 | Platinum 4 | [C++](./03xxx/3145. 지리지도/지리지도.cc) |
 | [03164](https://boj.kr/3164) | 패턴 | Gold 4 | [C++](./03xxx/3164. 패턴/패턴.cc) |
@@ -3091,7 +3091,7 @@
 | [21966](https://boj.kr/21966) | (중략) | Bronze 1 | [C++](./21xxx/21966. （중략）/（중략）.cc) |
 | [21967](https://boj.kr/21967) | 세워라 반석 위에 | Silver 3 | [C++](./21xxx/21967. 세워라 반석 위에/세워라 반석 위에.cc) |
 | [21968](https://boj.kr/21968) | 선린의 터를 | Silver 3 | [C++](./21xxx/21968. 선린의 터를/선린의 터를.cc) |
-| [21983](https://boj.kr/21983) | Basalt Breakdown | Bronze 3 | [Java](./21xxx/21983. Basalt Breakdown/Basalt Breakdown.java) |
+| [21983](https://boj.kr/21983) | Basalt Breakdown | Bronze 2 | [Java](./21xxx/21983. Basalt Breakdown/Basalt Breakdown.java) |
 | [22015](https://boj.kr/22015) | 金平糖 (Konpeito) | Bronze 4 | [C](./22xxx/22015. 金平糖 （Konpeito）/金平糖 （Konpeito）.c) |
 | [22016](https://boj.kr/22016) | 巻物 (Scroll) | Bronze 2 | [Java](./22xxx/22016. 巻物 （Scroll）/巻物 （Scroll）.java) |
 | [22061](https://boj.kr/22061) | Покупка велосипеда | Bronze 3 | [Java](./22xxx/22061. Покупка велосипеда/Покупка велосипеда.java) |
@@ -4314,6 +4314,7 @@
 | [33166](https://boj.kr/33166) | 鉄道旅行 3 (Railway Trip 3) | Bronze 4 | [C++](./33xxx/33166. 鉄道旅行 3 （Railway Trip 3）/鉄道旅行 3 （Railway Trip 3）.cc) |
 | [33169](https://boj.kr/33169) | 所持金 (Money On Me) | Bronze 5 | [C++](./33xxx/33169. 所持金 （Money On Me）/所持金 （Money On Me）.cc) |
 | [33170](https://boj.kr/33170) | ブラックジャック (Blackjack) | Bronze 5 | [C++](./33xxx/33170. ブラックジャック （Blackjack）/ブラックジャック （Blackjack）.cc) |
+| [33171](https://boj.kr/33171) | いずれか片方 (Either, but Not Both) | Bronze 3 | [C++](./33xxx/33171. いずれか片方 （Either， but Not Both）/いずれか片方 （Either， but Not Both）.cc) |
 | [33178](https://boj.kr/33178) | Micromasters | Bronze 5 | [C++](./33xxx/33178. Micromasters/Micromasters.cc) |
 | [33179](https://boj.kr/33179) | Hezardastan’s Annual Report | Bronze 4 | [C++](./33xxx/33179. Hezardastan’s Annual Report/Hezardastan’s Annual Report.cc) |
 | [33191](https://boj.kr/33191) | Yalda | Bronze 4 | [C++](./33xxx/33191. Yalda/Yalda.cc) |
