@@ -4312,6 +4312,7 @@
 | [33164](https://boj.kr/33164) | どら焼き (Dorayaki) | Bronze 3 | [C++](./33xxx/33164. どら焼き （Dorayaki）/どら焼き （Dorayaki）.cc) |
 | [33165](https://boj.kr/33165) | 徒競走 (Footrace) | Bronze 5 | [C++](./33xxx/33165. 徒競走 （Footrace）/徒競走 （Footrace）.cc) |
 | [33166](https://boj.kr/33166) | 鉄道旅行 3 (Railway Trip 3) | Bronze 4 | [C++](./33xxx/33166. 鉄道旅行 3 （Railway Trip 3）/鉄道旅行 3 （Railway Trip 3）.cc) |
+| [33167](https://boj.kr/33167) | じゃんけん (Rock-Scissors-Paper) | Bronze 3 | [C++](./33xxx/33167. じゃんけん （Rock－Scissors－Paper）/じゃんけん （Rock－Scissors－Paper）.cc) |
 | [33169](https://boj.kr/33169) | 所持金 (Money On Me) | Bronze 5 | [C++](./33xxx/33169. 所持金 （Money On Me）/所持金 （Money On Me）.cc) |
 | [33170](https://boj.kr/33170) | ブラックジャック (Blackjack) | Bronze 5 | [C++](./33xxx/33170. ブラックジャック （Blackjack）/ブラックジャック （Blackjack）.cc) |
 | [33171](https://boj.kr/33171) | いずれか片方 (Either, but Not Both) | Bronze 3 | [C++](./33xxx/33171. いずれか片方 （Either， but Not Both）/いずれか片方 （Either， but Not Both）.cc) |
