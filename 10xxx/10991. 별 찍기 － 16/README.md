@@ -1,14 +1,6 @@
-# [Bronze III] 별 찍기 - 16 - 10991 
+# [Bronze III] 별 찍기 - 16
 
 [문제 링크](https://www.acmicpc.net/problem/10991) 
-
-### 성능 요약
-
-메모리: 14356 KB, 시간: 144 ms
-
-### 분류
-
-구현
 
 ### 문제 설명
 
