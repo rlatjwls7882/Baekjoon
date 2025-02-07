@@ -1154,7 +1154,7 @@
 | [06609](https://boj.kr/6609) | 모기곱셈 | Bronze 2 | [Python](./06xxx/6609. 모기곱셈/모기곱셈.py) |
 | [06679](https://boj.kr/6679) | 싱기한 네자리 숫자 | Bronze 2 | [Java](./06xxx/6679. 싱기한 네자리 숫자/싱기한 네자리 숫자.java) |
 | [06693](https://boj.kr/6693) | Complicated Route | Bronze 2 | [Python](./06xxx/6693. Complicated Route/Complicated Route.py) |
-| [06696](https://boj.kr/6696) | Too Much Water | Bronze 2 | [Java](./06xxx/6696. Too Much Water/Too Much Water.java) |
+| [06696](https://boj.kr/6696) | Too Much Water | Bronze 1 | [Java](./06xxx/6696. Too Much Water/Too Much Water.java) |
 | [06721](https://boj.kr/6721) | Backward numbers | Bronze 3 | [Java](./06xxx/6721. Backward numbers/Backward numbers.java) |
 | [06736](https://boj.kr/6736) | The Idiot of the Year Contest! | Bronze 2 | [Java](./06xxx/6736. The Idiot of the Year Contest！/The Idiot of the Year Contest！.java) |
 | [06749](https://boj.kr/6749) | Next in line | Bronze 4 | [C](./06xxx/6749. Next in line/Next in line.c) |
@@ -4079,6 +4079,7 @@
 | [31234](https://boj.kr/31234) | 대역폭 관리 | Platinum 1 | [C++](./31xxx/31234. 대역폭 관리/대역폭 관리.cc) |
 | [31235](https://boj.kr/31235) | 올라올라 | Gold 4 | [Java](./31xxx/31235. 올라올라/올라올라.java) |
 | [31243](https://boj.kr/31243) | ВРЕМЕ | Bronze 3 | [Java](./31xxx/31243. ВРЕМЕ/ВРЕМЕ.java) |
+| [31244](https://boj.kr/31244) | СИМЕТРИЧНИ ЧИСЛА | Bronze 3 | [C++](./31xxx/31244. СИМЕТРИЧНИ ЧИСЛА/СИМЕТРИЧНИ ЧИСЛА.cc) |
 | [31245](https://boj.kr/31245) | ТАБЕЛА | Bronze 3 | [C++](./31xxx/31245. ТАБЕЛА/ТАБЕЛА.cc) |
 | [31246](https://boj.kr/31246) | 모바일 광고 입찰 | Silver 5 | [C++](./31xxx/31246. 모바일 광고 입찰/모바일 광고 입찰.cc) |
 | [31259](https://boj.kr/31259) | ЧЕСТОТА | Bronze 2 | [Java](./31xxx/31259. ЧЕСТОТА/ЧЕСТОТА.java) |
