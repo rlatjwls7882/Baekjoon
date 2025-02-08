@@ -3850,6 +3850,7 @@
 | [29094](https://boj.kr/29094) | Баскетбол | Bronze 2 | [Java](./29xxx/29094. Баскетбол/Баскетбол.java) |
 | [29097](https://boj.kr/29097) | Короли | Bronze 4 | [C++](./29xxx/29097. Короли/Короли.cc) |
 | [29108](https://boj.kr/29108) | Логины | Bronze 3 | [Java](./29xxx/29108. Логины/Логины.java) |
+| [29133](https://boj.kr/29133) | Фома и занимательная математика | Bronze 3 | [C++](./29xxx/29133. Фома и занимательная математика/Фома и занимательная математика.cc) |
 | [29159](https://boj.kr/29159) | 케이크 두 개 | Silver 3 | [C++](./29xxx/29159. 케이크 두 개/케이크 두 개.cc) |
 | [29163](https://boj.kr/29163) | Счастье Мистера Бина | Bronze 5 | [Java](./29xxx/29163. Счастье Мистера Бина/Счастье Мистера Бина.java) |
 | [29196](https://boj.kr/29196) | 소수가 아닌 수 2 | Bronze 1 | [C++](./29xxx/29196. 소수가 아닌 수 2/소수가 아닌 수 2.cc) |
@@ -4002,7 +4003,7 @@
 | [30460](https://boj.kr/30460) | 스위치 | Gold 5 | [C++](./30xxx/30460. 스위치/스위치.cc) |
 | [30461](https://boj.kr/30461) | 낚시 | Gold 4 | [C++](./30xxx/30461. 낚시/낚시.cc) |
 | [30468](https://boj.kr/30468) | 호반우가 학교에 지각한 이유 1 | Bronze 4 | [Java](./30xxx/30468. 호반우가 학교에 지각한 이유 1/호반우가 학교에 지각한 이유 1.java) |
-| [30489](https://boj.kr/30489) | <code>apt upgrade</code> | Bronze 2 | [Java](./30xxx/30489. ＜code＞apt upgrade＜／code＞/＜code＞apt upgrade＜／code＞.java) |
+| [30489](https://boj.kr/30489) | <code>apt upgrade</code> | Bronze 1 | [Java](./30xxx/30489. ＜code＞apt upgrade＜／code＞/＜code＞apt upgrade＜／code＞.java) |
 | [30490](https://boj.kr/30490) | Battle Bots | Bronze 2 | [C++](./30xxx/30490. Battle Bots/Battle Bots.cc) |
 | [30492](https://boj.kr/30492) | Democratic Naming | Bronze 2 | [Java](./30xxx/30492. Democratic Naming/Democratic Naming.java) |
 | [30501](https://boj.kr/30501) | 관공... 어찌하여 목만 오셨소... | Bronze 4 | [Java](./30xxx/30501. 관공．．． 어찌하여 목만 오셨소．．．/관공．．． 어찌하여 목만 오셨소．．．.java) |
