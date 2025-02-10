@@ -4322,6 +4322,7 @@
 | [33178](https://boj.kr/33178) | Micromasters | Bronze 5 | [C++](./33xxx/33178. Micromasters/Micromasters.cc) |
 | [33179](https://boj.kr/33179) | Hezardastan’s Annual Report | Bronze 4 | [C++](./33xxx/33179. Hezardastan’s Annual Report/Hezardastan’s Annual Report.cc) |
 | [33191](https://boj.kr/33191) | Yalda | Bronze 4 | [C++](./33xxx/33191. Yalda/Yalda.cc) |
+| [33192](https://boj.kr/33192) | Divar’s Salaries | Bronze 3 | [C++](./33xxx/33192. Divar’s Salaries/Divar’s Salaries.cc) |
 | [33213](https://boj.kr/33213) | Fermatovi Fakini | Bronze 3 | [C++](./33xxx/33213. Fermatovi Fakini/Fermatovi Fakini.cc) |
 | [33243](https://boj.kr/33243) | Family Tree | Silver 1 | [C++](./33xxx/33243. Family Tree/Family Tree.cc) |
 | [33249](https://boj.kr/33249) | Circus Tent | Bronze 3 | [C++](./33xxx/33249. Circus Tent/Circus Tent.cc) |
