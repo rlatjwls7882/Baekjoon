@@ -2074,6 +2074,7 @@
 | [13532](https://boj.kr/13532) | 악마의 수열 | Gold 1 | [C++](./13xxx/13532. 악마의 수열/악마의 수열.cc) |
 | [13547](https://boj.kr/13547) | 수열과 쿼리 5 | Platinum 2 | [C++](./13xxx/13547. 수열과 쿼리 5/수열과 쿼리 5.cc) |
 | [13549](https://boj.kr/13549) | 숨바꼭질 3 | Gold 5 | [Java](./13xxx/13549. 숨바꼭질 3/숨바꼭질 3.java) |
+| [13552](https://boj.kr/13552) | 구와 쿼리 | Bronze 1 | [C++](./13xxx/13552. 구와 쿼리/구와 쿼리.cc) |
 | [13565](https://boj.kr/13565) | 침투 | Silver 2 | [C++](./13xxx/13565. 침투/침투.cc) |
 | [13567](https://boj.kr/13567) | 로봇 | Silver 4 | [C++](./13xxx/13567. 로봇/로봇.cc) |
 | [13580](https://boj.kr/13580) | Andando no tempo | Bronze 4 | [Java](./13xxx/13580. Andando no tempo/Andando no tempo.java) |
@@ -3088,7 +3089,7 @@
 | [21955](https://boj.kr/21955) | Split | Bronze 3 | [Java](./21xxx/21955. Split/Split.java) |
 | [21964](https://boj.kr/21964) | 선린인터넷고등학교 교가 | Bronze 4 | [Java](./21xxx/21964. 선린인터넷고등학교 교가/선린인터넷고등학교 교가.java) |
 | [21965](https://boj.kr/21965) | 드높은 남산 위에 우뚝 선 | Bronze 1 | [C++](./21xxx/21965. 드높은 남산 위에 우뚝 선/드높은 남산 위에 우뚝 선.cc) |
-| [21966](https://boj.kr/21966) | (중략) | Bronze 1 | [C++](./21xxx/21966. （중략）/（중략）.cc) |
+| [21966](https://boj.kr/21966) | (중략) | Silver 5 | [C++](./21xxx/21966. （중략）/（중략）.cc) |
 | [21967](https://boj.kr/21967) | 세워라 반석 위에 | Silver 3 | [C++](./21xxx/21967. 세워라 반석 위에/세워라 반석 위에.cc) |
 | [21968](https://boj.kr/21968) | 선린의 터를 | Silver 3 | [C++](./21xxx/21968. 선린의 터를/선린의 터를.cc) |
 | [21983](https://boj.kr/21983) | Basalt Breakdown | Bronze 2 | [Java](./21xxx/21983. Basalt Breakdown/Basalt Breakdown.java) |
