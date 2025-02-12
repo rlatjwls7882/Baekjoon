@@ -938,6 +938,7 @@
 | [04948](https://boj.kr/4948) | 베르트랑 공준 | Silver 2 | [Java](./04xxx/4948. 베르트랑 공준/베르트랑 공준.java) |
 | [04949](https://boj.kr/4949) | 균형잡힌 세상 | Silver 4 | [Java](./04xxx/4949. 균형잡힌 세상/균형잡힌 세상.java) |
 | [04963](https://boj.kr/4963) | 섬의 개수 | Silver 2 | [Java](./04xxx/4963. 섬의 개수/섬의 개수.java) |
+| [04968](https://boj.kr/4968) | Equal Total Scores | Bronze 2 | [C++](./04xxx/4968. Equal Total Scores/Equal Total Scores.cc) |
 | [04969](https://boj.kr/4969) | 월요일-토요일 | Gold 5 | [C++](./04xxx/4969. 월요일－토요일/월요일－토요일.cc) |
 | [04974](https://boj.kr/4974) | ICPC Score Totalizer Software | Bronze 2 | [Java](./04xxx/4974. ICPC Score Totalizer Software/ICPC Score Totalizer Software.java) |
 | [04998](https://boj.kr/4998) | 저금 | Bronze 2 | [Java](./04xxx/4998. 저금/저금.java) |
@@ -3656,6 +3657,7 @@
 | [27215](https://boj.kr/27215) | Непохожие числа | Bronze 1 | [C++](./27xxx/27215. Непохожие числа/Непохожие числа.cc) |
 | [27219](https://boj.kr/27219) | Робинзон Крузо | Bronze 5 | [C](./27xxx/27219. Робинзон Крузо/Робинзон Крузо.c) |
 | [27220](https://boj.kr/27220) | Ромб | Bronze 2 | [Java](./27xxx/27220. Ромб/Ромб.java) |
+| [27222](https://boj.kr/27222) | Штангист | Bronze 4 | [C++](./27xxx/27222. Штангист/Штангист.cc) |
 | [27225](https://boj.kr/27225) | Класс | Bronze 3 | [Java](./27xxx/27225. Класс/Класс.java) |
 | [27239](https://boj.kr/27239) | Шахматная доска | Bronze 4 | [Java](./27xxx/27239. Шахматная доска/Шахматная доска.java) |
 | [27240](https://boj.kr/27240) | Электричка | Bronze 4 | [C++](./27xxx/27240. Электричка/Электричка.cc) |
@@ -4300,6 +4302,7 @@
 | [32888](https://boj.kr/32888) | Consolidating Windows | Bronze 3 | [C++](./32xxx/32888. Consolidating Windows/Consolidating Windows.cc) |
 | [32902](https://boj.kr/32902) | Chips | Bronze 4 | [C++](./32xxx/32902. Chips/Chips.cc) |
 | [32905](https://boj.kr/32905) | RACI | Bronze 4 | [C++](./32xxx/32905. RACI/RACI.cc) |
+| [32916](https://boj.kr/32916) | Another Brick in the Wall | Bronze 1 | [C++](./32xxx/32916. Another Brick in the Wall/Another Brick in the Wall.cc) |
 | [32929](https://boj.kr/32929) | UOS 문자열 | Bronze 5 | [C++](./32xxx/32929. UOS 문자열/UOS 문자열.cc) |
 | [32941](https://boj.kr/32941) | 왜 맘대로 예약하냐고 | Bronze 4 | [C++](./32xxx/32941. 왜 맘대로 예약하냐고/왜 맘대로 예약하냐고.cc) |
 | [32942](https://boj.kr/32942) | 그래프와 그래프 | Silver 5 | [C++](./32xxx/32942. 그래프와 그래프/그래프와 그래프.cc) |
@@ -4327,5 +4330,6 @@
 | [33213](https://boj.kr/33213) | Fermatovi Fakini | Bronze 3 | [C++](./33xxx/33213. Fermatovi Fakini/Fermatovi Fakini.cc) |
 | [33243](https://boj.kr/33243) | Family Tree | Silver 1 | [C++](./33xxx/33243. Family Tree/Family Tree.cc) |
 | [33249](https://boj.kr/33249) | Circus Tent | Bronze 3 | [C++](./33xxx/33249. Circus Tent/Circus Tent.cc) |
+| [33253](https://boj.kr/33253) | Game Night | Bronze 2 | [C++](./33xxx/33253. Game Night/Game Night.cc) |
 | [33277](https://boj.kr/33277) | 국방시계 | Bronze 3 | [C++](./33xxx/33277. 국방시계/국방시계.cc) |
 </div>
