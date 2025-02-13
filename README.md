@@ -1693,6 +1693,7 @@
 | [10973](https://boj.kr/10973) | 이전 순열 | Silver 3 | [C++](./10xxx/10973. 이전 순열/이전 순열.cc) |
 | [10974](https://boj.kr/10974) | 모든 순열 | Silver 3 | [Java](./10xxx/10974. 모든 순열/모든 순열.java) |
 | [10976](https://boj.kr/10976) | 피난 | Platinum 4 | [C++](./10xxx/10976. 피난/피난.cc) |
+| [10981](https://boj.kr/10981) | HEADING TO WORLD FINALS | Silver 4 | [C++](./10xxx/10981. HEADING TO WORLD FINALS/HEADING TO WORLD FINALS.cc) |
 | [10984](https://boj.kr/10984) | 내 학점을 구해줘 | Bronze 3 | [Java](./10xxx/10984. 내 학점을 구해줘/내 학점을 구해줘.java) |
 | [10986](https://boj.kr/10986) | 나머지 합 | Gold 3 | [C++](./10xxx/10986. 나머지 합/나머지 합.cc) |
 | [10987](https://boj.kr/10987) | 모음의 개수 | Bronze 4 | [Java](./10xxx/10987. 모음의 개수/모음의 개수.java) |
@@ -2447,7 +2448,7 @@
 | [15829](https://boj.kr/15829) | Hashing | Bronze 2 | [Java](./15xxx/15829. Hashing/Hashing.java) |
 | [15835](https://boj.kr/15835) | Explorace | Gold 4 | [Java](./15xxx/15835. Explorace/Explorace.java) |
 | [15838](https://boj.kr/15838) | Wak Sani Satay | Bronze 3 | [Python](./15xxx/15838. Wak Sani Satay/Wak Sani Satay.py) |
-| [15841](https://boj.kr/15841) | Virus Outbreak | Bronze 2 | [Java](./15xxx/15841. Virus Outbreak/Virus Outbreak.java) |
+| [15841](https://boj.kr/15841) | Virus Outbreak | Bronze 1 | [Java](./15xxx/15841. Virus Outbreak/Virus Outbreak.java) |
 | [15845](https://boj.kr/15845) | Winning ICPC | Bronze 2 | [Java](./15xxx/15845. Winning ICPC/Winning ICPC.java) |
 | [15858](https://boj.kr/15858) | Simple Arithmetic | Bronze 3 | [Java](./15xxx/15858. Simple Arithmetic/Simple Arithmetic.java) |
 | [15873](https://boj.kr/15873) | 공백 없는 A+B | Bronze 4 | [Java](./15xxx/15873. 공백 없는 A＋B/공백 없는 A＋B.java) |
