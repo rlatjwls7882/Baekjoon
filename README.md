@@ -1255,7 +1255,7 @@
 | [07567](https://boj.kr/7567) | 그릇 | Bronze 2 | [Java](./07xxx/7567. 그릇/그릇.java) |
 | [07568](https://boj.kr/7568) | 덩치 | Silver 5 | [Java](./07xxx/7568. 덩치/덩치.java) |
 | [07569](https://boj.kr/7569) | 토마토 | Gold 5 | [Java](./07xxx/7569. 토마토/토마토.java) |
-| [07571](https://boj.kr/7571) | 점 모으기 | Gold 5 | [C++](./07xxx/7571. 점 모으기/점 모으기.cc) |
+| [07571](https://boj.kr/7571) | 점 모으기 | Silver 1 | [C++](./07xxx/7571. 점 모으기/점 모으기.cc) |
 | [07572](https://boj.kr/7572) | 간지(干支) | Bronze 2 | [Java](./07xxx/7572. 간지（干支）/간지（干支）.java) |
 | [07576](https://boj.kr/7576) | 토마토 | Gold 5 | [Java](./07xxx/7576. 토마토/토마토.java) |
 | [07579](https://boj.kr/7579) | 앱 | Gold 3 | [C++](./07xxx/7579. 앱/앱.cc) |
@@ -3918,7 +3918,7 @@
 | [29754](https://boj.kr/29754) | 세상에는 많은 유튜버가 있고, 그중에서 버츄얼 유튜버도 존재한다 | Silver 1 | [C++](./29xxx/29754. 세상에는 많은 유튜버가 있고， 그중에서 버츄얼 유튜버도 존재한다/세상에는 많은 유튜버가 있고， 그중에서 버츄얼 유튜버도 존재한다.cc) |
 | [29766](https://boj.kr/29766) | DKSH 찾기 | Bronze 4 | [Java](./29xxx/29766. DKSH 찾기/DKSH 찾기.java) |
 | [29767](https://boj.kr/29767) | 점수를 최대로 | Silver 4 | [C++](./29xxx/29767. 점수를 최대로/점수를 최대로.cc) |
-| [29768](https://boj.kr/29768) | 팰린드롬 이름 | Gold 5 | [C++](./29xxx/29768. 팰린드롬 이름/팰린드롬 이름.cc) |
+| [29768](https://boj.kr/29768) | 팰린드롬 이름 | Gold 4 | [C++](./29xxx/29768. 팰린드롬 이름/팰린드롬 이름.cc) |
 | [29784](https://boj.kr/29784) | Collecting Pancakes | Gold 4 | [C++](./29xxx/29784. Collecting Pancakes/Collecting Pancakes.cc) |
 | [29790](https://boj.kr/29790) | 임스의 메이플컵 | Bronze 4 | [Java](./29xxx/29790. 임스의 메이플컵/임스의 메이플컵.java) |
 | [29791](https://boj.kr/29791) | 에르다 노바와 오리진 스킬 | Silver 4 | [Java](./29xxx/29791. 에르다 노바와 오리진 스킬/에르다 노바와 오리진 스킬.java) |
