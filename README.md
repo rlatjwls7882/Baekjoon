@@ -1255,7 +1255,7 @@
 | [07567](https://boj.kr/7567) | 그릇 | Bronze 2 | [Java](./07xxx/7567. 그릇/그릇.java) |
 | [07568](https://boj.kr/7568) | 덩치 | Silver 5 | [Java](./07xxx/7568. 덩치/덩치.java) |
 | [07569](https://boj.kr/7569) | 토마토 | Gold 5 | [Java](./07xxx/7569. 토마토/토마토.java) |
-| [07571](https://boj.kr/7571) | 점 모으기 | Silver 1 | [C++](./07xxx/7571. 점 모으기/점 모으기.cc) |
+| [07571](https://boj.kr/7571) | 점 모으기 | Gold 5 | [C++](./07xxx/7571. 점 모으기/점 모으기.cc) |
 | [07572](https://boj.kr/7572) | 간지(干支) | Bronze 2 | [Java](./07xxx/7572. 간지（干支）/간지（干支）.java) |
 | [07576](https://boj.kr/7576) | 토마토 | Gold 5 | [Java](./07xxx/7576. 토마토/토마토.java) |
 | [07579](https://boj.kr/7579) | 앱 | Gold 3 | [C++](./07xxx/7579. 앱/앱.cc) |
@@ -2435,7 +2435,7 @@
 | [15789](https://boj.kr/15789) | CTP 왕국은 한솔 왕국을 이길 수 있을까? | Gold 4 | [Java](./15xxx/15789. CTP 왕국은 한솔 왕국을 이길 수 있을까？/CTP 왕국은 한솔 왕국을 이길 수 있을까？.java) |
 | [15792](https://boj.kr/15792) | A/B - 2 | Bronze 1 | [Java](./15xxx/15792. A／B － 2/A／B － 2.java) |
 | [15803](https://boj.kr/15803) | PLAYERJINAH’S BOTTLEGROUNDS | Silver 5 | [C++](./15xxx/15803. PLAYERJINAH’S BOTTLEGROUNDS/PLAYERJINAH’S BOTTLEGROUNDS.cc) |
-| [15809](https://boj.kr/15809) | 전국시대 | Gold 4 | [Java](./15xxx/15809. 전국시대/전국시대.java) |
+| [15809](https://boj.kr/15809) | 전국시대 | Gold 3 | [Java](./15xxx/15809. 전국시대/전국시대.java) |
 | [15810](https://boj.kr/15810) | 풍선 공장 | Silver 2 | [C++](./15xxx/15810. 풍선 공장/풍선 공장.cc) |
 | [15813](https://boj.kr/15813) | 너의 이름은 몇 점이니? | Bronze 2 | [Java](./15xxx/15813. 너의 이름은 몇 점이니？/너의 이름은 몇 점이니？.java) |
 | [15814](https://boj.kr/15814) | 야바위 대장 | Bronze 2 | [Java](./15xxx/15814. 야바위 대장/야바위 대장.java) |
@@ -2969,6 +2969,7 @@
 | [20420](https://boj.kr/20420) | 화살표 미로 (Normal) | Gold 1 | [C++](./20xxx/20420. 화살표 미로 （Normal）/화살표 미로 （Normal）.cc) |
 | [20436](https://boj.kr/20436) | ZOAC 3 | Silver 4 | [C++](./20xxx/20436. ZOAC 3/ZOAC 3.cc) |
 | [20473](https://boj.kr/20473) | Гостиница | Bronze 3 | [Java](./20xxx/20473. Гостиница/Гостиница.java) |
+| [20490](https://boj.kr/20490) | Рыцарский щит | Bronze 3 | [C++](./20xxx/20490. Рыцарский щит/Рыцарский щит.cc) |
 | [20492](https://boj.kr/20492) | 세금 | Bronze 5 | [C](./20xxx/20492. 세금/세금.c) |
 | [20494](https://boj.kr/20494) | 스시 | Bronze 2 | [Java](./20xxx/20494. 스시/스시.java) |
 | [20499](https://boj.kr/20499) | Darius님 한타 안 함? | Bronze 4 | [C](./20xxx/20499. Darius님 한타 안 함？/Darius님 한타 안 함？.c) |
