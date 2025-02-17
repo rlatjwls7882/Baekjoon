@@ -4323,9 +4323,11 @@
 | [33165](https://boj.kr/33165) | 徒競走 (Footrace) | Bronze 5 | [C++](./33xxx/33165. 徒競走 （Footrace）/徒競走 （Footrace）.cc) |
 | [33166](https://boj.kr/33166) | 鉄道旅行 3 (Railway Trip 3) | Bronze 4 | [C++](./33xxx/33166. 鉄道旅行 3 （Railway Trip 3）/鉄道旅行 3 （Railway Trip 3）.cc) |
 | [33167](https://boj.kr/33167) | じゃんけん (Rock-Scissors-Paper) | Bronze 3 | [C++](./33xxx/33167. じゃんけん （Rock－Scissors－Paper）/じゃんけん （Rock－Scissors－Paper）.cc) |
+| [33168](https://boj.kr/33168) | 三角足し算 (Triangle Addition) | Bronze 2 | [C++](./33xxx/33168. 三角足し算 （Triangle Addition）/三角足し算 （Triangle Addition）.cc) |
 | [33169](https://boj.kr/33169) | 所持金 (Money On Me) | Bronze 5 | [C++](./33xxx/33169. 所持金 （Money On Me）/所持金 （Money On Me）.cc) |
 | [33170](https://boj.kr/33170) | ブラックジャック (Blackjack) | Bronze 5 | [C++](./33xxx/33170. ブラックジャック （Blackjack）/ブラックジャック （Blackjack）.cc) |
 | [33171](https://boj.kr/33171) | いずれか片方 (Either, but Not Both) | Bronze 3 | [C++](./33xxx/33171. いずれか片方 （Either， but Not Both）/いずれか片方 （Either， but Not Both）.cc) |
+| [33173](https://boj.kr/33173) | マスキングテープ (Masking Tape) | Bronze 3 | [C++](./33xxx/33173. マスキングテープ （Masking Tape）/マスキングテープ （Masking Tape）.cc) |
 | [33178](https://boj.kr/33178) | Micromasters | Bronze 5 | [C++](./33xxx/33178. Micromasters/Micromasters.cc) |
 | [33179](https://boj.kr/33179) | Hezardastan’s Annual Report | Bronze 4 | [C++](./33xxx/33179. Hezardastan’s Annual Report/Hezardastan’s Annual Report.cc) |
 | [33191](https://boj.kr/33191) | Yalda | Bronze 4 | [C++](./33xxx/33191. Yalda/Yalda.cc) |
@@ -4335,4 +4337,5 @@
 | [33249](https://boj.kr/33249) | Circus Tent | Bronze 3 | [C++](./33xxx/33249. Circus Tent/Circus Tent.cc) |
 | [33253](https://boj.kr/33253) | Game Night | Bronze 2 | [C++](./33xxx/33253. Game Night/Game Night.cc) |
 | [33277](https://boj.kr/33277) | 국방시계 | Bronze 3 | [C++](./33xxx/33277. 국방시계/국방시계.cc) |
+| [33466](https://boj.kr/33466) | 피타고라스 정리의 증명 | Gold 5 | [C++](./33xxx/33466. 피타고라스 정리의 증명/피타고라스 정리의 증명.cc) |
 </div>
