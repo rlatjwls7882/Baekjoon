@@ -2839,6 +2839,7 @@
 | [18406](https://boj.kr/18406) | 럭키 스트레이트 | Bronze 2 | [Java](./18xxx/18406. 럭키 스트레이트/럭키 스트레이트.java) |
 | [18408](https://boj.kr/18408) | 3 つの整数 (Three Integers) | Bronze 4 | [C](./18xxx/18408. 3 つの整数 （Three Integers）/3 つの整数 （Three Integers）.c) |
 | [18409](https://boj.kr/18409) | 母音を数える (Counting Vowels) | Bronze 5 | [C](./18xxx/18409. 母音を数える （Counting Vowels）/母音を数える （Counting Vowels）.c) |
+| [18410](https://boj.kr/18410) | マージ (Merge) | Bronze 1 | [C++](./18xxx/18410. マージ （Merge）/マージ （Merge）.cc) |
 | [18411](https://boj.kr/18411) | 試験 (Exam) | Bronze 4 | [C](./18xxx/18411. 試験 （Exam）/試験 （Exam）.c) |
 | [18412](https://boj.kr/18412) | 文字列の反転 (Inversion of a String) | Bronze 3 | [Java](./18xxx/18412. 文字列の反転 （Inversion of a String）/文字列の反転 （Inversion of a String）.java) |
 | [18413](https://boj.kr/18413) | 最頻値 (Mode) | Bronze 2 | [Java](./18xxx/18413. 最頻値 （Mode）/最頻値 （Mode）.java) |
