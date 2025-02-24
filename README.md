@@ -785,6 +785,7 @@
 | [03512](https://boj.kr/3512) | Flat | Bronze 3 | [Java](./03xxx/3512. Flat/Flat.java) |
 | [03533](https://boj.kr/3533) | Explicit Formula | Bronze 3 | [Java](./03xxx/3533. Explicit Formula/Explicit Formula.java) |
 | [03554](https://boj.kr/3554) | Enigmatic Device | Bronze 3 | [Java](./03xxx/3554. Enigmatic Device/Enigmatic Device.java) |
+| [03566](https://boj.kr/3566) | 대형 스크린 | Bronze 1 | [C++](./03xxx/3566. 대형 스크린/대형 스크린.cc) |
 | [03568](https://boj.kr/3568) | iSharp | Silver 3 | [Java](./03xxx/3568. iSharp/iSharp.java) |
 | [03578](https://boj.kr/3578) | Holes | Bronze 3 | [Java](./03xxx/3578. Holes/Holes.java) |
 | [03584](https://boj.kr/3584) | 가장 가까운 공통 조상 | Gold 4 | [Java](./03xxx/3584. 가장 가까운 공통 조상/가장 가까운 공통 조상.java) |
