@@ -2027,7 +2027,7 @@
 | [13251](https://boj.kr/13251) | 조약돌 꺼내기 | Silver 3 | [C++](./13xxx/13251. 조약돌 꺼내기/조약돌 꺼내기.cc) |
 | [13265](https://boj.kr/13265) | 색칠하기 | Gold 5 | [C++](./13xxx/13265. 색칠하기/색칠하기.cc) |
 | [13268](https://boj.kr/13268) | 셔틀런 | Silver 3 | [C++](./13xxx/13268. 셔틀런/셔틀런.cc) |
-| [13270](https://boj.kr/13270) | 피보나치 치킨 | Silver 1 | [C++](./13xxx/13270. 피보나치 치킨/피보나치 치킨.cc) |
+| [13270](https://boj.kr/13270) | 피보나치 치킨 | Silver 2 | [C++](./13xxx/13270. 피보나치 치킨/피보나치 치킨.cc) |
 | [13274](https://boj.kr/13274) | 수열 | Silver 2 | [C++](./13xxx/13274. 수열/수열.cc) |
 | [13277](https://boj.kr/13277) | 큰 수 곱셈 | Bronze 5 | [Java](./13xxx/13277. 큰 수 곱셈/큰 수 곱셈.java) |
 | [13280](https://boj.kr/13280) | Selection of Participants of an Experiment | Bronze 2 | [C++](./13xxx/13280. Selection of Participants of an Experiment/Selection of Participants of an Experiment.cc) |
@@ -3016,7 +3016,7 @@
 | [21047](https://boj.kr/21047) | Array of Discord | Silver 4 | [C++](./21xxx/21047. Array of Discord/Array of Discord.cc) |
 | [21049](https://boj.kr/21049) | Coin Stacks | Silver 2 | [C++](./21xxx/21049. Coin Stacks/Coin Stacks.cc) |
 | [21050](https://boj.kr/21050) | Dams in Distress | Gold 2 | [C++](./21xxx/21050. Dams in Distress/Dams in Distress.cc) |
-| [21052](https://boj.kr/21052) | Film Critics | Platinum 3 | [C++](./21xxx/21052. Film Critics/Film Critics.cc) |
+| [21052](https://boj.kr/21052) | Film Critics | Platinum 4 | [C++](./21xxx/21052. Film Critics/Film Critics.cc) |
 | [21053](https://boj.kr/21053) | Gig Combinatorics | Gold 5 | [C++](./21xxx/21053. Gig Combinatorics/Gig Combinatorics.cc) |
 | [21056](https://boj.kr/21056) | Joining Flows | Gold 2 | [C++](./21xxx/21056. Joining Flows/Joining Flows.cc) |
 | [21057](https://boj.kr/21057) | Keep Calm And Carry Off | Gold 1 | [C++](./21xxx/21057. Keep Calm And Carry Off/Keep Calm And Carry Off.cc) |
@@ -4342,6 +4342,7 @@
 | [33277](https://boj.kr/33277) | 국방시계 | Bronze 3 | [C++](./33xxx/33277. 국방시계/국방시계.cc) |
 | [33466](https://boj.kr/33466) | 피타고라스 정리의 증명 | Gold 5 | [C++](./33xxx/33466. 피타고라스 정리의 증명/피타고라스 정리의 증명.cc) |
 | [33488](https://boj.kr/33488) | 아름다운 수열 | Bronze 2 | [C++](./33xxx/33488. 아름다운 수열/아름다운 수열.cc) |
+| [33515](https://boj.kr/33515) | 노트북 세 대를 가지고 왔다 | Bronze 5 | [Python](./33xxx/33515. 노트북 세 대를 가지고 왔다/노트북 세 대를 가지고 왔다.py) |
 | [33528](https://boj.kr/33528) | Alphabetic Shift | Bronze 3 | [C++](./33xxx/33528. Alphabetic Shift/Alphabetic Shift.cc) |
 | [33538](https://boj.kr/33538) | Crawling | Bronze 3 | [C++](./33xxx/33538. Crawling/Crawling.cc) |
 </div>
