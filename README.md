@@ -360,6 +360,7 @@
 | [01977](https://boj.kr/1977) | 완전제곱수 | Bronze 2 | [Java](./01xxx/1977. 완전제곱수/완전제곱수.java) |
 | [01978](https://boj.kr/1978) | 소수 찾기 | Bronze 2 | [C](./01xxx/1978. 소수 찾기/소수 찾기.c) |
 | [01985](https://boj.kr/1985) | 디지털 친구 | Silver 4 | [C++](./01xxx/1985. 디지털 친구/디지털 친구.cc) |
+| [01986](https://boj.kr/1986) | 체스 | Silver 1 | [C++](./01xxx/1986. 체스/체스.cc) |
 | [01987](https://boj.kr/1987) | 알파벳 | Gold 4 | [Java](./01xxx/1987. 알파벳/알파벳.java) |
 | [01990](https://boj.kr/1990) | 소수인팰린드롬 | Gold 5 | [C++](./01xxx/1990. 소수인팰린드롬/소수인팰린드롬.cc) |
 | [01991](https://boj.kr/1991) | 트리 순회 | Silver 1 | [Java](./01xxx/1991. 트리 순회/트리 순회.java) |
@@ -3933,7 +3934,7 @@
 | [29811](https://boj.kr/29811) | 지각하기 싫어 | Gold 4 | [C++](./29xxx/29811. 지각하기 싫어/지각하기 싫어.cc) |
 | [29812](https://boj.kr/29812) | 아니 이게 왜 안 돼 | Silver 5 | [C++](./29xxx/29812. 아니 이게 왜 안 돼/아니 이게 왜 안 돼.cc) |
 | [29813](https://boj.kr/29813) | 최애의 팀원 | Silver 3 | [C++](./29xxx/29813. 최애의 팀원/최애의 팀원.cc) |
-| [29814](https://boj.kr/29814) | 원교수님 과제가 너무 많아요 | Gold 2 | [C++](./29xxx/29814. 원교수님 과제가 너무 많아요/원교수님 과제가 너무 많아요.cc) |
+| [29814](https://boj.kr/29814) | 원교수님 과제가 너무 많아요 | Gold 1 | [C++](./29xxx/29814. 원교수님 과제가 너무 많아요/원교수님 과제가 너무 많아요.cc) |
 | [29823](https://boj.kr/29823) | Pakirobot Manhattanis | Bronze 4 | [Java](./29xxx/29823. Pakirobot Manhattanis/Pakirobot Manhattanis.java) |
 | [29829](https://boj.kr/29829) | Palindroom | Bronze 2 | [Java](./29xxx/29829. Palindroom/Palindroom.java) |
 | [29835](https://boj.kr/29835) | Palindroom | Bronze 2 | [C++](./29xxx/29835. Palindroom/Palindroom.cc) |
