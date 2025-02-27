@@ -810,7 +810,7 @@
 | [03783](https://boj.kr/3783) | 세제곱근 | Gold 1 | [Java](./03xxx/3783. 세제곱근/세제곱근.java) |
 | [03787](https://boj.kr/3787) | Count on Canton | Silver 5 | [Java](./03xxx/3787. Count on Canton/Count on Canton.java) |
 | [03803](https://boj.kr/3803) | Networking | Gold 4 | [Java](./03xxx/3803. Networking/Networking.java) |
-| [03826](https://boj.kr/3826) | 스타일리시 | Gold 4 | [C++](./03xxx/3826. 스타일리시/스타일리시.cc) |
+| [03826](https://boj.kr/3826) | 스타일리시 | Gold 5 | [C++](./03xxx/3826. 스타일리시/스타일리시.cc) |
 | [03863](https://boj.kr/3863) | 행복한 전화 통화 | Silver 5 | [Java](./03xxx/3863. 행복한 전화 통화/행복한 전화 통화.java) |
 | [03896](https://boj.kr/3896) | 소수 사이 수열 | Silver 1 | [C++](./03xxx/3896. 소수 사이 수열/소수 사이 수열.cc) |
 | [03943](https://boj.kr/3943) | 헤일스톤 수열 | Bronze 2 | [Java](./03xxx/3943. 헤일스톤 수열/헤일스톤 수열.java) |
@@ -2029,7 +2029,7 @@
 | [13265](https://boj.kr/13265) | 색칠하기 | Gold 5 | [C++](./13xxx/13265. 색칠하기/색칠하기.cc) |
 | [13268](https://boj.kr/13268) | 셔틀런 | Silver 3 | [C++](./13xxx/13268. 셔틀런/셔틀런.cc) |
 | [13270](https://boj.kr/13270) | 피보나치 치킨 | Silver 2 | [C++](./13xxx/13270. 피보나치 치킨/피보나치 치킨.cc) |
-| [13274](https://boj.kr/13274) | 수열 | Silver 2 | [C++](./13xxx/13274. 수열/수열.cc) |
+| [13274](https://boj.kr/13274) | 수열 | Silver 3 | [C++](./13xxx/13274. 수열/수열.cc) |
 | [13277](https://boj.kr/13277) | 큰 수 곱셈 | Bronze 5 | [Java](./13xxx/13277. 큰 수 곱셈/큰 수 곱셈.java) |
 | [13280](https://boj.kr/13280) | Selection of Participants of an Experiment | Bronze 2 | [C++](./13xxx/13280. Selection of Participants of an Experiment/Selection of Participants of an Experiment.cc) |
 | [13288](https://boj.kr/13288) | A New Alphabet | Bronze 2 | [Java](./13xxx/13288. A New Alphabet/A New Alphabet.java) |
@@ -2741,6 +2741,7 @@
 | [17490](https://boj.kr/17490) | 일감호에 다리 놓기 | Gold 4 | [Java](./17xxx/17490. 일감호에 다리 놓기/일감호에 다리 놓기.java) |
 | [17496](https://boj.kr/17496) | 스타후르츠 | Bronze 3 | [Java](./17xxx/17496. 스타후르츠/스타후르츠.java) |
 | [17502](https://boj.kr/17502) | 클레어와 팰린드롬 | Bronze 2 | [Java](./17xxx/17502. 클레어와 팰린드롬/클레어와 팰린드롬.java) |
+| [17503](https://boj.kr/17503) | 맥주 축제 | Silver 1 | [C++](./17xxx/17503. 맥주 축제/맥주 축제.cc) |
 | [17504](https://boj.kr/17504) | 제리와 톰 2 | Silver 5 | [C++](./17xxx/17504. 제리와 톰 2/제리와 톰 2.cc) |
 | [17509](https://boj.kr/17509) | And the Winner Is... Ourselves! | Silver 5 | [C++](./17xxx/17509. And the Winner Is．．． Ourselves！/And the Winner Is．．． Ourselves！.cc) |
 | [17520](https://boj.kr/17520) | Balanced String | Silver 5 | [C++](./17xxx/17520. Balanced String/Balanced String.cc) |
@@ -4133,7 +4134,7 @@
 | [31561](https://boj.kr/31561) | 시계탑 | Bronze 3 | [Python](./31xxx/31561. 시계탑/시계탑.py) |
 | [31562](https://boj.kr/31562) | 전주 듣고 노래 맞히기 | Bronze 1 | [Java](./31xxx/31562. 전주 듣고 노래 맞히기/전주 듣고 노래 맞히기.java) |
 | [31565](https://boj.kr/31565) | 전역 역전 | Gold 4 | [C++](./31xxx/31565. 전역 역전/전역 역전.cc) |
-| [31602](https://boj.kr/31602) | There and Back Again | Platinum 4 | [C++](./31xxx/31602. There and Back Again/There and Back Again.cc) |
+| [31602](https://boj.kr/31602) | There and Back Again | Platinum 5 | [C++](./31xxx/31602. There and Back Again/There and Back Again.cc) |
 | [31606](https://boj.kr/31606) | 果物 (Fruit) | Bronze 5 | [Python](./31xxx/31606. 果物 （Fruit）/果物 （Fruit）.py) |
 | [31607](https://boj.kr/31607) | 和の判定 (Sum Checker) | Bronze 4 | [Python](./31xxx/31607. 和の判定 （Sum Checker）/和の判定 （Sum Checker）.py) |
 | [31608](https://boj.kr/31608) | ハミング距離 (Hamming Distance) | Bronze 4 | [Python](./31xxx/31608. ハミング距離 （Hamming Distance）/ハミング距離 （Hamming Distance）.py) |
