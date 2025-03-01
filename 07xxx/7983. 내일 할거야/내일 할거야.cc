@@ -4,23 +4,22 @@ using namespace std;
 struct work {
     int d, t;
     bool operator<(const work a) const {
-        return t < a.t;
+        return t > a.t;
     }
 };
 
 int main() {
     ios::sync_with_stdio(0); cin.tie(0);
     int n; cin >> n;
-    priority_queue<work> pq;
-    while(n--) {
-        int d, t; cin >> d >> t;
-        pq.push({d, t});
+    vector<work> v(n);
+    for(int i=0;i<n;i++) {
+        cin >> v[i].d >> v[i].t;
     }
+    sort(v.begin(), v.end());
 
     int last=INT_MAX;
-    while(!pq.empty()) {
-        auto top = pq.top(); pq.pop();
-        last = min(last, top.t)-top.d;
+    for(int i=0;i<n;i++) {
+        last = min(last, v[i].t)-v[i].d;
     }
     cout << last;
 }
