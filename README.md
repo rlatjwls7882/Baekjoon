@@ -505,6 +505,7 @@
 | [02463](https://boj.kr/2463) | 비용 | Platinum 5 | [C++](./02xxx/2463. 비용/비용.cc) |
 | [02467](https://boj.kr/2467) | 용액 | Gold 5 | [Java](./02xxx/2467. 용액/용액.java) |
 | [02468](https://boj.kr/2468) | 안전 영역 | Silver 1 | [Java](./02xxx/2468. 안전 영역/안전 영역.java) |
+| [02469](https://boj.kr/2469) | 사다리 타기 | Gold 5 | [C++](./02xxx/2469. 사다리 타기/사다리 타기.cc) |
 | [02470](https://boj.kr/2470) | 두 용액 | Gold 5 | [Java](./02xxx/2470. 두 용액/두 용액.java) |
 | [02473](https://boj.kr/2473) | 세 용액 | Gold 3 | [C++](./02xxx/2473. 세 용액/세 용액.cc) |
 | [02475](https://boj.kr/2475) | 검증수 | Bronze 5 | [C](./02xxx/2475. 검증수/검증수.c) |
