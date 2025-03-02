@@ -1139,6 +1139,7 @@
 | [06436](https://boj.kr/6436) | Floppies | Bronze 3 | [Java](./06xxx/6436. Floppies/Floppies.java) |
 | [06437](https://boj.kr/6437) | Golf | Bronze 3 | [Java](./06xxx/6437. Golf/Golf.java) |
 | [06438](https://boj.kr/6438) | Reverse Text | Bronze 3 | [Java](./06xxx/6438. Reverse Text/Reverse Text.java) |
+| [06443](https://boj.kr/6443) | 애너그램 | Gold 5 | [C++](./06xxx/6443. 애너그램/애너그램.cc) |
 | [06463](https://boj.kr/6463) | 팩트 | Silver 5 | [C++](./06xxx/6463. 팩트/팩트.cc) |
 | [06479](https://boj.kr/6479) | Factorial Frequencies | Bronze 2 | [Java](./06xxx/6479. Factorial Frequencies/Factorial Frequencies.java) |
 | [06491](https://boj.kr/6491) | Perfection | Bronze 3 | [Java](./06xxx/6491. Perfection/Perfection.java) |
@@ -1287,6 +1288,7 @@
 | [07891](https://boj.kr/7891) | Can you add this? | Bronze 5 | [C](./07xxx/7891. Can you add this？/Can you add this？.c) |
 | [07947](https://boj.kr/7947) | Koncert | Bronze 3 | [Java](./07xxx/7947. Koncert/Koncert.java) |
 | [07977](https://boj.kr/7977) | 크리스 마틴 | Gold 4 | [C++](./07xxx/7977. 크리스 마틴/크리스 마틴.cc) |
+| [07983](https://boj.kr/7983) | 내일 할거야 | Gold 5 | [C++](./07xxx/7983. 내일 할거야/내일 할거야.cc) |
 | [08012](https://boj.kr/8012) | 한동이는 영업사원! | Platinum 5 | [C++](./08xxx/8012. 한동이는 영업사원！/한동이는 영업사원！.cc) |
 | [08063](https://boj.kr/8063) | Three-Coloring of Binary Trees | Gold 2 | [C++](./08xxx/8063. Three－Coloring of Binary Trees/Three－Coloring of Binary Trees.cc) |
 | [08246](https://boj.kr/8246) | Stół | Bronze 2 | [Java](./08xxx/8246. Stół/Stół.java) |
