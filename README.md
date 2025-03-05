@@ -1575,6 +1575,7 @@
 | [10230](https://boj.kr/10230) | Maze 1 | Bronze 2 | [Text](./10xxx/10230. Maze 1/Maze 1.txt) |
 | [10246](https://boj.kr/10246) | 부동산 경매 | Silver 1 | [C++](./10xxx/10246. 부동산 경매/부동산 경매.cc) |
 | [10250](https://boj.kr/10250) | ACM 호텔 | Bronze 3 | [Java](./10xxx/10250. ACM 호텔/ACM 호텔.java) |
+| [10253](https://boj.kr/10253) | 헨리 | Gold 5 | [C++](./10xxx/10253. 헨리/헨리.cc) |
 | [10256](https://boj.kr/10256) | 돌연변이 | Platinum 2 | [C++](./10xxx/10256. 돌연변이/돌연변이.cc) |
 | [10262](https://boj.kr/10262) | 주사위 게임 | Bronze 2 | [Java](./10xxx/10262. 주사위 게임/주사위 게임.java) |
 | [10275](https://boj.kr/10275) | 골드 러시 | Bronze 1 | [C++](./10xxx/10275. 골드 러시/골드 러시.cc) |
