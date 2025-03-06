@@ -951,7 +951,7 @@
 | [05014](https://boj.kr/5014) | 스타트링크 | Silver 1 | [C++](./05xxx/5014. 스타트링크/스타트링크.cc) |
 | [05026](https://boj.kr/5026) | 박사 과정 | Bronze 2 | [Java](./05xxx/5026. 박사 과정/박사 과정.java) |
 | [05032](https://boj.kr/5032) | 탄산 음료 | Bronze 2 | [Java](./05xxx/5032. 탄산 음료/탄산 음료.java) |
-| [05043](https://boj.kr/5043) | 정말 좋은 압축 | Bronze 1 | [C++](./05xxx/5043. 정말 좋은 압축/정말 좋은 압축.cc) |
+| [05043](https://boj.kr/5043) | 정말 좋은 압축 | Silver 5 | [C++](./05xxx/5043. 정말 좋은 압축/정말 좋은 압축.cc) |
 | [05046](https://boj.kr/5046) | 전국 대학생 프로그래밍 대회 동아리 연합 | Silver 5 | [Java](./05xxx/5046. 전국 대학생 프로그래밍 대회 동아리 연합/전국 대학생 프로그래밍 대회 동아리 연합.java) |
 | [05052](https://boj.kr/5052) | 전화번호 목록 | Gold 4 | [C++](./05xxx/5052. 전화번호 목록/전화번호 목록.cc) |
 | [05054](https://boj.kr/5054) | 주차의 신 | Bronze 2 | [Java](./05xxx/5054. 주차의 신/주차의 신.java) |
@@ -2285,6 +2285,7 @@
 | [14803](https://boj.kr/14803) | Steed 2: Cruise Control (Small) | Bronze 2 | [Java](./14xxx/14803. Steed 2： Cruise Control （Small）/Steed 2： Cruise Control （Small）.java) |
 | [14804](https://boj.kr/14804) | Steed 2: Cruise Control (Large) | Bronze 1 | [Java](./14xxx/14804. Steed 2： Cruise Control （Large）/Steed 2： Cruise Control （Large）.java) |
 | [14825](https://boj.kr/14825) | Good News and Bad News (Small) | Gold 3 | [C++](./14xxx/14825. Good News and Bad News （Small）/Good News and Bad News （Small）.cc) |
+| [14881](https://boj.kr/14881) | 물통 문제 | Gold 4 | [C++](./14xxx/14881. 물통 문제/물통 문제.cc) |
 | [14888](https://boj.kr/14888) | 연산자 끼워넣기 | Silver 1 | [Java](./14xxx/14888. 연산자 끼워넣기/연산자 끼워넣기.java) |
 | [14889](https://boj.kr/14889) | 스타트와 링크 | Silver 1 | [Java](./14xxx/14889. 스타트와 링크/스타트와 링크.java) |
 | [14890](https://boj.kr/14890) | 경사로 | Gold 3 | [C++](./14xxx/14890. 경사로/경사로.cc) |
@@ -2742,6 +2743,7 @@
 | [17478](https://boj.kr/17478) | 재귀함수가 뭔가요? | Silver 5 | [Java](./17xxx/17478. 재귀함수가 뭔가요？/재귀함수가 뭔가요？.java) |
 | [17481](https://boj.kr/17481) | 최애 정하기 | Platinum 4 | [C++](./17xxx/17481. 최애 정하기/최애 정하기.cc) |
 | [17484](https://boj.kr/17484) | 진우의 달 여행 (Small) | Silver 3 | [C++](./17xxx/17484. 진우의 달 여행 （Small）/진우의 달 여행 （Small）.cc) |
+| [17485](https://boj.kr/17485) | 진우의 달 여행 (Large) | Gold 5 | [C++](./17xxx/17485. 진우의 달 여행 （Large）/진우의 달 여행 （Large）.cc) |
 | [17487](https://boj.kr/17487) | 타자 연습 | Bronze 2 | [Java](./17xxx/17487. 타자 연습/타자 연습.java) |
 | [17488](https://boj.kr/17488) | 수강 바구니 | Silver 4 | [C++](./17xxx/17488. 수강 바구니/수강 바구니.cc) |
 | [17490](https://boj.kr/17490) | 일감호에 다리 놓기 | Gold 4 | [Java](./17xxx/17490. 일감호에 다리 놓기/일감호에 다리 놓기.java) |
