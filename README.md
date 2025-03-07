@@ -952,7 +952,7 @@
 | [05026](https://boj.kr/5026) | 박사 과정 | Bronze 2 | [Java](./05xxx/5026. 박사 과정/박사 과정.java) |
 | [05032](https://boj.kr/5032) | 탄산 음료 | Bronze 2 | [Java](./05xxx/5032. 탄산 음료/탄산 음료.java) |
 | [05043](https://boj.kr/5043) | 정말 좋은 압축 | Silver 5 | [C++](./05xxx/5043. 정말 좋은 압축/정말 좋은 압축.cc) |
-| [05046](https://boj.kr/5046) | 전국 대학생 프로그래밍 대회 동아리 연합 | Silver 5 | [Java](./05xxx/5046. 전국 대학생 프로그래밍 대회 동아리 연합/전국 대학생 프로그래밍 대회 동아리 연합.java) |
+| [05046](https://boj.kr/5046) | 전국 대학생 프로그래밍 대회 동아리 연합 | Bronze 1 | [Java](./05xxx/5046. 전국 대학생 프로그래밍 대회 동아리 연합/전국 대학생 프로그래밍 대회 동아리 연합.java) |
 | [05052](https://boj.kr/5052) | 전화번호 목록 | Gold 4 | [C++](./05xxx/5052. 전화번호 목록/전화번호 목록.cc) |
 | [05054](https://boj.kr/5054) | 주차의 신 | Bronze 2 | [Java](./05xxx/5054. 주차의 신/주차의 신.java) |
 | [05063](https://boj.kr/5063) | TGN | Bronze 3 | [Java](./05xxx/5063. TGN/TGN.java) |
@@ -1789,6 +1789,7 @@
 | [11295](https://boj.kr/11295) | Exercising | Bronze 3 | [Java](./11xxx/11295. Exercising/Exercising.java) |
 | [11296](https://boj.kr/11296) | 가격 | Bronze 2 | [Java](./11xxx/11296. 가격/가격.java) |
 | [11297](https://boj.kr/11297) | Cypher | Bronze 2 | [Java](./11xxx/11297. Cypher/Cypher.java) |
+| [11311](https://boj.kr/11311) | Jug Hard | Gold 4 | [C++](./11xxx/11311. Jug Hard/Jug Hard.cc) |
 | [11312](https://boj.kr/11312) | 삼각 무늬 - 2 | Bronze 3 | [Java](./11xxx/11312. 삼각 무늬 － 2/삼각 무늬 － 2.java) |
 | [11319](https://boj.kr/11319) | Count Me In | Bronze 2 | [Java](./11xxx/11319. Count Me In/Count Me In.java) |
 | [11320](https://boj.kr/11320) | 삼각 무늬 - 1 | Bronze 3 | [Java](./11xxx/11320. 삼각 무늬 － 1/삼각 무늬 － 1.java) |
@@ -1985,7 +1986,7 @@
 | [12847](https://boj.kr/12847) | 꿀 아르바이트 | Silver 3 | [C++](./12xxx/12847. 꿀 아르바이트/꿀 아르바이트.cc) |
 | [12849](https://boj.kr/12849) | 본대 산책 | Silver 1 | [C++](./12xxx/12849. 본대 산책/본대 산책.cc) |
 | [12851](https://boj.kr/12851) | 숨바꼭질 2 | Gold 4 | [C++](./12xxx/12851. 숨바꼭질 2/숨바꼭질 2.cc) |
-| [12852](https://boj.kr/12852) | 1로 만들기 2 | Gold 5 | [Java](./12xxx/12852. 1로 만들기 2/1로 만들기 2.java) |
+| [12852](https://boj.kr/12852) | 1로 만들기 2 | Silver 1 | [Java](./12xxx/12852. 1로 만들기 2/1로 만들기 2.java) |
 | [12865](https://boj.kr/12865) | 평범한 배낭 | Gold 5 | [C++](./12xxx/12865. 평범한 배낭/평범한 배낭.cc) |
 | [12866](https://boj.kr/12866) | 피노키오 | Bronze 1 | [Java](./12xxx/12866. 피노키오/피노키오.java) |
 | [12871](https://boj.kr/12871) | 무한 문자열 | Silver 5 | [Java](./12xxx/12871. 무한 문자열/무한 문자열.java) |
@@ -2746,7 +2747,7 @@
 | [17485](https://boj.kr/17485) | 진우의 달 여행 (Large) | Gold 5 | [C++](./17xxx/17485. 진우의 달 여행 （Large）/진우의 달 여행 （Large）.cc) |
 | [17487](https://boj.kr/17487) | 타자 연습 | Bronze 2 | [Java](./17xxx/17487. 타자 연습/타자 연습.java) |
 | [17488](https://boj.kr/17488) | 수강 바구니 | Silver 4 | [C++](./17xxx/17488. 수강 바구니/수강 바구니.cc) |
-| [17490](https://boj.kr/17490) | 일감호에 다리 놓기 | Gold 4 | [Java](./17xxx/17490. 일감호에 다리 놓기/일감호에 다리 놓기.java) |
+| [17490](https://boj.kr/17490) | 일감호에 다리 놓기 | Gold 3 | [Java](./17xxx/17490. 일감호에 다리 놓기/일감호에 다리 놓기.java) |
 | [17496](https://boj.kr/17496) | 스타후르츠 | Bronze 3 | [Java](./17xxx/17496. 스타후르츠/스타후르츠.java) |
 | [17502](https://boj.kr/17502) | 클레어와 팰린드롬 | Bronze 2 | [Java](./17xxx/17502. 클레어와 팰린드롬/클레어와 팰린드롬.java) |
 | [17503](https://boj.kr/17503) | 맥주 축제 | Silver 1 | [C++](./17xxx/17503. 맥주 축제/맥주 축제.cc) |
