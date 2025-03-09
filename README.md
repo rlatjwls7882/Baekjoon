@@ -2123,7 +2123,7 @@
 | [13877](https://boj.kr/13877) | 이건 무슨 진법이지? | Bronze 2 | [Java](./13xxx/13877. 이건 무슨 진법이지？/이건 무슨 진법이지？.java) |
 | [13900](https://boj.kr/13900) | 순서쌍의 곱의 합 | Silver 4 | [Java](./13xxx/13900. 순서쌍의 곱의 합/순서쌍의 곱의 합.java) |
 | [13901](https://boj.kr/13901) | 로봇 | Silver 1 | [C++](./13xxx/13901. 로봇/로봇.cc) |
-| [13905](https://boj.kr/13905) | 세부 | Gold 4 | [Java](./13xxx/13905. 세부/세부.java) |
+| [13905](https://boj.kr/13905) | 세부 | Gold 3 | [Java](./13xxx/13905. 세부/세부.java) |
 | [13909](https://boj.kr/13909) | 창문 닫기 | Silver 5 | [Java](./13xxx/13909. 창문 닫기/창문 닫기.java) |
 | [13913](https://boj.kr/13913) | 숨바꼭질 4 | Gold 4 | [C++](./13xxx/13913. 숨바꼭질 4/숨바꼭질 4.cc) |
 | [13925](https://boj.kr/13925) | 수열과 쿼리 13 | Diamond 5 | [C++](./13xxx/13925. 수열과 쿼리 13/수열과 쿼리 13.cc) |
@@ -3094,6 +3094,7 @@
 | [21866](https://boj.kr/21866) | 추첨을 통해 커피를 받자 | Bronze 3 | [Java](./21xxx/21866. 추첨을 통해 커피를 받자/추첨을 통해 커피를 받자.java) |
 | [21867](https://boj.kr/21867) | Java Bitecode | Bronze 2 | [Java](./21xxx/21867. Java Bitecode/Java Bitecode.java) |
 | [21870](https://boj.kr/21870) | 시철이가 사랑한 GCD | Gold 5 | [C++](./21xxx/21870. 시철이가 사랑한 GCD/시철이가 사랑한 GCD.cc) |
+| [21875](https://boj.kr/21875) | Innohorse | Bronze 4 | [C++](./21xxx/21875. Innohorse/Innohorse.cc) |
 | [21895](https://boj.kr/21895) | Rock-Paper-Scissors for three | Bronze 2 | [Python](./21xxx/21895. Rock－Paper－Scissors for three/Rock－Paper－Scissors for three.py) |
 | [21918](https://boj.kr/21918) | 전구 | Bronze 2 | [Java](./21xxx/21918. 전구/전구.java) |
 | [21919](https://boj.kr/21919) | 소수 최소 공배수 | Silver 3 | [C++](./21xxx/21919. 소수 최소 공배수/소수 최소 공배수.cc) |
