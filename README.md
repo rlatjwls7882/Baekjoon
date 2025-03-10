@@ -2041,7 +2041,7 @@
 | [13277](https://boj.kr/13277) | 큰 수 곱셈 | Bronze 5 | [Java](./13xxx/13277. 큰 수 곱셈/큰 수 곱셈.java) |
 | [13280](https://boj.kr/13280) | Selection of Participants of an Experiment | Bronze 2 | [C++](./13xxx/13280. Selection of Participants of an Experiment/Selection of Participants of an Experiment.cc) |
 | [13288](https://boj.kr/13288) | A New Alphabet | Bronze 2 | [Java](./13xxx/13288. A New Alphabet/A New Alphabet.java) |
-| [13297](https://boj.kr/13297) | Quick Estimates | Bronze 3 | [Java](./13xxx/13297. Quick Estimates/Quick Estimates.java) |
+| [13297](https://boj.kr/13297) | Quick Estimates | Bronze 4 | [Java](./13xxx/13297. Quick Estimates/Quick Estimates.java) |
 | [13300](https://boj.kr/13300) | 방 배정 | Bronze 2 | [Java](./13xxx/13300. 방 배정/방 배정.java) |
 | [13301](https://boj.kr/13301) | 타일 장식물 | Silver 5 | [Java](./13xxx/13301. 타일 장식물/타일 장식물.java) |
 | [13304](https://boj.kr/13304) | 방 배정 | Bronze 2 | [Java](./13xxx/13304. 방 배정/방 배정.java) |
@@ -4358,4 +4358,5 @@
 | [33515](https://boj.kr/33515) | 노트북 세 대를 가지고 왔다 | Bronze 5 | [Python](./33xxx/33515. 노트북 세 대를 가지고 왔다/노트북 세 대를 가지고 왔다.py) |
 | [33528](https://boj.kr/33528) | Alphabetic Shift | Bronze 3 | [C++](./33xxx/33528. Alphabetic Shift/Alphabetic Shift.cc) |
 | [33538](https://boj.kr/33538) | Crawling | Bronze 3 | [C++](./33xxx/33538. Crawling/Crawling.cc) |
+| [33541](https://boj.kr/33541) | 2025는 무엇이 특별할까? | Bronze 3 | [C++](./33xxx/33541. 2025는 무엇이 특별할까？/2025는 무엇이 특별할까？.cc) |
 </div>
