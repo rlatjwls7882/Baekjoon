@@ -1938,6 +1938,7 @@
 | [12184](https://boj.kr/12184) | GBus count (Small) | Bronze 2 | [Java](./12xxx/12184. GBus count （Small）/GBus count （Small）.java) |
 | [12185](https://boj.kr/12185) | GBus count (Large) | Bronze 2 | [Java](./12xxx/12185. GBus count （Large）/GBus count （Large）.java) |
 | [12250](https://boj.kr/12250) | New Lottery Game (Small) | Bronze 3 | [Java](./12xxx/12250. New Lottery Game （Small）/New Lottery Game （Small）.java) |
+| [12285](https://boj.kr/12285) | Spaceship Defence (Large) | Gold 2 | [C++](./12xxx/12285. Spaceship Defence （Large）/Spaceship Defence （Large）.cc) |
 | [12313](https://boj.kr/12313) | Erdős–Szekeres (Small) | Gold 3 | [C++](./12xxx/12313. Erdős–Szekeres （Small）/Erdős–Szekeres （Small）.cc) |
 | [12348](https://boj.kr/12348) | 분해합 2 | Gold 5 | [Java](./12xxx/12348. 분해합 2/분해합 2.java) |
 | [12351](https://boj.kr/12351) | Hedgemony (Small) | Bronze 3 | [Java](./12xxx/12351. Hedgemony （Small）/Hedgemony （Small）.java) |
@@ -1998,6 +1999,7 @@
 | [12904](https://boj.kr/12904) | A와 B | Gold 5 | [Java](./12xxx/12904. A와 B/A와 B.java) |
 | [12924](https://boj.kr/12924) | 멋진 쌍 | Gold 5 | [C++](./12xxx/12924. 멋진 쌍/멋진 쌍.cc) |
 | [12927](https://boj.kr/12927) | 배수 스위치 | Silver 4 | [C++](./12xxx/12927. 배수 스위치/배수 스위치.cc) |
+| [12931](https://boj.kr/12931) | 두 배 더하기 | Gold 5 | [C++](./12xxx/12931. 두 배 더하기/두 배 더하기.cc) |
 | [12933](https://boj.kr/12933) | 오리 | Silver 2 | [C++](./12xxx/12933. 오리/오리.cc) |
 | [13003](https://boj.kr/13003) | 배수열 | Gold 3 | [C++](./13xxx/13003. 배수열/배수열.cc) |
 | [13015](https://boj.kr/13015) | 별 찍기 - 23 | Silver 4 | [Java](./13xxx/13015. 별 찍기 － 23/별 찍기 － 23.java) |
@@ -3973,7 +3975,7 @@
 | [30031](https://boj.kr/30031) | 지폐 세기 | Bronze 4 | [Java](./30xxx/30031. 지폐 세기/지폐 세기.java) |
 | [30032](https://boj.kr/30032) | 알파벳 뒤집기 | Bronze 3 | [Java](./30xxx/30032. 알파벳 뒤집기/알파벳 뒤집기.java) |
 | [30033](https://boj.kr/30033) | Rust Study | Bronze 4 | [Java](./30xxx/30033.%E2%80%85Rust%E2%80%85Study/Rust Study.java) |
-| [30034](https://boj.kr/30034) | Slice String | Bronze 1 | [Java](./30xxx/30034.%E2%80%85Slice%E2%80%85String/Slice String.java) |
+| [30034](https://boj.kr/30034) | Slice String | Silver 5 | [Java](./30xxx/30034.%E2%80%85Slice%E2%80%85String/Slice String.java) |
 | [30045](https://boj.kr/30045) | ZOAC 6 | Bronze 4 | [Java](./30xxx/30045.%E2%80%85ZOAC%E2%80%856/ZOAC 6.java) |
 | [30063](https://boj.kr/30063) | Pabėgimo kambarys | Bronze 1 | [Java](./30xxx/30063. Pabėgimo kambarys/Pabėgimo kambarys.java) |
 | [30067](https://boj.kr/30067) | Paslėpta suma | Bronze 4 | [Java](./30xxx/30067. Paslėpta suma/Paslėpta suma.java) |
