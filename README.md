@@ -3156,6 +3156,7 @@
 | [22857](https://boj.kr/22857) | 가장 긴 짝수 연속한 부분 수열 (small) | Silver 2 | [C++](./22xxx/22857. 가장 긴 짝수 연속한 부분 수열 （small）/가장 긴 짝수 연속한 부분 수열 （small）.cc) |
 | [22858](https://boj.kr/22858) | 원상 복구 (small) | Silver 3 | [Java](./22xxx/22858. 원상 복구 （small）/원상 복구 （small）.java) |
 | [22859](https://boj.kr/22859) | HTML 파싱 | Gold 3 | [C++](./22xxx/22859. HTML 파싱/HTML 파싱.cc) |
+| [22862](https://boj.kr/22862) | 가장 긴 짝수 연속한 부분 수열 (large) | Gold 5 | [C++](./22xxx/22862. 가장 긴 짝수 연속한 부분 수열 （large）/가장 긴 짝수 연속한 부분 수열 （large）.cc) |
 | [22864](https://boj.kr/22864) | 피로도 | Bronze 2 | [Java](./22xxx/22864. 피로도/피로도.java) |
 | [22865](https://boj.kr/22865) | 가장 먼 곳 | Gold 4 | [Java](./22xxx/22865. 가장 먼 곳/가장 먼 곳.java) |
 | [22867](https://boj.kr/22867) | 종점 | Gold 5 | [C++](./22xxx/22867. 종점/종점.cc) |
