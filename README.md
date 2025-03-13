@@ -637,6 +637,7 @@
 | [02777](https://boj.kr/2777) | 숫자 놀이 | Silver 2 | [C++](./02xxx/2777. 숫자 놀이/숫자 놀이.cc) |
 | [02780](https://boj.kr/2780) | 비밀번호 | Silver 1 | [C++](./02xxx/2780. 비밀번호/비밀번호.cc) |
 | [02783](https://boj.kr/2783) | 삼각 김밥 | Bronze 3 | [Java](./02xxx/2783. 삼각 김밥/삼각 김밥.java) |
+| [02785](https://boj.kr/2785) | 체인 | Silver 1 | [C++](./02xxx/2785. 체인/체인.cc) |
 | [02787](https://boj.kr/2787) | 흔한 수열 문제 | Platinum 3 | [C++](./02xxx/2787. 흔한 수열 문제/흔한 수열 문제.cc) |
 | [02789](https://boj.kr/2789) | 유학 금지 | Bronze 2 | [Java](./02xxx/2789. 유학 금지/유학 금지.java) |
 | [02792](https://boj.kr/2792) | 보석 상자 | Silver 1 | [C++](./02xxx/2792. 보석 상자/보석 상자.cc) |
@@ -1275,7 +1276,7 @@
 | [07600](https://boj.kr/7600) | 문자가 몇갤까 | Bronze 2 | [Java](./07xxx/7600. 문자가 몇갤까/문자가 몇갤까.java) |
 | [07616](https://boj.kr/7616) | 교실로 가는 길 | Platinum 2 | [C++](./07xxx/7616. 교실로 가는 길/교실로 가는 길.cc) |
 | [07637](https://boj.kr/7637) | AAAAHH! Overbooked! | Bronze 1 | [Java](./07xxx/7637. AAAAHH！ Overbooked！/AAAAHH！ Overbooked！.java) |
-| [07656](https://boj.kr/7656) | 만능 오라클 | Silver 5 | [Java](./07xxx/7656. 만능 오라클/만능 오라클.java) |
+| [07656](https://boj.kr/7656) | 만능 오라클 | Silver 4 | [Java](./07xxx/7656. 만능 오라클/만능 오라클.java) |
 | [07662](https://boj.kr/7662) | 이중 우선순위 큐 | Gold 4 | [Java](./07xxx/7662. 이중 우선순위 큐/이중 우선순위 큐.java) |
 | [07682](https://boj.kr/7682) | 틱택토 | Gold 5 | [C++](./07xxx/7682. 틱택토/틱택토.cc) |
 | [07696](https://boj.kr/7696) | 반복하지 않는 수 | Silver 3 | [C++](./07xxx/7696. 반복하지 않는 수/반복하지 않는 수.cc) |
@@ -2118,7 +2119,7 @@
 | [13772](https://boj.kr/13772) | Holes | Bronze 2 | [Java](./13xxx/13772. Holes/Holes.java) |
 | [13773](https://boj.kr/13773) | Olympic Games | Bronze 3 | [Java](./13xxx/13773. Olympic Games/Olympic Games.java) |
 | [13774](https://boj.kr/13774) | Palindromes | Bronze 2 | [Java](./13xxx/13774. Palindromes/Palindromes.java) |
-| [13775](https://boj.kr/13775) | Virus | Bronze 2 | [Java](./13xxx/13775. Virus/Virus.java) |
+| [13775](https://boj.kr/13775) | Virus | Bronze 1 | [Java](./13xxx/13775. Virus/Virus.java) |
 | [13776](https://boj.kr/13776) | Alpha Puzzle | Bronze 2 | [C++](./13xxx/13776. Alpha Puzzle/Alpha Puzzle.cc) |
 | [13866](https://boj.kr/13866) | 팀 나누기 | Bronze 4 | [C](./13xxx/13866. 팀 나누기/팀 나누기.c) |
 | [13871](https://boj.kr/13871) | Farm robot | Bronze 3 | [Java](./13xxx/13871. Farm robot/Farm robot.java) |
