@@ -750,7 +750,7 @@
 | [03085](https://boj.kr/3085) | 사탕 게임 | Silver 2 | [C++](./03xxx/3085. 사탕 게임/사탕 게임.cc) |
 | [03095](https://boj.kr/3095) | 플러스의 개수 | Gold 4 | [C++](./03xxx/3095. 플러스의 개수/플러스의 개수.cc) |
 | [03097](https://boj.kr/3097) | 산책 경로 | Silver 4 | [C++](./03xxx/3097. 산책 경로/산책 경로.cc) |
-| [03107](https://boj.kr/3107) | IPv6 | Gold 5 | [C++](./03xxx/3107. IPv6/IPv6.cc) |
+| [03107](https://boj.kr/3107) | IPv6 | Silver 1 | [C++](./03xxx/3107. IPv6/IPv6.cc) |
 | [03135](https://boj.kr/3135) | 라디오 | Silver 5 | [Java](./03xxx/3135. 라디오/라디오.java) |
 | [03145](https://boj.kr/3145) | 지리지도 | Platinum 4 | [C++](./03xxx/3145. 지리지도/지리지도.cc) |
 | [03164](https://boj.kr/3164) | 패턴 | Gold 4 | [C++](./03xxx/3164. 패턴/패턴.cc) |
@@ -1080,7 +1080,7 @@
 | [05698](https://boj.kr/5698) | Tautogram | Bronze 2 | [Java](./05xxx/5698. Tautogram/Tautogram.java) |
 | [05704](https://boj.kr/5704) | 팬그램 | Bronze 2 | [Java](./05xxx/5704. 팬그램/팬그램.java) |
 | [05715](https://boj.kr/5715) | Jingle Composing | Bronze 2 | [Java](./05xxx/5715. Jingle Composing/Jingle Composing.java) |
-| [05717](https://boj.kr/5717) | 상근이의 친구들 | Bronze 4 | [C](./05xxx/5717. 상근이의 친구들/상근이의 친구들.c) |
+| [05717](https://boj.kr/5717) | 상근이의 친구들 | Bronze 5 | [C](./05xxx/5717. 상근이의 친구들/상근이의 친구들.c) |
 | [05724](https://boj.kr/5724) | 파인만 | Bronze 3 | [Java](./05xxx/5724. 파인만/파인만.java) |
 | [05735](https://boj.kr/5735) | Emoticons :-) | Platinum 2 | [C++](./05xxx/5735. Emoticons ：－）/Emoticons ：－）.cc) |
 | [05751](https://boj.kr/5751) | Head or Tail | Bronze 3 | [Java](./05xxx/5751. Head or Tail/Head or Tail.java) |
@@ -2579,6 +2579,7 @@
 | [16495](https://boj.kr/16495) | 열 순서 | Bronze 1 | [Java](./16xxx/16495. 열 순서/열 순서.java) |
 | [16497](https://boj.kr/16497) | 대출 요청 | Bronze 2 | [Java](./16xxx/16497. 대출 요청/대출 요청.java) |
 | [16499](https://boj.kr/16499) | 동일한 단어 그룹화하기 | Silver 4 | [Java](./16xxx/16499. 동일한 단어 그룹화하기/동일한 단어 그룹화하기.java) |
+| [16500](https://boj.kr/16500) | 문자열 판별 | Gold 5 | [C++](./16xxx/16500. 문자열 판별/문자열 판별.cc) |
 | [16501](https://boj.kr/16501) | 만족도 점수 | Silver 2 | [C++](./16xxx/16501. 만족도 점수/만족도 점수.cc) |
 | [16503](https://boj.kr/16503) | 괄호 없는 사칙연산 | Bronze 3 | [Java](./16xxx/16503. 괄호 없는 사칙연산/괄호 없는 사칙연산.java) |
 | [16504](https://boj.kr/16504) | 종이접기 | Bronze 3 | [Java](./16xxx/16504. 종이접기/종이접기.java) |
@@ -3364,6 +3365,7 @@
 | [24509](https://boj.kr/24509) | 상품의 주인은? | Silver 5 | [C++](./24xxx/24509. 상품의 주인은？/상품의 주인은？.cc) |
 | [24510](https://boj.kr/24510) | 시간복잡도를 배운 도도 | Bronze 2 | [Java](./24xxx/24510. 시간복잡도를 배운 도도/시간복잡도를 배운 도도.java) |
 | [24511](https://boj.kr/24511) | queuestack | Silver 3 | [Java](./24xxx/24511. queuestack/queuestack.java) |
+| [24524](https://boj.kr/24524) | 아름다운 문자열 | Gold 5 | [C++](./24xxx/24524. 아름다운 문자열/아름다운 문자열.cc) |
 | [24542](https://boj.kr/24542) | 튜터-튜티 관계의 수 | Silver 1 | [Java](./24xxx/24542. 튜터－튜티 관계의 수/튜터－튜티 관계의 수.java) |
 | [24544](https://boj.kr/24544) | 카카오뷰 큐레이팅 효용성 분석 | Bronze 2 | [Java](./24xxx/24544. 카카오뷰 큐레이팅 효용성 분석/카카오뷰 큐레이팅 효용성 분석.java) |
 | [24568](https://boj.kr/24568) | Cupcake Party | Bronze 5 | [C](./24xxx/24568. Cupcake Party/Cupcake Party.c) |
