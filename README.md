@@ -3132,6 +3132,7 @@
 | [22221](https://boj.kr/22221) | Table 1 | Bronze 1 | [Text](./22xxx/22221. Table 1/Table 1.txt) |
 | [22232](https://boj.kr/22232) | 가희와 파일 탐색기 | Silver 3 | [Java](./22xxx/22232. 가희와 파일 탐색기/가희와 파일 탐색기.java) |
 | [22233](https://boj.kr/22233) | 가희와 키워드 | Silver 3 | [Java](./22xxx/22233. 가희와 키워드/가희와 키워드.java) |
+| [22251](https://boj.kr/22251) | 빌런 호석 | Gold 5 | [C++](./22xxx/22251. 빌런 호석/빌런 호석.cc) |
 | [22255](https://boj.kr/22255) | 호석사우루스 | Gold 2 | [C++](./22xxx/22255. 호석사우루스/호석사우루스.cc) |
 | [22279](https://boj.kr/22279) | Quality-Adjusted Life-Year | Bronze 3 | [Java](./22xxx/22279. Quality－Adjusted Life－Year/Quality－Adjusted Life－Year.java) |
 | [22332](https://boj.kr/22332) | XOR 2 | Silver 4 | [Text](./22xxx/22332. XOR 2/XOR 2.txt) |
