@@ -43,6 +43,7 @@
 | [01057](https://boj.kr/1057) | 토너먼트 | Silver 4 | [C++](./01xxx/1057. 토너먼트/토너먼트.cc) |
 | [01058](https://boj.kr/1058) | 친구 | Silver 2 | [C++](./01xxx/1058. 친구/친구.cc) |
 | [01059](https://boj.kr/1059) | 좋은 구간 | Silver 4 | [C++](./01xxx/1059. 좋은 구간/좋은 구간.cc) |
+| [01062](https://boj.kr/1062) | 가르침 | Gold 4 | [C++](./01xxx/1062. 가르침/가르침.cc) |
 | [01063](https://boj.kr/1063) | 킹 | Silver 3 | [C++](./01xxx/1063. 킹/킹.cc) |
 | [01064](https://boj.kr/1064) | 평행사변형 | Silver 4 | [C++](./01xxx/1064. 평행사변형/평행사변형.cc) |
 | [01065](https://boj.kr/1065) | 한수 | Silver 4 | [Java](./01xxx/1065. 한수/한수.java) |
@@ -1257,7 +1258,7 @@
 | [07511](https://boj.kr/7511) | 소셜 네트워킹 어플리케이션 | Gold 5 | [Java](./07xxx/7511. 소셜 네트워킹 어플리케이션/소셜 네트워킹 어플리케이션.java) |
 | [07512](https://boj.kr/7512) | 연속하는 소수의 합 | Gold 3 | [C++](./07xxx/7512. 연속하는 소수의 합/연속하는 소수의 합.cc) |
 | [07513](https://boj.kr/7513) | 준살 프로그래밍 대회 | Bronze 1 | [Java](./07xxx/7513. 준살 프로그래밍 대회/준살 프로그래밍 대회.java) |
-| [07523](https://boj.kr/7523) | Gauß | Bronze 3 | [Java](./07xxx/7523. Gauß/Gauß.java) |
+| [07523](https://boj.kr/7523) | Gauß | Bronze 2 | [Java](./07xxx/7523. Gauß/Gauß.java) |
 | [07547](https://boj.kr/7547) | Heavy Transportation | Gold 4 | [Java](./07xxx/7547. Heavy Transportation/Heavy Transportation.java) |
 | [07562](https://boj.kr/7562) | 나이트의 이동 | Silver 1 | [Java](./07xxx/7562. 나이트의 이동/나이트의 이동.java) |
 | [07567](https://boj.kr/7567) | 그릇 | Bronze 2 | [Java](./07xxx/7567. 그릇/그릇.java) |
