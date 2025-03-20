@@ -376,6 +376,7 @@
 | [02010](https://boj.kr/2010) | 플러그 | Bronze 3 | [Java](./02xxx/2010. 플러그/플러그.java) |
 | [02011](https://boj.kr/2011) | 암호코드 | Gold 5 | [C++](./02xxx/2011. 암호코드/암호코드.cc) |
 | [02012](https://boj.kr/2012) | 등수 매기기 | Silver 3 | [C++](./02xxx/2012. 등수 매기기/등수 매기기.cc) |
+| [02015](https://boj.kr/2015) | 수들의 합 4 | Gold 4 | [C++](./02xxx/2015. 수들의 합 4/수들의 합 4.cc) |
 | [02018](https://boj.kr/2018) | 수들의 합 5 | Silver 5 | [Java](./02xxx/2018. 수들의 합 5/수들의 합 5.java) |
 | [02023](https://boj.kr/2023) | 신기한 소수 | Gold 5 | [C++](./02xxx/2023. 신기한 소수/신기한 소수.cc) |
 | [02028](https://boj.kr/2028) | 자기복제수 | Bronze 2 | [Java](./02xxx/2028. 자기복제수/자기복제수.java) |
@@ -3386,7 +3387,7 @@
 | [24653](https://boj.kr/24653) | Announcements | Silver 3 | [C++](./24xxx/24653. Announcements/Announcements.cc) |
 | [24654](https://boj.kr/24654) | Build The Grid | Gold 3 | [C++](./24xxx/24654. Build The Grid/Build The Grid.cc) |
 | [24657](https://boj.kr/24657) | Edges, Colors and MST | Platinum 1 | [C++](./24xxx/24657. Edges， Colors and MST/Edges， Colors and MST.cc) |
-| [24661](https://boj.kr/24661) | Items and Heroes | Platinum 1 | [C++](./24xxx/24661. Items and Heroes/Items and Heroes.cc) |
+| [24661](https://boj.kr/24661) | Items and Heroes | Diamond 5 | [C++](./24xxx/24661. Items and Heroes/Items and Heroes.cc) |
 | [24723](https://boj.kr/24723) | 녹색거탑 | Bronze 4 | [Java](./24xxx/24723. 녹색거탑/녹색거탑.java) |
 | [24724](https://boj.kr/24724) | 현대모비스와 함께하는 부품 관리 | Bronze 3 | [Java](./24xxx/24724. 현대모비스와 함께하는 부품 관리/현대모비스와 함께하는 부품 관리.java) |
 | [24736](https://boj.kr/24736) | Football Scoring | Bronze 5 | [C](./24xxx/24736. Football Scoring/Football Scoring.c) |
