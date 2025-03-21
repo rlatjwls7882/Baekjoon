@@ -586,6 +586,7 @@
 | [02628](https://boj.kr/2628) | 종이자르기 | Silver 5 | [C++](./02xxx/2628. 종이자르기/종이자르기.cc) |
 | [02629](https://boj.kr/2629) | 양팔저울 | Gold 3 | [C++](./02xxx/2629. 양팔저울/양팔저울.cc) |
 | [02630](https://boj.kr/2630) | 색종이 만들기 | Silver 2 | [Java](./02xxx/2630. 색종이 만들기/색종이 만들기.java) |
+| [02631](https://boj.kr/2631) | 줄세우기 | Gold 4 | [C++](./02xxx/2631. 줄세우기/줄세우기.cc) |
 | [02635](https://boj.kr/2635) | 수 이어가기 | Silver 5 | [C++](./02xxx/2635. 수 이어가기/수 이어가기.cc) |
 | [02636](https://boj.kr/2636) | 치즈 | Gold 4 | [C++](./02xxx/2636. 치즈/치즈.cc) |
 | [02638](https://boj.kr/2638) | 치즈 | Gold 3 | [C++](./02xxx/2638. 치즈/치즈.cc) |
@@ -2781,7 +2782,7 @@
 | [17795](https://boj.kr/17795) | Ballpark Estimate | Bronze 2 | [Java](./17xxx/17795. Ballpark Estimate/Ballpark Estimate.java) |
 | [17826](https://boj.kr/17826) | 나의 학점은? | Bronze 2 | [Java](./17xxx/17826. 나의 학점은？/나의 학점은？.java) |
 | [17827](https://boj.kr/17827) | 달팽이 리스트 | Silver 2 | [C++](./17xxx/17827. 달팽이 리스트/달팽이 리스트.cc) |
-| [17829](https://boj.kr/17829) | 222-풀링 | Silver 2 | [C++](./17xxx/17829. 222－풀링/222－풀링.cc) |
+| [17829](https://boj.kr/17829) | 222-풀링 | Silver 3 | [C++](./17xxx/17829. 222－풀링/222－풀링.cc) |
 | [17838](https://boj.kr/17838) | 커맨드 | Bronze 2 | [Java](./17xxx/17838. 커맨드/커맨드.java) |
 | [17841](https://boj.kr/17841) | UNIST는 무엇의 약자일까? | Gold 3 | [C++](./17xxx/17841. UNIST는 무엇의 약자일까？/UNIST는 무엇의 약자일까？.cc) |
 | [17843](https://boj.kr/17843) | 시계 | Silver 5 | [C++](./17xxx/17843. 시계/시계.cc) |
@@ -4099,7 +4100,7 @@
 | [30991](https://boj.kr/30991) | ESC | Silver 1 | [C++](./30xxx/30991. ESC/ESC.cc) |
 | [30993](https://boj.kr/30993) | 자동차 주차 | Silver 5 | [C++](./30xxx/30993. 자동차 주차/자동차 주차.cc) |
 | [30999](https://boj.kr/30999) | 민주주의 | Bronze 4 | |
-| [31000](https://boj.kr/31000) | 교환 분배법칙 | Bronze 1 | [C++](./31xxx/31000. 교환 분배법칙/교환 분배법칙.cc) |
+| [31000](https://boj.kr/31000) | 교환 분배법칙 | Silver 5 | [C++](./31xxx/31000. 교환 분배법칙/교환 분배법칙.cc) |
 | [31009](https://boj.kr/31009) | 진주로 가자! (Easy) | Bronze 3 | [Java](./31xxx/31009. 진주로 가자！ （Easy）/진주로 가자！ （Easy）.java) |
 | [31040](https://boj.kr/31040) | Nine Knights | Bronze 2 | [Java](./31xxx/31040. Nine Knights/Nine Knights.java) |
 | [31048](https://boj.kr/31048) | Last Factorial Digit | Bronze 4 | [C++](./31xxx/31048. Last Factorial Digit/Last Factorial Digit.cc) |
