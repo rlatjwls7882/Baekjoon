@@ -2,11 +2,10 @@
 using namespace std;
 
 bool visited[99]; // 이미 방문한 위치인지 확인
-vector<set<int>> conn1(99); // conn1[A][B]: B가 A보다 무겁다.
-vector<set<int>> conn2(99); // conn2[A][B]: A가 B보다 무겁다.
-//  ** set으로 간선을 저장한 이유는 중복되는 간선이 들어온다. **
+vector<vector<int>> conn1(99); // conn1[A][B]: B가 A보다 무겁다.
+vector<vector<int>> conn2(99); // conn2[A][B]: A가 B보다 무겁다.
 
-int bfs(vector<set<int>> conn, int cur) {
+int bfs(vector<vector<int>> conn, int cur) {
     int cnt=1;
     memset(visited, 0, sizeof visited);
     queue<int> q; q.push(cur);
@@ -32,8 +31,8 @@ int main() {
 
     while(m--) {
         int a, b; cin >> a >> b;
-        conn1[b-1].insert(a-1);
-        conn2[a-1].insert(b-1);
+        conn1[b-1].push_back(a-1);
+        conn2[a-1].push_back(b-1);
     }
 
     int cnt=0;
