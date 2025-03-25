@@ -398,7 +398,7 @@
 | [02089](https://boj.kr/2089) | -2진수 | Silver 1 | [C++](./02xxx/2089. －2진수/－2진수.cc) |
 | [02090](https://boj.kr/2090) | 조화평균 | Silver 4 | [C++](./02xxx/2090. 조화평균/조화평균.cc) |
 | [02096](https://boj.kr/2096) | 내려가기 | Gold 5 | [C++](./02xxx/2096. 내려가기/내려가기.cc) |
-| [02108](https://boj.kr/2108) | 통계학 | Silver 3 | [Java](./02xxx/2108. 통계학/통계학.java) |
+| [02108](https://boj.kr/2108) | 통계학 | Silver 2 | [Java](./02xxx/2108. 통계학/통계학.java) |
 | [02110](https://boj.kr/2110) | 공유기 설치 | Gold 4 | [C++](./02xxx/2110. 공유기 설치/공유기 설치.cc) |
 | [02116](https://boj.kr/2116) | 주사위 쌓기 | Gold 5 | [C++](./02xxx/2116. 주사위 쌓기/주사위 쌓기.cc) |
 | [02131](https://boj.kr/2131) | 로봇 명령 | Gold 2 | [C++](./02xxx/2131. 로봇 명령/로봇 명령.cc) |
@@ -4373,5 +4373,6 @@
 | [33528](https://boj.kr/33528) | Alphabetic Shift | Bronze 3 | [C++](./33xxx/33528. Alphabetic Shift/Alphabetic Shift.cc) |
 | [33538](https://boj.kr/33538) | Crawling | Bronze 3 | [C++](./33xxx/33538. Crawling/Crawling.cc) |
 | [33541](https://boj.kr/33541) | 2025는 무엇이 특별할까? | Bronze 3 | [C++](./33xxx/33541. 2025는 무엇이 특별할까？/2025는 무엇이 특별할까？.cc) |
+| [33571](https://boj.kr/33571) | 구멍 | Bronze 4 | [C++](./33xxx/33571. 구멍/구멍.cc) |
 | [33612](https://boj.kr/33612) | 피갤컵 | Bronze 5 | [C++](./33xxx/33612. 피갤컵/피갤컵.cc) |
 </div>
