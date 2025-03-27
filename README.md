@@ -2057,7 +2057,7 @@
 | [13305](https://boj.kr/13305) | 주유소 | Silver 3 | [Java](./13xxx/13305. 주유소/주유소.java) |
 | [13306](https://boj.kr/13306) | 트리 | Platinum 4 | [C++](./13xxx/13306. 트리/트리.cc) |
 | [13309](https://boj.kr/13309) | 트리 | Platinum 1 | [C++](./13xxx/13309. 트리/트리.cc) |
-| [13311](https://boj.kr/13311) | 행운의 편지 | Bronze 3 | [Java](./13xxx/13311. 행운의 편지/행운의 편지.java) |
+| [13311](https://boj.kr/13311) | 행운의 편지 | Bronze 2 | [Java](./13xxx/13311. 행운의 편지/행운의 편지.java) |
 | [13322](https://boj.kr/13322) | 접두사 배열 | Bronze 1 | [Java](./13xxx/13322. 접두사 배열/접두사 배열.java) |
 | [13333](https://boj.kr/13333) | Q-인덱스 | Silver 5 | [C++](./13xxx/13333. Q－인덱스/Q－인덱스.cc) |
 | [13334](https://boj.kr/13334) | 철로 | Gold 2 | [C++](./13xxx/13334. 철로/철로.cc) |
@@ -2808,6 +2808,7 @@
 | [17946](https://boj.kr/17946) | 피자는 나눌 수록 커지잖아요 | Bronze 2 | [Java](./17xxx/17946. 피자는 나눌 수록 커지잖아요/피자는 나눌 수록 커지잖아요.java) |
 | [17949](https://boj.kr/17949) | Drop The Byte! | Bronze 1 | [Java](./17xxx/17949. Drop The Byte！/Drop The Byte！.java) |
 | [17950](https://boj.kr/17950) | 스노우볼 | Bronze 1 | [Java](./17xxx/17950. 스노우볼/스노우볼.java) |
+| [17951](https://boj.kr/17951) | 흩날리는 시험지 속에서 내 평점이 느껴진거야 | Gold 3 | [C++](./17xxx/17951. 흩날리는 시험지 속에서 내 평점이 느껴진거야/흩날리는 시험지 속에서 내 평점이 느껴진거야.cc) |
 | [17952](https://boj.kr/17952) | 과제는 끝나지 않아! | Silver 3 | [C++](./17xxx/17952. 과제는 끝나지 않아！/과제는 끝나지 않아！.cc) |
 | [17953](https://boj.kr/17953) | 디저트 | Gold 5 | [C++](./17xxx/17953. 디저트/디저트.cc) |
 | [17987](https://boj.kr/17987) | Howl | Bronze 2 | [Java](./17xxx/17987. Howl/Howl.java) |
@@ -4358,7 +4359,7 @@
 | [33169](https://boj.kr/33169) | 所持金 (Money On Me) | Bronze 5 | [C++](./33xxx/33169. 所持金 （Money On Me）/所持金 （Money On Me）.cc) |
 | [33170](https://boj.kr/33170) | ブラックジャック (Blackjack) | Bronze 5 | [C++](./33xxx/33170. ブラックジャック （Blackjack）/ブラックジャック （Blackjack）.cc) |
 | [33171](https://boj.kr/33171) | いずれか片方 (Either, but Not Both) | Bronze 3 | [C++](./33xxx/33171. いずれか片方 （Either， but Not Both）/いずれか片方 （Either， but Not Both）.cc) |
-| [33173](https://boj.kr/33173) | マスキングテープ (Masking Tape) | Bronze 3 | [C++](./33xxx/33173. マスキングテープ （Masking Tape）/マスキングテープ （Masking Tape）.cc) |
+| [33173](https://boj.kr/33173) | マスキングテープ (Masking Tape) | Bronze 2 | [C++](./33xxx/33173. マスキングテープ （Masking Tape）/マスキングテープ （Masking Tape）.cc) |
 | [33178](https://boj.kr/33178) | Micromasters | Bronze 5 | [C++](./33xxx/33178. Micromasters/Micromasters.cc) |
 | [33179](https://boj.kr/33179) | Hezardastan’s Annual Report | Bronze 4 | [C++](./33xxx/33179. Hezardastan’s Annual Report/Hezardastan’s Annual Report.cc) |
 | [33191](https://boj.kr/33191) | Yalda | Bronze 4 | [C++](./33xxx/33191. Yalda/Yalda.cc) |
