@@ -151,6 +151,7 @@
 | [01356](https://boj.kr/1356) | 유진수 | Bronze 1 | [Java](./01xxx/1356. 유진수/유진수.java) |
 | [01357](https://boj.kr/1357) | 뒤집힌 덧셈 | Bronze 1 | [Java](./01xxx/1357. 뒤집힌 덧셈/뒤집힌 덧셈.java) |
 | [01358](https://boj.kr/1358) | 하키 | Silver 4 | [C++](./01xxx/1358. 하키/하키.cc) |
+| [01359](https://boj.kr/1359) | 복권 | Silver 4 | [C++](./01xxx/1359. 복권/복권.cc) |
 | [01362](https://boj.kr/1362) | 펫 | Bronze 2 | [Java](./01xxx/1362. 펫/펫.java) |
 | [01364](https://boj.kr/1364) | 울타리 치기 | Gold 3 | [C++](./01xxx/1364. 울타리 치기/울타리 치기.cc) |
 | [01368](https://boj.kr/1368) | 물대기 | Gold 2 | [Java](./01xxx/1368. 물대기/물대기.java) |
