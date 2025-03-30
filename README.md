@@ -4379,4 +4379,5 @@
 | [33571](https://boj.kr/33571) | 구멍 | Bronze 4 | [C++](./33xxx/33571. 구멍/구멍.cc) |
 | [33612](https://boj.kr/33612) | 피갤컵 | Bronze 5 | [C++](./33xxx/33612. 피갤컵/피갤컵.cc) |
 | [33651](https://boj.kr/33651) | Vandalism | Bronze 4 | [C++](./33xxx/33651. Vandalism/Vandalism.cc) |
+| [33663](https://boj.kr/33663) | 루미의 진정한™ 보라색 찾기 | Bronze 3 | [C++](./33xxx/33663. 루미의 진정한™ 보라색 찾기/루미의 진정한™ 보라색 찾기.cc) |
 </div>
