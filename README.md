@@ -1828,7 +1828,7 @@
 | [11438](https://boj.kr/11438) | LCA 2 | Platinum 5 | [C++](./11xxx/11438. LCA 2/LCA 2.cc) |
 | [11441](https://boj.kr/11441) | 합 구하기 | Silver 3 | [C++](./11xxx/11441. 합 구하기/합 구하기.cc) |
 | [11444](https://boj.kr/11444) | 피보나치 수 6 | Gold 2 | [C++](./11xxx/11444. 피보나치 수 6/피보나치 수 6.cc) |
-| [11466](https://boj.kr/11466) | Alex Origami Squares | Bronze 3 | [Java](./11xxx/11466. Alex Origami Squares/Alex Origami Squares.java) |
+| [11466](https://boj.kr/11466) | Alex Origami Squares | Bronze 2 | [Java](./11xxx/11466. Alex Origami Squares/Alex Origami Squares.java) |
 | [11478](https://boj.kr/11478) | 서로 다른 부분 문자열의 개수 | Silver 3 | [Java](./11xxx/11478. 서로 다른 부분 문자열의 개수/서로 다른 부분 문자열의 개수.java) |
 | [11493](https://boj.kr/11493) | 동전 교환 | Platinum 1 | [C++](./11xxx/11493. 동전 교환/동전 교환.cc) |
 | [11495](https://boj.kr/11495) | 격자 0 만들기 | Platinum 2 | [C++](./11xxx/11495. 격자 0 만들기/격자 0 만들기.cc) |
@@ -2642,6 +2642,7 @@
 | [16933](https://boj.kr/16933) | 벽 부수고 이동하기 3 | Gold 1 | [C++](./16xxx/16933. 벽 부수고 이동하기 3/벽 부수고 이동하기 3.cc) |
 | [16936](https://boj.kr/16936) | 나3곱2 | Gold 5 | [C++](./16xxx/16936. 나3곱2/나3곱2.cc) |
 | [16937](https://boj.kr/16937) | 두 스티커 | Silver 3 | [C++](./16xxx/16937. 두 스티커/두 스티커.cc) |
+| [16938](https://boj.kr/16938) | 캠프 준비 | Gold 5 | [C++](./16xxx/16938. 캠프 준비/캠프 준비.cc) |
 | [16943](https://boj.kr/16943) | 숫자 재배치 | Silver 1 | [C++](./16xxx/16943. 숫자 재배치/숫자 재배치.cc) |
 | [16944](https://boj.kr/16944) | 강력한 비밀번호 | Bronze 2 | [Java](./16xxx/16944. 강력한 비밀번호/강력한 비밀번호.java) |
 | [16946](https://boj.kr/16946) | 벽 부수고 이동하기 4 | Gold 2 | [C++](./16xxx/16946. 벽 부수고 이동하기 4/벽 부수고 이동하기 4.cc) |
