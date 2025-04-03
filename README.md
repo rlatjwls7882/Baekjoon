@@ -4384,4 +4384,5 @@
 | [33651](https://boj.kr/33651) | Vandalism | Bronze 4 | [C++](./33xxx/33651. Vandalism/Vandalism.cc) |
 | [33663](https://boj.kr/33663) | 루미의 진정한™ 보라색 찾기 | Bronze 3 | [C++](./33xxx/33663. 루미의 진정한™ 보라색 찾기/루미의 진정한™ 보라색 찾기.cc) |
 | [33689](https://boj.kr/33689) | CPDU | Bronze 4 | [C++](./33xxx/33689. CPDU/CPDU.cc) |
+| [33701](https://boj.kr/33701) | 새천년관 | Bronze 4 | [Text](./33xxx/33701. 새천년관/새천년관.txt) |
 </div>
