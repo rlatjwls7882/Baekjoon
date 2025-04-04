@@ -1800,7 +1800,7 @@
 | [11297](https://boj.kr/11297) | Cypher | Bronze 2 | [Java](./11xxx/11297. Cypher/Cypher.java) |
 | [11311](https://boj.kr/11311) | Jug Hard | Gold 4 | [C++](./11xxx/11311. Jug Hard/Jug Hard.cc) |
 | [11312](https://boj.kr/11312) | 삼각 무늬 - 2 | Bronze 3 | [Java](./11xxx/11312. 삼각 무늬 － 2/삼각 무늬 － 2.java) |
-| [11319](https://boj.kr/11319) | Count Me In | Bronze 2 | [Java](./11xxx/11319. Count Me In/Count Me In.java) |
+| [11319](https://boj.kr/11319) | Count Me In | Bronze 3 | [Java](./11xxx/11319. Count Me In/Count Me In.java) |
 | [11320](https://boj.kr/11320) | 삼각 무늬 - 1 | Bronze 3 | [Java](./11xxx/11320. 삼각 무늬 － 1/삼각 무늬 － 1.java) |
 | [11328](https://boj.kr/11328) | Strfry | Bronze 2 | [Java](./11xxx/11328. Strfry/Strfry.java) |
 | [11332](https://boj.kr/11332) | 시간초과 | Silver 4 | [C++](./11xxx/11332. 시간초과/시간초과.cc) |
@@ -1840,7 +1840,7 @@
 | [11507](https://boj.kr/11507) | 카드셋트 | Silver 4 | [Java](./11xxx/11507. 카드셋트/카드셋트.java) |
 | [11508](https://boj.kr/11508) | 2+1 세일 | Silver 4 | [C++](./11xxx/11508. 2＋1 세일/2＋1 세일.cc) |
 | [11509](https://boj.kr/11509) | 풍선 맞추기 | Gold 5 | [C++](./11xxx/11509. 풍선 맞추기/풍선 맞추기.cc) |
-| [11517](https://boj.kr/11517) | Positive Con Sequences | Bronze 2 | [Java](./11xxx/11517. Positive Con Sequences/Positive Con Sequences.java) |
+| [11517](https://boj.kr/11517) | Positive Con Sequences | Bronze 1 | [Java](./11xxx/11517. Positive Con Sequences/Positive Con Sequences.java) |
 | [11520](https://boj.kr/11520) | And Then There Was 5 | Bronze 3 | [Java](./11xxx/11520. And Then There Was 5/And Then There Was 5.java) |
 | [11522](https://boj.kr/11522) | Sum Kind of Problem | Bronze 3 | [Java](./11xxx/11522. Sum Kind of Problem/Sum Kind of Problem.java) |
 | [11531](https://boj.kr/11531) | ACM 대회 채점 | Bronze 2 | [Java](./11xxx/11531. ACM 대회 채점/ACM 대회 채점.java) |
@@ -2414,6 +2414,7 @@
 | [15656](https://boj.kr/15656) | N과 M (7) | Silver 3 | [Java](./15xxx/15656. N과 M （7）/N과 M （7）.java) |
 | [15657](https://boj.kr/15657) | N과 M (8) | Silver 3 | [Java](./15xxx/15657. N과 M （8）/N과 M （8）.java) |
 | [15658](https://boj.kr/15658) | 연산자 끼워넣기 (2) | Silver 2 | [Java](./15xxx/15658. 연산자 끼워넣기 （2）/연산자 끼워넣기 （2）.java) |
+| [15661](https://boj.kr/15661) | 링크와 스타트 | Gold 5 | [C++](./15xxx/15661. 링크와 스타트/링크와 스타트.cc) |
 | [15663](https://boj.kr/15663) | N과 M (9) | Silver 2 | [Java](./15xxx/15663. N과 M （9）/N과 M （9）.java) |
 | [15664](https://boj.kr/15664) | N과 M (10) | Silver 2 | [Java](./15xxx/15664. N과 M （10）/N과 M （10）.java) |
 | [15665](https://boj.kr/15665) | N과 M (11) | Silver 2 | [Java](./15xxx/15665. N과 M （11）/N과 M （11）.java) |
