@@ -1703,7 +1703,7 @@
 | [10952](https://boj.kr/10952) | A+B - 5 | Bronze 5 | [C](./10xxx/10952. A＋B － 5/A＋B － 5.c) |
 | [10953](https://boj.kr/10953) | A+B - 6 | Bronze 3 | [C](./10xxx/10953. A＋B － 6/A＋B － 6.c) |
 | [10960](https://boj.kr/10960) | Calvinball championship, again 1 | Silver 5 | [C++](./10xxx/10960. Calvinball championship， again 1/Calvinball championship， again 1.cc) |
-| [10962](https://boj.kr/10962) | Calvinball championship, again 2 | Silver 1 | [C++](./10xxx/10962. Calvinball championship， again 2/Calvinball championship， again 2.cc) |
+| [10962](https://boj.kr/10962) | Calvinball championship, again 2 | Gold 5 | [C++](./10xxx/10962. Calvinball championship， again 2/Calvinball championship， again 2.cc) |
 | [10971](https://boj.kr/10971) | 외판원 순회 2 | Silver 2 | [C++](./10xxx/10971. 외판원 순회 2/외판원 순회 2.cc) |
 | [10972](https://boj.kr/10972) | 다음 순열 | Silver 3 | [C++](./10xxx/10972. 다음 순열/다음 순열.cc) |
 | [10973](https://boj.kr/10973) | 이전 순열 | Silver 3 | [C++](./10xxx/10973. 이전 순열/이전 순열.cc) |
@@ -4386,4 +4386,5 @@
 | [33663](https://boj.kr/33663) | 루미의 진정한™ 보라색 찾기 | Bronze 3 | [C++](./33xxx/33663. 루미의 진정한™ 보라색 찾기/루미의 진정한™ 보라색 찾기.cc) |
 | [33689](https://boj.kr/33689) | CPDU | Bronze 4 | [C++](./33xxx/33689. CPDU/CPDU.cc) |
 | [33701](https://boj.kr/33701) | 새천년관 | Bronze 4 | [Text](./33xxx/33701. 새천년관/새천년관.txt) |
+| [33753](https://boj.kr/33753) | 주차 요금 정산하기 | Bronze 3 | [C++](./33xxx/33753. 주차 요금 정산하기/주차 요금 정산하기.cc) |
 </div>
