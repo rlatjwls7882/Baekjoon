@@ -61,7 +61,7 @@
 | [01100](https://boj.kr/1100) | 하얀 칸 | Bronze 2 | [Java](./01xxx/1100. 하얀 칸/하얀 칸.java) |
 | [01105](https://boj.kr/1105) | 팔 | Silver 1 | [C++](./01xxx/1105. 팔/팔.cc) |
 | [01106](https://boj.kr/1106) | 호텔 | Gold 4 | [C++](./01xxx/1106. 호텔/호텔.cc) |
-| [01107](https://boj.kr/1107) | 리모컨 | Gold 5 | [C++](./01xxx/1107. 리모컨/리모컨.cc) |
+| [01107](https://boj.kr/1107) | 리모컨 | Gold 4 | [C++](./01xxx/1107. 리모컨/리모컨.cc) |
 | [01110](https://boj.kr/1110) | 더하기 사이클 | Bronze 1 | [Java](./01xxx/1110. 더하기 사이클/더하기 사이클.java) |
 | [01115](https://boj.kr/1115) | 순열 | Gold 1 | [C++](./01xxx/1115. 순열/순열.cc) |
 | [01120](https://boj.kr/1120) | 문자열 | Silver 4 | [C++](./01xxx/1120. 문자열/문자열.cc) |
@@ -783,7 +783,7 @@
 | [03282](https://boj.kr/3282) | ROOMS | Bronze 1 | [Java](./03xxx/3282. ROOMS/ROOMS.java) |
 | [03295](https://boj.kr/3295) | 단방향 링크 네트워크 | Platinum 2 | [C++](./03xxx/3295. 단방향 링크 네트워크/단방향 링크 네트워크.cc) |
 | [03372](https://boj.kr/3372) | 보드 점프 | Silver 1 | [Java](./03xxx/3372. 보드 점프/보드 점프.java) |
-| [03407](https://boj.kr/3407) | 맹세 | Silver 2 | [C++](./03xxx/3407. 맹세/맹세.cc) |
+| [03407](https://boj.kr/3407) | 맹세 | Silver 1 | [C++](./03xxx/3407. 맹세/맹세.cc) |
 | [03412](https://boj.kr/3412) | Darts | Bronze 1 | [Java](./03xxx/3412. Darts/Darts.java) |
 | [03417](https://boj.kr/3417) | Vigenère Cipher Encryption | Bronze 2 | [Java](./03xxx/3417. Vigenère Cipher Encryption/Vigenère Cipher Encryption.java) |
 | [03430](https://boj.kr/3430) | 용이 산다 | Gold 1 | [C++](./03xxx/3430. 용이 산다/용이 산다.cc) |
@@ -2673,6 +2673,7 @@
 | [17070](https://boj.kr/17070) | 파이프 옮기기 1 | Gold 5 | [C++](./17xxx/17070. 파이프 옮기기 1/파이프 옮기기 1.cc) |
 | [17071](https://boj.kr/17071) | 숨바꼭질 5 | Platinum 5 | [C++](./17xxx/17071. 숨바꼭질 5/숨바꼭질 5.cc) |
 | [17072](https://boj.kr/17072) | 아스키 아트 | Bronze 1 | [Java](./17xxx/17072. 아스키 아트/아스키 아트.java) |
+| [17073](https://boj.kr/17073) | 나무 위의 빗물 | Gold 5 | [C++](./17xxx/17073. 나무 위의 빗물/나무 위의 빗물.cc) |
 | [17086](https://boj.kr/17086) | 아기 상어 2 | Silver 2 | [C++](./17xxx/17086. 아기 상어 2/아기 상어 2.cc) |
 | [17087](https://boj.kr/17087) | 숨바꼭질 6 | Silver 2 | [C++](./17xxx/17087. 숨바꼭질 6/숨바꼭질 6.cc) |
 | [17091](https://boj.kr/17091) | 단어 시계 | Silver 5 | [Java](./17xxx/17091. 단어 시계/단어 시계.java) |
@@ -3944,7 +3945,7 @@
 | [29723](https://boj.kr/29723) | 브실이의 입시전략 | Silver 5 | [Java](./29xxx/29723. 브실이의 입시전략/브실이의 입시전략.java) |
 | [29725](https://boj.kr/29725) | 체스 초보 브실이 | Bronze 4 | [Java](./29xxx/29725. 체스 초보 브실이/체스 초보 브실이.java) |
 | [29729](https://boj.kr/29729) | 가변 배열 | Bronze 3 | [Java](./29xxx/29729. 가변 배열/가변 배열.java) |
-| [29731](https://boj.kr/29731) | 2033년 밈 투표 | Bronze 5 | [Java](./29xxx/29731. 2033년 밈 투표/2033년 밈 투표.java) |
+| [29731](https://boj.kr/29731) | 2033년 밈 투표 | Bronze 4 | [Java](./29xxx/29731. 2033년 밈 투표/2033년 밈 투표.java) |
 | [29732](https://boj.kr/29732) | Rick-Roll Virus | Bronze 1 | [Java](./29xxx/29732. Rick－Roll Virus/Rick－Roll Virus.java) |
 | [29734](https://boj.kr/29734) | 집에선 안돼잉 | Bronze 2 | [Java](./29xxx/29734. 집에선 안돼잉/집에선 안돼잉.java) |
 | [29735](https://boj.kr/29735) | 택배가 안와잉 | Bronze 1 | [C++](./29xxx/29735. 택배가 안와잉/택배가 안와잉.cc) |
