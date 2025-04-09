@@ -4385,9 +4385,11 @@
 | [33612](https://boj.kr/33612) | 피갤컵 | Bronze 5 | [C++](./33xxx/33612. 피갤컵/피갤컵.cc) |
 | [33631](https://boj.kr/33631) | 1교시: 가정 | Bronze 3 | [C++](./33xxx/33631. 1교시： 가정/1교시： 가정.cc) |
 | [33651](https://boj.kr/33651) | Vandalism | Bronze 4 | [C++](./33xxx/33651. Vandalism/Vandalism.cc) |
+| [33652](https://boj.kr/33652) | Testing LEDs | Bronze 3 | [C++](./33xxx/33652. Testing LEDs/Testing LEDs.cc) |
 | [33663](https://boj.kr/33663) | 루미의 진정한™ 보라색 찾기 | Bronze 3 | [C++](./33xxx/33663. 루미의 진정한™ 보라색 찾기/루미의 진정한™ 보라색 찾기.cc) |
 | [33674](https://boj.kr/33674) | 하늘에서 떨어지는 $N$개의 별 | Bronze 2 | [C++](./33xxx/33674. 하늘에서 떨어지는 $N$개의 별/하늘에서 떨어지는 $N$개의 별.cc) |
 | [33689](https://boj.kr/33689) | CPDU | Bronze 4 | [C++](./33xxx/33689. CPDU/CPDU.cc) |
 | [33701](https://boj.kr/33701) | 새천년관 | Bronze 4 | [Text](./33xxx/33701. 새천년관/새천년관.txt) |
+| [33702](https://boj.kr/33702) | 비밀번호 | Bronze 2 | [C++](./33xxx/33702. 비밀번호/비밀번호.cc) |
 | [33753](https://boj.kr/33753) | 주차 요금 정산하기 | Bronze 3 | [C++](./33xxx/33753. 주차 요금 정산하기/주차 요금 정산하기.cc) |
 </div>
