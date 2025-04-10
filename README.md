@@ -4382,6 +4382,7 @@
 | [33538](https://boj.kr/33538) | Crawling | Bronze 3 | [C++](./33xxx/33538. Crawling/Crawling.cc) |
 | [33541](https://boj.kr/33541) | 2025는 무엇이 특별할까? | Bronze 3 | [C++](./33xxx/33541. 2025는 무엇이 특별할까？/2025는 무엇이 특별할까？.cc) |
 | [33571](https://boj.kr/33571) | 구멍 | Bronze 4 | [C++](./33xxx/33571. 구멍/구멍.cc) |
+| [33572](https://boj.kr/33572) | 자세히 보아야 예쁘다 | Bronze 2 | [C++](./33xxx/33572. 자세히 보아야 예쁘다/자세히 보아야 예쁘다.cc) |
 | [33612](https://boj.kr/33612) | 피갤컵 | Bronze 5 | [C++](./33xxx/33612. 피갤컵/피갤컵.cc) |
 | [33631](https://boj.kr/33631) | 1교시: 가정 | Bronze 3 | [C++](./33xxx/33631. 1교시： 가정/1교시： 가정.cc) |
 | [33651](https://boj.kr/33651) | Vandalism | Bronze 4 | [C++](./33xxx/33651. Vandalism/Vandalism.cc) |
