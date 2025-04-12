@@ -1953,6 +1953,7 @@
 | [12352](https://boj.kr/12352) | Hedgemony (Large) | Bronze 3 | [Java](./12xxx/12352. Hedgemony （Large）/Hedgemony （Large）.java) |
 | [12353](https://boj.kr/12353) | Dr. Spaceman의 특별한 알고리즘 | Bronze 2 | [Java](./12xxx/12353. Dr． Spaceman의 특별한 알고리즘/Dr． Spaceman의 특별한 알고리즘.java) |
 | [12400](https://boj.kr/12400) | Speaking in Tongues (Small) | Bronze 1 | [Java](./12xxx/12400. Speaking in Tongues （Small）/Speaking in Tongues （Small）.java) |
+| [12437](https://boj.kr/12437) | 새로운 달력 (Small) | Silver 4 | [C++](./12xxx/12437. 새로운 달력 （Small）/새로운 달력 （Small）.cc) |
 | [12517](https://boj.kr/12517) | Centauri Prime (Small1) | Bronze 2 | [Java](./12xxx/12517. Centauri Prime （Small1）/Centauri Prime （Small1）.java) |
 | [12518](https://boj.kr/12518) | Centauri Prime (Small2) | Bronze 2 | [Java](./12xxx/12518. Centauri Prime （Small2）/Centauri Prime （Small2）.java) |
 | [12523](https://boj.kr/12523) | Twibet (Small) | Silver 2 | [Java](./12xxx/12523. Twibet （Small）/Twibet （Small）.java) |
@@ -3013,7 +3014,7 @@
 | [20544](https://boj.kr/20544) | 공룡게임 | Gold 4 | [C++](./20xxx/20544. 공룡게임/공룡게임.cc) |
 | [20546](https://boj.kr/20546) | 🐜 기적의 매매법 🐜 | Silver 5 | [C++](./20xxx/20546. 🐜 기적의 매매법 🐜/🐜 기적의 매매법 🐜.cc) |
 | [20551](https://boj.kr/20551) | Sort 마스터 배지훈의 후계자 | Silver 4 | [Java](./20xxx/20551. Sort 마스터 배지훈의 후계자/Sort 마스터 배지훈의 후계자.java) |
-| [20571](https://boj.kr/20571) | Elevators | Bronze 2 | [Java](./20xxx/20571. Elevators/Elevators.java) |
+| [20571](https://boj.kr/20571) | Elevators | Bronze 3 | [Java](./20xxx/20571. Elevators/Elevators.java) |
 | [20575](https://boj.kr/20575) | Buffon's Needle | Bronze 1 | [C++](./20xxx/20575. Buffon's Needle/Buffon's Needle.cc) |
 | [20650](https://boj.kr/20650) | Do You Know Your ABCs? | Bronze 1 | [Java](./20xxx/20650. Do You Know Your ABCs？/Do You Know Your ABCs？.java) |
 | [20651](https://boj.kr/20651) | Daisy Chains | Bronze 1 | [C++](./20xxx/20651. Daisy Chains/Daisy Chains.cc) |
