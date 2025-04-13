@@ -3,7 +3,7 @@ using namespace std;
 
 long long pos[1500][2];
 
-bool isRight(int i, int j, int k) {
+inline bool isRight(int i, int j, int k) {
     long long aa = (pos[i][0]-pos[j][0])*(pos[i][0]-pos[j][0]) + (pos[i][1]-pos[j][1])*(pos[i][1]-pos[j][1]);
     long long bb = (pos[i][0]-pos[k][0])*(pos[i][0]-pos[k][0]) + (pos[i][1]-pos[k][1])*(pos[i][1]-pos[k][1]);
     long long cc = (pos[j][0]-pos[k][0])*(pos[j][0]-pos[k][0]) + (pos[j][1]-pos[k][1])*(pos[j][1]-pos[k][1]);
