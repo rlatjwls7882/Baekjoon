@@ -260,6 +260,7 @@
 | [01703](https://boj.kr/1703) | 생장점 | Bronze 3 | [Java](./01xxx/1703. 생장점/생장점.java) |
 | [01706](https://boj.kr/1706) | 크로스워드 | Silver 2 | [C++](./01xxx/1706. 크로스워드/크로스워드.cc) |
 | [01707](https://boj.kr/1707) | 이분 그래프 | Gold 4 | [C++](./01xxx/1707. 이분 그래프/이분 그래프.cc) |
+| [01711](https://boj.kr/1711) | 직각삼각형 | Silver 1 | [C++](./01xxx/1711. 직각삼각형/직각삼각형.cc) |
 | [01712](https://boj.kr/1712) | 손익분기점 | Bronze 2 | [Java](./01xxx/1712. 손익분기점/손익분기점.java) |
 | [01713](https://boj.kr/1713) | 후보 추천하기 | Silver 1 | [C++](./01xxx/1713. 후보 추천하기/후보 추천하기.cc) |
 | [01715](https://boj.kr/1715) | 카드 정렬하기 | Gold 4 | [Java](./01xxx/1715. 카드 정렬하기/카드 정렬하기.java) |
@@ -2640,6 +2641,8 @@
 | [16920](https://boj.kr/16920) | 확장 게임 | Gold 2 | [C++](./16xxx/16920. 확장 게임/확장 게임.cc) |
 | [16922](https://boj.kr/16922) | 로마 숫자 만들기 | Silver 3 | [C++](./16xxx/16922. 로마 숫자 만들기/로마 숫자 만들기.cc) |
 | [16924](https://boj.kr/16924) | 십자가 찾기 | Silver 1 | [C++](./16xxx/16924. 십자가 찾기/십자가 찾기.cc) |
+| [16926](https://boj.kr/16926) | 배열 돌리기 1 | Gold 5 | [C++](./16xxx/16926. 배열 돌리기 1/배열 돌리기 1.cc) |
+| [16927](https://boj.kr/16927) | 배열 돌리기 2 | Gold 5 | [C++](./16xxx/16927. 배열 돌리기 2/배열 돌리기 2.cc) |
 | [16928](https://boj.kr/16928) | 뱀과 사다리 게임 | Gold 5 | [Java](./16xxx/16928. 뱀과 사다리 게임/뱀과 사다리 게임.java) |
 | [16931](https://boj.kr/16931) | 겉넓이 구하기 | Silver 2 | [C++](./16xxx/16931. 겉넓이 구하기/겉넓이 구하기.cc) |
 | [16933](https://boj.kr/16933) | 벽 부수고 이동하기 3 | Gold 1 | [C++](./16xxx/16933. 벽 부수고 이동하기 3/벽 부수고 이동하기 3.cc) |
@@ -2792,6 +2795,7 @@
 | [17826](https://boj.kr/17826) | 나의 학점은? | Bronze 2 | [Java](./17xxx/17826. 나의 학점은？/나의 학점은？.java) |
 | [17827](https://boj.kr/17827) | 달팽이 리스트 | Silver 2 | [C++](./17xxx/17827. 달팽이 리스트/달팽이 리스트.cc) |
 | [17829](https://boj.kr/17829) | 222-풀링 | Silver 3 | [C++](./17xxx/17829. 222－풀링/222－풀링.cc) |
+| [17836](https://boj.kr/17836) | 공주님을 구해라! | Gold 5 | [C++](./17xxx/17836. 공주님을 구해라！/공주님을 구해라！.cc) |
 | [17838](https://boj.kr/17838) | 커맨드 | Bronze 2 | [Java](./17xxx/17838. 커맨드/커맨드.java) |
 | [17841](https://boj.kr/17841) | UNIST는 무엇의 약자일까? | Gold 3 | [C++](./17xxx/17841. UNIST는 무엇의 약자일까？/UNIST는 무엇의 약자일까？.cc) |
 | [17843](https://boj.kr/17843) | 시계 | Silver 5 | [C++](./17xxx/17843. 시계/시계.cc) |
@@ -2878,6 +2882,7 @@
 | [18414](https://boj.kr/18414) | X に最も近い値 (The Nearest Value) | Bronze 4 | [Java](./18xxx/18414. X に最も近い値 （The Nearest Value）/X に最も近い値 （The Nearest Value）.java) |
 | [18415](https://boj.kr/18415) | キャピタリゼーション (Capitalization) | Bronze 2 | [Java](./18xxx/18415. キャピタリゼーション （Capitalization）/キャピタリゼーション （Capitalization）.java) |
 | [18416](https://boj.kr/18416) | 最長昇順連続部分列 (Longest Ascending Contiguous Subsequence) | Bronze 2 | [Java](./18xxx/18416. 最長昇順連続部分列 （Longest Ascending Contiguous Subsequence）/最長昇順連続部分列 （Longest Ascending Contiguous Subsequence）.java) |
+| [18428](https://boj.kr/18428) | 감시 피하기 | Gold 5 | [C++](./18xxx/18428. 감시 피하기/감시 피하기.cc) |
 | [18429](https://boj.kr/18429) | 근손실 | Silver 3 | [C++](./18xxx/18429. 근손실/근손실.cc) |
 | [18436](https://boj.kr/18436) | 수열과 쿼리 37 | Gold 1 | [C++](./18xxx/18436. 수열과 쿼리 37/수열과 쿼리 37.cc) |
 | [18511](https://boj.kr/18511) | 큰 수 구성하기 | Silver 5 | [Java](./18xxx/18511. 큰 수 구성하기/큰 수 구성하기.java) |
@@ -4147,7 +4152,7 @@
 | [31403](https://boj.kr/31403) | $A + B - C$ | Bronze 4 | [Java](./31xxx/31403. $A ＋ B － C$/$A ＋ B － C$.java) |
 | [31406](https://boj.kr/31406) | 트리 탐색기 (Easy) | Gold 2 | [C++](./31xxx/31406. 트리 탐색기 （Easy）/트리 탐색기 （Easy）.cc) |
 | [31408](https://boj.kr/31408) | 당직 근무표 | Bronze 1 | [Java](./31xxx/31408. 당직 근무표/당직 근무표.java) |
-| [31416](https://boj.kr/31416) | 가상 검증 기술 | Bronze 1 | [Java](./31xxx/31416. 가상 검증 기술/가상 검증 기술.java) |
+| [31416](https://boj.kr/31416) | 가상 검증 기술 | Silver 5 | [Java](./31xxx/31416. 가상 검증 기술/가상 검증 기술.java) |
 | [31418](https://boj.kr/31418) | 스펀지 | Silver 4 | [Java](./31xxx/31418. 스펀지/스펀지.java) |
 | [31428](https://boj.kr/31428) | 엘리스 트랙 매칭 | Bronze 4 | [Java](./31xxx/31428. 엘리스 트랙 매칭/엘리스 트랙 매칭.java) |
 | [31429](https://boj.kr/31429) | SUAPC 2023 Summer | Bronze 5 | [Java](./31xxx/31429. SUAPC 2023 Summer/SUAPC 2023 Summer.java) |
@@ -4394,5 +4399,7 @@
 | [33689](https://boj.kr/33689) | CPDU | Bronze 4 | [C++](./33xxx/33689. CPDU/CPDU.cc) |
 | [33701](https://boj.kr/33701) | 새천년관 | Bronze 4 | [Text](./33xxx/33701. 새천년관/새천년관.txt) |
 | [33702](https://boj.kr/33702) | 비밀번호 | Bronze 2 | [C++](./33xxx/33702. 비밀번호/비밀번호.cc) |
+| [33703](https://boj.kr/33703) | 건덕이의 돌탑 | Silver 5 | [C++](./33xxx/33703. 건덕이의 돌탑/건덕이의 돌탑.cc) |
+| [33704](https://boj.kr/33704) | 안정적인 구간 | Silver 2 | [C++](./33xxx/33704. 안정적인 구간/안정적인 구간.cc) |
 | [33753](https://boj.kr/33753) | 주차 요금 정산하기 | Bronze 3 | [C++](./33xxx/33753. 주차 요금 정산하기/주차 요금 정산하기.cc) |
 </div>
