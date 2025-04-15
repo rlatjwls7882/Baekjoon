@@ -3589,7 +3589,7 @@
 | [26146](https://boj.kr/26146) | 즉흥 여행 (Easy) | Platinum 5 | [C++](./26xxx/26146. 즉흥 여행 （Easy）/즉흥 여행 （Easy）.cc) |
 | [26150](https://boj.kr/26150) | Identify, Sort, Index, Solve | Silver 5 | [C++](./26xxx/26150. Identify， Sort， Index， Solve/Identify， Sort， Index， Solve.cc) |
 | [26153](https://boj.kr/26153) | 로하의 농사 | Gold 4 | [C++](./26xxx/26153. 로하의 농사/로하의 농사.cc) |
-| [26155](https://boj.kr/26155) | 배수관 미스터리 | Gold 1 | [C++](./26xxx/26155. 배수관 미스터리/배수관 미스터리.cc) |
+| [26155](https://boj.kr/26155) | 배수관 미스터리 | Platinum 5 | [C++](./26xxx/26155. 배수관 미스터리/배수관 미스터리.cc) |
 | [26168](https://boj.kr/26168) | 배열 전체 탐색하기 | Silver 4 | [C++](./26xxx/26168. 배열 전체 탐색하기/배열 전체 탐색하기.cc) |
 | [26169](https://boj.kr/26169) | 세 번 이내에 사과를 먹자 | Silver 3 | [C++](./26xxx/26169. 세 번 이내에 사과를 먹자/세 번 이내에 사과를 먹자.cc) |
 | [26171](https://boj.kr/26171) | An Interactive Problem | Bronze 1 | [C++](./26xxx/26171. An Interactive Problem/An Interactive Problem.cc) |
@@ -4174,7 +4174,7 @@
 | [31561](https://boj.kr/31561) | 시계탑 | Bronze 3 | [Python](./31xxx/31561. 시계탑/시계탑.py) |
 | [31562](https://boj.kr/31562) | 전주 듣고 노래 맞히기 | Bronze 1 | [Java](./31xxx/31562. 전주 듣고 노래 맞히기/전주 듣고 노래 맞히기.java) |
 | [31565](https://boj.kr/31565) | 전역 역전 | Gold 4 | [C++](./31xxx/31565. 전역 역전/전역 역전.cc) |
-| [31602](https://boj.kr/31602) | There and Back Again | Platinum 5 | [C++](./31xxx/31602. There and Back Again/There and Back Again.cc) |
+| [31602](https://boj.kr/31602) | There and Back Again | Platinum 4 | [C++](./31xxx/31602. There and Back Again/There and Back Again.cc) |
 | [31606](https://boj.kr/31606) | 果物 (Fruit) | Bronze 5 | [Python](./31xxx/31606. 果物 （Fruit）/果物 （Fruit）.py) |
 | [31607](https://boj.kr/31607) | 和の判定 (Sum Checker) | Bronze 4 | [Python](./31xxx/31607. 和の判定 （Sum Checker）/和の判定 （Sum Checker）.py) |
 | [31608](https://boj.kr/31608) | ハミング距離 (Hamming Distance) | Bronze 4 | [Python](./31xxx/31608. ハミング距離 （Hamming Distance）/ハミング距離 （Hamming Distance）.py) |
@@ -4401,5 +4401,9 @@
 | [33702](https://boj.kr/33702) | 비밀번호 | Bronze 2 | [C++](./33xxx/33702. 비밀번호/비밀번호.cc) |
 | [33703](https://boj.kr/33703) | 건덕이의 돌탑 | Silver 5 | [C++](./33xxx/33703. 건덕이의 돌탑/건덕이의 돌탑.cc) |
 | [33704](https://boj.kr/33704) | 안정적인 구간 | Silver 2 | [C++](./33xxx/33704. 안정적인 구간/안정적인 구간.cc) |
+| [33705](https://boj.kr/33705) | 마스코트 정하기 | Gold 5 | [C++](./33xxx/33705. 마스코트 정하기/마스코트 정하기.cc) |
+| [33706](https://boj.kr/33706) | 오름차순 최단 경로 | Gold 4 | [C++](./33xxx/33706. 오름차순 최단 경로/오름차순 최단 경로.cc) |
+| [33707](https://boj.kr/33707) | 젓가락으로 메추리알 집기 | Gold 4 | [C++](./33xxx/33707. 젓가락으로 메추리알 집기/젓가락으로 메추리알 집기.cc) |
+| [33708](https://boj.kr/33708) | 인수분해 정렬 | Gold 3 | [C++](./33xxx/33708. 인수분해 정렬/인수분해 정렬.cc) |
 | [33753](https://boj.kr/33753) | 주차 요금 정산하기 | Bronze 3 | [C++](./33xxx/33753. 주차 요금 정산하기/주차 요금 정산하기.cc) |
 </div>
