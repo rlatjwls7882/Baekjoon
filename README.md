@@ -4406,4 +4406,5 @@
 | [33707](https://boj.kr/33707) | 젓가락으로 메추리알 집기 | Gold 4 | [C++](./33xxx/33707. 젓가락으로 메추리알 집기/젓가락으로 메추리알 집기.cc) |
 | [33708](https://boj.kr/33708) | 인수분해 정렬 | Gold 3 | [C++](./33xxx/33708. 인수분해 정렬/인수분해 정렬.cc) |
 | [33753](https://boj.kr/33753) | 주차 요금 정산하기 | Bronze 3 | [C++](./33xxx/33753. 주차 요금 정산하기/주차 요금 정산하기.cc) |
+| [33779](https://boj.kr/33779) | Back and Forth | Bronze 3 | [C++](./33xxx/33779. Back and Forth/Back and Forth.cc) |
 </div>
