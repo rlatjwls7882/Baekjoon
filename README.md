@@ -1764,6 +1764,7 @@
 | [11098](https://boj.kr/11098) | 첼시를 도와줘! | Bronze 2 | [Java](./11xxx/11098. 첼시를 도와줘！/첼시를 도와줘！.java) |
 | [11104](https://boj.kr/11104) | Fridge of Your Dreams | Bronze 2 | [Java](./11xxx/11104. Fridge of Your Dreams/Fridge of Your Dreams.java) |
 | [11109](https://boj.kr/11109) | 괴짜 교수 | Bronze 3 | [Java](./11xxx/11109. 괴짜 교수/괴짜 교수.java) |
+| [11111](https://boj.kr/11111) | 두부장수 장홍준 2 | Platinum 2 | [C++](./11xxx/11111. 두부장수 장홍준 2/두부장수 장홍준 2.cc) |
 | [11113](https://boj.kr/11113) | The Traveling Orienteerer | Bronze 2 | [Java](./11xxx/11113. The Traveling Orienteerer/The Traveling Orienteerer.java) |
 | [11116](https://boj.kr/11116) | 교통량 | Silver 5 | [C++](./11xxx/11116. 교통량/교통량.cc) |
 | [11117](https://boj.kr/11117) | Letter Cookies | Bronze 2 | [Java](./11xxx/11117. Letter Cookies/Letter Cookies.java) |
@@ -2292,6 +2293,7 @@
 | [14730](https://boj.kr/14730) | 謎紛芥索紀 (Small) | Silver 5 | [Java](./14xxx/14730. 謎紛芥索紀 （Small）/謎紛芥索紀 （Small）.java) |
 | [14732](https://boj.kr/14732) | 행사장 대여 (Small) | Silver 5 | [C++](./14xxx/14732. 행사장 대여 （Small）/행사장 대여 （Small）.cc) |
 | [14736](https://boj.kr/14736) | Coke Challenge | Silver 5 | [Java](./14xxx/14736. Coke Challenge/Coke Challenge.java) |
+| [14750](https://boj.kr/14750) | Jerry and Tom | Platinum 2 | [C++](./14xxx/14750. Jerry and Tom/Jerry and Tom.cc) |
 | [14758](https://boj.kr/14758) | Paint Me | Bronze 2 | [Java](./14xxx/14758. Paint Me/Paint Me.java) |
 | [14761](https://boj.kr/14761) | FizzBuzz | Bronze 3 | [Java](./14xxx/14761. FizzBuzz/FizzBuzz.java) |
 | [14771](https://boj.kr/14771) | Advertising Revenue | Bronze 2 | [Java](./14xxx/14771. Advertising Revenue/Advertising Revenue.java) |
@@ -4394,6 +4396,7 @@
 | [33631](https://boj.kr/33631) | 1교시: 가정 | Bronze 3 | [C++](./33xxx/33631. 1교시： 가정/1교시： 가정.cc) |
 | [33651](https://boj.kr/33651) | Vandalism | Bronze 4 | [C++](./33xxx/33651. Vandalism/Vandalism.cc) |
 | [33652](https://boj.kr/33652) | Testing LEDs | Bronze 3 | [C++](./33xxx/33652. Testing LEDs/Testing LEDs.cc) |
+| [33654](https://boj.kr/33654) | Sort of Sort | Bronze 2 | [C++](./33xxx/33654. Sort of Sort/Sort of Sort.cc) |
 | [33663](https://boj.kr/33663) | 루미의 진정한™ 보라색 찾기 | Bronze 3 | [C++](./33xxx/33663. 루미의 진정한™ 보라색 찾기/루미의 진정한™ 보라색 찾기.cc) |
 | [33674](https://boj.kr/33674) | 하늘에서 떨어지는 $N$개의 별 | Bronze 2 | [C++](./33xxx/33674. 하늘에서 떨어지는 $N$개의 별/하늘에서 떨어지는 $N$개의 별.cc) |
 | [33689](https://boj.kr/33689) | CPDU | Bronze 4 | [C++](./33xxx/33689. CPDU/CPDU.cc) |
