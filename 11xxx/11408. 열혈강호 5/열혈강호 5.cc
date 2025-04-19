@@ -1,10 +1,27 @@
+/** https://www.acmicpc.net/problem/11408 제출 코드 */
 #include<bits/stdc++.h>
 using namespace std;
 
+/**
+ * MAX : 최대 정점 개수
+ * INF : INT_MAX
+ * S : source
+ * E : sink
+ */
 const int MAX = 802;
 const int INF = 0x3f3f3f3f;
 const int S=MAX-2, E=MAX-1;
 
+/**
+ * c[u][v] : u에서 v로의 최대 용량(capacity)
+ * f[u][v] : u에서 v로 흐르는 유량(flow)
+ * cost[u][v] : u에서 v로 가는데 드는 비
+ * prv[i] : i에 도달하기 위해 방문한 이전 정점용
+ * curCost[i] : i에 도달하기 위해 드는 최소 비용
+ * inQueue[i] : i가 큐에 들어있는지 (메모리, 시간 최적화)
+ * conn[u][v] : 순방향 간선
+ * conn[v][u] : 역방향 간선
+ */
 int c[MAX][MAX], f[MAX][MAX], cost[MAX][MAX], prv[MAX], curCost[MAX];
 bool inQueue[MAX];
 vector<vector<int>> conn(MAX);
@@ -60,8 +77,8 @@ int main() {
         for(int i=E;i!=S;i=prv[i]) {
             f[prv[i]][i]++;
             f[i][prv[i]]--;
-            totalCost += cost[prv[i]][i];
         }
+        totalCost += curCost[E];
         flow++;
     }
     cout << flow << '\n' << totalCost;
