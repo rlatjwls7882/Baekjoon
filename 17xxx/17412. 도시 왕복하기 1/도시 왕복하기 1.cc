@@ -1,48 +1,49 @@
-#include <bits/stdc++.h>
+#include<bits/stdc++.h>
+#define INF 100000
+#define MAX 401
+
 using namespace std;
 
-const int INF = 0x3f3f3f3f;
-const int MAX = 400;
+int main(void) {
+    ios::sync_with_stdio(0); cin.tie(0); cout.tie(0);
+    int c[MAX][MAX] = {0, };
+    int f[MAX][MAX] = {0, };
+    vector<vector<int>> connect = vector<vector<int>>(MAX);
 
-int c[MAX][MAX], f[MAX][MAX], prv[MAX];
-vector<set<int>> conn(MAX);
-
-int main() {
-    ios::sync_with_stdio(0); cin.tie(0);
     int N, P; cin >> N >> P;
-    while(P--) {
-        int u, v; cin >> u >> v;
-        c[u-1][v-1]++;
-        conn[u-1].insert(v-1);
-        conn[v-1].insert(u-1);
+    while(P-->0) {
+        int s, e; cin >> s >> e;
+        c[s][e]+=1;
+        connect[s].push_back(e);
+        connect[e].push_back(s);
     }
 
-    int flow=0;
+    int total=0, S=1, E=2;
     while(true) {
-        memset(prv, -1, sizeof prv);
-        queue<int> q; q.push(0);
-
-        while(!q.empty() && prv[1]==-1) {
+        queue<int> q; q.push(S);
+        int prev[MAX]; fill(prev, prev+MAX, -1);
+        while(!q.empty() && prev[E]==-1) {
             int cur = q.front(); q.pop();
-            for(int next:conn[cur]) {
-                if(c[cur][next]-f[cur][next]>0 && prv[next]==-1) {
-                    prv[next] = cur;
+            for(int next:connect[cur]) {
+                if(c[cur][next]-f[cur][next]>0 && prev[next]==-1) {
+                    prev[next]=cur;
                     q.push(next);
-                    if(next==1) break;
+                    if(next==E) break;
                 }
             }
         }
-        if(prv[1]==-1) break;
+        if(prev[E]==-1) break;
 
-        int F=INF;
-        for(int i=1;i!=0;i=prv[i]) {
-            F = min(F, c[prv[i]][i]-f[prv[i]][i]);
+        int flow=INF;
+        for(int i=E;i!=S;i=prev[i]) {
+            flow = min(flow, c[prev[i]][i]-f[prev[i]][i]);
         }
-        for(int i=1;i!=0;i=prv[i]) {
-            f[prv[i]][i] += F;
-            f[i][prv[i]] -= F;
+
+        for(int i=E;i!=S;i=prev[i]) {
+            f[prev[i]][i]+=flow;
+            f[i][prev[i]]-=flow;
         }
-        flow += F;
+        total+=flow;
     }
-    cout << flow;
+    cout << total;
 }
