@@ -1,3 +1,4 @@
+/** https://www.acmicpc.net/problem/13161 제출 코드 */
 #include<bits/stdc++.h>
 using namespace std;
 
@@ -16,7 +17,7 @@ bool bfs() {
         int cur = q.front(); q.pop();
         for(int next:conn[cur]) {
             if(level[next]==-1 && c[cur][next]-f[cur][next]>0) {
-                level[next]=level[cur]+1;
+                level[next] = level[cur]+1;
                 q.push(next);
             }
         }
@@ -26,7 +27,6 @@ bool bfs() {
 
 int dfs(int cur, int curFlow) {
     if(cur==E) return curFlow;
-
     for(int &i=work[cur];i<conn[cur].size();i++) {
         int next = conn[cur][i];
         if(level[next]==level[cur]+1 && c[cur][next]-f[cur][next]>0) {
@@ -69,7 +69,7 @@ int main() {
         memset(work, 0, sizeof work);
         while(true) {
             int flow = dfs(S, INF);
-            if(!flow) break;
+            if(flow==0) break;
             totalFlow += flow;
         }
     }
@@ -77,16 +77,11 @@ int main() {
     bfs();
     vector<int> A, B;
     for(int i=0;i<n;i++) {
-        if(level[i]==-1) {
-            B.push_back(i+1);
-        } else {
-            A.push_back(i+1);
-        }
+        if(level[i]==-1) B.push_back(i+1);
+        else A.push_back(i+1);
     }
 
     cout << totalFlow << '\n';
-    for(int e:A) cout << e << ' ';
-    cout << '\n';
-    for(int e:B) cout << e << ' ';
-    cout << '\n';
+    for(int e:A) cout << e << ' '; cout << '\n';
+    for(int e:B) cout << e << ' '; cout << '\n';
 }
