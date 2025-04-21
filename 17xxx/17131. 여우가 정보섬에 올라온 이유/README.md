@@ -1,4 +1,4 @@
-# [Platinum IV] 여우가 정보섬에 올라온 이유
+# [Platinum III] 여우가 정보섬에 올라온 이유
 
 [문제 링크](https://www.acmicpc.net/problem/17131) 
 
