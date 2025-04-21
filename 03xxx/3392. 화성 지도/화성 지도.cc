@@ -8,16 +8,6 @@ struct vertical_line {
     int x, y1, y2, val;
 };
 
-void updateLazy(int nodeNum, int nodeL, int nodeR) {
-    if(cnt[nodeNum]) {
-        if(nodeL!=nodeR) {
-            cnt[nodeNum*2] += cnt[nodeNum];
-            cnt[nodeNum*2+1] += cnt[nodeNum];
-        }
-        cnt[nodeNum]=0;
-    }
-}
-
 void updateRange(int L, int R, int nodeNum, int nodeL, int nodeR, int val) {
     if(R<nodeL || nodeR<L) return;
     if(L<=nodeL && nodeR<=R) {
