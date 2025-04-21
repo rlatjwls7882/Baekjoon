@@ -1,58 +1,47 @@
 #include<bits/stdc++.h>
-
 using namespace std;
 
-int V, E;
-int idx=1;
-int parent[10001] = {0, };
-bool visited[10001] = {false, };
-vector<vector<int>> connected;
-vector<vector<int>> SCCs;
+const int MAX = 10001;
+
+bool visited[MAX];
+int idx, parent[MAX];
+vector<vector<int>> conn(MAX), SCCs;
 stack<int> stk;
 
 int dfs(int cur) {
     stk.push(cur);
-    int remember = idx;
-    parent[cur]=idx++;
+    int rem = parent[cur] = ++idx;
 
-    for(int next:connected[cur]) {
-        if(parent[next]==0) {
-            remember = min(remember, dfs(next));
-        } else if(!visited[next]) {
-            remember = min(remember, parent[next]);
-        }
+    for(int next:conn[cur]) {
+        if(!parent[next]) rem = min(rem, dfs(next));
+        else if(!visited[next]) rem = min(rem, parent[next]);
     }
 
-    if(remember==parent[cur]) {
+    if(rem==parent[cur]) {
         SCCs.push_back(vector<int>());
         while(true) {
             int top = stk.top(); stk.pop();
             SCCs.back().push_back(top);
-            parent[top]=remember;
-            visited[top]=true;
-            if(top==cur) {
-                break;
-            }
+            visited[top] = true;
+            parent[top] = rem;
+            if(top==cur) break;
         }
     }
-    return remember;
+    return rem;
 }
 
-int main(void) {
-    ios::sync_with_stdio(false); cin.tie(0); cout.tie(0);
-    cin >> V >> E;
-    connected = vector<vector<int>>(V+1);
+int main() {
+    ios::sync_with_stdio(0); cin.tie(0);
+    int v, e; cin >> v >> e;
 
-    while(E-->0) {
-        int S, E; cin >> S >> E;
-        connected[S].push_back(E);
+    while(e--) {
+        int a, b; cin >> a >> b;
+        conn[a].push_back(b);
     }
 
     // dfs
-    for(int i=1;i<=V;i++) {
-        if(!visited[i]) {
-            dfs(i);
-        }
+    for(int i=1;i<=v;i++) {
+        if(!visited[i]) dfs(i);
     }
 
     // sort
@@ -63,9 +52,9 @@ int main(void) {
 
     // print
     cout << SCCs.size() << endl;
-    for(int i=0;i<SCCs.size();i++) {
-        for(int val:SCCs[i]) {
-            cout << val << " ";
+    for(auto SCC:SCCs) {
+        for(int val:SCC) {
+            cout << val << ' ';
         }
         cout << "-1\n";
     }
