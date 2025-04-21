@@ -1,54 +1,51 @@
 #include<bits/stdc++.h>
 using namespace std;
 
-struct Trie {
-    Trie* go[26] = {0, };
+struct trie {
+    trie* go[26] = {0, };
     int branch=0, wordCnt=0;
 
-    ~Trie() {
+    ~trie() {
         for(int i=0;i<26;i++) {
             if(go[i]) delete go[i];
         }
     }
 
-    void insert(const char* cur) {
-        if(*cur==0) {
+    void insert(char* ch) {
+        if(*ch==NULL) {
             branch++;
             return;
         }
-        if(!go[*cur-'a']) {
-            go[*cur-'a'] = new Trie;
+        if(!go[*ch-'a']) {
+            go[*ch-'a'] = new trie;
             branch++;
         }
         wordCnt++;
-        go[*cur-'a']->insert(cur+1);
+        go[*ch-'a']->insert(ch+1);
     }
 
-    long long calcCnt(int depth) {
-        long long ret=0;
-        if(!depth || branch>=2) ret += wordCnt;
+    long long getCnt(int depth) {
+        long long res=0;
+        if(depth==0 || branch>=2) res += wordCnt;
         for(int i=0;i<26;i++) {
-            if(go[i]) ret += go[i]->calcCnt(depth+1); 
+            if(go[i]) res += go[i]->getCnt(depth+1);
         }
-        return ret;
+        return res;
     }
 };
 
 int main() {
-    ios::sync_with_stdio(0); cin.tie(0); cout.tie(0);
-    cout.precision(2);
-    cout << fixed;
-
+    ios::sync_with_stdio(0); cin.tie(0);
     while(true) {
-        int N; cin >> N;
+        int n; cin >> n;
         if(cin.fail()) break;
 
-        Trie *trie = new Trie;
-        for(int i=0;i<N;i++) {
-            char s[81]; cin >> s;
-            trie->insert(s);
+        trie* root = new trie;
+        for(int i=0;i<n;i++) {
+            string s; cin >> s;
+            root->insert(&s[0]);
         }
-        cout << trie->calcCnt(0)/(double)N << '\n';
-        delete trie;
+        cout << setprecision(2) << fixed << root->getCnt(0) / (double)n << '\n';
+        delete root;
     }
 }
