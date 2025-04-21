@@ -1,43 +1,46 @@
+/** https://www.acmicpc.net/problem/9250 제출 코드 */
 #include<bits/stdc++.h>
 using namespace std;
 
-struct Trie {
-    Trie* go[26] = {0, };
+struct trie {
+    trie* go[26] = {0, };
     bool finish=false;
-    Trie* fail;
-    
-    void insert(const char* s) {
-        if(*s==0) {
+    trie* fail;
+
+    void insert(char* ch) {
+        if(*ch==NULL) {
             finish=true;
             return;
         }
-        if(!go[*s-'a']) go[*s-'a'] = new Trie;
-        go[*s-'a']->insert(s+1);
+
+        if(!go[*ch-'a']) go[*ch-'a'] = new trie;
+        go[*ch-'a']->insert(ch+1);
     }
 };
 
 int main() {
-    ios::sync_with_stdio(0); cin.tie(0); cout.tie(0);
-    int N; cin >> N;
-    Trie* trie = new Trie;
-    while(N-->0) {
-        char s[101]; cin >> s;
-        trie->insert(s);
+    ios::sync_with_stdio(0); cin.tie(0);
+    int n; cin >> n;
+    trie* root = new trie;
+
+    while(n--) {
+        string s; cin >> s;
+        root->insert(&s[0]);
     }
-    
-    queue<Trie*> q; q.push(trie);
-    trie->fail = trie;
+
+    queue<trie*> q; q.push(root);
+    root->fail = root;
     while(!q.empty()) {
-        Trie* cur = q.front(); q.pop();
+        trie* cur = q.front(); q.pop();
         for(int i=0;i<26;i++) {
             if(!cur->go[i]) continue;
-            Trie* next = cur->go[i];
-            
-            if(cur==trie) {
-                next->fail = trie;
+            trie* next = cur->go[i];
+
+            if(cur==root) {
+                next->fail = root;
             } else {
-                Trie* dest = cur->fail;
-                while(dest!=trie && !(dest->go[i])) dest = dest->fail;
+                trie* dest = cur->fail;
+                while(dest!=root && !dest->go[i]) dest = dest->fail;
                 if(dest->go[i]) dest = dest->go[i];
                 next->fail = dest;
             }
@@ -45,13 +48,13 @@ int main() {
             q.push(next);
         }
     }
-    
-    int M; cin >> M;
-    while(M-->0) {
+
+    int Q; cin >> Q;
+    while(Q--) {
         string s; cin >> s;
-        Trie* cur = trie;
+        trie* cur = root;
         for(int i=0;i<s.length();i++) {
-            while(cur!=trie && !cur->go[s[i]-'a']) cur = cur->fail;
+            while(cur!=root && !cur->go[s[i]-'a']) cur = cur->fail;
             if(cur->go[s[i]-'a']) cur = cur->go[s[i]-'a'];
             if(cur->finish) break;
         }
