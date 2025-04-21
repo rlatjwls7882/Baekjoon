@@ -1,140 +1,122 @@
+/** https://www.acmicpc.net/problem/13510 제출 코드 */
 #include<bits/stdc++.h>
 using namespace std;
 
+typedef long long ll;
 const int MAX = 100000;
 
-struct Node {
-    int v, w, i;
+struct edge {
+    int u, v, c;
 };
 
-int _size=1;
-int arr[MAX*4];
 int subTreeCnt[MAX];
-int nodeCnt, groupCnt;
-int nodeNum[MAX], groupNum[MAX], depth[MAX], chainHead[MAX], chainTail[MAX], parent[MAX], edgeNum[MAX];
-vector<vector<Node>> conn(MAX);
-vector<vector<int>> child(MAX);
+int _size, arr[MAX*3];
+vector<edge> edges(MAX);
+int edgeNum[MAX];
+vector<vector<int>> conn(MAX), child(MAX);
+int nodeCnt, nodeNum[MAX], groupCnt, groupNum[MAX], head[MAX], parent[MAX], depth[MAX];
 
 void dfs1(int cur) {
     subTreeCnt[cur]=1;
-    for(auto &next:conn[cur]) {
-        if(subTreeCnt[next.v]==0) {
-            dfs1(next.v);
-            subTreeCnt[cur] += subTreeCnt[next.v];
-            child[cur].push_back(next.v);
-            if(subTreeCnt[next.v]>subTreeCnt[conn[cur][0].v]) swap(next, conn[cur][0]);
+    for(int next:conn[cur]) {
+        if(!subTreeCnt[next]) {
+            dfs1(next);
+            subTreeCnt[cur] += subTreeCnt[next];
+            child[cur].push_back(next);
+            if(subTreeCnt[child[cur].front()] > subTreeCnt[child[cur].back()]) swap(child[cur].front(), child[cur].back());
         }
     }
 }
 
-void dfs2(int cur, int prev, int curDepth) {
-    // 라벨링
+void dfs2(int cur, int curDepth) {
     int u = nodeNum[cur] = nodeCnt++;
-    groupNum[u] = groupCnt;
     depth[u] = curDepth;
 
-    // 체인의 가장 위쪽값, 가장 아랫쪽 값 설정
-    if(chainHead[groupCnt]==-1) chainHead[groupCnt]=u;
-    chainTail[groupCnt]=u;
+    groupNum[u] = groupCnt;
+    if(head[groupCnt]==-1) head[groupCnt]=u;
 
-    // 이번 그룹 종료
     if(child[cur].empty()) {
         groupCnt++;
         return;
     }
-
-    // 그룹 이어붙이기
     for(int next:child[cur]) {
-        dfs2(next, cur, curDepth+1);
-        parent[nodeNum[next]]=u;
+        dfs2(next, curDepth+1);
+        parent[nodeNum[next]] = u;
     }
 }
 
-void construct() {
+void construct(int n) {
+    _size=1;
+    while(_size<n) _size<<=1;
+    _size<<=1;
+
+    for(int i=0;i<n-1;i++) {
+        int u = nodeNum[edges[i].u];
+        int v = nodeNum[edges[i].v];
+        if(depth[u]>depth[v]) edgeNum[i] = u;
+        else edgeNum[i] = v;
+        arr[edgeNum[i]+_size/2] = edges[i].c;
+    }
     for(int i=_size/2-1;i>0;i--) arr[i] = max(arr[i*2], arr[i*2+1]);
 }
 
-void update(int i, int val) {
+void update(int i, int c) {
     i = edgeNum[i]+_size/2;
-    arr[i]=val;
+    arr[i] = c;
     while(i>1) {
-        i/=2;
+        i>>=1;
         arr[i] = max(arr[i*2], arr[i*2+1]);
     }
 }
 
-int segFind(int L, int R, int nodeNum=1, int nodeL=0, int nodeR=_size/2-1) {
+int search(int L, int R, int nodeNum=1, int nodeL=0, int nodeR=_size/2-1) {
     if(R<nodeL || nodeR<L) return 0;
     if(L<=nodeL && nodeR<=R) return arr[nodeNum];
     int mid = (nodeL+nodeR)/2;
-    return max(segFind(L, R, nodeNum*2, nodeL, mid), segFind(L, R, nodeNum*2+1, mid+1, nodeR));
+    return max(search(L, R, nodeNum*2, nodeL, mid), search(L, R, nodeNum*2+1, mid+1, nodeR));
 }
 
-int findMax(int u, int v) {
-    int ret=0;
+int query(int u, int v) {
+    int res=0;
     u = nodeNum[u];
     v = nodeNum[v];
-    if(groupNum[u]!=groupNum[v]) {
-        while(true) {
-            int uHead = chainHead[groupNum[u]], vHead = chainHead[groupNum[v]];
-            if(depth[uHead] > depth[vHead]) {
-                ret = max(ret, segFind(uHead, u));
-                u = parent[uHead];
-            } else {
-                ret = max(ret, segFind(vHead, v));
-                v = parent[vHead];
-            }
-            if(groupNum[u] == groupNum[v]) break;
+    while(groupNum[u]!=groupNum[v]) {
+        int uHead = head[groupNum[u]], vHead = head[groupNum[v]];
+        if(depth[uHead]>depth[vHead]) {
+            res = max(res, search(uHead, u));
+            u = parent[uHead];
+        } else {
+            res = max(res, search(vHead, v));
+            v = parent[vHead];
         }
     }
-    return max(ret, segFind(min(u, v)+1, max(u, v)));
+    return max(res, search(min(u, v)+1, max(u, v)));
 }
 
-int main(void) {
-    ios::sync_with_stdio(0); cin.tie(0); cout.tie(0);
+int main() {
+    ios::sync_with_stdio(0); cin.tie(0);
     int n; cin >> n;
-
-    // 간선 연결
     for(int i=0;i<n-1;i++) {
-        int u, v, w; cin >> u >> v >> w;
-        conn[u-1].push_back({v-1, w, i});
-        conn[v-1].push_back({u-1, w, i});
+        cin >> edges[i].u >> edges[i].v >> edges[i].c;
+        edges[i].u--;
+        edges[i].v--;
+        conn[edges[i].u].push_back(edges[i].v);
+        conn[edges[i].v].push_back(edges[i].u);
     }
 
-    // 각 정점마다의 서브트리의 수 계산
     dfs1(0);
+    memset(head, -1, sizeof head);
+    dfs2(0, 0);
 
-    // 그룹 분할
-    fill(chainHead, chainHead+MAX, -1);
-    fill(chainTail, chainTail+MAX, -1);
-    parent[0]=-1;
-    dfs2(0, -1, 0);
+    construct(n);
 
-    // 세그먼트 트리 생성
-    while(_size<n) _size<<=1;
-    _size<<=1;
-    for(int cur=0;cur<n;cur++) {
-        int u = nodeNum[cur];
-        for(auto next:conn[cur]) {
-            int v = nodeNum[next.v];
-            if(depth[u] < depth[v]) {
-                edgeNum[next.i] = v;
-                arr[_size/2+v]=next.w;
-            }
-        }
-    }
-    construct();
-
-    // 쿼리
     int m; cin >> m;
-    while(m-->0) {
-        int x; cin >> x;
-        if(x==1) {
-            int i, c; cin >> i >> c;
-            update(i-1, c);
+    while(m--) {
+        int a, b, c; cin >> a >> b >> c;
+        if(a==1) {
+            update(b-1, c);
         } else {
-            int u, v; cin >> u >> v;
-            cout << findMax(u-1, v-1) << '\n';
+            cout << query(b-1, c-1) << '\n';
         }
     }
 }
