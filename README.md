@@ -687,7 +687,7 @@
 | [02885](https://boj.kr/2885) | 초콜릿 식사 | Silver 2 | [C++](./02xxx/2885. 초콜릿 식사/초콜릿 식사.cc) |
 | [02887](https://boj.kr/2887) | 행성 터널 | Platinum 5 | [Java](./02xxx/2887. 행성 터널/행성 터널.java) |
 | [02890](https://boj.kr/2890) | 카약 | Silver 5 | [Java](./02xxx/2890. 카약/카약.java) |
-| [02891](https://boj.kr/2891) | 카약과 강풍 | Silver 5 | [Java](./02xxx/2891. 카약과 강풍/카약과 강풍.java) |
+| [02891](https://boj.kr/2891) | 카약과 강풍 | Silver 4 | [Java](./02xxx/2891. 카약과 강풍/카약과 강풍.java) |
 | [02896](https://boj.kr/2896) | 무알콜 칵테일 | Bronze 1 | [Java](./02xxx/2896. 무알콜 칵테일/무알콜 칵테일.java) |
 | [02897](https://boj.kr/2897) | 몬스터 트럭 | Bronze 1 | [Java](./02xxx/2897. 몬스터 트럭/몬스터 트럭.java) |
 | [02902](https://boj.kr/2902) | KMP는 왜 KMP일까? | Bronze 2 | [Java](./02xxx/2902. KMP는 왜 KMP일까？/KMP는 왜 KMP일까？.java) |
@@ -789,6 +789,7 @@
 | [03282](https://boj.kr/3282) | ROOMS | Bronze 1 | [Java](./03xxx/3282. ROOMS/ROOMS.java) |
 | [03295](https://boj.kr/3295) | 단방향 링크 네트워크 | Platinum 2 | [C++](./03xxx/3295. 단방향 링크 네트워크/단방향 링크 네트워크.cc) |
 | [03372](https://boj.kr/3372) | 보드 점프 | Silver 1 | [Java](./03xxx/3372. 보드 점프/보드 점프.java) |
+| [03392](https://boj.kr/3392) | 화성 지도 | Platinum 2 | [C++](./03xxx/3392. 화성 지도/화성 지도.cc) |
 | [03407](https://boj.kr/3407) | 맹세 | Silver 1 | [C++](./03xxx/3407. 맹세/맹세.cc) |
 | [03412](https://boj.kr/3412) | Darts | Bronze 1 | [Java](./03xxx/3412. Darts/Darts.java) |
 | [03417](https://boj.kr/3417) | Vigenère Cipher Encryption | Bronze 2 | [Java](./03xxx/3417. Vigenère Cipher Encryption/Vigenère Cipher Encryption.java) |
