@@ -2569,6 +2569,7 @@
 | [16316](https://boj.kr/16316) | Baby Bites | Bronze 3 | [Java](./16xxx/16316. Baby Bites/Baby Bites.java) |
 | [16337](https://boj.kr/16337) | Die | Bronze 2 | [Java](./16xxx/16337. Die/Die.java) |
 | [16360](https://boj.kr/16360) | Go Latin | Bronze 1 | [Java](./16xxx/16360. Go Latin/Go Latin.java) |
+| [16367](https://boj.kr/16367) | TV Show Game | Platinum 2 | [C++](./16xxx/16367. TV Show Game/TV Show Game.cc) |
 | [16373](https://boj.kr/16373) | Prime Tree - 1 | Bronze 1 | [Text](./16xxx/16373. Prime Tree － 1/Prime Tree － 1.txt) |
 | [16394](https://boj.kr/16394) | 홍익대학교 | Bronze 5 | [C](./16xxx/16394. 홍익대학교/홍익대학교.c) |
 | [16395](https://boj.kr/16395) | 파스칼의 삼각형 | Silver 5 | [Java](./16xxx/16395. 파스칼의 삼각형/파스칼의 삼각형.java) |
@@ -4096,7 +4097,7 @@
 | [30664](https://boj.kr/30664) | Loteria Falha | Bronze 5 | [Java](./30xxx/30664. Loteria Falha/Loteria Falha.java) |
 | [30676](https://boj.kr/30676) | 이 별은 무슨 색일까 | Bronze 5 | [Java](./30xxx/30676. 이 별은 무슨 색일까/이 별은 무슨 색일까.java) |
 | [30684](https://boj.kr/30684) | 모르고리즘 회장 정하기 | Bronze 2 | [Java](./30xxx/30684. 모르고리즘 회장 정하기/모르고리즘 회장 정하기.java) |
-| [30685](https://boj.kr/30685) | 버터 녹이기 | Silver 2 | [C++](./30xxx/30685. 버터 녹이기/버터 녹이기.cc) |
+| [30685](https://boj.kr/30685) | 버터 녹이기 | Silver 1 | [C++](./30xxx/30685. 버터 녹이기/버터 녹이기.cc) |
 | [30700](https://boj.kr/30700) | KOREA 문자열 만들기 | Bronze 2 | [Java](./30xxx/30700.%E2%80%85KOREA%E2%80%85문자열%E2%80%85만들기/KOREA 문자열 만들기.java) |
 | [30716](https://boj.kr/30716) | Дети и буквы | Bronze 2 | [Java](./30xxx/30716. Дети и буквы/Дети и буквы.java) |
 | [30767](https://boj.kr/30767) | Dungeons & Dragons | Bronze 2 | [Java](./30xxx/30767. Dungeons ＆ Dragons/Dungeons ＆ Dragons.java) |
