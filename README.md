@@ -1290,6 +1290,7 @@
 | [07599](https://boj.kr/7599) | Library Codes | Bronze 2 | [Java](./07xxx/7599. Library Codes/Library Codes.java) |
 | [07600](https://boj.kr/7600) | 문자가 몇갤까 | Bronze 2 | [Java](./07xxx/7600. 문자가 몇갤까/문자가 몇갤까.java) |
 | [07616](https://boj.kr/7616) | 교실로 가는 길 | Platinum 2 | [C++](./07xxx/7616. 교실로 가는 길/교실로 가는 길.cc) |
+| [07626](https://boj.kr/7626) | 직사각형 | Platinum 1 | [C++](./07xxx/7626. 직사각형/직사각형.cc) |
 | [07637](https://boj.kr/7637) | AAAAHH! Overbooked! | Bronze 1 | [Java](./07xxx/7637. AAAAHH！ Overbooked！/AAAAHH！ Overbooked！.java) |
 | [07656](https://boj.kr/7656) | 만능 오라클 | Silver 4 | [Java](./07xxx/7656. 만능 오라클/만능 오라클.java) |
 | [07662](https://boj.kr/7662) | 이중 우선순위 큐 | Gold 4 | [Java](./07xxx/7662. 이중 우선순위 큐/이중 우선순위 큐.java) |
@@ -1740,6 +1741,7 @@
 | [11006](https://boj.kr/11006) | 남욱이의 닭장 | Bronze 3 | [Java](./11xxx/11006. 남욱이의 닭장/남욱이의 닭장.java) |
 | [11007](https://boj.kr/11007) | Inverse Move-to-Front Transform | Bronze 2 | [Java](./11xxx/11007. Inverse Move－to－Front Transform/Inverse Move－to－Front Transform.java) |
 | [11008](https://boj.kr/11008) | 복붙의 달인 | Silver 5 | [Java](./11xxx/11008. 복붙의 달인/복붙의 달인.java) |
+| [11012](https://boj.kr/11012) | Egg | Platinum 2 | [C++](./11xxx/11012. Egg/Egg.cc) |
 | [11014](https://boj.kr/11014) | 컨닝 2 | Platinum 2 | [C++](./11xxx/11014. 컨닝 2/컨닝 2.cc) |
 | [11018](https://boj.kr/11018) | Fall 2006: 100 Years of Engineering | Bronze 1 | [Java](./11xxx/11018. Fall 2006： 100 Years of Engineering/Fall 2006： 100 Years of Engineering.java) |
 | [11021](https://boj.kr/11021) | A+B - 7 | Bronze 5 | [C](./11xxx/11021. A＋B － 7/A＋B － 7.c) |
