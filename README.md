@@ -475,6 +475,7 @@
 | [02355](https://boj.kr/2355) | 시그마 | Bronze 2 | [Java](./02xxx/2355. 시그마/시그마.java) |
 | [02357](https://boj.kr/2357) | 최솟값과 최댓값 | Gold 1 | [C++](./02xxx/2357. 최솟값과 최댓값/최솟값과 최댓값.cc) |
 | [02358](https://boj.kr/2358) | 평행선 | Silver 4 | [Java](./02xxx/2358. 평행선/평행선.java) |
+| [02365](https://boj.kr/2365) | 숫자판 만들기 | Platinum 2 | [C++](./02xxx/2365. 숫자판 만들기/숫자판 만들기.cc) |
 | [02371](https://boj.kr/2371) | 파일 구별하기 | Silver 3 | [C++](./02xxx/2371. 파일 구별하기/파일 구별하기.cc) |
 | [02372](https://boj.kr/2372) | Livestock Count | Unrated | [Ada](./02xxx/2372. Livestock Count/Livestock Count.ada) |
 | [02377](https://boj.kr/2377) | Pottery | Unrated | [FreeBASIC](./02xxx/2377. Pottery/Pottery.bas) |
@@ -1247,7 +1248,7 @@
 | [07214](https://boj.kr/7214) | Ateivių kojinės | Bronze 1 | [C++](./07xxx/7214. Ateivių kojinės/Ateivių kojinės.cc) |
 | [07215](https://boj.kr/7215) | Ateivių kojinės | Bronze 1 | [C++](./07xxx/7215. Ateivių kojinės/Ateivių kojinės.cc) |
 | [07218](https://boj.kr/7218) | Pasislėpę romėniški skaičiai | Bronze 3 | [C](./07xxx/7218. Pasislėpę romėniški skaičiai/Pasislėpę romėniški skaičiai.c) |
-| [07239](https://boj.kr/7239) | Pjūklas | Bronze 1 | [Java](./07xxx/7239. Pjūklas/Pjūklas.java) |
+| [07239](https://boj.kr/7239) | Pjūklas | Silver 5 | [Java](./07xxx/7239. Pjūklas/Pjūklas.java) |
 | [07240](https://boj.kr/7240) | Rogutės | Bronze 3 | [Java](./07xxx/7240. Rogutės/Rogutės.java) |
 | [07241](https://boj.kr/7241) | Skaičiai | Bronze 2 | [Java](./07xxx/7241. Skaičiai/Skaičiai.java) |
 | [07255](https://boj.kr/7255) | Sujungimas | Gold 4 | [Java](./07xxx/7255. Sujungimas/Sujungimas.java) |
