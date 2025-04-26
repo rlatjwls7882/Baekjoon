@@ -817,6 +817,7 @@
 | [03640](https://boj.kr/3640) | 제독 | Platinum 2 | [C++](./03xxx/3640. 제독/제독.cc) |
 | [03648](https://boj.kr/3648) | 아이돌 | Platinum 3 | [C++](./03xxx/3648. 아이돌/아이돌.cc) |
 | [03649](https://boj.kr/3649) | 로봇 프로젝트 | Gold 5 | [C++](./03xxx/3649. 로봇 프로젝트/로봇 프로젝트.cc) |
+| [03665](https://boj.kr/3665) | 최종 순위 | Gold 1 | [C++](./03xxx/3665. 최종 순위/최종 순위.cc) |
 | [03683](https://boj.kr/3683) | 고양이와 개 | Platinum 2 | [C++](./03xxx/3683. 고양이와 개/고양이와 개.cc) |
 | [03711](https://boj.kr/3711) | 학번 | Silver 5 | [Java](./03xxx/3711. 학번/학번.java) |
 | [03724](https://boj.kr/3724) | 표 | Bronze 1 | [Java](./03xxx/3724. 표/표.java) |
@@ -2389,6 +2390,7 @@
 | [15279](https://boj.kr/15279) | Heart Rate | Bronze 2 | [Java](./15xxx/15279. Heart Rate/Heart Rate.java) |
 | [15295](https://boj.kr/15295) | Chanukah Challenge | Bronze 3 | [Java](./15xxx/15295. Chanukah Challenge/Chanukah Challenge.java) |
 | [15296](https://boj.kr/15296) | Sum Squared Digits Function | Bronze 2 | [Java](./15xxx/15296. Sum Squared Digits Function/Sum Squared Digits Function.java) |
+| [15311](https://boj.kr/15311) | 약 팔기 | Platinum 5 | [C++](./15xxx/15311. 약 팔기/약 팔기.cc) |
 | [15312](https://boj.kr/15312) | 이름 궁합 | Silver 5 | [Java](./15xxx/15312. 이름 궁합/이름 궁합.java) |
 | [15322](https://boj.kr/15322) | Košnja | Bronze 2 | [Java](./15xxx/15322. Košnja/Košnja.java) |
 | [15340](https://boj.kr/15340) | Sim Card | Bronze 3 | [Java](./15xxx/15340. Sim Card/Sim Card.java) |
@@ -2754,6 +2756,7 @@
 | [17294](https://boj.kr/17294) | 귀여운 수~ε٩(๑> ₃ <)۶з | Bronze 1 | [Java](./17xxx/17294. 귀여운 수～ε٩（๑＞ ₃ ＜）۶з/귀여운 수～ε٩（๑＞ ₃ ＜）۶з.java) |
 | [17295](https://boj.kr/17295) | 엔드게임 스포일러 | Unrated | [Java](./17xxx/17295.%E2%80%85엔드게임%E2%80%85스포일러/엔드게임 스포일러.java) |
 | [17298](https://boj.kr/17298) | 오큰수 | Gold 4 | [C++](./17xxx/17298. 오큰수/오큰수.cc) |
+| [17299](https://boj.kr/17299) | 오등큰수 | Gold 3 | [C++](./17xxx/17299. 오등큰수/오등큰수.cc) |
 | [17350](https://boj.kr/17350) | 2루수 이름이 뭐야 | Bronze 3 | [Java](./17xxx/17350. 2루수 이름이 뭐야/2루수 이름이 뭐야.java) |
 | [17352](https://boj.kr/17352) | 여러분의 다리가 되어 드리겠습니다! | Gold 5 | [Java](./17xxx/17352. 여러분의 다리가 되어 드리겠습니다！/여러분의 다리가 되어 드리겠습니다！.java) |
 | [17356](https://boj.kr/17356) | 욱 제 | Bronze 4 | [C](./17xxx/17356. 욱 제/욱 제.c) |
