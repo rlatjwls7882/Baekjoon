@@ -537,6 +537,7 @@
 | [02490](https://boj.kr/2490) | 윷놀이 | Bronze 3 | [Java](./02xxx/2490. 윷놀이/윷놀이.java) |
 | [02491](https://boj.kr/2491) | 수열 | Silver 4 | [Java](./02xxx/2491. 수열/수열.java) |
 | [02493](https://boj.kr/2493) | 탑 | Gold 5 | [C++](./02xxx/2493. 탑/탑.cc) |
+| [02494](https://boj.kr/2494) | 숫자 맞추기 | Platinum 5 | [C++](./02xxx/2494. 숫자 맞추기/숫자 맞추기.cc) |
 | [02495](https://boj.kr/2495) | 연속구간 | Bronze 2 | [Java](./02xxx/2495. 연속구간/연속구간.java) |
 | [02501](https://boj.kr/2501) | 약수 구하기 | Bronze 3 | [Java](./02xxx/2501. 약수 구하기/약수 구하기.java) |
 | [02502](https://boj.kr/2502) | 떡 먹는 호랑이 | Silver 1 | [C++](./02xxx/2502. 떡 먹는 호랑이/떡 먹는 호랑이.cc) |
@@ -1635,7 +1636,7 @@
 | [10501](https://boj.kr/10501) | Ragged Right | Bronze 2 | [Java](./10xxx/10501. Ragged Right/Ragged Right.java) |
 | [10539](https://boj.kr/10539) | 수빈이와 수열 | Bronze 2 | [Java](./10xxx/10539. 수빈이와 수열/수빈이와 수열.java) |
 | [10540](https://boj.kr/10540) | KLOPKA | Bronze 2 | [Java](./10xxx/10540. KLOPKA/KLOPKA.java) |
-| [10545](https://boj.kr/10545) | 뚜기뚜기메뚜기 | Bronze 1 | [Java](./10xxx/10545. 뚜기뚜기메뚜기/뚜기뚜기메뚜기.java) |
+| [10545](https://boj.kr/10545) | 뚜기뚜기메뚜기 | Silver 5 | [Java](./10xxx/10545. 뚜기뚜기메뚜기/뚜기뚜기메뚜기.java) |
 | [10546](https://boj.kr/10546) | 배부른 마라토너 | Silver 4 | [Java](./10xxx/10546. 배부른 마라토너/배부른 마라토너.java) |
 | [10551](https://boj.kr/10551) | STROJOPIS | Bronze 2 | [Java](./10xxx/10551. STROJOPIS/STROJOPIS.java) |
 | [10569](https://boj.kr/10569) | 다면체 | Bronze 3 | [Java](./10xxx/10569. 다면체/다면체.java) |
@@ -2094,6 +2095,7 @@
 | [13363](https://boj.kr/13363) | Jumbled Compass | Bronze 3 | [Java](./13xxx/13363. Jumbled Compass/Jumbled Compass.java) |
 | [13366](https://boj.kr/13366) | Math Contest | Bronze 3 | [C++](./13xxx/13366. Math Contest/Math Contest.cc) |
 | [13383](https://boj.kr/13383) | Oil | Gold 5 | [C++](./13xxx/13383. Oil/Oil.cc) |
+| [13392](https://boj.kr/13392) | 방법을 출력하지 않는 숫자 맞추기 | Gold 1 | [C++](./13xxx/13392. 방법을 출력하지 않는 숫자 맞추기/방법을 출력하지 않는 숫자 맞추기.cc) |
 | [13398](https://boj.kr/13398) | 연속합 2 | Gold 5 | [C++](./13xxx/13398. 연속합 2/연속합 2.cc) |
 | [13410](https://boj.kr/13410) | 거꾸로 구구단 | Bronze 2 | [Java](./13xxx/13410. 거꾸로 구구단/거꾸로 구구단.java) |
 | [13412](https://boj.kr/13412) | 서로소 쌍 | Silver 2 | [Java](./13xxx/13412. 서로소 쌍/서로소 쌍.java) |
@@ -2326,6 +2328,7 @@
 | [14803](https://boj.kr/14803) | Steed 2: Cruise Control (Small) | Bronze 2 | [Java](./14xxx/14803. Steed 2： Cruise Control （Small）/Steed 2： Cruise Control （Small）.java) |
 | [14804](https://boj.kr/14804) | Steed 2: Cruise Control (Large) | Bronze 1 | [Java](./14xxx/14804. Steed 2： Cruise Control （Large）/Steed 2： Cruise Control （Large）.java) |
 | [14825](https://boj.kr/14825) | Good News and Bad News (Small) | Gold 3 | [C++](./14xxx/14825. Good News and Bad News （Small）/Good News and Bad News （Small）.cc) |
+| [14852](https://boj.kr/14852) | 타일 채우기 3 | Gold 4 | [C++](./14xxx/14852. 타일 채우기 3/타일 채우기 3.cc) |
 | [14881](https://boj.kr/14881) | 물통 문제 | Gold 4 | [C++](./14xxx/14881. 물통 문제/물통 문제.cc) |
 | [14888](https://boj.kr/14888) | 연산자 끼워넣기 | Silver 1 | [Java](./14xxx/14888. 연산자 끼워넣기/연산자 끼워넣기.java) |
 | [14889](https://boj.kr/14889) | 스타트와 링크 | Silver 1 | [Java](./14xxx/14889. 스타트와 링크/스타트와 링크.java) |
