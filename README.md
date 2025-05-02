@@ -1607,7 +1607,7 @@
 | [10230](https://boj.kr/10230) | Maze 1 | Bronze 2 | [Text](./10xxx/10230. Maze 1/Maze 1.txt) |
 | [10246](https://boj.kr/10246) | 부동산 경매 | Silver 1 | [C++](./10xxx/10246. 부동산 경매/부동산 경매.cc) |
 | [10250](https://boj.kr/10250) | ACM 호텔 | Bronze 3 | [Java](./10xxx/10250. ACM 호텔/ACM 호텔.java) |
-| [10253](https://boj.kr/10253) | 헨리 | Gold 5 | [C++](./10xxx/10253. 헨리/헨리.cc) |
+| [10253](https://boj.kr/10253) | 헨리 | Silver 1 | [C++](./10xxx/10253. 헨리/헨리.cc) |
 | [10256](https://boj.kr/10256) | 돌연변이 | Platinum 2 | [C++](./10xxx/10256. 돌연변이/돌연변이.cc) |
 | [10262](https://boj.kr/10262) | 주사위 게임 | Bronze 2 | [Java](./10xxx/10262. 주사위 게임/주사위 게임.java) |
 | [10275](https://boj.kr/10275) | 골드 러시 | Bronze 1 | [C++](./10xxx/10275. 골드 러시/골드 러시.cc) |
@@ -1749,6 +1749,7 @@
 | [10998](https://boj.kr/10998) | A×B | Bronze 5 | [C](./10xxx/10998. A×B/A×B.c) [C++](./10xxx/10998. A×B/A×B.cc) |
 | [10999](https://boj.kr/10999) | 구간 합 구하기 2 | Platinum 4 | [C++](./10xxx/10999. 구간 합 구하기 2/구간 합 구하기 2.cc) |
 | [11000](https://boj.kr/11000) | 강의실 배정 | Gold 5 | [Java](./11xxx/11000. 강의실 배정/강의실 배정.java) |
+| [11003](https://boj.kr/11003) | 최솟값 찾기 | Platinum 5 | [C++](./11xxx/11003. 최솟값 찾기/최솟값 찾기.cc) |
 | [11004](https://boj.kr/11004) | K번째 수 | Silver 5 | [Java](./11xxx/11004. K번째 수/K번째 수.java) |
 | [11005](https://boj.kr/11005) | 진법 변환 2 | Bronze 1 | [Java](./11xxx/11005. 진법 변환 2/진법 변환 2.java) |
 | [11006](https://boj.kr/11006) | 남욱이의 닭장 | Bronze 3 | [Java](./11xxx/11006. 남욱이의 닭장/남욱이의 닭장.java) |
@@ -3168,6 +3169,7 @@
 | [21966](https://boj.kr/21966) | (중략) | Silver 5 | [C++](./21xxx/21966. （중략）/（중략）.cc) |
 | [21967](https://boj.kr/21967) | 세워라 반석 위에 | Silver 3 | [C++](./21xxx/21967. 세워라 반석 위에/세워라 반석 위에.cc) |
 | [21968](https://boj.kr/21968) | 선린의 터를 | Silver 3 | [C++](./21xxx/21968. 선린의 터를/선린의 터를.cc) |
+| [21982](https://boj.kr/21982) | 상자 빌리기 | Platinum 5 | [C++](./21xxx/21982. 상자 빌리기/상자 빌리기.cc) |
 | [21983](https://boj.kr/21983) | Basalt Breakdown | Bronze 2 | [Java](./21xxx/21983. Basalt Breakdown/Basalt Breakdown.java) |
 | [22015](https://boj.kr/22015) | 金平糖 (Konpeito) | Bronze 4 | [C](./22xxx/22015. 金平糖 （Konpeito）/金平糖 （Konpeito）.c) |
 | [22016](https://boj.kr/22016) | 巻物 (Scroll) | Bronze 2 | [Java](./22xxx/22016. 巻物 （Scroll）/巻物 （Scroll）.java) |
