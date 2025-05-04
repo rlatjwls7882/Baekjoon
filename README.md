@@ -2169,6 +2169,7 @@
 | [13913](https://boj.kr/13913) | 숨바꼭질 4 | Gold 4 | [C++](./13xxx/13913. 숨바꼭질 4/숨바꼭질 4.cc) |
 | [13925](https://boj.kr/13925) | 수열과 쿼리 13 | Diamond 5 | [C++](./13xxx/13925. 수열과 쿼리 13/수열과 쿼리 13.cc) |
 | [13939](https://boj.kr/13939) | Imena | Bronze 2 | [Java](./13xxx/13939. Imena/Imena.java) |
+| [13976](https://boj.kr/13976) | 타일 채우기 2 | Platinum 5 | [C++](./13xxx/13976. 타일 채우기 2/타일 채우기 2.cc) |
 | [13977](https://boj.kr/13977) | 이항 계수와 쿼리 | Platinum 5 | [C++](./13xxx/13977. 이항 계수와 쿼리/이항 계수와 쿼리.cc) |
 | [13985](https://boj.kr/13985) | Equality | Bronze 4 | [C](./13xxx/13985. Equality/Equality.c) |
 | [13987](https://boj.kr/13987) | Six Sides | Bronze 2 | [Java](./13xxx/13987. Six Sides/Six Sides.java) |
