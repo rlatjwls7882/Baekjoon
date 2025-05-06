@@ -152,7 +152,7 @@
 | [01351](https://boj.kr/1351) | 무한 수열 | Gold 5 | [C++](./01xxx/1351. 무한 수열/무한 수열.cc) |
 | [01354](https://boj.kr/1354) | 무한 수열 2 | Gold 5 | [C++](./01xxx/1354. 무한 수열 2/무한 수열 2.cc) |
 | [01356](https://boj.kr/1356) | 유진수 | Bronze 1 | [Java](./01xxx/1356. 유진수/유진수.java) |
-| [01357](https://boj.kr/1357) | 뒤집힌 덧셈 | Bronze 1 | [Java](./01xxx/1357. 뒤집힌 덧셈/뒤집힌 덧셈.java) |
+| [01357](https://boj.kr/1357) | 뒤집힌 덧셈 | Bronze 2 | [Java](./01xxx/1357. 뒤집힌 덧셈/뒤집힌 덧셈.java) |
 | [01358](https://boj.kr/1358) | 하키 | Silver 4 | [C++](./01xxx/1358. 하키/하키.cc) |
 | [01359](https://boj.kr/1359) | 복권 | Silver 4 | [C++](./01xxx/1359. 복권/복권.cc) |
 | [01362](https://boj.kr/1362) | 펫 | Bronze 2 | [Java](./01xxx/1362. 펫/펫.java) |
@@ -243,9 +243,11 @@
 | [01636](https://boj.kr/1636) | 한번 열면 멈출 수 없어 | Gold 4 | [C++](./01xxx/1636. 한번 열면 멈출 수 없어/한번 열면 멈출 수 없어.cc) |
 | [01644](https://boj.kr/1644) | 소수의 연속합 | Gold 3 | [Java](./01xxx/1644. 소수의 연속합/소수의 연속합.java) |
 | [01647](https://boj.kr/1647) | 도시 분할 계획 | Gold 4 | [Java](./01xxx/1647. 도시 분할 계획/도시 분할 계획.java) |
+| [01648](https://boj.kr/1648) | 격자판 채우기 | Platinum 3 | [C++](./01xxx/1648. 격자판 채우기/격자판 채우기.cc) |
 | [01652](https://boj.kr/1652) | 누울 자리를 찾아라 | Silver 5 | [C++](./01xxx/1652. 누울 자리를 찾아라/누울 자리를 찾아라.cc) |
 | [01654](https://boj.kr/1654) | 랜선 자르기 | Silver 2 | [C++](./01xxx/1654. 랜선 자르기/랜선 자르기.cc) |
 | [01655](https://boj.kr/1655) | 가운데를 말해요 | Gold 2 | [Java](./01xxx/1655. 가운데를 말해요/가운데를 말해요.java) |
+| [01657](https://boj.kr/1657) | 두부장수 장홍준 | Platinum 3 | [C++](./01xxx/1657. 두부장수 장홍준/두부장수 장홍준.cc) |
 | [01658](https://boj.kr/1658) | 돼지 잡기 | Platinum 2 | [C++](./01xxx/1658. 돼지 잡기/돼지 잡기.cc) |
 | [01660](https://boj.kr/1660) | 캡틴 이다솜 | Gold 5 | [C++](./01xxx/1660. 캡틴 이다솜/캡틴 이다솜.cc) |
 | [01668](https://boj.kr/1668) | 트로피 진열 | Bronze 2 | [Java](./01xxx/1668. 트로피 진열/트로피 진열.java) |
@@ -453,7 +455,7 @@
 | [02236](https://boj.kr/2236) | 칩 만들기 | Silver 3 | [C++](./02xxx/2236. 칩 만들기/칩 만들기.cc) |
 | [02238](https://boj.kr/2238) | 경매 | Silver 5 | [C++](./02xxx/2238. 경매/경매.cc) |
 | [02239](https://boj.kr/2239) | 스도쿠 | Gold 4 | [C++](./02xxx/2239. 스도쿠/스도쿠.cc) |
-| [02240](https://boj.kr/2240) | 자두나무 | Gold 5 | [C++](./02xxx/2240. 자두나무/자두나무.cc) |
+| [02240](https://boj.kr/2240) | 자두나무 | Gold 4 | [C++](./02xxx/2240. 자두나무/자두나무.cc) |
 | [02246](https://boj.kr/2246) | 콘도 선정 | Bronze 1 | [C++](./02xxx/2246. 콘도 선정/콘도 선정.cc) |
 | [02248](https://boj.kr/2248) | 이진수 찾기 | Gold 3 | [C++](./02xxx/2248. 이진수 찾기/이진수 찾기.cc) |
 | [02250](https://boj.kr/2250) | 트리의 높이와 너비 | Gold 2 | [C++](./02xxx/2250. 트리의 높이와 너비/트리의 높이와 너비.cc) |
@@ -1130,6 +1132,7 @@
 | [05959](https://boj.kr/5959) | Crop Circles | Bronze 1 | [Java](./05xxx/5959. Crop Circles/Crop Circles.java) |
 | [05966](https://boj.kr/5966) | Cow Cotillion | Silver 4 | [Java](./05xxx/5966. Cow Cotillion/Cow Cotillion.java) |
 | [05972](https://boj.kr/5972) | 택배 배송 | Gold 5 | [Java](./05xxx/5972. 택배 배송/택배 배송.java) |
+| [05977](https://boj.kr/5977) | Mowing the Lawn | Platinum 3 | [C++](./05xxx/5977. Mowing the Lawn/Mowing the Lawn.cc) |
 | [05987](https://boj.kr/5987) | String Function Encoding | Bronze 2 | [Java](./05xxx/5987. String Function Encoding/String Function Encoding.java) |
 | [05988](https://boj.kr/5988) | 홀수일까 짝수일까 | Bronze 3 | [Java](./05xxx/5988. 홀수일까 짝수일까/홀수일까 짝수일까.java) |
 | [05989](https://boj.kr/5989) | The Robot Plow | Bronze 2 | [Java](./05xxx/5989. The Robot Plow/The Robot Plow.java) |
@@ -2776,7 +2779,7 @@
 | [17350](https://boj.kr/17350) | 2루수 이름이 뭐야 | Bronze 3 | [Java](./17xxx/17350. 2루수 이름이 뭐야/2루수 이름이 뭐야.java) |
 | [17352](https://boj.kr/17352) | 여러분의 다리가 되어 드리겠습니다! | Gold 5 | [Java](./17xxx/17352. 여러분의 다리가 되어 드리겠습니다！/여러분의 다리가 되어 드리겠습니다！.java) |
 | [17356](https://boj.kr/17356) | 욱 제 | Bronze 4 | [C](./17xxx/17356. 욱 제/욱 제.c) |
-| [17358](https://boj.kr/17358) | 복불복으로 지구 멸망 | Silver 5 | [C++](./17xxx/17358. 복불복으로 지구 멸망/복불복으로 지구 멸망.cc) |
+| [17358](https://boj.kr/17358) | 복불복으로 지구 멸망 | Silver 4 | [C++](./17xxx/17358. 복불복으로 지구 멸망/복불복으로 지구 멸망.cc) |
 | [17362](https://boj.kr/17362) | 수학은 체육과목 입니다 2 | Bronze 4 | [Java](./17xxx/17362. 수학은 체육과목 입니다 2/수학은 체육과목 입니다 2.java) |
 | [17363](https://boj.kr/17363) | 우유가 넘어지면? | Bronze 1 | [Java](./17xxx/17363. 우유가 넘어지면？/우유가 넘어지면？.java) |
 | [17386](https://boj.kr/17386) | 선분 교차 1 | Gold 3 | [C++](./17xxx/17386. 선분 교차 1/선분 교차 1.cc) |
@@ -3193,7 +3196,7 @@
 | [22251](https://boj.kr/22251) | 빌런 호석 | Gold 5 | [C++](./22xxx/22251. 빌런 호석/빌런 호석.cc) |
 | [22255](https://boj.kr/22255) | 호석사우루스 | Gold 2 | [C++](./22xxx/22255. 호석사우루스/호석사우루스.cc) |
 | [22279](https://boj.kr/22279) | Quality-Adjusted Life-Year | Bronze 3 | [Java](./22xxx/22279. Quality－Adjusted Life－Year/Quality－Adjusted Life－Year.java) |
-| [22332](https://boj.kr/22332) | XOR 2 | Silver 4 | [Text](./22xxx/22332. XOR 2/XOR 2.txt) |
+| [22332](https://boj.kr/22332) | XOR 2 | Silver 5 | [Text](./22xxx/22332. XOR 2/XOR 2.txt) |
 | [22333](https://boj.kr/22333) | XOR 3 | Silver 5 | [Text](./22xxx/22333. XOR 3/XOR 3.txt) |
 | [22334](https://boj.kr/22334) | XOR 4 | Silver 4 | [Text](./22xxx/22334. XOR 4/XOR 4.txt) |
 | [22335](https://boj.kr/22335) | XOR 5 | Silver 2 | [Text](./22xxx/22335. XOR 5/XOR 5.txt) |
@@ -3956,7 +3959,7 @@
 | [29319](https://boj.kr/29319) | Начало | Bronze 3 | [Java](./29xxx/29319. Начало/Начало.java) |
 | [29332](https://boj.kr/29332) | 보물 지도 | Bronze 2 | [Java](./29xxx/29332. 보물 지도/보물 지도.java) |
 | [29340](https://boj.kr/29340) | Отряд | Bronze 4 | [Java](./29xxx/29340. Отряд/Отряд.java) |
-| [29342](https://boj.kr/29342) | Война клонов | Bronze 3 | [C++](./29xxx/29342. Война клонов/Война клонов.cc) |
+| [29342](https://boj.kr/29342) | Война клонов | Bronze 2 | [C++](./29xxx/29342. Война клонов/Война клонов.cc) |
 | [29412](https://boj.kr/29412) | Огни светофора | Bronze 3 | [C++](./29xxx/29412. Огни светофора/Огни светофора.cc) |
 | [29454](https://boj.kr/29454) | Выражение | Bronze 3 | [Java](./29xxx/29454. Выражение/Выражение.java) |
 | [29457](https://boj.kr/29457) | Игра с графом | Silver 4 | [C++](./29xxx/29457. Игра с графом/Игра с графом.cc) |
