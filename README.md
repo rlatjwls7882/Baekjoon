@@ -474,6 +474,7 @@
 | [02307](https://boj.kr/2307) | 도로검문 | Gold 1 | [C++](./02xxx/2307. 도로검문/도로검문.cc) |
 | [02309](https://boj.kr/2309) | 일곱 난쟁이 | Bronze 1 | [Java](./02xxx/2309. 일곱 난쟁이/일곱 난쟁이.java) |
 | [02312](https://boj.kr/2312) | 수 복원하기 | Silver 3 | [C++](./02xxx/2312. 수 복원하기/수 복원하기.cc) |
+| [02315](https://boj.kr/2315) | 가로등 끄기 | Platinum 3 | [C++](./02xxx/2315. 가로등 끄기/가로등 끄기.cc) |
 | [02316](https://boj.kr/2316) | 도시 왕복하기 2 | Platinum 3 | [C++](./02xxx/2316. 도시 왕복하기 2/도시 왕복하기 2.cc) |
 | [02321](https://boj.kr/2321) | Crowing | Unrated | [Fortran](./02xxx/2321. Crowing/Crowing.f) |
 | [02325](https://boj.kr/2325) | 개코전쟁 | Platinum 5 | [C++](./02xxx/2325. 개코전쟁/개코전쟁.cc) |
@@ -2112,6 +2113,7 @@
 | [13420](https://boj.kr/13420) | 사칙연산 | Bronze 2 | [Java](./13xxx/13420. 사칙연산/사칙연산.java) |
 | [13423](https://boj.kr/13423) | Three Dots | Silver 2 | [C++](./13xxx/13423. Three Dots/Three Dots.cc) |
 | [13424](https://boj.kr/13424) | 비밀 모임 | Gold 4 | [C++](./13xxx/13424. 비밀 모임/비밀 모임.cc) |
+| [13448](https://boj.kr/13448) | SW 역량 테스트 | Platinum 3 | [C++](./13xxx/13448. SW 역량 테스트/SW 역량 테스트.cc) |
 | [13456](https://boj.kr/13456) | Richard Hamming | Bronze 3 | [Java](./13xxx/13456. Richard Hamming/Richard Hamming.java) |
 | [13458](https://boj.kr/13458) | 시험 감독 | Bronze 2 | [Java](./13xxx/13458. 시험 감독/시험 감독.java) |
 | [13460](https://boj.kr/13460) | 구슬 탈출 2 | Gold 1 | [C++](./13xxx/13460. 구슬 탈출 2/구슬 탈출 2.cc) |
@@ -2128,6 +2130,7 @@
 | [13525](https://boj.kr/13525) | Fridge | Silver 5 | [C++](./13xxx/13525. Fridge/Fridge.cc) |
 | [13528](https://boj.kr/13528) | Grass Seed Inc. | Bronze 3 | [Java](./13xxx/13528. Grass Seed Inc．/Grass Seed Inc．.java) |
 | [13532](https://boj.kr/13532) | 악마의 수열 | Gold 2 | [C++](./13xxx/13532. 악마의 수열/악마의 수열.cc) |
+| [13544](https://boj.kr/13544) | 수열과 쿼리 3 | Platinum 3 | [C++](./13xxx/13544. 수열과 쿼리 3/수열과 쿼리 3.cc) |
 | [13547](https://boj.kr/13547) | 수열과 쿼리 5 | Platinum 2 | [C++](./13xxx/13547. 수열과 쿼리 5/수열과 쿼리 5.cc) |
 | [13549](https://boj.kr/13549) | 숨바꼭질 3 | Gold 5 | [Java](./13xxx/13549. 숨바꼭질 3/숨바꼭질 3.java) |
 | [13552](https://boj.kr/13552) | 구와 쿼리 | Bronze 1 | [C++](./13xxx/13552. 구와 쿼리/구와 쿼리.cc) |
