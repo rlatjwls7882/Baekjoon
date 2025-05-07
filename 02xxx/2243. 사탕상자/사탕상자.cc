@@ -20,11 +20,15 @@ void update(int quality, int val) {
     }
 }
 
-int getSum(int L, int R, int nodeNum=1, int nodeL=0, int nodeR=_size/2-1) {
-    if(R<nodeL || nodeR<L) return 0;
-    if(L<=nodeL && nodeR<=R) return arr[nodeNum];
+void findCandy(int nodeNum, int nodeL, int nodeR, int k) {
+    if(nodeL==nodeR) {
+        cout << nodeL+1 << '\n';
+        update(nodeL, -1);
+        return;
+    }
     int mid = (nodeL+nodeR)/2;
-    return getSum(L, R, nodeNum*2, nodeL, mid) + getSum(L, R, nodeNum*2+1, mid+1, nodeR);
+    if(k>arr[nodeNum*2]) findCandy(nodeNum*2+1, mid+1, nodeR, k-arr[nodeNum*2]);
+    else findCandy(nodeNum*2, nodeL, mid, k);
 }
 
 int main() {
@@ -35,19 +39,7 @@ int main() {
     while(n--) {
         int a, b; cin >> a >> b;
         if(a==1) {
-            int left=0, right=MAX-1;
-            while(left<right) {
-                int mid = (left+right)/2;
-                int sum = getSum(left, mid);
-                if(sum<b) {
-                    left=mid+1;
-                    b -= sum;
-                } else {
-                    right=mid;
-                }
-            }
-            cout << left+1 << '\n';
-            update(left, -1);
+            findCandy(1, 0, _size/2-1, b);
         } else {
             int c; cin >> c;
             update(b-1, c);
