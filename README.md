@@ -534,7 +534,7 @@
 | [02477](https://boj.kr/2477) | 참외밭 | Silver 2 | [C++](./02xxx/2477. 참외밭/참외밭.cc) |
 | [02479](https://boj.kr/2479) | 경로 찾기 | Gold 4 | [C++](./02xxx/2479. 경로 찾기/경로 찾기.cc) |
 | [02480](https://boj.kr/2480) | 주사위 세개 | Bronze 4 | [C](./02xxx/2480. 주사위 세개/주사위 세개.c) |
-| [02481](https://boj.kr/2481) | 해밍 경로 | Gold 2 | [C++](./02xxx/2481. 해밍 경로/해밍 경로.cc) |
+| [02481](https://boj.kr/2481) | 해밍 경로 | Gold 1 | [C++](./02xxx/2481. 해밍 경로/해밍 경로.cc) |
 | [02482](https://boj.kr/2482) | 색상환 | Gold 3 | [C++](./02xxx/2482. 색상환/색상환.cc) |
 | [02484](https://boj.kr/2484) | 주사위 네개 | Bronze 2 | [Java](./02xxx/2484. 주사위 네개/주사위 네개.java) |
 | [02485](https://boj.kr/2485) | 가로수 | Silver 4 | [Java](./02xxx/2485. 가로수/가로수.java) |
@@ -710,6 +710,7 @@
 | [02908](https://boj.kr/2908) | 상수 | Bronze 2 | [Java](./02xxx/2908. 상수/상수.java) |
 | [02909](https://boj.kr/2909) | 캔디 구매 | Bronze 2 | [Java](./02xxx/2909. 캔디 구매/캔디 구매.java) |
 | [02910](https://boj.kr/2910) | 빈도 정렬 | Silver 3 | [C++](./02xxx/2910. 빈도 정렬/빈도 정렬.cc) |
+| [02912](https://boj.kr/2912) | 백설공주와 난쟁이 | Platinum 2 | [C++](./02xxx/2912. 백설공주와 난쟁이/백설공주와 난쟁이.cc) |
 | [02914](https://boj.kr/2914) | 저작권 | Bronze 3 | [Java](./02xxx/2914. 저작권/저작권.java) |
 | [02920](https://boj.kr/2920) | 음계 | Bronze 2 | [Java](./02xxx/2920. 음계/음계.java) |
 | [02921](https://boj.kr/2921) | 도미노 | Bronze 3 | [Java](./02xxx/2921. 도미노/도미노.java) |
@@ -4343,6 +4344,7 @@
 | [32333](https://boj.kr/32333) | 한양이의 새로운 시계 | Silver 1 | [C++](./32xxx/32333. 한양이의 새로운 시계/한양이의 새로운 시계.cc) |
 | [32334](https://boj.kr/32334) | 자석 체스 | Silver 1 | [C++](./32xxx/32334. 자석 체스/자석 체스.cc) |
 | [32335](https://boj.kr/32335) | 부자가 될 거야! | Silver 3 | [C++](./32xxx/32335. 부자가 될 거야！/부자가 될 거야！.cc) |
+| [32337](https://boj.kr/32337) | 제비 통신 | Silver 1 | [C++](./32xxx/32337. 제비 통신/제비 통신.cc) |
 | [32342](https://boj.kr/32342) | 와우와 쿼리 | Bronze 3 | [C++](./32xxx/32342. 와우와 쿼리/와우와 쿼리.cc) |
 | [32357](https://boj.kr/32357) | 더블팰린드롬 | Bronze 1 | [C++](./32xxx/32357. 더블팰린드롬/더블팰린드롬.cc) |
 | [32364](https://boj.kr/32364) | Hat Circle | Bronze 3 | [C++](./32xxx/32364. Hat Circle/Hat Circle.cc) |
