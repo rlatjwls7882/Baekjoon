@@ -1,45 +1,41 @@
 #include<bits/stdc++.h>
 using namespace std;
 
-int sqrn;
-int exist[1000001];
+const int MAX_VAL = 1'000'001;
+const int MAX = 100'001;
 
-struct Query {
+int sqrtN, A[MAX], chk[MAX_VAL];
+
+struct query {
     int s, e, i;
-    bool operator<(const Query q) const {
-        if(this->s/sqrn == q.s/sqrn) return this->e < q.e;
-        return this->s/sqrn < q.s/sqrn;
+    bool operator<(const query q2) const {
+        if(s/sqrtN != q2.s/sqrtN) return s/sqrtN < q2.s/sqrtN;
+        return e < q2.e;
     }
 };
 
-int main(void) {
-    ios::sync_with_stdio(0); cin.tie(0); cout.tie(0);
+int main() {
+    ios::sync_with_stdio(0); cin.tie(0);
     int n; cin >> n;
-    sqrn = sqrt(n);
-    int A[n];
-    for(int i=0;i<n;i++) cin >> A[i];
+    for(int i=1;i<=n;i++) cin >> A[i];
+    sqrtN = sqrt(n);
 
     int m; cin >> m;
-    vector<Query> v;
+    vector<query> queries(m);
     for(int i=0;i<m;i++) {
-        int s, e; cin >> s >> e;
-        v.push_back({s-1, e-1, i});
+        cin >> queries[i].s >> queries[i].e;
+        queries[i].i=i;
     }
-    sort(v.begin(), v.end());
+    sort(queries.begin(), queries.end());
 
-    int res[m];
-    int curCnt=0;
-    for(int i=v[0].s;i<=v[0].e;i++) {
-        if(++exist[A[i]]==1) curCnt++;
+    vector<int> res(m);
+    int cnt=0, left=0, right=0;
+    for(int i=0;i<m;i++) {
+        while(queries[i].s<left) if(++chk[A[--left]]==1) cnt++;
+        while(right<queries[i].e) if(++chk[A[++right]]==1) cnt++;
+        while(left<queries[i].s) if(--chk[A[left++]]==0) cnt--;
+        while(queries[i].e<right) if(--chk[A[right--]]==0) cnt--;
+        res[queries[i].i]=cnt;
     }
-    res[v[0].i]=curCnt;
-
-    for(int i=1;i<m;i++) {
-        while(v[i-1].s<v[i].s) if(--exist[A[v[i-1].s++]]==0) curCnt--;
-        while(v[i-1].e>v[i].e) if(--exist[A[v[i-1].e--]]==0) curCnt--;
-        while(v[i-1].s>v[i].s) if(++exist[A[--v[i-1].s]]==1) curCnt++;
-        while(v[i-1].e<v[i].e) if(++exist[A[++v[i-1].e]]==1) curCnt++;
-        res[v[i].i] = curCnt;
-    }
-    for(int i=0;i<m;i++) cout << res[i] << '\n';
+    for(int e:res) cout << e << '\n';
 }
