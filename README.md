@@ -4463,4 +4463,5 @@
 | [33753](https://boj.kr/33753) | 주차 요금 정산하기 | Bronze 3 | [C++](./33xxx/33753. 주차 요금 정산하기/주차 요금 정산하기.cc) |
 | [33756](https://boj.kr/33756) | 88888 | Silver 3 | [C++](./33xxx/33756. 88888/88888.cc) |
 | [33779](https://boj.kr/33779) | Back and Forth | Bronze 3 | [C++](./33xxx/33779. Back and Forth/Back and Forth.cc) |
+| [33810](https://boj.kr/33810) | SciComLove (2025) | Bronze 4 | [C++](./33xxx/33810. SciComLove （2025）/SciComLove （2025）.cc) |
 </div>
