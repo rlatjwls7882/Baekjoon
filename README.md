@@ -1339,6 +1339,7 @@
 | [08394](https://boj.kr/8394) | 악수 | Silver 3 | [Java](./08xxx/8394. 악수/악수.java) |
 | [08436](https://boj.kr/8436) | Kamil | Bronze 2 | [C++](./08xxx/8436. Kamil/Kamil.cc) |
 | [08437](https://boj.kr/8437) | Julka | Bronze 5 | [Java](./08xxx/8437. Julka/Julka.java) |
+| [08462](https://boj.kr/8462) | 배열의 힘 | Platinum 2 | [C++](./08xxx/8462. 배열의 힘/배열의 힘.cc) |
 | [08537](https://boj.kr/8537) | Imiona mrówek | Bronze 2 | [Java](./08xxx/8537. Imiona mrówek/Imiona mrówek.java) |
 | [08538](https://boj.kr/8538) | Bałagan i Stonki | Bronze 1 | [Java](./08xxx/8538. Bałagan i Stonki/Bałagan i Stonki.java) |
 | [08545](https://boj.kr/8545) | Zadanie próbne | Bronze 5 | [Java](./08xxx/8545. Zadanie próbne/Zadanie próbne.java) |
