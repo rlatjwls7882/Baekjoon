@@ -2224,6 +2224,7 @@
 | [14337](https://boj.kr/14337) | Helicopter | Unrated | [Visual Basic](./14xxx/14337. Helicopter/Helicopter.vb) |
 | [14405](https://boj.kr/14405) | 피카츄 | Silver 5 | [Java](./14xxx/14405. 피카츄/피카츄.java) |
 | [14409](https://boj.kr/14409) | Tuna | Bronze 2 | [Java](./14xxx/14409. Tuna/Tuna.java) |
+| [14413](https://boj.kr/14413) | Poklon | Platinum 2 | [C++](./14xxx/14413. Poklon/Poklon.cc) |
 | [14425](https://boj.kr/14425) | 문자열 집합 | Silver 4 | [Java](./14xxx/14425. 문자열 집합/문자열 집합.java) |
 | [14426](https://boj.kr/14426) | 접두사 찾기 | Silver 1 | [C++](./14xxx/14426. 접두사 찾기/접두사 찾기.cc) |
 | [14427](https://boj.kr/14427) | 수열과 쿼리 15 | Gold 3 | [C++](./14xxx/14427. 수열과 쿼리 15/수열과 쿼리 15.cc) |
