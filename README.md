@@ -534,7 +534,7 @@
 | [02477](https://boj.kr/2477) | 참외밭 | Silver 2 | [C++](./02xxx/2477. 참외밭/참외밭.cc) |
 | [02479](https://boj.kr/2479) | 경로 찾기 | Gold 4 | [C++](./02xxx/2479. 경로 찾기/경로 찾기.cc) |
 | [02480](https://boj.kr/2480) | 주사위 세개 | Bronze 4 | [C](./02xxx/2480. 주사위 세개/주사위 세개.c) |
-| [02481](https://boj.kr/2481) | 해밍 경로 | Gold 1 | [C++](./02xxx/2481. 해밍 경로/해밍 경로.cc) |
+| [02481](https://boj.kr/2481) | 해밍 경로 | Gold 2 | [C++](./02xxx/2481. 해밍 경로/해밍 경로.cc) |
 | [02482](https://boj.kr/2482) | 색상환 | Gold 3 | [C++](./02xxx/2482. 색상환/색상환.cc) |
 | [02484](https://boj.kr/2484) | 주사위 네개 | Bronze 2 | [Java](./02xxx/2484. 주사위 네개/주사위 네개.java) |
 | [02485](https://boj.kr/2485) | 가로수 | Silver 4 | [Java](./02xxx/2485. 가로수/가로수.java) |
@@ -1182,6 +1182,7 @@
 | [06497](https://boj.kr/6497) | 전력난 | Gold 4 | [Java](./06xxx/6497. 전력난/전력난.java) |
 | [06500](https://boj.kr/6500) | 랜덤 숫자 만들기 | Bronze 2 | [Java](./06xxx/6500. 랜덤 숫자 만들기/랜덤 숫자 만들기.java) |
 | [06502](https://boj.kr/6502) | 동혁 피자 | Bronze 2 | [Java](./06xxx/6502. 동혁 피자/동혁 피자.java) |
+| [06515](https://boj.kr/6515) | Frequent values | Platinum 2 | [C++](./06xxx/6515. Frequent values/Frequent values.cc) |
 | [06543](https://boj.kr/6543) | 그래프의 싱크 | Platinum 4 | [C++](./06xxx/6543. 그래프의 싱크/그래프의 싱크.cc) |
 | [06549](https://boj.kr/6549) | 히스토그램에서 가장 큰 직사각형 | Platinum 5 | [C++](./06xxx/6549. 히스토그램에서 가장 큰 직사각형/히스토그램에서 가장 큰 직사각형.cc) |
 | [06550](https://boj.kr/6550) | 부분 문자열 | Silver 5 | [Java](./06xxx/6550. 부분 문자열/부분 문자열.java) |
@@ -4467,5 +4468,6 @@
 | [33756](https://boj.kr/33756) | 88888 | Silver 3 | [C++](./33xxx/33756. 88888/88888.cc) |
 | [33779](https://boj.kr/33779) | Back and Forth | Bronze 3 | [C++](./33xxx/33779. Back and Forth/Back and Forth.cc) |
 | [33810](https://boj.kr/33810) | SciComLove (2025) | Bronze 4 | [C++](./33xxx/33810. SciComLove （2025）/SciComLove （2025）.cc) |
+| [33835](https://boj.kr/33835) | 도로 공사 | Bronze 1 | [C++](./33xxx/33835. 도로 공사/도로 공사.cc) |
 | [33845](https://boj.kr/33845) | PNUPC에 한 번도 빠지지 않고 출연한 산지니가 새삼 대단하다고 느껴지네 | Bronze 3 | [C++](./33xxx/33845. PNUPC에 한 번도 빠지지 않고 출연한 산지니가 새삼 대단하다고 느껴지네/PNUPC에 한 번도 빠지지 않고 출연한 산지니가 새삼 대단하다고 느껴지네.cc) |
 </div>
