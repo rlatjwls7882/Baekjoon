@@ -2310,7 +2310,7 @@
 | [14670](https://boj.kr/14670) | 병약한 영정 | Silver 4 | [Java](./14xxx/14670. 병약한 영정/병약한 영정.java) |
 | [14674](https://boj.kr/14674) | STOP USING MONEY | Silver 3 | [C++](./14xxx/14674. STOP USING MONEY/STOP USING MONEY.cc) |
 | [14675](https://boj.kr/14675) | 단절점과 단절선 | Silver 1 | [C++](./14xxx/14675. 단절점과 단절선/단절점과 단절선.cc) |
-| [14678](https://boj.kr/14678) | 어그로 끌린 영선 | Gold 2 | [C++](./14xxx/14678. 어그로 끌린 영선/어그로 끌린 영선.cc) |
+| [14678](https://boj.kr/14678) | 어그로 끌린 영선 | Gold 1 | [C++](./14xxx/14678. 어그로 끌린 영선/어그로 끌린 영선.cc) |
 | [14681](https://boj.kr/14681) | 사분면 고르기 | Bronze 5 | [C](./14xxx/14681. 사분면 고르기/사분면 고르기.c) |
 | [14682](https://boj.kr/14682) | Shifty Sum | Bronze 3 | [Java](./14xxx/14682. Shifty Sum/Shifty Sum.java) |
 | [14683](https://boj.kr/14683) | Exactly Electrical | Bronze 3 | [Java](./14xxx/14683. Exactly Electrical/Exactly Electrical.java) |
@@ -4469,5 +4469,7 @@
 | [33779](https://boj.kr/33779) | Back and Forth | Bronze 3 | [C++](./33xxx/33779. Back and Forth/Back and Forth.cc) |
 | [33810](https://boj.kr/33810) | SciComLove (2025) | Bronze 4 | [C++](./33xxx/33810. SciComLove （2025）/SciComLove （2025）.cc) |
 | [33835](https://boj.kr/33835) | 도로 공사 | Bronze 1 | [C++](./33xxx/33835. 도로 공사/도로 공사.cc) |
+| [33836](https://boj.kr/33836) | 벌집우주와 쿼리 | Silver 4 | |
+| [33837](https://boj.kr/33837) | gcd와 set | Gold 3 | |
 | [33845](https://boj.kr/33845) | PNUPC에 한 번도 빠지지 않고 출연한 산지니가 새삼 대단하다고 느껴지네 | Bronze 3 | [C++](./33xxx/33845. PNUPC에 한 번도 빠지지 않고 출연한 산지니가 새삼 대단하다고 느껴지네/PNUPC에 한 번도 빠지지 않고 출연한 산지니가 새삼 대단하다고 느껴지네.cc) |
 </div>
