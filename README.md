@@ -2257,7 +2257,7 @@
 | [14501](https://boj.kr/14501) | 퇴사 | Silver 3 | [Java](./14xxx/14501. 퇴사/퇴사.java) |
 | [14502](https://boj.kr/14502) | 연구소 | Gold 4 | [C++](./14xxx/14502. 연구소/연구소.cc) |
 | [14503](https://boj.kr/14503) | 로봇 청소기 | Gold 5 | [C++](./14xxx/14503. 로봇 청소기/로봇 청소기.cc) |
-| [14530](https://boj.kr/14530) | The Lost Cow | Bronze 2 | [Java](./14xxx/14530. The Lost Cow/The Lost Cow.java) |
+| [14530](https://boj.kr/14530) | The Lost Cow | Bronze 1 | [Java](./14xxx/14530. The Lost Cow/The Lost Cow.java) |
 | [14534](https://boj.kr/14534) | String Permutation | Silver 4 | [Java](./14xxx/14534. String Permutation/String Permutation.java) |
 | [14535](https://boj.kr/14535) | Birthday Graph | Bronze 3 | [Java](./14xxx/14535. Birthday Graph/Birthday Graph.java) |
 | [14539](https://boj.kr/14539) | Grid Pattern | Bronze 2 | [Java](./14xxx/14539. Grid Pattern/Grid Pattern.java) |
@@ -4473,4 +4473,5 @@
 | [33837](https://boj.kr/33837) | gcd와 set | Gold 3 | |
 | [33839](https://boj.kr/33839) | 분탕의 신 아이보리 3 | Platinum 4 | |
 | [33845](https://boj.kr/33845) | PNUPC에 한 번도 빠지지 않고 출연한 산지니가 새삼 대단하다고 느껴지네 | Bronze 3 | [C++](./33xxx/33845. PNUPC에 한 번도 빠지지 않고 출연한 산지니가 새삼 대단하다고 느껴지네/PNUPC에 한 번도 빠지지 않고 출연한 산지니가 새삼 대단하다고 느껴지네.cc) |
+| [33846](https://boj.kr/33846) | 삽입 정렬을 해볼까 | Silver 5 | |
 </div>
