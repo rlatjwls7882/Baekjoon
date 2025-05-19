@@ -4455,6 +4455,7 @@
 | [33654](https://boj.kr/33654) | Sort of Sort | Bronze 2 | [C++](./33xxx/33654. Sort of Sort/Sort of Sort.cc) |
 | [33663](https://boj.kr/33663) | 루미의 진정한™ 보라색 찾기 | Bronze 3 | [C++](./33xxx/33663. 루미의 진정한™ 보라색 찾기/루미의 진정한™ 보라색 찾기.cc) |
 | [33674](https://boj.kr/33674) | 하늘에서 떨어지는 $N$개의 별 | Bronze 2 | [C++](./33xxx/33674. 하늘에서 떨어지는 $N$개의 별/하늘에서 떨어지는 $N$개의 별.cc) |
+| [33675](https://boj.kr/33675) | L-트로미노 타일링 | Bronze 1 | |
 | [33689](https://boj.kr/33689) | CPDU | Bronze 4 | [C++](./33xxx/33689. CPDU/CPDU.cc) |
 | [33701](https://boj.kr/33701) | 새천년관 | Bronze 4 | [Text](./33xxx/33701. 새천년관/새천년관.txt) |
 | [33702](https://boj.kr/33702) | 비밀번호 | Bronze 2 | [C++](./33xxx/33702. 비밀번호/비밀번호.cc) |
@@ -4474,4 +4475,5 @@
 | [33839](https://boj.kr/33839) | 분탕의 신 아이보리 3 | Platinum 4 | |
 | [33845](https://boj.kr/33845) | PNUPC에 한 번도 빠지지 않고 출연한 산지니가 새삼 대단하다고 느껴지네 | Bronze 3 | [C++](./33xxx/33845. PNUPC에 한 번도 빠지지 않고 출연한 산지니가 새삼 대단하다고 느껴지네/PNUPC에 한 번도 빠지지 않고 출연한 산지니가 새삼 대단하다고 느껴지네.cc) |
 | [33846](https://boj.kr/33846) | 삽입 정렬을 해볼까 | Silver 5 | |
+| [33883](https://boj.kr/33883) | Acentuación del idioma español | Bronze 3 | |
 </div>
