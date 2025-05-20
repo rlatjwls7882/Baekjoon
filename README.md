@@ -4455,7 +4455,7 @@
 | [33654](https://boj.kr/33654) | Sort of Sort | Bronze 2 | [C++](./33xxx/33654. Sort of Sort/Sort of Sort.cc) |
 | [33663](https://boj.kr/33663) | 루미의 진정한™ 보라색 찾기 | Bronze 3 | [C++](./33xxx/33663. 루미의 진정한™ 보라색 찾기/루미의 진정한™ 보라색 찾기.cc) |
 | [33674](https://boj.kr/33674) | 하늘에서 떨어지는 $N$개의 별 | Bronze 2 | [C++](./33xxx/33674. 하늘에서 떨어지는 $N$개의 별/하늘에서 떨어지는 $N$개의 별.cc) |
-| [33675](https://boj.kr/33675) | L-트로미노 타일링 | Bronze 1 | |
+| [33675](https://boj.kr/33675) | L-트로미노 타일링 | Bronze 1 | [C++](./33xxx/33675. L－트로미노 타일링/L－트로미노 타일링.cc) |
 | [33689](https://boj.kr/33689) | CPDU | Bronze 4 | [C++](./33xxx/33689. CPDU/CPDU.cc) |
 | [33701](https://boj.kr/33701) | 새천년관 | Bronze 4 | [Text](./33xxx/33701. 새천년관/새천년관.txt) |
 | [33702](https://boj.kr/33702) | 비밀번호 | Bronze 2 | [C++](./33xxx/33702. 비밀번호/비밀번호.cc) |
@@ -4465,15 +4465,16 @@
 | [33706](https://boj.kr/33706) | 오름차순 최단 경로 | Gold 4 | [C++](./33xxx/33706. 오름차순 최단 경로/오름차순 최단 경로.cc) |
 | [33707](https://boj.kr/33707) | 젓가락으로 메추리알 집기 | Gold 4 | [C++](./33xxx/33707. 젓가락으로 메추리알 집기/젓가락으로 메추리알 집기.cc) |
 | [33708](https://boj.kr/33708) | 인수분해 정렬 | Gold 3 | [C++](./33xxx/33708. 인수분해 정렬/인수분해 정렬.cc) |
+| [33709](https://boj.kr/33709) | 치매예방수칙 3.3.3 | Bronze 1 | [C++](./33xxx/33709. 치매예방수칙 3．3．3/치매예방수칙 3．3．3.cc) |
 | [33753](https://boj.kr/33753) | 주차 요금 정산하기 | Bronze 3 | [C++](./33xxx/33753. 주차 요금 정산하기/주차 요금 정산하기.cc) |
 | [33756](https://boj.kr/33756) | 88888 | Silver 3 | [C++](./33xxx/33756. 88888/88888.cc) |
 | [33779](https://boj.kr/33779) | Back and Forth | Bronze 3 | [C++](./33xxx/33779. Back and Forth/Back and Forth.cc) |
 | [33810](https://boj.kr/33810) | SciComLove (2025) | Bronze 4 | [C++](./33xxx/33810. SciComLove （2025）/SciComLove （2025）.cc) |
 | [33835](https://boj.kr/33835) | 도로 공사 | Bronze 1 | [C++](./33xxx/33835. 도로 공사/도로 공사.cc) |
-| [33836](https://boj.kr/33836) | 벌집우주와 쿼리 | Silver 4 | |
-| [33837](https://boj.kr/33837) | gcd와 set | Gold 3 | |
-| [33839](https://boj.kr/33839) | 분탕의 신 아이보리 3 | Platinum 4 | |
+| [33836](https://boj.kr/33836) | 벌집우주와 쿼리 | Silver 4 | [C++](./33xxx/33836. 벌집우주와 쿼리/벌집우주와 쿼리.cc) |
+| [33837](https://boj.kr/33837) | gcd와 set | Gold 3 | [C++](./33xxx/33837. gcd와 set/gcd와 set.cc) |
+| [33839](https://boj.kr/33839) | 분탕의 신 아이보리 3 | Platinum 4 | [C++](./33xxx/33839. 분탕의 신 아이보리 3/분탕의 신 아이보리 3.cc) |
 | [33845](https://boj.kr/33845) | PNUPC에 한 번도 빠지지 않고 출연한 산지니가 새삼 대단하다고 느껴지네 | Bronze 3 | [C++](./33xxx/33845. PNUPC에 한 번도 빠지지 않고 출연한 산지니가 새삼 대단하다고 느껴지네/PNUPC에 한 번도 빠지지 않고 출연한 산지니가 새삼 대단하다고 느껴지네.cc) |
-| [33846](https://boj.kr/33846) | 삽입 정렬을 해볼까 | Silver 5 | |
-| [33883](https://boj.kr/33883) | Acentuación del idioma español | Bronze 3 | |
+| [33846](https://boj.kr/33846) | 삽입 정렬을 해볼까 | Silver 5 | [C++](./33xxx/33846. 삽입 정렬을 해볼까/삽입 정렬을 해볼까.cc) |
+| [33883](https://boj.kr/33883) | Acentuación del idioma español | Bronze 3 | [C++](./33xxx/33883. Acentuación del idioma español/Acentuación del idioma español.cc) |
 </div>
