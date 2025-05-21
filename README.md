@@ -643,7 +643,7 @@
 | [02739](https://boj.kr/2739) | 구구단 | Bronze 5 | [C](./02xxx/2739. 구구단/구구단.c) [C++](./02xxx/2739. 구구단/구구단.cc) |
 | [02740](https://boj.kr/2740) | 행렬 곱셈 | Silver 5 | [C++](./02xxx/2740. 행렬 곱셈/행렬 곱셈.cc) |
 | [02741](https://boj.kr/2741) | N 찍기 | Bronze 5 | [C](./02xxx/2741. N 찍기/N 찍기.c) |
-| [02742](https://boj.kr/2742) | 기찍 N | Bronze 4 | [C](./02xxx/2742. 기찍 N/기찍 N.c) |
+| [02742](https://boj.kr/2742) | 기찍 N | Bronze 5 | [C](./02xxx/2742. 기찍 N/기찍 N.c) |
 | [02743](https://boj.kr/2743) | 단어 길이 재기 | Bronze 5 | [C](./02xxx/2743. 단어 길이 재기/단어 길이 재기.c) |
 | [02744](https://boj.kr/2744) | 대소문자 바꾸기 | Bronze 5 | [C](./02xxx/2744. 대소문자 바꾸기/대소문자 바꾸기.c) |
 | [02745](https://boj.kr/2745) | 진법 변환 | Bronze 2 | [Java](./02xxx/2745. 진법 변환/진법 변환.java) |
@@ -4477,4 +4477,6 @@
 | [33845](https://boj.kr/33845) | PNUPC에 한 번도 빠지지 않고 출연한 산지니가 새삼 대단하다고 느껴지네 | Bronze 3 | [C++](./33xxx/33845. PNUPC에 한 번도 빠지지 않고 출연한 산지니가 새삼 대단하다고 느껴지네/PNUPC에 한 번도 빠지지 않고 출연한 산지니가 새삼 대단하다고 느껴지네.cc) |
 | [33846](https://boj.kr/33846) | 삽입 정렬을 해볼까 | Silver 5 | [C++](./33xxx/33846. 삽입 정렬을 해볼까/삽입 정렬을 해볼까.cc) |
 | [33883](https://boj.kr/33883) | Acentuación del idioma español | Bronze 3 | [C++](./33xxx/33883. Acentuación del idioma español/Acentuación del idioma español.cc) |
+| [33964](https://boj.kr/33964) | 레퓨닛의 덧셈 | Bronze 4 | [C++](./33xxx/33964. 레퓨닛의 덧셈/레퓨닛의 덧셈.cc) |
+| [33965](https://boj.kr/33965) | 주사위 피라미드 | Silver 5 | [C++](./33xxx/33965. 주사위 피라미드/주사위 피라미드.cc) |
 </div>
