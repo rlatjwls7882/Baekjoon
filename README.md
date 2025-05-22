@@ -1982,7 +1982,7 @@
 | [12250](https://boj.kr/12250) | New Lottery Game (Small) | Bronze 3 | [Java](./12xxx/12250. New Lottery Game （Small）/New Lottery Game （Small）.java) |
 | [12285](https://boj.kr/12285) | Spaceship Defence (Large) | Gold 2 | [C++](./12xxx/12285. Spaceship Defence （Large）/Spaceship Defence （Large）.cc) |
 | [12313](https://boj.kr/12313) | Erdős–Szekeres (Small) | Gold 3 | [C++](./12xxx/12313. Erdős–Szekeres （Small）/Erdős–Szekeres （Small）.cc) |
-| [12348](https://boj.kr/12348) | 분해합 2 | Gold 5 | [Java](./12xxx/12348. 분해합 2/분해합 2.java) |
+| [12348](https://boj.kr/12348) | 분해합 2 | Silver 1 | [Java](./12xxx/12348. 분해합 2/분해합 2.java) |
 | [12351](https://boj.kr/12351) | Hedgemony (Small) | Bronze 3 | [Java](./12xxx/12351. Hedgemony （Small）/Hedgemony （Small）.java) |
 | [12352](https://boj.kr/12352) | Hedgemony (Large) | Bronze 3 | [Java](./12xxx/12352. Hedgemony （Large）/Hedgemony （Large）.java) |
 | [12353](https://boj.kr/12353) | Dr. Spaceman의 특별한 알고리즘 | Bronze 2 | [Java](./12xxx/12353. Dr． Spaceman의 특별한 알고리즘/Dr． Spaceman의 특별한 알고리즘.java) |
