@@ -1689,7 +1689,7 @@
 | [10814](https://boj.kr/10814) | 나이순 정렬 | Silver 5 | [Java](./10xxx/10814. 나이순 정렬/나이순 정렬.java) |
 | [10815](https://boj.kr/10815) | 숫자 카드 | Silver 5 | [Java](./10xxx/10815. 숫자 카드/숫자 카드.java) |
 | [10816](https://boj.kr/10816) | 숫자 카드 2 | Silver 4 | [Java](./10xxx/10816. 숫자 카드 2/숫자 카드 2.java) |
-| [10817](https://boj.kr/10817) | 세 수 | Bronze 3 | [Java](./10xxx/10817. 세 수/세 수.java) |
+| [10817](https://boj.kr/10817) | 세 수 | Bronze 4 | [Java](./10xxx/10817. 세 수/세 수.java) |
 | [10818](https://boj.kr/10818) | 최소, 최대 | Bronze 3 | [C](./10xxx/10818. 최소， 최대/최소， 최대.c) |
 | [10819](https://boj.kr/10819) | 차이를 최대로 | Silver 2 | [C++](./10xxx/10819. 차이를 최대로/차이를 최대로.cc) |
 | [10820](https://boj.kr/10820) | 문자열 분석 | Bronze 2 | [Java](./10xxx/10820. 문자열 분석/문자열 분석.java) |
@@ -4479,4 +4479,5 @@
 | [33883](https://boj.kr/33883) | Acentuación del idioma español | Bronze 3 | [C++](./33xxx/33883. Acentuación del idioma español/Acentuación del idioma español.cc) |
 | [33964](https://boj.kr/33964) | 레퓨닛의 덧셈 | Bronze 4 | [C++](./33xxx/33964. 레퓨닛의 덧셈/레퓨닛의 덧셈.cc) |
 | [33965](https://boj.kr/33965) | 주사위 피라미드 | Silver 5 | [C++](./33xxx/33965. 주사위 피라미드/주사위 피라미드.cc) |
+| [33967](https://boj.kr/33967) | SCSC 기차 놀이 | Silver 5 | [C++](./33xxx/33967. SCSC 기차 놀이/SCSC 기차 놀이.cc) |
 </div>
