@@ -4,7 +4,7 @@
 
 ## 문제 설명
 
-<p style="text-align: center;"><img alt="" src=""></p>
+<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/04d459be-9d59-47fc-a944-a7d764595b4d/-/preview/"></p>
 
 <blockquote>
 <p>Electronic exchanges play an important role in the world financial system, acting as focal points where actors from across the world meet to trade with each other.</p>
