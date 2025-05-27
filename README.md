@@ -461,7 +461,7 @@
 | [02248](https://boj.kr/2248) | 이진수 찾기 | Gold 3 | [C++](./02xxx/2248. 이진수 찾기/이진수 찾기.cc) |
 | [02250](https://boj.kr/2250) | 트리의 높이와 너비 | Gold 2 | [C++](./02xxx/2250. 트리의 높이와 너비/트리의 높이와 너비.cc) |
 | [02252](https://boj.kr/2252) | 줄 세우기 | Gold 3 | [Java](./02xxx/2252. 줄 세우기/줄 세우기.java) |
-| [02257](https://boj.kr/2257) | 화학식량 | Silver 2 | [C++](./02xxx/2257. 화학식량/화학식량.cc) |
+| [02257](https://boj.kr/2257) | 화학식량 | Silver 1 | [C++](./02xxx/2257. 화학식량/화학식량.cc) |
 | [02263](https://boj.kr/2263) | 트리의 순회 | Gold 1 | [C++](./02xxx/2263. 트리의 순회/트리의 순회.cc) |
 | [02268](https://boj.kr/2268) | 수들의 합 7 | Gold 1 | [C++](./02xxx/2268. 수들의 합 7/수들의 합 7.cc) |
 | [02290](https://boj.kr/2290) | LCD Test | Silver 2 | [C++](./02xxx/2290. LCD Test/LCD Test.cc) |
@@ -4482,6 +4482,6 @@
 | [33964](https://boj.kr/33964) | 레퓨닛의 덧셈 | Bronze 4 | [C++](./33xxx/33964. 레퓨닛의 덧셈/레퓨닛의 덧셈.cc) |
 | [33965](https://boj.kr/33965) | 주사위 피라미드 | Silver 5 | [C++](./33xxx/33965. 주사위 피라미드/주사위 피라미드.cc) |
 | [33967](https://boj.kr/33967) | SCSC 기차 놀이 | Silver 5 | [C++](./33xxx/33967. SCSC 기차 놀이/SCSC 기차 놀이.cc) |
-| [33973](https://boj.kr/33973) | Sorting Replay at Jane Street | Platinum 5 | |
-| [33977](https://boj.kr/33977) | $K$-POP | Gold 4 | [C++](./33xxx/33977. $K$－POP/$K$－POP.cc) |
+| [33973](https://boj.kr/33973) | Sorting Replay at Jane Street | Gold 1 | [C++](./33xxx/33973. Sorting Replay at Jane Street/Sorting Replay at Jane Street.cc) |
+| [33977](https://boj.kr/33977) | $K$-POP | Gold 5 | [C++](./33xxx/33977. $K$－POP/$K$－POP.cc) |
 </div>
