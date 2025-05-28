@@ -2673,7 +2673,7 @@
 | [16738](https://boj.kr/16738) | 초특가 숭놀자 | Silver 3 | [C++](./16xxx/16738. 초특가 숭놀자/초특가 숭놀자.cc) |
 | [16755](https://boj.kr/16755) | Magnus | Bronze 1 | [Java](./16xxx/16755. Magnus/Magnus.java) |
 | [16769](https://boj.kr/16769) | Mixing Milk | Bronze 2 | [Java](./16xxx/16769. Mixing Milk/Mixing Milk.java) |
-| [16770](https://boj.kr/16770) | The Bucket List | Bronze 2 | [Java](./16xxx/16770. The Bucket List/The Bucket List.java) |
+| [16770](https://boj.kr/16770) | The Bucket List | Bronze 1 | [Java](./16xxx/16770. The Bucket List/The Bucket List.java) |
 | [16785](https://boj.kr/16785) | ソーシャルゲーム (Social Game) | Bronze 3 | [Java](./16xxx/16785. ソーシャルゲーム （Social Game）/ソーシャルゲーム （Social Game）.java) |
 | [16786](https://boj.kr/16786) | すごろくと駒 (Sugoroku and Pieces) | Bronze 2 | [Java](./16xxx/16786. すごろくと駒 （Sugoroku and Pieces）/すごろくと駒 （Sugoroku and Pieces）.java) |
 | [16787](https://boj.kr/16787) | マルバツスタンプ (Circle Cross Stamps) | Bronze 1 | [C++](./16xxx/16787. マルバツスタンプ （Circle Cross Stamps）/マルバツスタンプ （Circle Cross Stamps）.cc) |
@@ -4483,5 +4483,6 @@
 | [33965](https://boj.kr/33965) | 주사위 피라미드 | Silver 5 | [C++](./33xxx/33965. 주사위 피라미드/주사위 피라미드.cc) |
 | [33967](https://boj.kr/33967) | SCSC 기차 놀이 | Silver 5 | [C++](./33xxx/33967. SCSC 기차 놀이/SCSC 기차 놀이.cc) |
 | [33973](https://boj.kr/33973) | Sorting Replay at Jane Street | Gold 1 | [C++](./33xxx/33973. Sorting Replay at Jane Street/Sorting Replay at Jane Street.cc) |
-| [33977](https://boj.kr/33977) | $K$-POP | Gold 5 | [C++](./33xxx/33977. $K$－POP/$K$－POP.cc) |
+| [33977](https://boj.kr/33977) | $K$-POP | Gold 4 | [C++](./33xxx/33977. $K$－POP/$K$－POP.cc) |
+| [33983](https://boj.kr/33983) | 물과 응애 | Gold 4 | [C++](./33xxx/33983. 물과 응애/물과 응애.cc) |
 </div>
