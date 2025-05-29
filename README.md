@@ -3464,7 +3464,7 @@
 | [24751](https://boj.kr/24751) | Betting | Bronze 4 | [C](./24xxx/24751. Betting/Betting.c) |
 | [24765](https://boj.kr/24765) | Mia | Bronze 2 | [Java](./24xxx/24765. Mia/Mia.java) |
 | [24767](https://boj.kr/24767) | Beehives | Bronze 2 | [Java](./24xxx/24767. Beehives/Beehives.java) |
-| [24768](https://boj.kr/24768) | Left Beehind | Bronze 3 | [Java](./24xxx/24768. Left Beehind/Left Beehind.java) |
+| [24768](https://boj.kr/24768) | Left Beehind | Bronze 4 | [Java](./24xxx/24768. Left Beehind/Left Beehind.java) |
 | [24769](https://boj.kr/24769) | Beekeeper | Bronze 2 | [Java](./24xxx/24769. Beekeeper/Beekeeper.java) |
 | [24770](https://boj.kr/24770) | Carousel Rides | Bronze 2 | [Java](./24xxx/24770. Carousel Rides/Carousel Rides.java) |
 | [24783](https://boj.kr/24783) | Number Fun | Bronze 3 | [Java](./24xxx/24783. Number Fun/Number Fun.java) |
@@ -4485,4 +4485,5 @@
 | [33973](https://boj.kr/33973) | Sorting Replay at Jane Street | Gold 1 | [C++](./33xxx/33973. Sorting Replay at Jane Street/Sorting Replay at Jane Street.cc) |
 | [33977](https://boj.kr/33977) | $K$-POP | Gold 4 | [C++](./33xxx/33977. $K$－POP/$K$－POP.cc) |
 | [33983](https://boj.kr/33983) | 물과 응애 | Gold 4 | [C++](./33xxx/33983. 물과 응애/물과 응애.cc) |
+| [33990](https://boj.kr/33990) | 3대 512 | Bronze 3 | [C++](./33xxx/33990. 3대 512/3대 512.cc) |
 </div>
