@@ -4480,6 +4480,7 @@
 | [33868](https://boj.kr/33868) | 스티커 나눠주기 | Bronze 3 | |
 | [33883](https://boj.kr/33883) | Acentuación del idioma español | Bronze 3 | [C++](./33xxx/33883. Acentuación del idioma español/Acentuación del idioma español.cc) |
 | [33909](https://boj.kr/33909) | 알파벳 블록 | Bronze 3 | [C++](./33xxx/33909. 알파벳 블록/알파벳 블록.cc) |
+| [33950](https://boj.kr/33950) | 어게인 포닉스 | Bronze 3 | |
 | [33964](https://boj.kr/33964) | 레퓨닛의 덧셈 | Bronze 4 | [C++](./33xxx/33964. 레퓨닛의 덧셈/레퓨닛의 덧셈.cc) |
 | [33965](https://boj.kr/33965) | 주사위 피라미드 | Silver 5 | [C++](./33xxx/33965. 주사위 피라미드/주사위 피라미드.cc) |
 | [33967](https://boj.kr/33967) | SCSC 기차 놀이 | Silver 5 | [C++](./33xxx/33967. SCSC 기차 놀이/SCSC 기차 놀이.cc) |
