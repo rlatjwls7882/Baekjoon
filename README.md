@@ -2135,6 +2135,7 @@
 | [13528](https://boj.kr/13528) | Grass Seed Inc. | Bronze 3 | [Java](./13xxx/13528. Grass Seed Inc．/Grass Seed Inc．.java) |
 | [13532](https://boj.kr/13532) | 악마의 수열 | Gold 2 | [C++](./13xxx/13532. 악마의 수열/악마의 수열.cc) |
 | [13544](https://boj.kr/13544) | 수열과 쿼리 3 | Platinum 3 | [C++](./13xxx/13544. 수열과 쿼리 3/수열과 쿼리 3.cc) |
+| [13545](https://boj.kr/13545) | 수열과 쿼리 0 | Diamond 4 | [C++](./13xxx/13545. 수열과 쿼리 0/수열과 쿼리 0.cc) |
 | [13546](https://boj.kr/13546) | 수열과 쿼리 4 | Diamond 4 | [C++](./13xxx/13546. 수열과 쿼리 4/수열과 쿼리 4.cc) |
 | [13547](https://boj.kr/13547) | 수열과 쿼리 5 | Platinum 2 | [C++](./13xxx/13547. 수열과 쿼리 5/수열과 쿼리 5.cc) |
 | [13548](https://boj.kr/13548) | 수열과 쿼리 6 | Platinum 1 | [C++](./13xxx/13548. 수열과 쿼리 6/수열과 쿼리 6.cc) |
@@ -4477,10 +4478,10 @@
 | [33839](https://boj.kr/33839) | 분탕의 신 아이보리 3 | Platinum 4 | [C++](./33xxx/33839. 분탕의 신 아이보리 3/분탕의 신 아이보리 3.cc) |
 | [33845](https://boj.kr/33845) | PNUPC에 한 번도 빠지지 않고 출연한 산지니가 새삼 대단하다고 느껴지네 | Bronze 3 | [C++](./33xxx/33845. PNUPC에 한 번도 빠지지 않고 출연한 산지니가 새삼 대단하다고 느껴지네/PNUPC에 한 번도 빠지지 않고 출연한 산지니가 새삼 대단하다고 느껴지네.cc) |
 | [33846](https://boj.kr/33846) | 삽입 정렬을 해볼까 | Silver 5 | [C++](./33xxx/33846. 삽입 정렬을 해볼까/삽입 정렬을 해볼까.cc) |
-| [33868](https://boj.kr/33868) | 스티커 나눠주기 | Bronze 3 | |
+| [33868](https://boj.kr/33868) | 스티커 나눠주기 | Bronze 3 | [C++](./33xxx/33868. 스티커 나눠주기/스티커 나눠주기.cc) |
 | [33883](https://boj.kr/33883) | Acentuación del idioma español | Bronze 3 | [C++](./33xxx/33883. Acentuación del idioma español/Acentuación del idioma español.cc) |
 | [33909](https://boj.kr/33909) | 알파벳 블록 | Bronze 3 | [C++](./33xxx/33909. 알파벳 블록/알파벳 블록.cc) |
-| [33950](https://boj.kr/33950) | 어게인 포닉스 | Bronze 3 | |
+| [33950](https://boj.kr/33950) | 어게인 포닉스 | Bronze 3 | [C++](./33xxx/33950. 어게인 포닉스/어게인 포닉스.cc) |
 | [33964](https://boj.kr/33964) | 레퓨닛의 덧셈 | Bronze 4 | [C++](./33xxx/33964. 레퓨닛의 덧셈/레퓨닛의 덧셈.cc) |
 | [33965](https://boj.kr/33965) | 주사위 피라미드 | Silver 5 | [C++](./33xxx/33965. 주사위 피라미드/주사위 피라미드.cc) |
 | [33967](https://boj.kr/33967) | SCSC 기차 놀이 | Silver 5 | [C++](./33xxx/33967. SCSC 기차 놀이/SCSC 기차 놀이.cc) |
