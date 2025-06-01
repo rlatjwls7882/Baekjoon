@@ -1,10 +1,10 @@
 #include<bits/stdc++.h>
 using namespace std;
 
-int n, k, sqrtN=1000;
+int n, k, sqrtN=316;
 long long preSum[100'001];
 vector<list<int>> deqs(1'000'001);
-int bucket[1'001], cnt[1'000'001];
+int bucket[1'001], cnt[100'001 + 316];
 
 struct query {
     int s, e, idx;
@@ -16,16 +16,16 @@ struct query {
 
 void prevSum(int idx) {
     if(deqs[idx].size()<=1) return;
-    idx = deqs[idx].back() - deqs[idx].front();
-    cnt[idx]--;
-    bucket[idx/sqrtN]--;
+    int diff = deqs[idx].back() - deqs[idx].front();
+    cnt[diff]--;
+    bucket[diff/sqrtN]--;
 }
 
 void nextSum(int idx) {
     if(deqs[idx].size()<=1) return;
-    idx = deqs[idx].back() - deqs[idx].front();
-    cnt[idx]++;
-    bucket[idx/sqrtN]++;
+    int diff = deqs[idx].back() - deqs[idx].front();
+    cnt[diff]++;
+    bucket[diff/sqrtN]++;
 }
 
 int getMax() {
@@ -57,7 +57,7 @@ int main() {
     sort(queries.begin(), queries.end());
 
     deqs[0].push_front(0); // init
-    int left=0, right=0; // left ~ right 까지의 범위
+    int left=0, right=0; // left+1 ~ right 까지의 범위
     vector<int> res(m);
     for(int i=0;i<m;i++) {
         while(queries[i].s<left) {
