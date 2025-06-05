@@ -911,7 +911,7 @@
 | [04459](https://boj.kr/4459) | Always Follow the Rules in Zombieland | Bronze 3 | [Java](./04xxx/4459. Always Follow the Rules in Zombieland/Always Follow the Rules in Zombieland.java) |
 | [04470](https://boj.kr/4470) | 줄번호 | Bronze 4 | [C](./04xxx/4470. 줄번호/줄번호.c) |
 | [04471](https://boj.kr/4471) | The Navi-Computer is Down! | Bronze 2 | [Java](./04xxx/4471. The Navi－Computer is Down！/The Navi－Computer is Down！.java) |
-| [04482](https://boj.kr/4482) | Tetrahedral Stacks of Cannonballs | Bronze 2 | [Java](./04xxx/4482. Tetrahedral Stacks of Cannonballs/Tetrahedral Stacks of Cannonballs.java) |
+| [04482](https://boj.kr/4482) | Tetrahedral Stacks of Cannonballs | Bronze 1 | [Java](./04xxx/4482. Tetrahedral Stacks of Cannonballs/Tetrahedral Stacks of Cannonballs.java) |
 | [04485](https://boj.kr/4485) | 녹색 옷 입은 애가 젤다지? | Gold 4 | [Java](./04xxx/4485. 녹색 옷 입은 애가 젤다지？/녹색 옷 입은 애가 젤다지？.java) |
 | [04486](https://boj.kr/4486) | Pencils from the 19th Century | Bronze 1 | [Python](./04xxx/4486. Pencils from the 19th Century/Pencils from the 19th Century.py) |
 | [04493](https://boj.kr/4493) | 가위 바위 보? | Bronze 3 | [Java](./04xxx/4493. 가위 바위 보？/가위 바위 보？.java) |
@@ -1237,7 +1237,7 @@
 | [06889](https://boj.kr/6889) | Smile with Similes | Bronze 3 | [Java](./06xxx/6889. Smile with Similes/Smile with Similes.java) |
 | [06890](https://boj.kr/6890) | Simple Encryption | Bronze 2 | [Java](./06xxx/6890. Simple Encryption/Simple Encryption.java) |
 | [06892](https://boj.kr/6892) | Fix | Bronze 2 | [Java](./06xxx/6892. Fix/Fix.java) |
-| [06893](https://boj.kr/6893) | TopYodeller | Silver 5 | [C++](./06xxx/6893. TopYodeller/TopYodeller.cc) |
+| [06893](https://boj.kr/6893) | TopYodeller | Bronze 1 | [C++](./06xxx/6893. TopYodeller/TopYodeller.cc) |
 | [06903](https://boj.kr/6903) | Trident | Bronze 3 | [Java](./06xxx/6903. Trident/Trident.java) |
 | [06904](https://boj.kr/6904) | Picture Perfect | Bronze 2 | [Java](./06xxx/6904. Picture Perfect/Picture Perfect.java) |
 | [06909](https://boj.kr/6909) | Trucking Troubles | Gold 4 | [Java](./06xxx/6909. Trucking Troubles/Trucking Troubles.java) |
@@ -4483,6 +4483,7 @@
 | [33883](https://boj.kr/33883) | Acentuación del idioma español | Bronze 3 | [C++](./33xxx/33883. Acentuación del idioma español/Acentuación del idioma español.cc) |
 | [33909](https://boj.kr/33909) | 알파벳 블록 | Bronze 3 | [C++](./33xxx/33909. 알파벳 블록/알파벳 블록.cc) |
 | [33950](https://boj.kr/33950) | 어게인 포닉스 | Bronze 3 | [C++](./33xxx/33950. 어게인 포닉스/어게인 포닉스.cc) |
+| [33963](https://boj.kr/33963) | 돈복사 | Bronze 2 | [C++](./33xxx/33963. 돈복사/돈복사.cc) |
 | [33964](https://boj.kr/33964) | 레퓨닛의 덧셈 | Bronze 4 | [C++](./33xxx/33964. 레퓨닛의 덧셈/레퓨닛의 덧셈.cc) |
 | [33965](https://boj.kr/33965) | 주사위 피라미드 | Silver 5 | [C++](./33xxx/33965. 주사위 피라미드/주사위 피라미드.cc) |
 | [33967](https://boj.kr/33967) | SCSC 기차 놀이 | Silver 5 | [C++](./33xxx/33967. SCSC 기차 놀이/SCSC 기차 놀이.cc) |
