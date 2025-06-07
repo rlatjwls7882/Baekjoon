@@ -168,6 +168,7 @@
 | [01392](https://boj.kr/1392) | 노래 악보 | Bronze 2 | [Java](./01xxx/1392. 노래 악보/노래 악보.java) |
 | [01393](https://boj.kr/1393) | 음하철도 구구팔 | Silver 1 | [C++](./01xxx/1393. 음하철도 구구팔/음하철도 구구팔.cc) |
 | [01395](https://boj.kr/1395) | 스위치 | Platinum 3 | [C++](./01xxx/1395. 스위치/스위치.cc) |
+| [01396](https://boj.kr/1396) | 크루스칼의 공 | Platinum 1 | |
 | [01402](https://boj.kr/1402) | 아무래도이문제는A번난이도인것같다 | Silver 5 | [Java](./01xxx/1402.%E2%80%85아무래도이문제는A번난이도인것같다/아무래도이문제는A번난이도인것같다.java) |
 | [01404](https://boj.kr/1404) | 토너먼트 승자 | Silver 2 | [C++](./01xxx/1404. 토너먼트 승자/토너먼트 승자.cc) |
 | [01405](https://boj.kr/1405) | 미친 로봇 | Gold 4 | [C++](./01xxx/1405. 미친 로봇/미친 로봇.cc) |
@@ -4480,6 +4481,7 @@
 | [33845](https://boj.kr/33845) | PNUPC에 한 번도 빠지지 않고 출연한 산지니가 새삼 대단하다고 느껴지네 | Bronze 3 | [C++](./33xxx/33845. PNUPC에 한 번도 빠지지 않고 출연한 산지니가 새삼 대단하다고 느껴지네/PNUPC에 한 번도 빠지지 않고 출연한 산지니가 새삼 대단하다고 느껴지네.cc) |
 | [33846](https://boj.kr/33846) | 삽입 정렬을 해볼까 | Silver 5 | [C++](./33xxx/33846. 삽입 정렬을 해볼까/삽입 정렬을 해볼까.cc) |
 | [33868](https://boj.kr/33868) | 스티커 나눠주기 | Bronze 3 | [C++](./33xxx/33868. 스티커 나눠주기/스티커 나눠주기.cc) |
+| [33869](https://boj.kr/33869) | 일기 암호화하기 | Bronze 2 | [C++](./33xxx/33869. 일기 암호화하기/일기 암호화하기.cc) |
 | [33883](https://boj.kr/33883) | Acentuación del idioma español | Bronze 3 | [C++](./33xxx/33883. Acentuación del idioma español/Acentuación del idioma español.cc) |
 | [33909](https://boj.kr/33909) | 알파벳 블록 | Bronze 3 | [C++](./33xxx/33909. 알파벳 블록/알파벳 블록.cc) |
 | [33950](https://boj.kr/33950) | 어게인 포닉스 | Bronze 3 | [C++](./33xxx/33950. 어게인 포닉스/어게인 포닉스.cc) |
