@@ -2664,6 +2664,7 @@
 | [16674](https://boj.kr/16674) | 2018년을 되돌아보며 | Bronze 2 | [Java](./16xxx/16674. 2018년을 되돌아보며/2018년을 되돌아보며.java) |
 | [16675](https://boj.kr/16675) | 두 개의 손 | Bronze 2 | [Java](./16xxx/16675. 두 개의 손/두 개의 손.java) |
 | [16676](https://boj.kr/16676) | 근우의 다이어리 꾸미기 | Bronze 2 | [Java](./16xxx/16676. 근우의 다이어리 꾸미기/근우의 다이어리 꾸미기.java) |
+| [16677](https://boj.kr/16677) | 악마 게임 | Silver 4 | [C++](./16xxx/16677. 악마 게임/악마 게임.cc) |
 | [16693](https://boj.kr/16693) | Pizza Deal | Bronze 4 | [Java](./16xxx/16693. Pizza Deal/Pizza Deal.java) |
 | [16712](https://boj.kr/16712) | Finding Love | Silver 3 | [C++](./16xxx/16712. Finding Love/Finding Love.cc) |
 | [16713](https://boj.kr/16713) | Generic Queries | Silver 2 | [C++](./16xxx/16713. Generic Queries/Generic Queries.cc) |
@@ -4355,7 +4356,7 @@
 | [32335](https://boj.kr/32335) | 부자가 될 거야! | Silver 3 | [C++](./32xxx/32335. 부자가 될 거야！/부자가 될 거야！.cc) |
 | [32337](https://boj.kr/32337) | 제비 통신 | Silver 1 | [C++](./32xxx/32337. 제비 통신/제비 통신.cc) |
 | [32342](https://boj.kr/32342) | 와우와 쿼리 | Bronze 3 | [C++](./32xxx/32342. 와우와 쿼리/와우와 쿼리.cc) |
-| [32343](https://boj.kr/32343) | 드랍 더 비트 | Bronze 1 | |
+| [32343](https://boj.kr/32343) | 드랍 더 비트 | Bronze 1 | [C++](./32xxx/32343. 드랍 더 비트/드랍 더 비트.cc) |
 | [32357](https://boj.kr/32357) | 더블팰린드롬 | Bronze 1 | [C++](./32xxx/32357. 더블팰린드롬/더블팰린드롬.cc) |
 | [32364](https://boj.kr/32364) | Hat Circle | Bronze 3 | [C++](./32xxx/32364. Hat Circle/Hat Circle.cc) |
 | [32369](https://boj.kr/32369) | 양파 실험 | Bronze 4 | [C++](./32xxx/32369. 양파 실험/양파 실험.cc) |
@@ -4485,6 +4486,7 @@
 | [33868](https://boj.kr/33868) | 스티커 나눠주기 | Bronze 3 | [C++](./33xxx/33868. 스티커 나눠주기/스티커 나눠주기.cc) |
 | [33869](https://boj.kr/33869) | 일기 암호화하기 | Bronze 2 | [C++](./33xxx/33869. 일기 암호화하기/일기 암호화하기.cc) |
 | [33883](https://boj.kr/33883) | Acentuación del idioma español | Bronze 3 | [C++](./33xxx/33883. Acentuación del idioma español/Acentuación del idioma español.cc) |
+| [33898](https://boj.kr/33898) | HEPC1 | Bronze 1 | [C++](./33xxx/33898. HEPC1/HEPC1.cc) |
 | [33909](https://boj.kr/33909) | 알파벳 블록 | Bronze 3 | [C++](./33xxx/33909. 알파벳 블록/알파벳 블록.cc) |
 | [33950](https://boj.kr/33950) | 어게인 포닉스 | Bronze 3 | [C++](./33xxx/33950. 어게인 포닉스/어게인 포닉스.cc) |
 | [33963](https://boj.kr/33963) | 돈복사 | Bronze 2 | [C++](./33xxx/33963. 돈복사/돈복사.cc) |
@@ -4496,7 +4498,7 @@
 | [33983](https://boj.kr/33983) | 물과 응애 | Gold 4 | [C++](./33xxx/33983. 물과 응애/물과 응애.cc) |
 | [33990](https://boj.kr/33990) | 3대 512 | Bronze 3 | [C++](./33xxx/33990. 3대 512/3대 512.cc) |
 | [34001](https://boj.kr/34001) | 임스의 일일 퀘스트 | Bronze 3 | [C++](./34xxx/34001. 임스의 일일 퀘스트/임스의 일일 퀘스트.cc) |
-| [34002](https://boj.kr/34002) | 임스의 잠수맵 | Bronze 1 | |
+| [34002](https://boj.kr/34002) | 임스의 잠수맵 | Bronze 1 | [C++](./34xxx/34002. 임스의 잠수맵/임스의 잠수맵.cc) |
 | [34009](https://boj.kr/34009) | Bob부 멍충이 | Bronze 2 | [C++](./34xxx/34009. Bob부 멍충이/Bob부 멍충이.cc) |
 | [34010](https://boj.kr/34010) | e-코너 시스템 테스트 (Easy) | Bronze 2 | [C++](./34xxx/34010. e－코너 시스템 테스트 （Easy）/e－코너 시스템 테스트 （Easy）.cc) |
 | [34021](https://boj.kr/34021) | [T] 스코어보드가 121분 남은 시점에서 프리즈되었습니다. | Bronze 3 | [C++](./34xxx/34021. ［T］ 스코어보드가 121분 남은 시점에서 프리즈되었습니다．/［T］ 스코어보드가 121분 남은 시점에서 프리즈되었습니다．.cc) |
