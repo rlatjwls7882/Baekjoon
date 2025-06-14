@@ -1330,6 +1330,7 @@
 | [07983](https://boj.kr/7983) | 내일 할거야 | Gold 5 | [C++](./07xxx/7983. 내일 할거야/내일 할거야.cc) |
 | [08012](https://boj.kr/8012) | 한동이는 영업사원! | Platinum 5 | [C++](./08xxx/8012. 한동이는 영업사원！/한동이는 영업사원！.cc) |
 | [08063](https://boj.kr/8063) | Three-Coloring of Binary Trees | Gold 2 | [C++](./08xxx/8063. Three－Coloring of Binary Trees/Three－Coloring of Binary Trees.cc) |
+| [08217](https://boj.kr/8217) | 유성 | Diamond 4 | [C++](./08xxx/8217. 유성/유성.cc) |
 | [08246](https://boj.kr/8246) | Stół | Bronze 2 | [Java](./08xxx/8246. Stół/Stół.java) |
 | [08270](https://boj.kr/8270) | Tulips | Bronze 2 | [Java](./08xxx/8270. Tulips/Tulips.java) |
 | [08295](https://boj.kr/8295) | Rectangles | Bronze 2 | [Java](./08xxx/8295. Rectangles/Rectangles.java) |
