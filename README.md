@@ -2573,6 +2573,7 @@
 | [16019](https://boj.kr/16019) | Are we there yet? | Bronze 2 | [Java](./16xxx/16019. Are we there yet？/Are we there yet？.java) |
 | [16020](https://boj.kr/16020) | Sunflowers | Bronze 1 | [Java](./16xxx/16020. Sunflowers/Sunflowers.java) |
 | [16032](https://boj.kr/16032) | Income Inequality | Bronze 2 | [Java](./16xxx/16032. Income Inequality/Income Inequality.java) |
+| [16074](https://boj.kr/16074) | Mountaineers | Diamond 5 | [C++](./16xxx/16074. Mountaineers/Mountaineers.cc) |
 | [16088](https://boj.kr/16088) | Finding Your Coach | Bronze 3 | [Java](./16xxx/16088. Finding Your Coach/Finding Your Coach.java) |
 | [16099](https://boj.kr/16099) | Larger Sport Facility | Bronze 4 | [Java](./16xxx/16099. Larger Sport Facility/Larger Sport Facility.java) |
 | [16103](https://boj.kr/16103) | Drawn and Quartered | Bronze 2 | [Java](./16xxx/16103. Drawn and Quartered/Drawn and Quartered.java) |
@@ -2669,7 +2670,7 @@
 | [16677](https://boj.kr/16677) | 악마 게임 | Silver 4 | [C++](./16xxx/16677. 악마 게임/악마 게임.cc) |
 | [16693](https://boj.kr/16693) | Pizza Deal | Bronze 4 | [Java](./16xxx/16693. Pizza Deal/Pizza Deal.java) |
 | [16712](https://boj.kr/16712) | Finding Love | Silver 3 | [C++](./16xxx/16712. Finding Love/Finding Love.cc) |
-| [16713](https://boj.kr/16713) | Generic Queries | Silver 2 | [C++](./16xxx/16713. Generic Queries/Generic Queries.cc) |
+| [16713](https://boj.kr/16713) | Generic Queries | Silver 1 | [C++](./16xxx/16713. Generic Queries/Generic Queries.cc) |
 | [16715](https://boj.kr/16715) | Inspiration | Bronze 1 | [Java](./16xxx/16715. Inspiration/Inspiration.java) |
 | [16719](https://boj.kr/16719) | ZOAC | Gold 5 | [C++](./16xxx/16719. ZOAC/ZOAC.cc) |
 | [16722](https://boj.kr/16722) | 결! 합! | Gold 5 | [Java](./16xxx/16722. 결！ 합！/결！ 합！.java) |
@@ -4220,7 +4221,7 @@
 | [31418](https://boj.kr/31418) | 스펀지 | Silver 4 | [Java](./31xxx/31418. 스펀지/스펀지.java) |
 | [31428](https://boj.kr/31428) | 엘리스 트랙 매칭 | Bronze 4 | [Java](./31xxx/31428. 엘리스 트랙 매칭/엘리스 트랙 매칭.java) |
 | [31429](https://boj.kr/31429) | SUAPC 2023 Summer | Bronze 5 | [Java](./31xxx/31429. SUAPC 2023 Summer/SUAPC 2023 Summer.java) |
-| [31430](https://boj.kr/31430) | A+B - 투 스텝 | Silver 5 | [C++](./31xxx/31430. A＋B － 투 스텝/A＋B － 투 스텝.cc) |
+| [31430](https://boj.kr/31430) | A+B - 투 스텝 | Silver 4 | [C++](./31xxx/31430. A＋B － 투 스텝/A＋B － 투 스텝.cc) |
 | [31432](https://boj.kr/31432) | 소수가 아닌 수 3 | Bronze 1 | [C++](./31xxx/31432. 소수가 아닌 수 3/소수가 아닌 수 3.cc) |
 | [31448](https://boj.kr/31448) | Ascending hike | Bronze 2 | [Java](./31xxx/31448. Ascending hike/Ascending hike.java) |
 | [31450](https://boj.kr/31450) | Everyone is a winner | Bronze 5 | [Java](./31xxx/31450. Everyone is a winner/Everyone is a winner.java) |
