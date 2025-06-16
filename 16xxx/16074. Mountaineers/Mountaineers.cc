@@ -80,6 +80,7 @@ int main() {
         int mid=0;
         for(edge e : edges) {
             while(mid<e.c || mid<1'000'000 && e == edges.back()) {
+                if(mid>=e.c) _union(e.a, e.b); // 마지막 간선 예외처리
                 for(int i : mids[mid]) {
                     if(_find(queries[i].x1*n+queries[i].y1) == _find(queries[i].x2*n+queries[i].y2)) right[i] = mid;
                     else left[i] = mid+1;
