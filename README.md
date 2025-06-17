@@ -170,7 +170,7 @@
 | [01395](https://boj.kr/1395) | 스위치 | Platinum 3 | [C++](./01xxx/1395. 스위치/스위치.cc) |
 | [01396](https://boj.kr/1396) | 크루스칼의 공 | Platinum 1 | [C++](./01xxx/1396. 크루스칼의 공/크루스칼의 공.cc) |
 | [01402](https://boj.kr/1402) | 아무래도이문제는A번난이도인것같다 | Silver 5 | [Java](./01xxx/1402.%E2%80%85아무래도이문제는A번난이도인것같다/아무래도이문제는A번난이도인것같다.java) |
-| [01404](https://boj.kr/1404) | 토너먼트 승자 | Silver 2 | [C++](./01xxx/1404. 토너먼트 승자/토너먼트 승자.cc) |
+| [01404](https://boj.kr/1404) | 토너먼트 승자 | Silver 1 | [C++](./01xxx/1404. 토너먼트 승자/토너먼트 승자.cc) |
 | [01405](https://boj.kr/1405) | 미친 로봇 | Gold 4 | [C++](./01xxx/1405. 미친 로봇/미친 로봇.cc) |
 | [01406](https://boj.kr/1406) | 에디터 | Silver 2 | [Java](./01xxx/1406. 에디터/에디터.java) |
 | [01407](https://boj.kr/1407) | 2로 몇 번 나누어질까 | Gold 4 | [C++](./01xxx/1407. 2로 몇 번 나누어질까/2로 몇 번 나누어질까.cc) |
@@ -1548,6 +1548,7 @@
 | [09849](https://boj.kr/9849) | Rect | Bronze 1 | [Java](./09xxx/9849. Rect/Rect.java) |
 | [09850](https://boj.kr/9850) | Cipher | Bronze 1 | [Java](./09xxx/9850. Cipher/Cipher.java) |
 | [09865](https://boj.kr/9865) | Undercut | Bronze 2 | [Java](./09xxx/9865. Undercut/Undercut.java) |
+| [09877](https://boj.kr/9877) | Ski Course Rating | Platinum 1 | [C++](./09xxx/9877. Ski Course Rating/Ski Course Rating.cc) |
 | [09883](https://boj.kr/9883) | Morton Numbers | Bronze 2 | [Java](./09xxx/9883. Morton Numbers/Morton Numbers.java) |
 | [09884](https://boj.kr/9884) | Euclid | Bronze 2 | [Java](./09xxx/9884. Euclid/Euclid.java) |
 | [09896](https://boj.kr/9896) | Gray | Bronze 2 | [Java](./09xxx/9896. Gray/Gray.java) |
@@ -2368,7 +2369,7 @@
 | [14924](https://boj.kr/14924) | 폰 노이만과 파리 | Bronze 4 | [C](./14xxx/14924. 폰 노이만과 파리/폰 노이만과 파리.c) |
 | [14925](https://boj.kr/14925) | 목장 건설하기 | Gold 4 | [C++](./14xxx/14925. 목장 건설하기/목장 건설하기.cc) |
 | [14928](https://boj.kr/14928) | 큰 수 (BIG) | Bronze 5 | [Java](./14xxx/14928. 큰 수 （BIG）/큰 수 （BIG）.java) |
-| [14929](https://boj.kr/14929) | 귀찮아 (SIB) | Silver 5 | [Java](./14xxx/14929. 귀찮아 （SIB）/귀찮아 （SIB）.java) |
+| [14929](https://boj.kr/14929) | 귀찮아 (SIB) | Silver 4 | [Java](./14xxx/14929. 귀찮아 （SIB）/귀찮아 （SIB）.java) |
 | [14931](https://boj.kr/14931) | 물수제비 (SUJEBI) | Silver 1 | [Python](./14xxx/14931. 물수제비 （SUJEBI）/물수제비 （SUJEBI）.py) |
 | [14935](https://boj.kr/14935) | FA | Bronze 4 | [Java](./14xxx/14935.%E2%80%85FA/FA.java) |
 | [14938](https://boj.kr/14938) | 서강그라운드 | Gold 4 | [Java](./14xxx/14938. 서강그라운드/서강그라운드.java) |
