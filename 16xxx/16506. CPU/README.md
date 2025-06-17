@@ -1,4 +1,4 @@
-# [Silver V] CPU
+# [Silver IV] CPU
 
 [문제 링크](https://www.acmicpc.net/problem/16506) 
 
