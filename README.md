@@ -698,6 +698,7 @@
 | [02870](https://boj.kr/2870) | 수학숙제 | Silver 4 | [C++](./02xxx/2870. 수학숙제/수학숙제.cc) |
 | [02872](https://boj.kr/2872) | 우리집엔 도서관이 있어 | Silver 1 | [C++](./02xxx/2872. 우리집엔 도서관이 있어/우리집엔 도서관이 있어.cc) |
 | [02875](https://boj.kr/2875) | 대회 or 인턴 | Bronze 3 | [Java](./02xxx/2875. 대회 or 인턴/대회 or 인턴.java) |
+| [02876](https://boj.kr/2876) | 그래픽스 퀴즈 | Silver 3 | [C++](./02xxx/2876. 그래픽스 퀴즈/그래픽스 퀴즈.cc) |
 | [02877](https://boj.kr/2877) | 4와 7 | Gold 5 | [C++](./02xxx/2877. 4와 7/4와 7.cc) |
 | [02884](https://boj.kr/2884) | 알람 시계 | Bronze 3 | [C](./02xxx/2884. 알람 시계/알람 시계.c) |
 | [02885](https://boj.kr/2885) | 초콜릿 식사 | Silver 2 | [C++](./02xxx/2885. 초콜릿 식사/초콜릿 식사.cc) |
@@ -2649,7 +2650,8 @@
 | [16501](https://boj.kr/16501) | 만족도 점수 | Silver 2 | [C++](./16xxx/16501. 만족도 점수/만족도 점수.cc) |
 | [16503](https://boj.kr/16503) | 괄호 없는 사칙연산 | Bronze 3 | [Java](./16xxx/16503. 괄호 없는 사칙연산/괄호 없는 사칙연산.java) |
 | [16504](https://boj.kr/16504) | 종이접기 | Bronze 3 | [Java](./16xxx/16504. 종이접기/종이접기.java) |
-| [16505](https://boj.kr/16505) | 별 | Silver 2 | [Java](./16xxx/16505. 별/별.java) |
+| [16505](https://boj.kr/16505) | 별 | Silver 1 | [Java](./16xxx/16505. 별/별.java) |
+| [16506](https://boj.kr/16506) | CPU | Silver 4 | [C++](./16xxx/16506. CPU/CPU.cc) |
 | [16507](https://boj.kr/16507) | 어두운 건 무서워 | Silver 1 | [C++](./16xxx/16507. 어두운 건 무서워/어두운 건 무서워.cc) |
 | [16515](https://boj.kr/16515) | Euler’s Number | Bronze 2 | [Java](./16xxx/16515. Euler’s Number/Euler’s Number.java) |
 | [16533](https://boj.kr/16533) | Mount Marathon | Bronze 1 | [C++](./16xxx/16533. Mount Marathon/Mount Marathon.cc) |
@@ -3334,6 +3336,7 @@
 | [23811](https://boj.kr/23811) | 골뱅이 찍기 - ㅌ | Bronze 3 | [Java](./23xxx/23811. 골뱅이 찍기 － ㅌ/골뱅이 찍기 － ㅌ.java) |
 | [23812](https://boj.kr/23812) | 골뱅이 찍기 - 돌아간 ㅍ | Bronze 3 | [Java](./23xxx/23812. 골뱅이 찍기 － 돌아간 ㅍ/골뱅이 찍기 － 돌아간 ㅍ.java) |
 | [23813](https://boj.kr/23813) | 회전 | Bronze 2 | [Java](./23xxx/23813. 회전/회전.java) |
+| [23814](https://boj.kr/23814) | 아 저는 볶음밥이요 | Silver 3 | [C++](./23xxx/23814. 아 저는 볶음밥이요/아 저는 볶음밥이요.cc) |
 | [23817](https://boj.kr/23817) | 포항항 | Gold 1 | [C++](./23xxx/23817. 포항항/포항항.cc) |
 | [23825](https://boj.kr/23825) | SASA 모형을 만들어보자 | Bronze 4 | [C](./23xxx/23825. SASA 모형을 만들어보자/SASA 모형을 만들어보자.c) |
 | [23827](https://boj.kr/23827) | 수열 (Easy) | Silver 4 | [Java](./23xxx/23827. 수열 （Easy）/수열 （Easy）.java) |
@@ -3923,6 +3926,7 @@
 | [28444](https://boj.kr/28444) | HI-ARC=? | Bronze 5 | [Java](./28xxx/28444. HI－ARC＝？/HI－ARC＝？.java) |
 | [28445](https://boj.kr/28445) | 알록달록 앵무새 | Silver 5 | [Java](./28xxx/28445. 알록달록 앵무새/알록달록 앵무새.java) |
 | [28446](https://boj.kr/28446) | 볼링공 찾아주기 | Silver 4 | [Java](./28xxx/28446. 볼링공 찾아주기/볼링공 찾아주기.java) |
+| [28450](https://boj.kr/28450) | 컨벤 데드가 하고싶어요 | Silver 2 | [C++](./28xxx/28450. 컨벤 데드가 하고싶어요/컨벤 데드가 하고싶어요.cc) |
 | [28453](https://boj.kr/28453) | Previous Level | Bronze 4 | [Java](./28xxx/28453. Previous Level/Previous Level.java) |
 | [28454](https://boj.kr/28454) | Gift Expire Date | Bronze 3 | [Java](./28xxx/28454. Gift Expire Date/Gift Expire Date.java) |
 | [28455](https://boj.kr/28455) | Union Maplestory | Bronze 2 | [Java](./28xxx/28455. Union Maplestory/Union Maplestory.java) |
@@ -4506,4 +4510,5 @@
 | [34009](https://boj.kr/34009) | Bob부 멍충이 | Bronze 2 | [C++](./34xxx/34009. Bob부 멍충이/Bob부 멍충이.cc) |
 | [34010](https://boj.kr/34010) | e-코너 시스템 테스트 (Easy) | Bronze 2 | [C++](./34xxx/34010. e－코너 시스템 테스트 （Easy）/e－코너 시스템 테스트 （Easy）.cc) |
 | [34021](https://boj.kr/34021) | [T] 스코어보드가 121분 남은 시점에서 프리즈되었습니다. | Bronze 3 | [C++](./34xxx/34021. ［T］ 스코어보드가 121분 남은 시점에서 프리즈되었습니다．/［T］ 스코어보드가 121분 남은 시점에서 프리즈되었습니다．.cc) |
+| [34027](https://boj.kr/34027) | 제곱 수? | Bronze 3 | [C++](./34xxx/34027. 제곱 수？/제곱 수？.cc) |
 </div>
