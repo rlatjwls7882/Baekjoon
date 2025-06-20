@@ -4175,6 +4175,7 @@
 | [30886](https://boj.kr/30886) | Artistic Souvenir | Bronze 3 | [Java](./30xxx/30886. Artistic Souvenir/Artistic Souvenir.java) |
 | [30889](https://boj.kr/30889) | 좌석 배치도 | Bronze 3 | [Java](./30xxx/30889. 좌석 배치도/좌석 배치도.java) |
 | [30890](https://boj.kr/30890) | 드럼 | Silver 4 | [Java](./30xxx/30890. 드럼/드럼.java) |
+| [30891](https://boj.kr/30891) | 볶음밥 지키기 | Silver 5 | [C++](./30xxx/30891. 볶음밥 지키기/볶음밥 지키기.cc) |
 | [30917](https://boj.kr/30917) | A+B - 10 (제1편) | Bronze 3 | [Java](./30xxx/30917. A＋B － 10 （제1편）/A＋B － 10 （제1편）.java) |
 | [30923](https://boj.kr/30923) | 크냑과 3D 프린터 | Silver 5 | [C++](./30xxx/30923. 크냑과 3D 프린터/크냑과 3D 프린터.cc) |
 | [30957](https://boj.kr/30957) | 빅데이터 vs 정보보호 vs 인공지능 | Bronze 3 | [Java](./30xxx/30957. 빅데이터 vs 정보보호 vs 인공지능/빅데이터 vs 정보보호 vs 인공지능.java) |
