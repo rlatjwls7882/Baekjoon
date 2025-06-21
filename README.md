@@ -1283,7 +1283,7 @@
 | [07287](https://boj.kr/7287) | 등록 | Bronze 5 | [C](./07xxx/7287. 등록/등록.c) |
 | [07326](https://boj.kr/7326) | Number Steps | Bronze 1 | [Java](./07xxx/7326. Number Steps/Number Steps.java) |
 | [07360](https://boj.kr/7360) | Undercut | Bronze 2 | [Java](./07xxx/7360. Undercut/Undercut.java) |
-| [07366](https://boj.kr/7366) | Counting Sheep | Bronze 2 | [Java](./07xxx/7366. Counting Sheep/Counting Sheep.java) |
+| [07366](https://boj.kr/7366) | Counting Sheep | Bronze 3 | [Java](./07xxx/7366. Counting Sheep/Counting Sheep.java) |
 | [07432](https://boj.kr/7432) | 디스크 트리 | Gold 3 | [C++](./07xxx/7432. 디스크 트리/디스크 트리.cc) |
 | [07453](https://boj.kr/7453) | 합이 0인 네 정수 | Gold 2 | [C++](./07xxx/7453. 합이 0인 네 정수/합이 0인 네 정수.cc) |
 | [07482](https://boj.kr/7482) | 상자 만들기 | Silver 5 | [Java](./07xxx/7482. 상자 만들기/상자 만들기.java) |
@@ -4391,6 +4391,7 @@
 | [32604](https://boj.kr/32604) | Jumbled Scoreboards | Bronze 4 | [Python](./32xxx/32604. Jumbled Scoreboards/Jumbled Scoreboards.py) |
 | [32621](https://boj.kr/32621) | 동아리비 횡령 | Bronze 2 | [Java](./32xxx/32621. 동아리비 횡령/동아리비 횡령.java) |
 | [32626](https://boj.kr/32626) | SPC에 가는 길 | Bronze 2 | [C++](./32xxx/32626. SPC에 가는 길/SPC에 가는 길.cc) |
+| [32627](https://boj.kr/32627) | 문자열 줄이기 | Silver 4 | [C++](./32xxx/32627. 문자열 줄이기/문자열 줄이기.cc) |
 | [32642](https://boj.kr/32642) | 당구 좀 치자 제발 | Bronze 4 | [C++](./32xxx/32642. 당구 좀 치자 제발/당구 좀 치자 제발.cc) |
 | [32651](https://boj.kr/32651) | 인간은 무엇인가 | Bronze 4 | [C++](./32xxx/32651.%E2%80%85인간은%E2%80%85무엇인가/인간은 무엇인가.cc) |
 | [32652](https://boj.kr/32652) | 아카라카 2 | Bronze 3 | [C++](./32xxx/32652.%E2%80%85아카라카%E2%80%852/아카라카 2.cc) |
