@@ -1845,7 +1845,7 @@
 | [11340](https://boj.kr/11340) | Making the Grade? | Bronze 2 | [Java](./11xxx/11340. Making the Grade？/Making the Grade？.java) |
 | [11365](https://boj.kr/11365) | !밀비 급일 | Bronze 4 | [C](./11xxx/11365. ！밀비 급일/！밀비 급일.c) |
 | [11367](https://boj.kr/11367) | Report Card Time | Bronze 3 | [Java](./11xxx/11367. Report Card Time/Report Card Time.java) |
-| [11368](https://boj.kr/11368) | A Serious Reading Problem | Bronze 3 | [Java](./11xxx/11368. A Serious Reading Problem/A Serious Reading Problem.java) |
+| [11368](https://boj.kr/11368) | A Serious Reading Problem | Bronze 2 | [Java](./11xxx/11368. A Serious Reading Problem/A Serious Reading Problem.java) |
 | [11375](https://boj.kr/11375) | 열혈강호 | Platinum 4 | [C++](./11xxx/11375. 열혈강호/열혈강호.cc) |
 | [11376](https://boj.kr/11376) | 열혈강호 2 | Platinum 4 | [C++](./11xxx/11376. 열혈강호 2/열혈강호 2.cc) |
 | [11377](https://boj.kr/11377) | 열혈강호 3 | Platinum 3 | [C++](./11xxx/11377. 열혈강호 3/열혈강호 3.cc) |
@@ -4431,6 +4431,7 @@
 | [32942](https://boj.kr/32942) | 그래프와 그래프 | Silver 5 | [C++](./32xxx/32942. 그래프와 그래프/그래프와 그래프.cc) |
 | [32951](https://boj.kr/32951) | AI 선도대학 | Bronze 5 | [C++](./32xxx/32951. AI 선도대학/AI 선도대학.cc) |
 | [32952](https://boj.kr/32952) | 비트코인 반감기 | Bronze 2 | [C++](./32xxx/32952. 비트코인 반감기/비트코인 반감기.cc) |
+| [32953](https://boj.kr/32953) | 회상 | Bronze 1 | [C++](./32xxx/32953. 회상/회상.cc) |
 | [32969](https://boj.kr/32969) | 학술대회 참가신청 | Bronze 3 | [C++](./32xxx/32969. 학술대회 참가신청/학술대회 참가신청.cc) |
 | [32978](https://boj.kr/32978) | 아 맞다 마늘 | Bronze 3 | [C++](./32xxx/32978. 아 맞다 마늘/아 맞다 마늘.cc) |
 | [33026](https://boj.kr/33026) | LOL Lovers | Bronze 3 | [C++](./33xxx/33026. LOL Lovers/LOL Lovers.cc) |
