@@ -3844,6 +3844,7 @@
 | [27855](https://boj.kr/27855) | Cornhole | Bronze 4 | [Java](./27xxx/27855. Cornhole/Cornhole.java) |
 | [27866](https://boj.kr/27866) | 문자와 문자열 | Bronze 5 | [C](./27xxx/27866. 문자와 문자열/문자와 문자열.c) |
 | [27880](https://boj.kr/27880) | Gahui and Soongsil University station | Bronze 4 | |
+| [27885](https://boj.kr/27885) | 가희와 열리지 않는 건널목 | Bronze 1 | [C++](./27xxx/27885. 가희와 열리지 않는 건널목/가희와 열리지 않는 건널목.cc) |
 | [27889](https://boj.kr/27889) | 특별한 학교 이름 | Bronze 5 | [C](./27xxx/27889. 특별한 학교 이름/특별한 학교 이름.c) |
 | [27890](https://boj.kr/27890) | 특별한 작은 분수 | Bronze 4 | [C](./27xxx/27890. 특별한 작은 분수/특별한 작은 분수.c) |
 | [27891](https://boj.kr/27891) | 특별한 학교 이름 암호화 | Bronze 2 | [Java](./27xxx/27891. 특별한 학교 이름 암호화/특별한 학교 이름 암호화.java) |
