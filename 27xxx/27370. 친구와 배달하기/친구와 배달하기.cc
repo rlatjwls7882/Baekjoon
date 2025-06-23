@@ -8,17 +8,15 @@ int main() {
         int n, pa, pb; cin >> n >> pa >> pb;
         if(pa>pb) swap(pa, pb);
 
-        vector<int> arr(n);
-        for(int i=0;i<n;i++) cin >> arr[i];
-        sort(arr.begin(), arr.end());
-
         long long a=0, b=0;
         vector<int> wild;
-        for(int pos : arr) {
+        while(n--) {
+            int pos; cin >> pos;
             if(pos-pa < pb-pos) a += (pos-pa)*2;
             else if(pos-pa > pb-pos) b += (pb-pos)*2;
             else wild.push_back((pos-pa)*2);
         }
+
         for(int len : wild) {
             if(a<b) a += len;
             else b += len;
