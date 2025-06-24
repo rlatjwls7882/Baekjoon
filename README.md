@@ -402,7 +402,7 @@
 | [02061](https://boj.kr/2061) | 좋은 암호 | Bronze 3 | [Java](./02xxx/2061. 좋은 암호/좋은 암호.java) |
 | [02072](https://boj.kr/2072) | 오목 | Silver 1 | [C++](./02xxx/2072. 오목/오목.cc) |
 | [02073](https://boj.kr/2073) | 수도배관공사 | Gold 4 | [C++](./02xxx/2073. 수도배관공사/수도배관공사.cc) |
-| [02074](https://boj.kr/2074) | 거듭제곱 계산하기 | Gold 1 | [C++](./02xxx/2074. 거듭제곱 계산하기/거듭제곱 계산하기.cc) |
+| [02074](https://boj.kr/2074) | 거듭제곱 계산하기 | Gold 2 | [C++](./02xxx/2074. 거듭제곱 계산하기/거듭제곱 계산하기.cc) |
 | [02075](https://boj.kr/2075) | N번째 큰 수 | Silver 3 | [C++](./02xxx/2075. N번째 큰 수/N번째 큰 수.cc) |
 | [02082](https://boj.kr/2082) | 시계 | Silver 3 | [C++](./02xxx/2082. 시계/시계.cc) |
 | [02083](https://boj.kr/2083) | 럭비 클럽 | Bronze 4 | [C](./02xxx/2083. 럭비 클럽/럭비 클럽.c) |
@@ -2293,7 +2293,7 @@
 | [14606](https://boj.kr/14606) | 피자 (Small) | Silver 5 | [Java](./14xxx/14606. 피자 （Small）/피자 （Small）.java) |
 | [14607](https://boj.kr/14607) | 피자 (Large) | Silver 3 | [Java](./14xxx/14607. 피자 （Large）/피자 （Large）.java) |
 | [14608](https://boj.kr/14608) | 구분구적법 (Small) | Silver 4 | [C++](./14xxx/14608. 구분구적법 （Small）/구분구적법 （Small）.cc) |
-| [14609](https://boj.kr/14609) | 구분구적법 (Large) | Gold 5 | [C++](./14xxx/14609. 구분구적법 （Large）/구분구적법 （Large）.cc) |
+| [14609](https://boj.kr/14609) | 구분구적법 (Large) | Gold 4 | [C++](./14xxx/14609. 구분구적법 （Large）/구분구적법 （Large）.cc) |
 | [14610](https://boj.kr/14610) | 좋은 대회 | Gold 4 | [C++](./14xxx/14610. 좋은 대회/좋은 대회.cc) |
 | [14614](https://boj.kr/14614) | Calculate! | Bronze 2 | [Java](./14xxx/14614. Calculate！/Calculate！.java) |
 | [14620](https://boj.kr/14620) | 꽃길 | Silver 2 | [Java](./14xxx/14620. 꽃길/꽃길.java) |
@@ -3592,6 +3592,7 @@
 | [25704](https://boj.kr/25704) | 출석 이벤트 | Bronze 4 | [Java](./25xxx/25704. 출석 이벤트/출석 이벤트.java) |
 | [25705](https://boj.kr/25705) | 돌림판 문자열 | Bronze 1 | [Java](./25xxx/25705. 돌림판 문자열/돌림판 문자열.java) |
 | [25706](https://boj.kr/25706) | 자전거 묘기 | Silver 3 | [Java](./25xxx/25706. 자전거 묘기/자전거 묘기.java) |
+| [25707](https://boj.kr/25707) | 팔찌 만들기 | Silver 5 | [C++](./25xxx/25707. 팔찌 만들기/팔찌 만들기.cc) |
 | [25709](https://boj.kr/25709) | 1 빼기 | Silver 3 | [Java](./25xxx/25709. 1 빼기/1 빼기.java) |
 | [25710](https://boj.kr/25710) | 점수 계산 | Silver 2 | [C++](./25xxx/25710. 점수 계산/점수 계산.cc) |
 | [25755](https://boj.kr/25755) | 거울반사 | Bronze 2 | [Java](./25xxx/25755. 거울반사/거울반사.java) |
@@ -3802,6 +3803,7 @@
 | [27333](https://boj.kr/27333) | JOI エディタ (JOI Editor) | Bronze 3 | [Java](./27xxx/27333. JOI エディタ （JOI Editor）/JOI エディタ （JOI Editor）.java) |
 | [27334](https://boj.kr/27334) | マラソン大会 (Marathon Race) | Bronze 3 | [Java](./27xxx/27334. マラソン大会 （Marathon Race）/マラソン大会 （Marathon Race）.java) |
 | [27335](https://boj.kr/27335) | 年齢の差 (Age Difference) | Bronze 2 | [Java](./27xxx/27335. 年齢の差 （Age Difference）/年齢の差 （Age Difference）.java) |
+| [27370](https://boj.kr/27370) | 친구와 배달하기 | Silver 3 | [C++](./27xxx/27370. 친구와 배달하기/친구와 배달하기.cc) |
 | [27372](https://boj.kr/27372) | 미니 빙고 | Gold 4 | [Python](./27xxx/27372. 미니 빙고/미니 빙고.py) |
 | [27375](https://boj.kr/27375) | 금공강 사수 | Silver 1 | [C++](./27xxx/27375. 금공강 사수/금공강 사수.cc) |
 | [27386](https://boj.kr/27386) | Class Field Trip | Bronze 2 | [Java](./27xxx/27386. Class Field Trip/Class Field Trip.java) |
