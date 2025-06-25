@@ -385,6 +385,7 @@
 | [02002](https://boj.kr/2002) | 추월 | Silver 1 | [C++](./02xxx/2002. 추월/추월.cc) |
 | [02003](https://boj.kr/2003) | 수들의 합 2 | Silver 4 | [Java](./02xxx/2003. 수들의 합 2/수들의 합 2.java) |
 | [02004](https://boj.kr/2004) | 조합 0의 개수 | Silver 2 | [C++](./02xxx/2004. 조합 0의 개수/조합 0의 개수.cc) |
+| [02009](https://boj.kr/2009) | Minecraft | Silver 2 | [C++](./02xxx/2009. Minecraft/Minecraft.cc) |
 | [02010](https://boj.kr/2010) | 플러그 | Bronze 3 | [Java](./02xxx/2010. 플러그/플러그.java) |
 | [02011](https://boj.kr/2011) | 암호코드 | Gold 5 | [C++](./02xxx/2011. 암호코드/암호코드.cc) |
 | [02012](https://boj.kr/2012) | 등수 매기기 | Silver 3 | [C++](./02xxx/2012. 등수 매기기/등수 매기기.cc) |
@@ -1065,6 +1066,7 @@
 | [05532](https://boj.kr/5532) | 방학 숙제 | Bronze 4 | [C](./05xxx/5532. 방학 숙제/방학 숙제.c) |
 | [05533](https://boj.kr/5533) | 유니크 | Bronze 1 | [Java](./05xxx/5533. 유니크/유니크.java) |
 | [05541](https://boj.kr/5541) | 釘 (Nails) | Platinum 4 | [C++](./05xxx/5541. 釘 （Nails）/釘 （Nails）.cc) |
+| [05542](https://boj.kr/5542) | JOI 국가의 행사 | Diamond 5 | [C++](./05xxx/5542. JOI 국가의 행사/JOI 국가의 행사.cc) |
 | [05543](https://boj.kr/5543) | 상근날드 | Bronze 4 | [C](./05xxx/5543. 상근날드/상근날드.c) |
 | [05544](https://boj.kr/5544) | 리그 | Bronze 1 | [Java](./05xxx/5544. 리그/리그.java) |
 | [05545](https://boj.kr/5545) | 최고의 피자 | Silver 3 | [C++](./05xxx/5545. 최고의 피자/최고의 피자.cc) |
@@ -1610,7 +1612,7 @@
 | [10189](https://boj.kr/10189) | Hook | Bronze 5 | [C](./10xxx/10189. Hook/Hook.c) |
 | [10193](https://boj.kr/10193) | Word Swap | Bronze 2 | [Java](./10xxx/10193. Word Swap/Word Swap.java) |
 | [10202](https://boj.kr/10202) | Longest Subsequence | Bronze 2 | [Java](./10xxx/10202. Longest Subsequence/Longest Subsequence.java) |
-| [10203](https://boj.kr/10203) | Count Vowels | Bronze 2 | [Java](./10xxx/10203. Count Vowels/Count Vowels.java) |
+| [10203](https://boj.kr/10203) | Count Vowels | Bronze 3 | [Java](./10xxx/10203. Count Vowels/Count Vowels.java) |
 | [10205](https://boj.kr/10205) | 헤라클레스와 히드라 | Bronze 3 | [Java](./10xxx/10205. 헤라클레스와 히드라/헤라클레스와 히드라.java) |
 | [10211](https://boj.kr/10211) | Maximum Subarray | Silver 4 | [Java](./10xxx/10211. Maximum Subarray/Maximum Subarray.java) |
 | [10214](https://boj.kr/10214) | Baseball | Bronze 3 | [Java](./10xxx/10214. Baseball/Baseball.java) |
@@ -3357,7 +3359,7 @@
 | [23968](https://boj.kr/23968) | 알고리즘 수업 - 버블 정렬 1 | Bronze 1 | [Java](./23xxx/23968. 알고리즘 수업 － 버블 정렬 1/알고리즘 수업 － 버블 정렬 1.java) |
 | [23969](https://boj.kr/23969) | 알고리즘 수업 - 버블 정렬 2 | Bronze 1 | [Java](./23xxx/23969. 알고리즘 수업 － 버블 정렬 2/알고리즘 수업 － 버블 정렬 2.java) |
 | [23971](https://boj.kr/23971) | ZOAC 4 | Bronze 3 | [Java](./23xxx/23971. ZOAC 4/ZOAC 4.java) |
-| [23972](https://boj.kr/23972) | 악마의 제안 | Bronze 3 | [Java](./23xxx/23972. 악마의 제안/악마의 제안.java) |
+| [23972](https://boj.kr/23972) | 악마의 제안 | Bronze 2 | [Java](./23xxx/23972. 악마의 제안/악마의 제안.java) |
 | [23977](https://boj.kr/23977) | To Find Password | Silver 2 | [C++](./23xxx/23977. To Find Password/To Find Password.cc) |
 | [24039](https://boj.kr/24039) | 2021은 무엇이 특별할까? | Silver 5 | [Java](./24xxx/24039. 2021은 무엇이 특별할까？/2021은 무엇이 특별할까？.java) |
 | [24049](https://boj.kr/24049) | 정원 (Easy) | Bronze 1 | [Java](./24xxx/24049. 정원 （Easy）/정원 （Easy）.java) |
@@ -3554,6 +3556,7 @@
 | [25391](https://boj.kr/25391) | 특별상 | Gold 5 | [C++](./25xxx/25391. 특별상/특별상.cc) |
 | [25393](https://boj.kr/25393) | 교집합 만들기 | Gold 5 | [C++](./25xxx/25393. 교집합 만들기/교집합 만들기.cc) |
 | [25400](https://boj.kr/25400) | 제자리 | Bronze 1 | [C++](./25xxx/25400. 제자리/제자리.cc) |
+| [25416](https://boj.kr/25416) | 빠른 숫자 탐색 | Silver 2 | [C++](./25xxx/25416. 빠른 숫자 탐색/빠른 숫자 탐색.cc) |
 | [25418](https://boj.kr/25418) | 정수 a를 k로 만들기 | Silver 3 | [Java](./25xxx/25418. 정수 a를 k로 만들기/정수 a를 k로 만들기.java) |
 | [25425](https://boj.kr/25425) | 운동회 | Bronze 1 | [Java](./25xxx/25425. 운동회/운동회.java) |
 | [25426](https://boj.kr/25426) | 일차함수들 | Silver 4 | [C++](./25xxx/25426. 일차함수들/일차함수들.cc) |
@@ -3789,6 +3792,7 @@
 | [27277](https://boj.kr/27277) | 장기자랑 | Silver 1 | [C++](./27xxx/27277. 장기자랑/장기자랑.cc) |
 | [27294](https://boj.kr/27294) | 몇개고? | Bronze 5 | [C](./27xxx/27294. 몇개고？/몇개고？.c) |
 | [27295](https://boj.kr/27295) | 선형 회귀는 너무 쉬워 1 | Silver 5 | [C++](./27xxx/27295. 선형 회귀는 너무 쉬워 1/선형 회귀는 너무 쉬워 1.cc) |
+| [27297](https://boj.kr/27297) | 맨해튼에서의 모임 | Gold 5 | [C++](./27xxx/27297. 맨해튼에서의 모임/맨해튼에서의 모임.cc) |
 | [27310](https://boj.kr/27310) | :chino_shock: | Bronze 4 | [C](./27xxx/27310. ：chino＿shock：/：chino＿shock：.c) |
 | [27323](https://boj.kr/27323) | 직사각형 | Bronze 5 | [C](./27xxx/27323. 직사각형/직사각형.c) |
 | [27324](https://boj.kr/27324) | ゾロ目 (Same Numbers) | Bronze 5 | [C](./27xxx/27324. ゾロ目 （Same Numbers）/ゾロ目 （Same Numbers）.c) |
