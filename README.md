@@ -332,6 +332,7 @@
 | [01874](https://boj.kr/1874) | 스택 수열 | Silver 2 | [C++](./01xxx/1874. 스택 수열/스택 수열.cc) |
 | [01888](https://boj.kr/1888) | 곰팡이 | Gold 3 | [C++](./01xxx/1888. 곰팡이/곰팡이.cc) |
 | [01890](https://boj.kr/1890) | 점프 | Silver 1 | [C++](./01xxx/1890. 점프/점프.cc) |
+| [01894](https://boj.kr/1894) | 4번째 점 | Bronze 1 | [C++](./01xxx/1894. 4번째 점/4번째 점.cc) |
 | [01895](https://boj.kr/1895) | 필터 | Silver 4 | [C++](./01xxx/1895. 필터/필터.cc) |
 | [01904](https://boj.kr/1904) | 01타일 | Silver 3 | [Java](./01xxx/1904. 01타일/01타일.java) |
 | [01907](https://boj.kr/1907) | 탄소 화합물 | Silver 3 | [C++](./01xxx/1907. 탄소 화합물/탄소 화합물.cc) |
@@ -390,6 +391,7 @@
 | [02011](https://boj.kr/2011) | 암호코드 | Gold 5 | [C++](./02xxx/2011. 암호코드/암호코드.cc) |
 | [02012](https://boj.kr/2012) | 등수 매기기 | Silver 3 | [C++](./02xxx/2012. 등수 매기기/등수 매기기.cc) |
 | [02015](https://boj.kr/2015) | 수들의 합 4 | Gold 4 | [C++](./02xxx/2015. 수들의 합 4/수들의 합 4.cc) |
+| [02016](https://boj.kr/2016) | 미팅 주선하기 | Gold 5 | [C++](./02xxx/2016. 미팅 주선하기/미팅 주선하기.cc) |
 | [02018](https://boj.kr/2018) | 수들의 합 5 | Silver 5 | [Java](./02xxx/2018. 수들의 합 5/수들의 합 5.java) |
 | [02023](https://boj.kr/2023) | 신기한 소수 | Gold 5 | [C++](./02xxx/2023. 신기한 소수/신기한 소수.cc) |
 | [02028](https://boj.kr/2028) | 자기복제수 | Bronze 2 | [Java](./02xxx/2028. 자기복제수/자기복제수.java) |
@@ -1451,7 +1453,7 @@
 | [09297](https://boj.kr/9297) | Reducing Improper Fractions | Bronze 3 | [Java](./09xxx/9297. Reducing Improper Fractions/Reducing Improper Fractions.java) |
 | [09298](https://boj.kr/9298) | Ant Entrapment | Bronze 3 | [Java](./09xxx/9298. Ant Entrapment/Ant Entrapment.java) |
 | [09299](https://boj.kr/9299) | Math Tutoring | Bronze 2 | [Java](./09xxx/9299. Math Tutoring/Math Tutoring.java) |
-| [09306](https://boj.kr/9306) | Practice: Roll Call | Bronze 3 | [Java](./09xxx/9306. Practice： Roll Call/Practice： Roll Call.java) |
+| [09306](https://boj.kr/9306) | Practice: Roll Call | Bronze 4 | [Java](./09xxx/9306. Practice： Roll Call/Practice： Roll Call.java) |
 | [09310](https://boj.kr/9310) | Arithmetic and Geometric Sums | Bronze 3 | [Java](./09xxx/9310. Arithmetic and Geometric Sums/Arithmetic and Geometric Sums.java) |
 | [09313](https://boj.kr/9313) | Integer Flipping | Bronze 2 | [Java](./09xxx/9313. Integer Flipping/Integer Flipping.java) |
 | [09316](https://boj.kr/9316) | Hello Judge | Bronze 4 | [C](./09xxx/9316. Hello Judge/Hello Judge.c) |
@@ -2537,6 +2539,7 @@
 | [15876](https://boj.kr/15876) | Binary Counting | Silver 5 | [Java](./15xxx/15876. Binary Counting/Binary Counting.java) |
 | [15881](https://boj.kr/15881) | Pen Pineapple Apple Pen | Bronze 1 | [Java](./15xxx/15881. Pen Pineapple Apple Pen/Pen Pineapple Apple Pen.java) |
 | [15886](https://boj.kr/15886) | 내 선물을 받아줘 2 | Silver 3 | [C++](./15xxx/15886. 내 선물을 받아줘 2/내 선물을 받아줘 2.cc) |
+| [15887](https://boj.kr/15887) | 욱제는 결벽증이야!! | Silver 5 | [C++](./15xxx/15887. 욱제는 결벽증이야！！/욱제는 결벽증이야！！.cc) |
 | [15890](https://boj.kr/15890) | 전국 대학생 프로그래밍 대회 동아리 연합 여름 대회 2018 | Unrated | [Java](./15xxx/15890.%E2%80%85전국%E2%80%85대학생%E2%80%85프로그래밍%E2%80%85대회%E2%80%85동아리%E2%80%85연합%E2%80%85여름%E2%80%85대회%E2%80%852018/전국 대학생 프로그래밍 대회 동아리 연합 여름 대회 2018.java) |
 | [15892](https://boj.kr/15892) | 사탕 줍는 로봇 | Platinum 4 | [C++](./15xxx/15892. 사탕 줍는 로봇/사탕 줍는 로봇.cc) |
 | [15894](https://boj.kr/15894) | 수학은 체육과목 입니다 | Bronze 3 | [Java](./15xxx/15894. 수학은 체육과목 입니다/수학은 체육과목 입니다.java) |
@@ -4441,6 +4444,7 @@
 | [32953](https://boj.kr/32953) | 회상 | Bronze 1 | [C++](./32xxx/32953. 회상/회상.cc) |
 | [32969](https://boj.kr/32969) | 학술대회 참가신청 | Bronze 3 | [C++](./32xxx/32969. 학술대회 참가신청/학술대회 참가신청.cc) |
 | [32978](https://boj.kr/32978) | 아 맞다 마늘 | Bronze 3 | [C++](./32xxx/32978. 아 맞다 마늘/아 맞다 마늘.cc) |
+| [32981](https://boj.kr/32981) | 찐 Even Number | Silver 3 | [C++](./32xxx/32981. 찐 Even Number/찐 Even Number.cc) |
 | [33026](https://boj.kr/33026) | LOL Lovers | Bronze 3 | [C++](./33xxx/33026. LOL Lovers/LOL Lovers.cc) |
 | [33046](https://boj.kr/33046) | Alea Iacta Est | Bronze 4 | [C++](./33xxx/33046. Alea Iacta Est/Alea Iacta Est.cc) |
 | [33135](https://boj.kr/33135) | Append and Panic! | Bronze 3 | [C++](./33xxx/33135. Append and Panic！/Append and Panic！.cc) |
@@ -4479,6 +4483,7 @@
 | [33652](https://boj.kr/33652) | Testing LEDs | Bronze 3 | [C++](./33xxx/33652. Testing LEDs/Testing LEDs.cc) |
 | [33654](https://boj.kr/33654) | Sort of Sort | Bronze 2 | [C++](./33xxx/33654. Sort of Sort/Sort of Sort.cc) |
 | [33663](https://boj.kr/33663) | 루미의 진정한™ 보라색 찾기 | Bronze 3 | [C++](./33xxx/33663. 루미의 진정한™ 보라색 찾기/루미의 진정한™ 보라색 찾기.cc) |
+| [33664](https://boj.kr/33664) | 현실적인 생일 축하 방안 | Silver 5 | [C++](./33xxx/33664. 현실적인 생일 축하 방안/현실적인 생일 축하 방안.cc) |
 | [33674](https://boj.kr/33674) | 하늘에서 떨어지는 $N$개의 별 | Bronze 2 | [C++](./33xxx/33674. 하늘에서 떨어지는 $N$개의 별/하늘에서 떨어지는 $N$개의 별.cc) |
 | [33675](https://boj.kr/33675) | L-트로미노 타일링 | Bronze 1 | [C++](./33xxx/33675. L－트로미노 타일링/L－트로미노 타일링.cc) |
 | [33689](https://boj.kr/33689) | CPDU | Bronze 4 | [C++](./33xxx/33689. CPDU/CPDU.cc) |
@@ -4506,6 +4511,7 @@
 | [33883](https://boj.kr/33883) | Acentuación del idioma español | Bronze 3 | [C++](./33xxx/33883. Acentuación del idioma español/Acentuación del idioma español.cc) |
 | [33898](https://boj.kr/33898) | HEPC1 | Bronze 1 | [C++](./33xxx/33898. HEPC1/HEPC1.cc) |
 | [33909](https://boj.kr/33909) | 알파벳 블록 | Bronze 3 | [C++](./33xxx/33909. 알파벳 블록/알파벳 블록.cc) |
+| [33939](https://boj.kr/33939) | 부도덕한 그래프 (Easy) | Silver 1 | [C++](./33xxx/33939. 부도덕한 그래프 （Easy）/부도덕한 그래프 （Easy）.cc) |
 | [33950](https://boj.kr/33950) | 어게인 포닉스 | Bronze 3 | [C++](./33xxx/33950. 어게인 포닉스/어게인 포닉스.cc) |
 | [33963](https://boj.kr/33963) | 돈복사 | Bronze 2 | [C++](./33xxx/33963. 돈복사/돈복사.cc) |
 | [33964](https://boj.kr/33964) | 레퓨닛의 덧셈 | Bronze 4 | [C++](./33xxx/33964. 레퓨닛의 덧셈/레퓨닛의 덧셈.cc) |
