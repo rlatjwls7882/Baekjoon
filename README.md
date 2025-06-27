@@ -734,6 +734,7 @@
 | [02959](https://boj.kr/2959) | 거북이 | Bronze 3 | [Java](./02xxx/2959. 거북이/거북이.java) |
 | [02960](https://boj.kr/2960) | 에라토스테네스의 체 | Silver 4 | [C++](./02xxx/2960. 에라토스테네스의 체/에라토스테네스의 체.cc) |
 | [02961](https://boj.kr/2961) | 도영이가 만든 맛있는 음식 | Silver 2 | [C++](./02xxx/2961. 도영이가 만든 맛있는 음식/도영이가 만든 맛있는 음식.cc) |
+| [02963](https://boj.kr/2963) | 무한 이진 트리 탐색 | Gold 4 | [Java](./02xxx/2963. 무한 이진 트리 탐색/무한 이진 트리 탐색.java) |
 | [02965](https://boj.kr/2965) | 캥거루 세마리 | Bronze 3 | [Java](./02xxx/2965. 캥거루 세마리/캥거루 세마리.java) |
 | [02966](https://boj.kr/2966) | 찍기 | Bronze 2 | [Java](./02xxx/2966. 찍기/찍기.java) |
 | [02975](https://boj.kr/2975) | Transactions | Bronze 3 | [Java](./02xxx/2975. Transactions/Transactions.java) |
