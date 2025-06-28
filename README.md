@@ -2076,6 +2076,7 @@
 | [13164](https://boj.kr/13164) | 행복 유치원 | Gold 5 | [C++](./13xxx/13164. 행복 유치원/행복 유치원.cc) |
 | [13171](https://boj.kr/13171) | A | Silver 3 | [C++](./13xxx/13171. A/A.cc) |
 | [13172](https://boj.kr/13172) | Σ | Gold 4 | [C++](./13xxx/13172. Σ/Σ.cc) |
+| [13208](https://boj.kr/13208) | 승현이와 승현이 | Diamond 4 | [C++](./13xxx/13208. 승현이와 승현이/승현이와 승현이.cc) |
 | [13216](https://boj.kr/13216) | Badminton | Bronze 1 | [Java](./13xxx/13216. Badminton/Badminton.java) |
 | [13221](https://boj.kr/13221) | Manhattan | Bronze 3 | [Java](./13xxx/13221. Manhattan/Manhattan.java) |
 | [13222](https://boj.kr/13222) | Matches | Bronze 3 | [Java](./13xxx/13222. Matches/Matches.java) |
@@ -4234,7 +4235,7 @@
 | [31403](https://boj.kr/31403) | $A + B - C$ | Bronze 4 | [Java](./31xxx/31403. $A ＋ B － C$/$A ＋ B － C$.java) |
 | [31406](https://boj.kr/31406) | 트리 탐색기 (Easy) | Gold 2 | [C++](./31xxx/31406. 트리 탐색기 （Easy）/트리 탐색기 （Easy）.cc) |
 | [31408](https://boj.kr/31408) | 당직 근무표 | Bronze 1 | [Java](./31xxx/31408. 당직 근무표/당직 근무표.java) |
-| [31416](https://boj.kr/31416) | 가상 검증 기술 | Silver 5 | [Java](./31xxx/31416. 가상 검증 기술/가상 검증 기술.java) |
+| [31416](https://boj.kr/31416) | 가상 검증 기술 | Bronze 1 | [Java](./31xxx/31416. 가상 검증 기술/가상 검증 기술.java) |
 | [31418](https://boj.kr/31418) | 스펀지 | Silver 4 | [Java](./31xxx/31418. 스펀지/스펀지.java) |
 | [31428](https://boj.kr/31428) | 엘리스 트랙 매칭 | Bronze 4 | [Java](./31xxx/31428. 엘리스 트랙 매칭/엘리스 트랙 매칭.java) |
 | [31429](https://boj.kr/31429) | SUAPC 2023 Summer | Bronze 5 | [Java](./31xxx/31429. SUAPC 2023 Summer/SUAPC 2023 Summer.java) |
