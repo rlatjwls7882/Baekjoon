@@ -1966,6 +1966,7 @@
 | [11944](https://boj.kr/11944) | NN | Bronze 2 | [Java](./11xxx/11944. NN/NN.java) |
 | [11945](https://boj.kr/11945) | 뜨거운 붕어빵 | Bronze 4 | [C](./11xxx/11945. 뜨거운 붕어빵/뜨거운 붕어빵.c) |
 | [11946](https://boj.kr/11946) | ACM-ICPC | Silver 3 | [Java](./11xxx/11946. ACM－ICPC/ACM－ICPC.java) |
+| [11947](https://boj.kr/11947) | 이런 반전이 | Silver 3 | [C++](./11xxx/11947. 이런 반전이/이런 반전이.cc) |
 | [11948](https://boj.kr/11948) | 과목선택 | Bronze 4 | [C](./11xxx/11948. 과목선택/과목선택.c) |
 | [11949](https://boj.kr/11949) | 번호표 교환 | Bronze 2 | [Java](./11xxx/11949. 번호표 교환/번호표 교환.java) |
 | [11966](https://boj.kr/11966) | 2의 제곱인가? | Bronze 3 | [Java](./11xxx/11966. 2의 제곱인가？/2의 제곱인가？.java) |
