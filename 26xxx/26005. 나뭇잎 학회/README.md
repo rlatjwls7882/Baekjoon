@@ -19,7 +19,7 @@
 	<li>
 	<p>예를 들어 $N=3$일 때, 당신이 $5$번 스위치를 누르고 싶다면 인접한 스위치 상($2$), 하($8$), 좌($4$), 우($6$) 중 하나의 스위치와 같이 한 번에 눌러야 합니다.</p>
 
-<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/a0c88181-fff9-4760-bdc8-fccc4ed74786/-/crop/532x532/7,9/-/preview/" style="height: 200px; width: 200px;"></p>
+	<p style="text-align: center;"><img alt="" src="https://upload.acmicpc.net/a0c88181-fff9-4760-bdc8-fccc4ed74786/-/crop/532x532/7,9/-/preview/" style="height: 200px; width: 200px;"></p>
 	</li>
 	<li>
 	<p>당신은 전구와 연결된 스위치가 어느 것인지 알아내서 답을 제출해야 합니다.</p>
