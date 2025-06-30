@@ -2223,6 +2223,7 @@
 | [14225](https://boj.kr/14225) | 부분수열의 합 | Silver 1 | [C++](./14xxx/14225. 부분수열의 합/부분수열의 합.cc) |
 | [14226](https://boj.kr/14226) | 이모티콘 | Gold 4 | [C++](./14xxx/14226. 이모티콘/이모티콘.cc) |
 | [14231](https://boj.kr/14231) | 박스 포장 | Silver 2 | [C++](./14xxx/14231. 박스 포장/박스 포장.cc) |
+| [14233](https://boj.kr/14233) | 악덕 사장 | Silver 1 | [C++](./14xxx/14233. 악덕 사장/악덕 사장.cc) |
 | [14235](https://boj.kr/14235) | 크리스마스 선물 | Silver 3 | [C++](./14xxx/14235. 크리스마스 선물/크리스마스 선물.cc) |
 | [14241](https://boj.kr/14241) | 슬라임 합치기 | Silver 3 | [C++](./14xxx/14241. 슬라임 합치기/슬라임 합치기.cc) |
 | [14244](https://boj.kr/14244) | 트리 만들기 | Silver 4 | [Java](./14xxx/14244. 트리 만들기/트리 만들기.java) |
@@ -2305,6 +2306,7 @@
 | [14614](https://boj.kr/14614) | Calculate! | Bronze 2 | [Java](./14xxx/14614. Calculate！/Calculate！.java) |
 | [14620](https://boj.kr/14620) | 꽃길 | Silver 2 | [Java](./14xxx/14620. 꽃길/꽃길.java) |
 | [14621](https://boj.kr/14621) | 나만 안되는 연애 | Gold 3 | [Java](./14xxx/14621. 나만 안되는 연애/나만 안되는 연애.java) |
+| [14622](https://boj.kr/14622) | 소수 게임 | Gold 4 | [C++](./14xxx/14622. 소수 게임/소수 게임.cc) |
 | [14623](https://boj.kr/14623) | 감정이입 | Bronze 2 | [Java](./14xxx/14623. 감정이입/감정이입.java) |
 | [14624](https://boj.kr/14624) | 전북대학교 | Bronze 2 | [Java](./14xxx/14624. 전북대학교/전북대학교.java) |
 | [14625](https://boj.kr/14625) | 냉동식품 | Bronze 2 | [Java](./14xxx/14625. 냉동식품/냉동식품.java) |
@@ -2561,6 +2563,7 @@
 | [15947](https://boj.kr/15947) | 아기 석환 뚜루루 뚜루 | Bronze 1 | [Java](./15xxx/15947. 아기 석환 뚜루루 뚜루/아기 석환 뚜루루 뚜루.java) |
 | [15953](https://boj.kr/15953) | 상금 헌터 | Bronze 3 | [Java](./15xxx/15953. 상금 헌터/상금 헌터.java) |
 | [15954](https://boj.kr/15954) | 인형들 | Silver 1 | [C++](./15xxx/15954. 인형들/인형들.cc) |
+| [15957](https://boj.kr/15957) | 음악 추천 | Diamond 4 | [C++](./15xxx/15957. 음악 추천/음악 추천.cc) |
 | [15962](https://boj.kr/15962) | 새로운 시작 | Bronze 5 | [C](./15xxx/15962. 새로운 시작/새로운 시작.c) |
 | [15963](https://boj.kr/15963) | CASIO | Bronze 5 | [C](./15xxx/15963. CASIO/CASIO.c) |
 | [15964](https://boj.kr/15964) | 이상한 기호 | Bronze 5 | [C](./15xxx/15964. 이상한 기호/이상한 기호.c) |
@@ -2799,6 +2802,7 @@
 | [17286](https://boj.kr/17286) | 유미 | Silver 5 | [Java](./17xxx/17286. 유미/유미.java) |
 | [17287](https://boj.kr/17287) | The Deeper, The Better | Silver 4 | [Java](./17xxx/17287. The Deeper， The Better/The Deeper， The Better.java) |
 | [17288](https://boj.kr/17288) | 3개만! | Bronze 1 | [Java](./17xxx/17288. 3개만！/3개만！.java) |
+| [17290](https://boj.kr/17290) | Crazy_aRcade_Good | Silver 5 | [C++](./17xxx/17290. Crazy＿aRcade＿Good/Crazy＿aRcade＿Good.cc) |
 | [17292](https://boj.kr/17292) | 바둑이 포커 | Gold 5 | [C++](./17xxx/17292. 바둑이 포커/바둑이 포커.cc) |
 | [17293](https://boj.kr/17293) | 맥주 99병 | Bronze 2 | [Java](./17xxx/17293. 맥주 99병/맥주 99병.java) |
 | [17294](https://boj.kr/17294) | 귀여운 수~ε٩(๑> ₃ <)۶з | Bronze 1 | [Java](./17xxx/17294. 귀여운 수～ε٩（๑＞ ₃ ＜）۶з/귀여운 수～ε٩（๑＞ ₃ ＜）۶з.java) |
@@ -4317,6 +4321,7 @@
 | [31923](https://boj.kr/31923) | 마라탕후루 | Bronze 2 | [C++](./31xxx/31923. 마라탕후루/마라탕후루.cc) |
 | [31924](https://boj.kr/31924) | 현대모비스 특별상의 주인공은? 2 | Silver 5 | [C++](./31xxx/31924. 현대모비스 특별상의 주인공은？ 2/현대모비스 특별상의 주인공은？ 2.cc) |
 | [31925](https://boj.kr/31925) | APC2shake! | Silver 5 | [C++](./31xxx/31925. APC2shake！/APC2shake！.cc) |
+| [31937](https://boj.kr/31937) | 로그프레소 마에스트로 | Silver 2 | [C++](./31xxx/31937. 로그프레소 마에스트로/로그프레소 마에스트로.cc) |
 | [31945](https://boj.kr/31945) | 정육면체의 네 꼭짓점 | Bronze 2 | [C++](./31xxx/31945. 정육면체의 네 꼭짓점/정육면체의 네 꼭짓점.cc) |
 | [31946](https://boj.kr/31946) | 죽음의 등굣길 | Silver 1 | [C++](./31xxx/31946.%E2%80%85죽음의%E2%80%85등굣길/죽음의 등굣길.cc) |
 | [31962](https://boj.kr/31962) | 등교 | Bronze 4 | [C++](./31xxx/31962. 등교/등교.cc) |
