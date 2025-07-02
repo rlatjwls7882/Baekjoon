@@ -869,6 +869,7 @@
 | [03986](https://boj.kr/3986) | 좋은 단어 | Silver 4 | [Java](./03xxx/3986. 좋은 단어/좋은 단어.java) |
 | [04013](https://boj.kr/4013) | ATM | Platinum 2 | [C++](./04xxx/4013. ATM/ATM.cc) |
 | [04028](https://boj.kr/4028) | Chain of Fools | Silver 5 | [C++](./04xxx/4028. Chain of Fools/Chain of Fools.cc) |
+| [04055](https://boj.kr/4055) | 파티가 좋아 파티가 좋아 | Gold 5 | [C++](./04xxx/4055. 파티가 좋아 파티가 좋아/파티가 좋아 파티가 좋아.cc) |
 | [04072](https://boj.kr/4072) | Words | Bronze 2 | [Java](./04xxx/4072. Words/Words.java) |
 | [04084](https://boj.kr/4084) | Viva la Diferencia | Bronze 3 | [Java](./04xxx/4084. Viva la Diferencia/Viva la Diferencia.java) |
 | [04096](https://boj.kr/4096) | 팰린드로미터 | Silver 4 | [C++](./04xxx/4096. 팰린드로미터/팰린드로미터.cc) |
@@ -4056,6 +4057,7 @@
 | [29751](https://boj.kr/29751) | 삼각형 | Bronze 5 | [Java](./29xxx/29751. 삼각형/삼각형.java) |
 | [29752](https://boj.kr/29752) | 최장 스트릭 | Bronze 3 | [Java](./29xxx/29752. 최장 스트릭/최장 스트릭.java) |
 | [29754](https://boj.kr/29754) | 세상에는 많은 유튜버가 있고, 그중에서 버츄얼 유튜버도 존재한다 | Silver 1 | [C++](./29xxx/29754. 세상에는 많은 유튜버가 있고， 그중에서 버츄얼 유튜버도 존재한다/세상에는 많은 유튜버가 있고， 그중에서 버츄얼 유튜버도 존재한다.cc) |
+| [29756](https://boj.kr/29756) | DDR 체력 관리 | Gold 4 | [C++](./29xxx/29756. DDR 체력 관리/DDR 체력 관리.cc) |
 | [29766](https://boj.kr/29766) | DKSH 찾기 | Bronze 4 | [Java](./29xxx/29766. DKSH 찾기/DKSH 찾기.java) |
 | [29767](https://boj.kr/29767) | 점수를 최대로 | Silver 4 | [C++](./29xxx/29767. 점수를 최대로/점수를 최대로.cc) |
 | [29768](https://boj.kr/29768) | 팰린드롬 이름 | Gold 4 | [C++](./29xxx/29768. 팰린드롬 이름/팰린드롬 이름.cc) |
@@ -4544,4 +4546,5 @@
 | [34010](https://boj.kr/34010) | e-코너 시스템 테스트 (Easy) | Bronze 2 | [C++](./34xxx/34010. e－코너 시스템 테스트 （Easy）/e－코너 시스템 테스트 （Easy）.cc) |
 | [34021](https://boj.kr/34021) | [T] 스코어보드가 121분 남은 시점에서 프리즈되었습니다. | Bronze 3 | [C++](./34xxx/34021. ［T］ 스코어보드가 121분 남은 시점에서 프리즈되었습니다．/［T］ 스코어보드가 121분 남은 시점에서 프리즈되었습니다．.cc) |
 | [34027](https://boj.kr/34027) | 제곱 수? | Bronze 3 | [C++](./34xxx/34027. 제곱 수？/제곱 수？.cc) |
+| [34032](https://boj.kr/34032) | /gg | Bronze 3 | [C++](./34xxx/34032. ／gg/／gg.cc) |
 </div>
