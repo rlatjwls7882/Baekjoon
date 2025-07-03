@@ -1157,6 +1157,7 @@
 | [06060](https://boj.kr/6060) | Wheel Rotation | Bronze 2 | [Java](./06xxx/6060. Wheel Rotation/Wheel Rotation.java) |
 | [06064](https://boj.kr/6064) | 카잉 달력 | Silver 1 | [C++](./06xxx/6064. 카잉 달력/카잉 달력.cc) |
 | [06066](https://boj.kr/6066) | Buying Hay | Gold 4 | [C++](./06xxx/6066. Buying Hay/Buying Hay.cc) |
+| [06068](https://boj.kr/6068) | 시간 관리하기 | Gold 5 | [C++](./06xxx/6068. 시간 관리하기/시간 관리하기.cc) |
 | [06081](https://boj.kr/6081) | Hay Expenses | Bronze 2 | [Java](./06xxx/6081. Hay Expenses/Hay Expenses.java) |
 | [06086](https://boj.kr/6086) | 최대 유량 | Gold 3 | [C++](./06xxx/6086. 최대 유량/최대 유량.cc) |
 | [06087](https://boj.kr/6087) | 레이저 통신 | Gold 3 | [Java](./06xxx/6087. 레이저 통신/레이저 통신.java) |
@@ -2060,6 +2061,7 @@
 | [12927](https://boj.kr/12927) | 배수 스위치 | Silver 4 | [C++](./12xxx/12927. 배수 스위치/배수 스위치.cc) |
 | [12931](https://boj.kr/12931) | 두 배 더하기 | Gold 5 | [C++](./12xxx/12931. 두 배 더하기/두 배 더하기.cc) |
 | [12933](https://boj.kr/12933) | 오리 | Silver 2 | [C++](./12xxx/12933. 오리/오리.cc) |
+| [12947](https://boj.kr/12947) | 트리 만들기 | Gold 4 | [C++](./12xxx/12947. 트리 만들기/트리 만들기.cc) |
 | [13003](https://boj.kr/13003) | 배수열 | Gold 3 | [C++](./13xxx/13003. 배수열/배수열.cc) |
 | [13015](https://boj.kr/13015) | 별 찍기 - 23 | Silver 4 | [Java](./13xxx/13015. 별 찍기 － 23/별 찍기 － 23.java) |
 | [13018](https://boj.kr/13018) | 특이한 수열 | Gold 4 | [C++](./13xxx/13018. 특이한 수열/특이한 수열.cc) |
@@ -2996,6 +2998,7 @@
 | [19622](https://boj.kr/19622) | 회의실 배정 3 | Silver 2 | [C++](./19xxx/19622. 회의실 배정 3/회의실 배정 3.cc) |
 | [19637](https://boj.kr/19637) | IF문 좀 대신 써줘 | Silver 3 | [C++](./19xxx/19637. IF문 좀 대신 써줘/IF문 좀 대신 써줘.cc) |
 | [19638](https://boj.kr/19638) | 센티와 마법의 뿅망치 | Silver 1 | [C++](./19xxx/19638. 센티와 마법의 뿅망치/센티와 마법의 뿅망치.cc) |
+| [19640](https://boj.kr/19640) | 화장실의 규칙 | Gold 4 | [C++](./19xxx/19640. 화장실의 규칙/화장실의 규칙.cc) |
 | [19644](https://boj.kr/19644) | 좀비 떼가 기관총 진지에도 오다니 | Gold 3 | [C++](./19xxx/19644. 좀비 떼가 기관총 진지에도 오다니/좀비 떼가 기관총 진지에도 오다니.cc) |
 | [19685](https://boj.kr/19685) | Palindromic FizzBuzz | Bronze 2 | [Java](./19xxx/19685. Palindromic FizzBuzz/Palindromic FizzBuzz.java) |
 | [19698](https://boj.kr/19698) | 헛간 청약 | Bronze 4 | [C](./19xxx/19698. 헛간 청약/헛간 청약.c) |
@@ -3473,6 +3476,7 @@
 | [24568](https://boj.kr/24568) | Cupcake Party | Bronze 5 | [C](./24xxx/24568. Cupcake Party/Cupcake Party.c) |
 | [24569](https://boj.kr/24569) | Fergusonball Ratings | Bronze 3 | [Java](./24xxx/24569. Fergusonball Ratings/Fergusonball Ratings.java) |
 | [24578](https://boj.kr/24578) | Ultimate Binary Watch | Bronze 2 | [Java](./24xxx/24578. Ultimate Binary Watch/Ultimate Binary Watch.java) |
+| [24597](https://boj.kr/24597) | Reversibly Cyclic Strings | Gold 4 | [C++](./24xxx/24597. Reversibly Cyclic Strings/Reversibly Cyclic Strings.cc) |
 | [24603](https://boj.kr/24603) | Scaling Recipe | Bronze 3 | [Java](./24xxx/24603. Scaling Recipe/Scaling Recipe.java) |
 | [24606](https://boj.kr/24606) | Double Password | Bronze 3 | [Java](./24xxx/24606. Double Password/Double Password.java) |
 | [24608](https://boj.kr/24608) | Average Character | Bronze 2 | [Java](./24xxx/24608. Average Character/Average Character.java) |
@@ -3911,6 +3915,7 @@
 | [28119](https://boj.kr/28119) | Traveling SCCC President | Gold 3 | [Java](./28xxx/28119. Traveling SCCC President/Traveling SCCC President.java) |
 | [28125](https://boj.kr/28125) | 2023 아주머학교 프로그래딩 정시머힌 | Silver 4 | [Java](./28xxx/28125. 2023 아주머학교 프로그래딩 정시머힌/2023 아주머학교 프로그래딩 정시머힌.java) |
 | [28126](https://boj.kr/28126) | Space-A | Silver 2 | [C++](./28xxx/28126. Space－A/Space－A.cc) |
+| [28127](https://boj.kr/28127) | 숫자탑과 쿼리 | Gold 5 | [C++](./28xxx/28127. 숫자탑과 쿼리/숫자탑과 쿼리.cc) |
 | [28135](https://boj.kr/28135) | Since 1973 | Bronze 3 | [Java](./28xxx/28135. Since 1973/Since 1973.java) |
 | [28136](https://boj.kr/28136) | 원, 탁! | Silver 5 | [C++](./28xxx/28136. 원， 탁！/원， 탁！.cc) |
 | [28140](https://boj.kr/28140) | 빨강~ 빨강~ 파랑! 파랑! 달콤한 솜사탕! | Gold 5 | [C++](./28xxx/28140. 빨강～ 빨강～ 파랑！ 파랑！ 달콤한 솜사탕！/빨강～ 빨강～ 파랑！ 파랑！ 달콤한 솜사탕！.cc) |
