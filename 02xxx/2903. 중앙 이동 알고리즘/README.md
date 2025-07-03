@@ -1,16 +1,8 @@
-# [Bronze III] 중앙 이동 알고리즘 - 2903 
+# [Bronze III] 중앙 이동 알고리즘
 
 [문제 링크](https://www.acmicpc.net/problem/2903) 
 
-### 성능 요약
-
-메모리: 14228 KB, 시간: 128 ms
-
-### 분류
-
-수학
-
-### 문제 설명
+## 문제 설명
 
 <p>상근이는 친구들과 함께 SF영화를 찍으려고 한다. 이 영화는 외계 지형이 필요하다. 실제로 우주선을 타고 외계 행성에 가서 촬영을 할 수 없기 때문에, 컴퓨터 그래픽으로 CG처리를 하려고 한다.</p>
 
@@ -30,9 +22,9 @@
 <table class="table table-bordered td-center">
 	<tbody>
 		<tr>
-			<td><img alt="" src="" style="width: 214px; height: 213px;"></td>
-			<td><img alt="" src="" style="width: 212px; height: 213px;"></td>
-			<td><img alt="" src="" style="width: 212px; height: 213px;"></td>
+			<td><img alt="" src="https://upload.acmicpc.net/5e446f0f-613c-4ce0-a626-6b0c2729ed1e/-/preview/" style="width: 214px; height: 213px;"></td>
+			<td><img alt="" src="https://upload.acmicpc.net/65c1bcf1-7d8a-463b-91df-d6cabcc2ceae/-/preview/" style="width: 212px; height: 213px;"></td>
+			<td><img alt="" src="https://upload.acmicpc.net/27b99467-cfdf-4ce3-a0b0-2897747edcf9/-/preview/" style="width: 212px; height: 213px;"></td>
 		</tr>
 		<tr>
 			<td>초기 상태 - 점 4개</td>
@@ -44,11 +36,11 @@
 
 <p>상근이는 어떤 점은 한 개 보다 많은 정사각형에 포함될 수 있다는 사실을 알았다. 메모리 소모량을 줄이기 위해서 중복하는 점을 한 번만 저장하려고 한다. 과정을 N번 거친 후 점 몇 개를 저장해야 하는지 구하는 프로그램을 작성하시오.</p>
 
-### 입력 
+## 입력 
 
  <p>첫째 줄에 N이 주어진다. (1 ≤ N ≤ 15)</p>
 
-### 출력 
+## 출력 
 
  <p>첫째 줄에 과정을 N번 거친 후 점의 수를 출력한다.</p>
 
