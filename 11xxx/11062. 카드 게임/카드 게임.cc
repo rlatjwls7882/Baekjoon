@@ -1,14 +1,11 @@
 #include<bits/stdc++.h>
 using namespace std;
 
-// dp[l][r] : 왼쪽 끝과 오른쪽 끝이 각각 l, r 일때의 최대 점수
+// dp[l][r] : 왼쪽 끝과 오른쪽 끝이 각각 l, r 일때의 근우의 최대 점수
 int arr[1000], dp[1000][1000];
 
 int dfs(int l, int r, int depth) {
-    if(l==r) {
-        if(depth%2==1) return dp[l][r] = 0;
-        return dp[l][r] = arr[l];
-    }
+    if(l>r) return 0;
     if(dp[l][r]!=-1) return dp[l][r];
 
     int dl = dfs(l+1, r, depth+1);
