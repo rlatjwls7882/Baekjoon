@@ -1462,7 +1462,7 @@
 | [09306](https://boj.kr/9306) | Practice: Roll Call | Bronze 4 | [Java](./09xxx/9306. Practice： Roll Call/Practice： Roll Call.java) |
 | [09310](https://boj.kr/9310) | Arithmetic and Geometric Sums | Bronze 3 | [Java](./09xxx/9310. Arithmetic and Geometric Sums/Arithmetic and Geometric Sums.java) |
 | [09313](https://boj.kr/9313) | Integer Flipping | Bronze 2 | [Java](./09xxx/9313. Integer Flipping/Integer Flipping.java) |
-| [09316](https://boj.kr/9316) | Hello Judge | Bronze 4 | [C](./09xxx/9316. Hello Judge/Hello Judge.c) |
+| [09316](https://boj.kr/9316) | Hello Judge | Bronze 5 | [C](./09xxx/9316. Hello Judge/Hello Judge.c) |
 | [09317](https://boj.kr/9317) | Monitor DPI | Bronze 3 | [Java](./09xxx/9317. Monitor DPI/Monitor DPI.java) |
 | [09322](https://boj.kr/9322) | 철벽 보안 알고리즘 | Silver 4 | [C++](./09xxx/9322. 철벽 보안 알고리즘/철벽 보안 알고리즘.cc) |
 | [09324](https://boj.kr/9324) | 진짜 메시지 | Silver 4 | [Java](./09xxx/9324. 진짜 메시지/진짜 메시지.java) |
@@ -1799,6 +1799,7 @@
 | [11058](https://boj.kr/11058) | 크리보드 | Gold 5 | [C++](./11xxx/11058. 크리보드/크리보드.cc) |
 | [11059](https://boj.kr/11059) | 크리 문자열 | Silver 5 | [C++](./11xxx/11059. 크리 문자열/크리 문자열.cc) |
 | [11060](https://boj.kr/11060) | 점프 점프 | Silver 2 | [Java](./11xxx/11060. 점프 점프/점프 점프.java) |
+| [11062](https://boj.kr/11062) | 카드 게임 | Gold 3 | [C++](./11xxx/11062. 카드 게임/카드 게임.cc) |
 | [11066](https://boj.kr/11066) | 파일 합치기 | Gold 3 | [C++](./11xxx/11066. 파일 합치기/파일 합치기.cc) |
 | [11068](https://boj.kr/11068) | 회문인 수 | Silver 5 | [Java](./11xxx/11068. 회문인 수/회문인 수.java) |
 | [11070](https://boj.kr/11070) | 피타고라스 기댓값 | Bronze 1 | [Java](./11xxx/11070. 피타고라스 기댓값/피타고라스 기댓값.java) |
@@ -2064,6 +2065,7 @@
 | [12933](https://boj.kr/12933) | 오리 | Silver 2 | [C++](./12xxx/12933. 오리/오리.cc) |
 | [12934](https://boj.kr/12934) | 턴 게임 | Gold 5 | [C++](./12xxx/12934. 턴 게임/턴 게임.cc) |
 | [12947](https://boj.kr/12947) | 트리 만들기 | Gold 4 | [C++](./12xxx/12947. 트리 만들기/트리 만들기.cc) |
+| [12970](https://boj.kr/12970) | AB | Gold 4 | [C++](./12xxx/12970. AB/AB.cc) |
 | [13003](https://boj.kr/13003) | 배수열 | Gold 3 | [C++](./13xxx/13003. 배수열/배수열.cc) |
 | [13015](https://boj.kr/13015) | 별 찍기 - 23 | Silver 4 | [Java](./13xxx/13015. 별 찍기 － 23/별 찍기 － 23.java) |
 | [13018](https://boj.kr/13018) | 특이한 수열 | Gold 4 | [C++](./13xxx/13018. 특이한 수열/특이한 수열.cc) |
@@ -2486,6 +2488,7 @@
 | [15656](https://boj.kr/15656) | N과 M (7) | Silver 3 | [Java](./15xxx/15656. N과 M （7）/N과 M （7）.java) |
 | [15657](https://boj.kr/15657) | N과 M (8) | Silver 3 | [Java](./15xxx/15657. N과 M （8）/N과 M （8）.java) |
 | [15658](https://boj.kr/15658) | 연산자 끼워넣기 (2) | Silver 2 | [Java](./15xxx/15658. 연산자 끼워넣기 （2）/연산자 끼워넣기 （2）.java) |
+| [15659](https://boj.kr/15659) | 연산자 끼워넣기 (3) | Gold 4 | [C++](./15xxx/15659. 연산자 끼워넣기 （3）/연산자 끼워넣기 （3）.cc) |
 | [15661](https://boj.kr/15661) | 링크와 스타트 | Gold 5 | [C++](./15xxx/15661. 링크와 스타트/링크와 스타트.cc) |
 | [15663](https://boj.kr/15663) | N과 M (9) | Silver 2 | [Java](./15xxx/15663. N과 M （9）/N과 M （9）.java) |
 | [15664](https://boj.kr/15664) | N과 M (10) | Silver 2 | [Java](./15xxx/15664. N과 M （10）/N과 M （10）.java) |
@@ -2841,6 +2844,7 @@
 | [17436](https://boj.kr/17436) | 소수의 배수 | Gold 3 | [C++](./17xxx/17436. 소수의 배수/소수의 배수.cc) |
 | [17450](https://boj.kr/17450) | 과자 사기 | Bronze 3 | [Java](./17xxx/17450. 과자 사기/과자 사기.java) |
 | [17451](https://boj.kr/17451) | 평행 우주 | Silver 3 | [C++](./17xxx/17451. 평행 우주/평행 우주.cc) |
+| [17452](https://boj.kr/17452) | Christmalo.win | Gold 4 | [C++](./17xxx/17452. Christmalo．win/Christmalo．win.cc) |
 | [17466](https://boj.kr/17466) | N! mod P (1) | Bronze 2 | [Java](./17xxx/17466. N！ mod P （1）/N！ mod P （1）.java) |
 | [17472](https://boj.kr/17472) | 다리 만들기 2 | Gold 1 | [Java](./17xxx/17472. 다리 만들기 2/다리 만들기 2.java) |
 | [17478](https://boj.kr/17478) | 재귀함수가 뭔가요? | Silver 5 | [Java](./17xxx/17478. 재귀함수가 뭔가요？/재귀함수가 뭔가요？.java) |
@@ -3197,6 +3201,7 @@
 | [21758](https://boj.kr/21758) | 꿀 따기 | Gold 5 | [C++](./21xxx/21758. 꿀 따기/꿀 따기.cc) |
 | [21771](https://boj.kr/21771) | 가희야 거기서 자는 거 아니야 | Bronze 1 | [Java](./21xxx/21771. 가희야 거기서 자는 거 아니야/가희야 거기서 자는 거 아니야.java) |
 | [21772](https://boj.kr/21772) | 가희의 고구마 먹방 | Gold 5 | [C++](./21xxx/21772. 가희의 고구마 먹방/가희의 고구마 먹방.cc) |
+| [21773](https://boj.kr/21773) | 가희와 프로세스 1 | Gold 5 | [C++](./21xxx/21773. 가희와 프로세스 1/가희와 프로세스 1.cc) |
 | [21866](https://boj.kr/21866) | 추첨을 통해 커피를 받자 | Bronze 3 | [Java](./21xxx/21866. 추첨을 통해 커피를 받자/추첨을 통해 커피를 받자.java) |
 | [21867](https://boj.kr/21867) | Java Bitecode | Bronze 2 | [Java](./21xxx/21867. Java Bitecode/Java Bitecode.java) |
 | [21870](https://boj.kr/21870) | 시철이가 사랑한 GCD | Gold 5 | [C++](./21xxx/21870. 시철이가 사랑한 GCD/시철이가 사랑한 GCD.cc) |
