@@ -1586,6 +1586,7 @@
 | [10026](https://boj.kr/10026) | 적록색약 | Gold 5 | [Java](./10xxx/10026. 적록색약/적록색약.java) |
 | [10039](https://boj.kr/10039) | 평균 점수 | Bronze 4 | [C](./10xxx/10039. 평균 점수/평균 점수.c) |
 | [10040](https://boj.kr/10040) | 투표 | Bronze 2 | [Java](./10xxx/10040. 투표/투표.java) |
+| [10041](https://boj.kr/10041) | 관광 | Bronze 1 | [C++](./10xxx/10041. 관광/관광.cc) |
 | [10093](https://boj.kr/10093) | 숫자 | Bronze 2 | [Java](./10xxx/10093. 숫자/숫자.java) |
 | [10101](https://boj.kr/10101) | 삼각형 외우기 | Bronze 4 | [C](./10xxx/10101. 삼각형 외우기/삼각형 외우기.c) |
 | [10102](https://boj.kr/10102) | 개표 | Bronze 3 | [Java](./10xxx/10102. 개표/개표.java) |
@@ -3336,6 +3337,7 @@
 | [23627](https://boj.kr/23627) | driip | Bronze 3 | [Java](./23xxx/23627. driip/driip.java) |
 | [23628](https://boj.kr/23628) | 악마의 연차 계산기 | Bronze 1 | [Java](./23xxx/23628. 악마의 연차 계산기/악마의 연차 계산기.java) |
 | [23631](https://boj.kr/23631) | 진심 좌우 반복뛰기 | Silver 1 | [C++](./23xxx/23631. 진심 좌우 반복뛰기/진심 좌우 반복뛰기.cc) |
+| [23656](https://boj.kr/23656) | Jack and Jill | Silver 2 | [C++](./23xxx/23656. Jack and Jill/Jack and Jill.cc) |
 | [23663](https://boj.kr/23663) | Deja vu of Go Players | Bronze 3 | [Java](./23xxx/23663. Deja vu of Go Players/Deja vu of Go Players.java) |
 | [23716](https://boj.kr/23716) | Transform the String | Bronze 2 | [Java](./23xxx/23716. Transform the String/Transform the String.java) |
 | [23738](https://boj.kr/23738) | Ресторан | Bronze 2 | [Java](./23xxx/23738. Ресторан/Ресторан.java) |
@@ -4222,6 +4224,7 @@
 | [30891](https://boj.kr/30891) | 볶음밥 지키기 | Silver 5 | [C++](./30xxx/30891. 볶음밥 지키기/볶음밥 지키기.cc) |
 | [30917](https://boj.kr/30917) | A+B - 10 (제1편) | Bronze 3 | [Java](./30xxx/30917. A＋B － 10 （제1편）/A＋B － 10 （제1편）.java) |
 | [30923](https://boj.kr/30923) | 크냑과 3D 프린터 | Silver 5 | [C++](./30xxx/30923. 크냑과 3D 프린터/크냑과 3D 프린터.cc) |
+| [30924](https://boj.kr/30924) | A+B - 10 (제2편) | Silver 5 | [C++](./30xxx/30924. A＋B － 10 （제2편）/A＋B － 10 （제2편）.cc) |
 | [30957](https://boj.kr/30957) | 빅데이터 vs 정보보호 vs 인공지능 | Bronze 3 | [Java](./30xxx/30957. 빅데이터 vs 정보보호 vs 인공지능/빅데이터 vs 정보보호 vs 인공지능.java) |
 | [30958](https://boj.kr/30958) | 서울사이버대학을 다니고 | Bronze 3 | [Java](./30xxx/30958. 서울사이버대학을 다니고/서울사이버대학을 다니고.java) |
 | [30969](https://boj.kr/30969) | 진주로 가자! (Hard) | Silver 5 | [C++](./30xxx/30969. 진주로 가자！ （Hard）/진주로 가자！ （Hard）.cc) |
@@ -4549,6 +4552,7 @@
 | [33883](https://boj.kr/33883) | Acentuación del idioma español | Bronze 3 | [C++](./33xxx/33883. Acentuación del idioma español/Acentuación del idioma español.cc) |
 | [33898](https://boj.kr/33898) | HEPC1 | Bronze 1 | [C++](./33xxx/33898. HEPC1/HEPC1.cc) |
 | [33909](https://boj.kr/33909) | 알파벳 블록 | Bronze 3 | [C++](./33xxx/33909. 알파벳 블록/알파벳 블록.cc) |
+| [33918](https://boj.kr/33918) | 맛있는 스콘 만들기 | Platinum 3 | [C++](./33xxx/33918. 맛있는 스콘 만들기/맛있는 스콘 만들기.cc) |
 | [33939](https://boj.kr/33939) | 부도덕한 그래프 (Easy) | Silver 1 | [C++](./33xxx/33939. 부도덕한 그래프 （Easy）/부도덕한 그래프 （Easy）.cc) |
 | [33950](https://boj.kr/33950) | 어게인 포닉스 | Bronze 3 | [C++](./33xxx/33950. 어게인 포닉스/어게인 포닉스.cc) |
 | [33963](https://boj.kr/33963) | 돈복사 | Bronze 2 | [C++](./33xxx/33963. 돈복사/돈복사.cc) |
