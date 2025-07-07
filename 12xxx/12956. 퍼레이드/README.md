@@ -1,4 +1,4 @@
-# [Gold I] 퍼레이드
+# [Gold II] 퍼레이드
 
 [문제 링크](https://www.acmicpc.net/problem/12956) 
 
