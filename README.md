@@ -529,7 +529,7 @@
 | [02457](https://boj.kr/2457) | 공주님의 정원 | Gold 3 | [C++](./02xxx/2457. 공주님의 정원/공주님의 정원.cc) |
 | [02458](https://boj.kr/2458) | 키 순서 | Gold 4 | [Java](./02xxx/2458. 키 순서/키 순서.java) |
 | [02460](https://boj.kr/2460) | 지능형 기차 2 | Bronze 3 | [Java](./02xxx/2460. 지능형 기차 2/지능형 기차 2.java) |
-| [02463](https://boj.kr/2463) | 비용 | Platinum 5 | [C++](./02xxx/2463. 비용/비용.cc) |
+| [02463](https://boj.kr/2463) | 비용 | Platinum 4 | [C++](./02xxx/2463. 비용/비용.cc) |
 | [02467](https://boj.kr/2467) | 용액 | Gold 5 | [Java](./02xxx/2467. 용액/용액.java) |
 | [02468](https://boj.kr/2468) | 안전 영역 | Silver 1 | [Java](./02xxx/2468. 안전 영역/안전 영역.java) |
 | [02469](https://boj.kr/2469) | 사다리 타기 | Gold 5 | [C++](./02xxx/2469. 사다리 타기/사다리 타기.cc) |
@@ -1431,6 +1431,7 @@
 | [09094](https://boj.kr/9094) | 수학적 호기심 | Bronze 3 | [Java](./09xxx/9094. 수학적 호기심/수학적 호기심.java) |
 | [09095](https://boj.kr/9095) | 1, 2, 3 더하기 | Silver 3 | [Java](./09xxx/9095. 1， 2， 3 더하기/1， 2， 3 더하기.java) |
 | [09098](https://boj.kr/9098) | The Suspects | Gold 4 | [Java](./09xxx/9098. The Suspects/The Suspects.java) |
+| [09130](https://boj.kr/9130) | Herbert | Silver 1 | [C++](./09xxx/9130. Herbert/Herbert.cc) |
 | [09151](https://boj.kr/9151) | Starship Hakodate-maru | Bronze 2 | [Java](./09xxx/9151. Starship Hakodate－maru/Starship Hakodate－maru.java) |
 | [09161](https://boj.kr/9161) | Sir Bedavere’s Bogus Division Solutions | Bronze 3 | [Java](./09xxx/9161. Sir Bedavere’s Bogus Division Solutions/Sir Bedavere’s Bogus Division Solutions.java) |
 | [09176](https://boj.kr/9176) | 메르센 합성수 | Gold 4 | [C++](./09xxx/9176. 메르센 합성수/메르센 합성수.cc) |
@@ -2066,6 +2067,7 @@
 | [12933](https://boj.kr/12933) | 오리 | Silver 2 | [C++](./12xxx/12933. 오리/오리.cc) |
 | [12934](https://boj.kr/12934) | 턴 게임 | Gold 5 | [C++](./12xxx/12934. 턴 게임/턴 게임.cc) |
 | [12947](https://boj.kr/12947) | 트리 만들기 | Gold 4 | [C++](./12xxx/12947. 트리 만들기/트리 만들기.cc) |
+| [12956](https://boj.kr/12956) | 퍼레이드 | Gold 2 | [C++](./12xxx/12956. 퍼레이드/퍼레이드.cc) |
 | [12970](https://boj.kr/12970) | AB | Gold 4 | [C++](./12xxx/12970. AB/AB.cc) |
 | [13003](https://boj.kr/13003) | 배수열 | Gold 3 | [C++](./13xxx/13003. 배수열/배수열.cc) |
 | [13015](https://boj.kr/13015) | 별 찍기 - 23 | Silver 4 | [Java](./13xxx/13015. 별 찍기 － 23/별 찍기 － 23.java) |
@@ -2993,6 +2995,7 @@
 | [19532](https://boj.kr/19532) | 수학은 비대면강의입니다 | Bronze 2 | [Java](./19xxx/19532. 수학은 비대면강의입니다/수학은 비대면강의입니다.java) |
 | [19539](https://boj.kr/19539) | 사과나무 | Gold 5 | [C++](./19xxx/19539. 사과나무/사과나무.cc) |
 | [19542](https://boj.kr/19542) | 전단지 돌리기 | Gold 3 | [C++](./19xxx/19542. 전단지 돌리기/전단지 돌리기.cc) |
+| [19554](https://boj.kr/19554) | Guess the number | Silver 3 | [C++](./19xxx/19554. Guess the number/Guess the number.cc) |
 | [19563](https://boj.kr/19563) | 개구리 1 | Bronze 1 | [Java](./19xxx/19563. 개구리 1/개구리 1.java) |
 | [19564](https://boj.kr/19564) | 반복 | Bronze 1 | [Java](./19xxx/19564. 반복/반복.java) |
 | [19572](https://boj.kr/19572) | 가뭄(Small) | Bronze 3 | [Java](./19xxx/19572. 가뭄（Small）/가뭄（Small）.java) |
@@ -3316,6 +3319,7 @@
 | [23295](https://boj.kr/23295) | 스터디 시간 정하기 1 | Gold 3 | [C++](./23xxx/23295. 스터디 시간 정하기 1/스터디 시간 정하기 1.cc) |
 | [23303](https://boj.kr/23303) | 이 문제는 D2 입니다. | Bronze 3 | [Java](./23xxx/23303. 이 문제는 D2 입니다．/이 문제는 D2 입니다．.java) |
 | [23304](https://boj.kr/23304) | 아카라카 | Silver 2 | [C++](./23xxx/23304. 아카라카/아카라카.cc) |
+| [23306](https://boj.kr/23306) | binary는 호남선 | Silver 2 | [C++](./23xxx/23306. binary는 호남선/binary는 호남선.cc) |
 | [23320](https://boj.kr/23320) | 홍익 절대평가 | Bronze 2 | [Java](./23xxx/23320. 홍익 절대평가/홍익 절대평가.java) |
 | [23321](https://boj.kr/23321) | 홍익 댄스파티 | Bronze 1 | [C++](./23xxx/23321. 홍익 댄스파티/홍익 댄스파티.cc) |
 | [23323](https://boj.kr/23323) | 황소 다마고치 | Silver 2 | [C++](./23xxx/23323. 황소 다마고치/황소 다마고치.cc) |
