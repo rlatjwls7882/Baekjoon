@@ -1677,7 +1677,7 @@
 | [10675](https://boj.kr/10675) | Cow Routing | Bronze 2 | [Java](./10xxx/10675. Cow Routing/Cow Routing.java) |
 | [10693](https://boj.kr/10693) | Abdelrahman | Bronze 3 | [Java](./10xxx/10693. Abdelrahman/Abdelrahman.java) |
 | [10695](https://boj.kr/10695) | Dalia | Bronze 3 | [Java](./10xxx/10695. Dalia/Dalia.java) |
-| [10696](https://boj.kr/10696) | Prof. Ossama | Bronze 2 | [Java](./10xxx/10696. Prof． Ossama/Prof． Ossama.java) |
+| [10696](https://boj.kr/10696) | Prof. Ossama | Bronze 3 | [Java](./10xxx/10696. Prof． Ossama/Prof． Ossama.java) |
 | [10698](https://boj.kr/10698) | Ahmed Aly | Bronze 3 | [Java](./10xxx/10698. Ahmed Aly/Ahmed Aly.java) |
 | [10699](https://boj.kr/10699) | 오늘 날짜 | Bronze 5 | [C](./10xxx/10699. 오늘 날짜/오늘 날짜.c) |
 | [10707](https://boj.kr/10707) | 수도요금 | Bronze 3 | [Java](./10xxx/10707. 수도요금/수도요금.java) |
@@ -3333,6 +3333,7 @@
 | [23375](https://boj.kr/23375) | Arm Coordination | Bronze 3 | [Java](./23xxx/23375. Arm Coordination/Arm Coordination.java) |
 | [23397](https://boj.kr/23397) | Kathmandu | Bronze 3 | [Java](./23xxx/23397. Katmandu/Katmandu.java) |
 | [23401](https://boj.kr/23401) | Ljeto | Bronze 2 | [Java](./23xxx/23401. Ljeto/Ljeto.java) |
+| [23435](https://boj.kr/23435) | Cloud computing | Gold 1 | [C++](./23xxx/23435. Cloud computing/Cloud computing.cc) |
 | [23530](https://boj.kr/23530) | Not A + B | Bronze 3 | [Java](./23xxx/23530. Not A ＋ B/Not A ＋ B.java) |
 | [23538](https://boj.kr/23538) | Easy Equation | Gold 4 | [C++](./23xxx/23538. Easy Equation/Easy Equation.cc) |
 | [23544](https://boj.kr/23544) | Kinder Surprise | Bronze 1 | [Java](./23xxx/23544. Kinder Surprise/Kinder Surprise.java) |
@@ -3622,6 +3623,7 @@
 | [25642](https://boj.kr/25642) | 젓가락 게임 | Bronze 3 | [Java](./25xxx/25642. 젓가락 게임/젓가락 게임.java) |
 | [25643](https://boj.kr/25643) | 문자열 탑 쌓기 | Bronze 1 | [C++](./25xxx/25643. 문자열 탑 쌓기/문자열 탑 쌓기.cc) |
 | [25644](https://boj.kr/25644) | 최대 상승 | Silver 5 | [Java](./25xxx/25644. 최대 상승/최대 상승.java) |
+| [25672](https://boj.kr/25672) | Even and Odd Combinations | Gold 4 | [C++](./25xxx/25672. Even and Odd Combinations/Even and Odd Combinations.cc) |
 | [25682](https://boj.kr/25682) | 체스판 다시 칠하기 2 | Gold 4 | [C++](./25xxx/25682. 체스판 다시 칠하기 2/체스판 다시 칠하기 2.cc) |
 | [25703](https://boj.kr/25703) | 포인터 공부 | Bronze 3 | [Java](./25xxx/25703. 포인터 공부/포인터 공부.java) |
 | [25704](https://boj.kr/25704) | 출석 이벤트 | Bronze 4 | [Java](./25xxx/25704. 출석 이벤트/출석 이벤트.java) |
@@ -3830,6 +3832,7 @@
 | [27295](https://boj.kr/27295) | 선형 회귀는 너무 쉬워 1 | Silver 5 | [C++](./27xxx/27295. 선형 회귀는 너무 쉬워 1/선형 회귀는 너무 쉬워 1.cc) |
 | [27297](https://boj.kr/27297) | 맨해튼에서의 모임 | Gold 5 | [C++](./27xxx/27297. 맨해튼에서의 모임/맨해튼에서의 모임.cc) |
 | [27310](https://boj.kr/27310) | :chino_shock: | Bronze 4 | [C](./27xxx/27310. ：chino＿shock：/：chino＿shock：.c) |
+| [27312](https://boj.kr/27312) | 운영진에게 설정 짜기는 어려워 | Silver 1 | [C++](./27xxx/27312. 운영진에게 설정 짜기는 어려워/운영진에게 설정 짜기는 어려워.cc) |
 | [27323](https://boj.kr/27323) | 직사각형 | Bronze 5 | [C](./27xxx/27323. 직사각형/직사각형.c) |
 | [27324](https://boj.kr/27324) | ゾロ目 (Same Numbers) | Bronze 5 | [C](./27xxx/27324. ゾロ目 （Same Numbers）/ゾロ目 （Same Numbers）.c) |
 | [27325](https://boj.kr/27325) | 3 つの箱 (Three Boxes) | Bronze 3 | [Java](./27xxx/27325. 3 つの箱 （Three Boxes）/3 つの箱 （Three Boxes）.java) |
@@ -4274,7 +4277,7 @@
 | [31403](https://boj.kr/31403) | $A + B - C$ | Bronze 4 | [Java](./31xxx/31403. $A ＋ B － C$/$A ＋ B － C$.java) |
 | [31406](https://boj.kr/31406) | 트리 탐색기 (Easy) | Gold 2 | [C++](./31xxx/31406. 트리 탐색기 （Easy）/트리 탐색기 （Easy）.cc) |
 | [31408](https://boj.kr/31408) | 당직 근무표 | Bronze 1 | [Java](./31xxx/31408. 당직 근무표/당직 근무표.java) |
-| [31416](https://boj.kr/31416) | 가상 검증 기술 | Bronze 1 | [Java](./31xxx/31416. 가상 검증 기술/가상 검증 기술.java) |
+| [31416](https://boj.kr/31416) | 가상 검증 기술 | Silver 5 | [Java](./31xxx/31416. 가상 검증 기술/가상 검증 기술.java) |
 | [31418](https://boj.kr/31418) | 스펀지 | Silver 4 | [Java](./31xxx/31418. 스펀지/스펀지.java) |
 | [31428](https://boj.kr/31428) | 엘리스 트랙 매칭 | Bronze 4 | [Java](./31xxx/31428. 엘리스 트랙 매칭/엘리스 트랙 매칭.java) |
 | [31429](https://boj.kr/31429) | SUAPC 2023 Summer | Bronze 5 | [Java](./31xxx/31429. SUAPC 2023 Summer/SUAPC 2023 Summer.java) |
