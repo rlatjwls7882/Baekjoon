@@ -2354,6 +2354,7 @@
 | [14716](https://boj.kr/14716) | 현수막 | Silver 1 | [C++](./14xxx/14716. 현수막/현수막.cc) |
 | [14719](https://boj.kr/14719) | 빗물 | Gold 5 | [Python](./14xxx/14719. 빗물/빗물.py) |
 | [14720](https://boj.kr/14720) | 우유 축제 | Bronze 2 | [Java](./14xxx/14720. 우유 축제/우유 축제.java) |
+| [14721](https://boj.kr/14721) | 성적표 | Silver 5 | [C++](./14xxx/14721. 성적표/성적표.cc) |
 | [14723](https://boj.kr/14723) | 이산수학 과제 | Bronze 2 | [Java](./14xxx/14723. 이산수학 과제/이산수학 과제.java) |
 | [14724](https://boj.kr/14724) | 관리자는 누구? | Bronze 2 | [Java](./14xxx/14724. 관리자는 누구？/관리자는 누구？.java) |
 | [14725](https://boj.kr/14725) | 개미굴 | Gold 3 | [C++](./14xxx/14725. 개미굴/개미굴.cc) |
@@ -4295,6 +4296,7 @@
 | [31518](https://boj.kr/31518) | Triple Sevens | Bronze 4 | [Python](./31xxx/31518. Triple Sevens/Triple Sevens.py) |
 | [31520](https://boj.kr/31520) | Champernowne Verification | Bronze 4 | [Python](./31xxx/31520. Champernowne Verification/Champernowne Verification.py) |
 | [31526](https://boj.kr/31526) | Rampant Growth | Bronze 2 | [Python](./31xxx/31526. Rampant Growth/Rampant Growth.py) |
+| [31529](https://boj.kr/31529) | 2024년에는 혼자가 아니길 | Silver 5 | [C++](./31xxx/31529. 2024년에는 혼자가 아니길/2024년에는 혼자가 아니길.cc) |
 | [31533](https://boj.kr/31533) | Furiosa AI 영상 처리 가속 | Bronze 2 | [Java](./31xxx/31533. Furiosa AI 영상 처리 가속/Furiosa AI 영상 처리 가속.java) |
 | [31561](https://boj.kr/31561) | 시계탑 | Bronze 3 | [Python](./31xxx/31561. 시계탑/시계탑.py) |
 | [31562](https://boj.kr/31562) | 전주 듣고 노래 맞히기 | Bronze 1 | [Java](./31xxx/31562. 전주 듣고 노래 맞히기/전주 듣고 노래 맞히기.java) |
