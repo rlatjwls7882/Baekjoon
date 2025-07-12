@@ -337,7 +337,7 @@
 | [01894](https://boj.kr/1894) | 4번째 점 | Bronze 1 | [C++](./01xxx/1894. 4번째 점/4번째 점.cc) |
 | [01895](https://boj.kr/1895) | 필터 | Silver 4 | [C++](./01xxx/1895. 필터/필터.cc) |
 | [01904](https://boj.kr/1904) | 01타일 | Silver 3 | [Java](./01xxx/1904. 01타일/01타일.java) |
-| [01907](https://boj.kr/1907) | 탄소 화합물 | Silver 3 | [C++](./01xxx/1907. 탄소 화합물/탄소 화합물.cc) |
+| [01907](https://boj.kr/1907) | 탄소 화합물 | Silver 4 | [C++](./01xxx/1907. 탄소 화합물/탄소 화합물.cc) |
 | [01911](https://boj.kr/1911) | 흙길 보수하기 | Gold 5 | [C++](./01xxx/1911. 흙길 보수하기/흙길 보수하기.cc) |
 | [01912](https://boj.kr/1912) | 연속합 | Silver 2 | [Java](./01xxx/1912. 연속합/연속합.java) |
 | [01913](https://boj.kr/1913) | 달팽이 | Silver 3 | [C++](./01xxx/1913. 달팽이/달팽이.cc) |
@@ -475,7 +475,7 @@
 | [02293](https://boj.kr/2293) | 동전 1 | Gold 4 | [C++](./02xxx/2293. 동전 1/동전 1.cc) |
 | [02294](https://boj.kr/2294) | 동전 2 | Gold 5 | [C++](./02xxx/2294. 동전 2/동전 2.cc) |
 | [02295](https://boj.kr/2295) | 세 수의 합 | Gold 4 | [C++](./02xxx/2295. 세 수의 합/세 수의 합.cc) |
-| [02302](https://boj.kr/2302) | 극장 좌석 | Gold 5 | [C++](./02xxx/2302. 극장 좌석/극장 좌석.cc) |
+| [02302](https://boj.kr/2302) | 극장 좌석 | Silver 1 | [C++](./02xxx/2302. 극장 좌석/극장 좌석.cc) |
 | [02303](https://boj.kr/2303) | 숫자 게임 | Silver 5 | [Java](./02xxx/2303. 숫자 게임/숫자 게임.java) |
 | [02304](https://boj.kr/2304) | 창고 다각형 | Silver 2 | [C++](./02xxx/2304. 창고 다각형/창고 다각형.cc) |
 | [02307](https://boj.kr/2307) | 도로검문 | Gold 1 | [C++](./02xxx/2307. 도로검문/도로검문.cc) |
@@ -4250,6 +4250,7 @@
 | [31067](https://boj.kr/31067) | 다오의 경주 대회 | Bronze 1 | [C++](./31xxx/31067. 다오의 경주 대회/다오의 경주 대회.cc) |
 | [31090](https://boj.kr/31090) | 2023은 무엇이 특별할까? | Bronze 4 | [Java](./31xxx/31090. 2023은 무엇이 특별할까？/2023은 무엇이 특별할까？.java) |
 | [31097](https://boj.kr/31097) | Astrology | Bronze 2 | [Java](./31xxx/31097. Astrology/Astrology.java) |
+| [31125](https://boj.kr/31125) | Dice | Bronze 3 | [C++](./31xxx/31125. Dice/Dice.cc) |
 | [31134](https://boj.kr/31134) | A Hero Named Magnus | Bronze 4 | [C++](./31xxx/31134. A Hero Named Magnus/A Hero Named Magnus.cc) |
 | [31169](https://boj.kr/31169) | Hidden Password | Bronze 2 | [Java](./31xxx/31169. Hidden Password/Hidden Password.java) |
 | [31215](https://boj.kr/31215) | 이상한 섞기 연산 | Bronze 2 | [Java](./31xxx/31215. 이상한 섞기 연산/이상한 섞기 연산.java) |
