@@ -198,7 +198,7 @@
 | [01459](https://boj.kr/1459) | 걷기 | Silver 3 | [C++](./01xxx/1459. 걷기/걷기.cc) |
 | [01461](https://boj.kr/1461) | 도서관 | Gold 4 | [C++](./01xxx/1461. 도서관/도서관.cc) |
 | [01463](https://boj.kr/1463) | 1로 만들기 | Silver 3 | [Java](./01xxx/1463. 1로 만들기/1로 만들기.java) |
-| [01471](https://boj.kr/1471) | 사탕 돌리기 | Platinum 4 | [C++](./01xxx/1471. 사탕 돌리기/사탕 돌리기.cc) |
+| [01471](https://boj.kr/1471) | 사탕 돌리기 | Platinum 5 | [C++](./01xxx/1471. 사탕 돌리기/사탕 돌리기.cc) |
 | [01475](https://boj.kr/1475) | 방 번호 | Silver 5 | [Java](./01xxx/1475. 방 번호/방 번호.java) |
 | [01476](https://boj.kr/1476) | 날짜 계산 | Silver 5 | [Java](./01xxx/1476. 날짜 계산/날짜 계산.java) |
 | [01484](https://boj.kr/1484) | 다이어트 | Gold 5 | [C++](./01xxx/1484. 다이어트/다이어트.cc) |
@@ -475,7 +475,7 @@
 | [02293](https://boj.kr/2293) | 동전 1 | Gold 4 | [C++](./02xxx/2293. 동전 1/동전 1.cc) |
 | [02294](https://boj.kr/2294) | 동전 2 | Gold 5 | [C++](./02xxx/2294. 동전 2/동전 2.cc) |
 | [02295](https://boj.kr/2295) | 세 수의 합 | Gold 4 | [C++](./02xxx/2295. 세 수의 합/세 수의 합.cc) |
-| [02302](https://boj.kr/2302) | 극장 좌석 | Silver 1 | [C++](./02xxx/2302. 극장 좌석/극장 좌석.cc) |
+| [02302](https://boj.kr/2302) | 극장 좌석 | Gold 5 | [C++](./02xxx/2302. 극장 좌석/극장 좌석.cc) |
 | [02303](https://boj.kr/2303) | 숫자 게임 | Silver 5 | [Java](./02xxx/2303. 숫자 게임/숫자 게임.java) |
 | [02304](https://boj.kr/2304) | 창고 다각형 | Silver 2 | [C++](./02xxx/2304. 창고 다각형/창고 다각형.cc) |
 | [02307](https://boj.kr/2307) | 도로검문 | Gold 1 | [C++](./02xxx/2307. 도로검문/도로검문.cc) |
@@ -755,7 +755,7 @@
 | [03004](https://boj.kr/3004) | 체스판 조각 | Bronze 3 | [Java](./03xxx/3004. 체스판 조각/체스판 조각.java) |
 | [03009](https://boj.kr/3009) | 네 번째 점 | Bronze 3 | [Java](./03xxx/3009. 네 번째 점/네 번째 점.java) |
 | [03015](https://boj.kr/3015) | 오아시스 재결합 | Platinum 5 | [C++](./03xxx/3015. 오아시스 재결합/오아시스 재결합.cc) |
-| [03018](https://boj.kr/3018) | 캠프파이어 | Silver 3 | [C++](./03xxx/3018. 캠프파이어/캠프파이어.cc) |
+| [03018](https://boj.kr/3018) | 캠프파이어 | Silver 4 | [C++](./03xxx/3018. 캠프파이어/캠프파이어.cc) |
 | [03019](https://boj.kr/3019) | 테트리스 | Gold 5 | [C++](./03xxx/3019. 테트리스/테트리스.cc) |
 | [03020](https://boj.kr/3020) | 개똥벌레 | Gold 5 | [C++](./03xxx/3020. 개똥벌레/개똥벌레.cc) |
 | [03023](https://boj.kr/3023) | 마술사 이민혁 | Bronze 1 | [Java](./03xxx/3023. 마술사 이민혁/마술사 이민혁.java) |
@@ -1663,7 +1663,7 @@
 | [10545](https://boj.kr/10545) | 뚜기뚜기메뚜기 | Silver 5 | [Java](./10xxx/10545. 뚜기뚜기메뚜기/뚜기뚜기메뚜기.java) |
 | [10546](https://boj.kr/10546) | 배부른 마라토너 | Silver 4 | [Java](./10xxx/10546. 배부른 마라토너/배부른 마라토너.java) |
 | [10551](https://boj.kr/10551) | STROJOPIS | Bronze 2 | [Java](./10xxx/10551. STROJOPIS/STROJOPIS.java) |
-| [10569](https://boj.kr/10569) | 다면체 | Bronze 3 | [Java](./10xxx/10569. 다면체/다면체.java) |
+| [10569](https://boj.kr/10569) | 다면체 | Bronze 4 | [Java](./10xxx/10569. 다면체/다면체.java) |
 | [10570](https://boj.kr/10570) | Favorite Number | Bronze 1 | [Java](./10xxx/10570. Favorite Number/Favorite Number.java) |
 | [10571](https://boj.kr/10571) | 다이아몬드 | Silver 1 | [C++](./10xxx/10571. 다이아몬드/다이아몬드.cc) |
 | [10597](https://boj.kr/10597) | 순열장난 | Gold 5 | [C++](./10xxx/10597. 순열장난/순열장난.cc) |
@@ -4473,6 +4473,7 @@
 | [32776](https://boj.kr/32776) | 가희와 4시간의 벽 2 | Bronze 4 | [C++](./32xxx/32776. 가희와 4시간의 벽 2/가희와 4시간의 벽 2.cc) |
 | [32777](https://boj.kr/32777) | 가희와 서울 지하철 2호선 | Bronze 3 | [C++](./32xxx/32777. 가희와 서울 지하철 2호선/가희와 서울 지하철 2호선.cc) |
 | [32778](https://boj.kr/32778) | 가희와 부역명 | Bronze 3 | [C++](./32xxx/32778. 가희와 부역명/가희와 부역명.cc) |
+| [32779](https://boj.kr/32779) | 가희와 전기 요금 1 | Bronze 1 | [C++](./32xxx/32779. 가희와 전기 요금 1/가희와 전기 요금 1.cc) |
 | [32789](https://boj.kr/32789) | Champernowne Subsequence | Silver 2 | [C++](./32xxx/32789. Champernowne Subsequence/Champernowne Subsequence.cc) |
 | [32795](https://boj.kr/32795) | Intuitive Elements | Bronze 3 | [C++](./32xxx/32795. Intuitive Elements/Intuitive Elements.cc) |
 | [32800](https://boj.kr/32800) | Bus Assignment | Bronze 3 | [C++](./32xxx/32800. Bus Assignment/Bus Assignment.cc) |
@@ -4580,4 +4581,6 @@
 | [34021](https://boj.kr/34021) | [T] 스코어보드가 121분 남은 시점에서 프리즈되었습니다. | Bronze 3 | [C++](./34xxx/34021. ［T］ 스코어보드가 121분 남은 시점에서 프리즈되었습니다．/［T］ 스코어보드가 121분 남은 시점에서 프리즈되었습니다．.cc) |
 | [34027](https://boj.kr/34027) | 제곱 수? | Bronze 3 | [C++](./34xxx/34027. 제곱 수？/제곱 수？.cc) |
 | [34032](https://boj.kr/34032) | /gg | Bronze 3 | [C++](./34xxx/34032. ／gg/／gg.cc) |
+| [34052](https://boj.kr/34052) | 체육은 수학과목 입니다 2 | Bronze 5 | [C++](./34xxx/34052. 체육은 수학과목 입니다 2/체육은 수학과목 입니다 2.cc) |
+| [34053](https://boj.kr/34053) | 도미노 게임 | Silver 3 | [C++](./34xxx/34053. 도미노 게임/도미노 게임.cc) |
 </div>
