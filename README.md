@@ -2295,6 +2295,7 @@
 | [14545](https://boj.kr/14545) | Square | Bronze 3 | [Java](./14xxx/14545. Square/Square.java) |
 | [14547](https://boj.kr/14547) | X X glued | Bronze 2 | [Java](./14xxx/14547. X X glued/X X glued.java) |
 | [14551](https://boj.kr/14551) | Card Game Contest | Bronze 2 | [Java](./14xxx/14551. Card Game Contest/Card Game Contest.java) |
+| [14557](https://boj.kr/14557) | Memory | Silver 3 | [C++](./14xxx/14557. Memory/Memory.cc) |
 | [14561](https://boj.kr/14561) | 회문 | Bronze 2 | [Java](./14xxx/14561. 회문/회문.java) |
 | [14563](https://boj.kr/14563) | 완전수 | Bronze 2 | [Java](./14xxx/14563. 완전수/완전수.java) |
 | [14564](https://boj.kr/14564) | 두부 게임 (Tofu Game) | Bronze 1 | [C++](./14xxx/14564. 두부 게임 （Tofu Game）/두부 게임 （Tofu Game）.cc) |
