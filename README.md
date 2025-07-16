@@ -508,6 +508,7 @@
 | [02410](https://boj.kr/2410) | 2의 멱수의 합 | Gold 5 | [C++](./02xxx/2410. 2의 멱수의 합/2의 멱수의 합.cc) |
 | [02414](https://boj.kr/2414) | 게시판 구멍 막기 | Platinum 3 | [C++](./02xxx/2414. 게시판 구멍 막기/게시판 구멍 막기.cc) |
 | [02417](https://boj.kr/2417) | 정수 제곱근 | Silver 4 | [C++](./02xxx/2417. 정수 제곱근/정수 제곱근.cc) |
+| [02418](https://boj.kr/2418) | 단어 격자 | Gold 4 | [C++](./02xxx/2418. 단어 격자/단어 격자.cc) |
 | [02420](https://boj.kr/2420) | 사파리월드 | Bronze 5 | [C](./02xxx/2420. 사파리월드/사파리월드.c) |
 | [02422](https://boj.kr/2422) | 한윤정이 이탈리아에 가서 아이스크림을 사먹는데 | Silver 4 | [C++](./02xxx/2422. 한윤정이 이탈리아에 가서 아이스크림을 사먹는데/한윤정이 이탈리아에 가서 아이스크림을 사먹는데.cc) |
 | [02428](https://boj.kr/2428) | 표절 | Silver 3 | [C++](./02xxx/2428. 표절/표절.cc) |
@@ -3249,7 +3250,7 @@
 | [22233](https://boj.kr/22233) | 가희와 키워드 | Silver 3 | [Java](./22xxx/22233. 가희와 키워드/가희와 키워드.java) |
 | [22251](https://boj.kr/22251) | 빌런 호석 | Gold 5 | [C++](./22xxx/22251. 빌런 호석/빌런 호석.cc) |
 | [22255](https://boj.kr/22255) | 호석사우루스 | Gold 2 | [C++](./22xxx/22255. 호석사우루스/호석사우루스.cc) |
-| [22279](https://boj.kr/22279) | Quality-Adjusted Life-Year | Bronze 3 | [Java](./22xxx/22279. Quality－Adjusted Life－Year/Quality－Adjusted Life－Year.java) |
+| [22279](https://boj.kr/22279) | Quality-Adjusted Life-Year | Bronze 4 | [Java](./22xxx/22279. Quality－Adjusted Life－Year/Quality－Adjusted Life－Year.java) |
 | [22332](https://boj.kr/22332) | XOR 2 | Silver 5 | [Text](./22xxx/22332. XOR 2/XOR 2.txt) |
 | [22333](https://boj.kr/22333) | XOR 3 | Silver 5 | [Text](./22xxx/22333. XOR 3/XOR 3.txt) |
 | [22334](https://boj.kr/22334) | XOR 4 | Silver 4 | [Text](./22xxx/22334. XOR 4/XOR 4.txt) |
@@ -3909,6 +3910,7 @@
 | [27940](https://boj.kr/27940) | 가지 산사태 | Silver 5 | [C++](./27xxx/27940. 가지 산사태/가지 산사태.cc) |
 | [27945](https://boj.kr/27945) | 슬슬 가지를 먹지 않으면 죽는다 | Gold 3 | [Java](./27xxx/27945. 슬슬 가지를 먹지 않으면 죽는다/슬슬 가지를 먹지 않으면 죽는다.java) |
 | [27951](https://boj.kr/27951) | 옷걸이 | Bronze 1 | [Java](./27xxx/27951. 옷걸이/옷걸이.java) |
+| [27958](https://boj.kr/27958) | 사격 연습 | Gold 4 | [C++](./27xxx/27958. 사격 연습/사격 연습.cc) |
 | [27959](https://boj.kr/27959) | 초코바 | Bronze 5 | [C](./27xxx/27959. 초코바/초코바.c) |
 | [27960](https://boj.kr/27960) | 사격 내기 | Bronze 3 | [Java](./27xxx/27960. 사격 내기/사격 내기.java) |
 | [27961](https://boj.kr/27961) | 고양이는 많을수록 좋다 | Bronze 1 | [Java](./27xxx/27961. 고양이는 많을수록 좋다/고양이는 많을수록 좋다.java) |
