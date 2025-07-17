@@ -792,6 +792,7 @@
 | [03107](https://boj.kr/3107) | IPv6 | Silver 1 | [C++](./03xxx/3107. IPv6/IPv6.cc) |
 | [03135](https://boj.kr/3135) | 라디오 | Silver 5 | [Java](./03xxx/3135. 라디오/라디오.java) |
 | [03145](https://boj.kr/3145) | 지리지도 | Platinum 4 | [C++](./03xxx/3145. 지리지도/지리지도.cc) |
+| [03154](https://boj.kr/3154) | 알람시계 | Bronze 1 | [C++](./03xxx/3154. 알람시계/알람시계.cc) |
 | [03164](https://boj.kr/3164) | 패턴 | Gold 4 | [C++](./03xxx/3164. 패턴/패턴.cc) |
 | [03176](https://boj.kr/3176) | 도로 네트워크 | Platinum 4 | [C++](./03xxx/3176. 도로 네트워크/도로 네트워크.cc) |
 | [03178](https://boj.kr/3178) | 코코스 | Gold 3 | [C++](./03xxx/3178. 코코스/코코스.cc) |
@@ -1225,7 +1226,7 @@
 | [06779](https://boj.kr/6779) | Who Has Seen The Wind | Bronze 3 | [Java](./06xxx/6779. Who Has Seen The Wind/Who Has Seen The Wind.java) |
 | [06780](https://boj.kr/6780) | Sumac Sequences | Bronze 3 | [Java](./06xxx/6780. Sumac Sequences/Sumac Sequences.java) |
 | [06783](https://boj.kr/6783) | English or French? | Bronze 2 | [Java](./06xxx/6783. English or French？/English or French？.java) |
-| [06784](https://boj.kr/6784) | Multiple Choice | Bronze 3 | [Java](./06xxx/6784. Multiple Choice/Multiple Choice.java) |
+| [06784](https://boj.kr/6784) | Multiple Choice | Bronze 4 | [Java](./06xxx/6784. Multiple Choice/Multiple Choice.java) |
 | [06794](https://boj.kr/6794) | What is n, Daddy? | Bronze 3 | [Java](./06xxx/6794. What is n， Daddy？/What is n， Daddy？.java) |
 | [06795](https://boj.kr/6795) | Up and Down | Bronze 2 | [Java](./06xxx/6795. Up and Down/Up and Down.java) |
 | [06796](https://boj.kr/6796) | Punchy | Bronze 1 | [Java](./06xxx/6796. Punchy/Punchy.java) |
@@ -2662,6 +2663,7 @@
 | [16446](https://boj.kr/16446) | Enigma | Bronze 2 | [Java](./16xxx/16446. Enigma/Enigma.java) |
 | [16456](https://boj.kr/16456) | 하와와 대학생쨩 하와이로 가는 거시와요~ | Silver 1 | [C++](./16xxx/16456. 하와와 대학생쨩 하와이로 가는 거시와요～/하와와 대학생쨩 하와이로 가는 거시와요～.cc) |
 | [16462](https://boj.kr/16462) | '나교수' 교수님의 악필 | Bronze 2 | [Java](./16xxx/16462. '나교수' 교수님의 악필/'나교수' 교수님의 악필.java) |
+| [16464](https://boj.kr/16464) | 가주아 | Silver 1 | [C++](./16xxx/16464. 가주아/가주아.cc) |
 | [16466](https://boj.kr/16466) | 콘서트 | Bronze 1 | [Java](./16xxx/16466. 콘서트/콘서트.java) |
 | [16471](https://boj.kr/16471) | 작은 수 내기 | Silver 3 | [C++](./16xxx/16471. 작은 수 내기/작은 수 내기.cc) |
 | [16478](https://boj.kr/16478) | 원의 분할 | Bronze 1 | [Java](./16xxx/16478. 원의 분할/원의 분할.java) |
@@ -3805,6 +3807,7 @@
 | [27106](https://boj.kr/27106) | Making Change | Bronze 2 | [Java](./27xxx/27106. Making Change/Making Change.java) |
 | [27110](https://boj.kr/27110) | 특식 배부 | Bronze 4 | [C](./27xxx/27110. 특식 배부/특식 배부.c) |
 | [27111](https://boj.kr/27111) | 출입 기록 | Silver 5 | [C++](./27xxx/27111. 출입 기록/출입 기록.cc) |
+| [27114](https://boj.kr/27114) | 조교의 맹연습 | Gold 4 | [C++](./27xxx/27114. 조교의 맹연습/조교의 맹연습.cc) |
 | [27115](https://boj.kr/27115) | 통신소 | Gold 1 | [C++](./27xxx/27115. 통신소/통신소.cc) |
 | [27130](https://boj.kr/27130) | Long Multiplication | Bronze 3 | [Java](./27xxx/27130. Long Multiplication/Long Multiplication.java) |
 | [27159](https://boj.kr/27159) | 노 땡스! | Bronze 3 | [Java](./27xxx/27159. 노 땡스！/노 땡스！.java) |
@@ -4588,5 +4591,5 @@
 | [34052](https://boj.kr/34052) | 체육은 수학과목 입니다 2 | Bronze 5 | [C++](./34xxx/34052. 체육은 수학과목 입니다 2/체육은 수학과목 입니다 2.cc) |
 | [34053](https://boj.kr/34053) | 도미노 게임 | Silver 3 | [C++](./34xxx/34053. 도미노 게임/도미노 게임.cc) |
 | [34055](https://boj.kr/34055) | 연산 추가하기 | Gold 2 | [C++](./34xxx/34055. 연산 추가하기/연산 추가하기.cc) |
-| [34056](https://boj.kr/34056) | 콘서트 | Gold 2 | [C++](./34xxx/34056. 콘서트/콘서트.cc) |
+| [34056](https://boj.kr/34056) | 콘서트 | Gold 1 | [C++](./34xxx/34056. 콘서트/콘서트.cc) |
 </div>
