@@ -792,6 +792,7 @@
 | [03107](https://boj.kr/3107) | IPv6 | Silver 1 | [C++](./03xxx/3107. IPv6/IPv6.cc) |
 | [03135](https://boj.kr/3135) | 라디오 | Silver 5 | [Java](./03xxx/3135. 라디오/라디오.java) |
 | [03145](https://boj.kr/3145) | 지리지도 | Platinum 4 | [C++](./03xxx/3145. 지리지도/지리지도.cc) |
+| [03152](https://boj.kr/3152) | 예쁜 숫자 | Gold 5 | [C++](./03xxx/3152. 예쁜 숫자/예쁜 숫자.cc) |
 | [03154](https://boj.kr/3154) | 알람시계 | Bronze 1 | [C++](./03xxx/3154. 알람시계/알람시계.cc) |
 | [03164](https://boj.kr/3164) | 패턴 | Gold 4 | [C++](./03xxx/3164. 패턴/패턴.cc) |
 | [03176](https://boj.kr/3176) | 도로 네트워크 | Platinum 4 | [C++](./03xxx/3176. 도로 네트워크/도로 네트워크.cc) |
@@ -3670,6 +3671,7 @@
 | [25894](https://boj.kr/25894) | Phoneme Palindromes | Bronze 2 | [Java](./25xxx/25894. Phoneme Palindromes/Phoneme Palindromes.java) |
 | [25904](https://boj.kr/25904) | 안녕 클레오파트라 세상에서 제일가는 포테이토칩 | Bronze 3 | [Java](./25xxx/25904. 안녕 클레오파트라 세상에서 제일가는 포테이토칩/안녕 클레오파트라 세상에서 제일가는 포테이토칩.java) |
 | [25905](https://boj.kr/25905) | 장인은 도구를 탓하지 않는다 | Bronze 2 | [Java](./25xxx/25905. 장인은 도구를 탓하지 않는다/장인은 도구를 탓하지 않는다.java) |
+| [25908](https://boj.kr/25908) | 수열의 합 | Gold 5 | [C++](./25xxx/25908. 수열의 합/수열의 합.cc) |
 | [25915](https://boj.kr/25915) | 연세여 사랑한다 | Bronze 3 | [Java](./25xxx/25915. 연세여 사랑한다/연세여 사랑한다.java) |
 | [25916](https://boj.kr/25916) | 싫은데요 | Silver 1 | [C++](./25xxx/25916. 싫은데요/싫은데요.cc) |
 | [25918](https://boj.kr/25918) | 북극곰은 괄호를 찢어 | Silver 1 | [C++](./25xxx/25918. 북극곰은 괄호를 찢어/북극곰은 괄호를 찢어.cc) |
