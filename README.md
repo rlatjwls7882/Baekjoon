@@ -363,6 +363,7 @@
 | [01942](https://boj.kr/1942) | 디지털시계 | Bronze 1 | [Java](./01xxx/1942. 디지털시계/디지털시계.java) |
 | [01945](https://boj.kr/1945) | 직사각형 | Gold 2 | [C++](./01xxx/1945. 직사각형/직사각형.cc) |
 | [01946](https://boj.kr/1946) | 신입 사원 | Silver 1 | [C++](./01xxx/1946. 신입 사원/신입 사원.cc) |
+| [01947](https://boj.kr/1947) | 선물 전달 | Gold 3 | [C++](./01xxx/1947. 선물 전달/선물 전달.cc) |
 | [01949](https://boj.kr/1949) | 우수 마을 | Gold 2 | [C++](./01xxx/1949. 우수 마을/우수 마을.cc) |
 | [01952](https://boj.kr/1952) | 달팽이2 | Bronze 1 | [Java](./01xxx/1952. 달팽이2/달팽이2.java) |
 | [01956](https://boj.kr/1956) | 운동 | Gold 4 | [Java](./01xxx/1956. 운동/운동.java) |
@@ -1995,6 +1996,7 @@
 | [12090](https://boj.kr/12090) | 초성 변환 | Bronze 1 | [Java](./12xxx/12090. 초성 변환/초성 변환.java) |
 | [12100](https://boj.kr/12100) | 2048 (Easy) | Gold 1 | [C++](./12xxx/12100. 2048 （Easy）/2048 （Easy）.cc) |
 | [12101](https://boj.kr/12101) | 1, 2, 3 더하기 2 | Silver 1 | [C++](./12xxx/12101. 1， 2， 3 더하기 2/1， 2， 3 더하기 2.cc) |
+| [12107](https://boj.kr/12107) | 약수 지우기 게임 1 | Gold 3 | [C++](./12xxx/12107. 약수 지우기 게임 1/약수 지우기 게임 1.cc) |
 | [12166](https://boj.kr/12166) | Standing Ovation (Small) | Bronze 2 | [Java](./12xxx/12166. Standing Ovation （Small）/Standing Ovation （Small）.java) |
 | [12167](https://boj.kr/12167) | Standing Ovation (Large) | Bronze 2 | [Java](./12xxx/12167. Standing Ovation （Large）/Standing Ovation （Large）.java) |
 | [12174](https://boj.kr/12174) | #include <Google I/O.h> | Bronze 2 | [Java](./12xxx/12174. #include ＜Google I／O．h＞/#include ＜Google I／O．h＞.java) |
@@ -2829,6 +2831,7 @@
 | [17296](https://boj.kr/17296) | But can you do it in 0.5x A presses? | Silver 4 | [C++](./17xxx/17296. But can you do it in 0．5x A presses？/But can you do it in 0．5x A presses？.cc) |
 | [17298](https://boj.kr/17298) | 오큰수 | Gold 4 | [C++](./17xxx/17298. 오큰수/오큰수.cc) |
 | [17299](https://boj.kr/17299) | 오등큰수 | Gold 3 | [C++](./17xxx/17299. 오등큰수/오등큰수.cc) |
+| [17305](https://boj.kr/17305) | 사탕 배달 | Gold 4 | [C++](./17xxx/17305. 사탕 배달/사탕 배달.cc) |
 | [17350](https://boj.kr/17350) | 2루수 이름이 뭐야 | Bronze 3 | [Java](./17xxx/17350. 2루수 이름이 뭐야/2루수 이름이 뭐야.java) |
 | [17352](https://boj.kr/17352) | 여러분의 다리가 되어 드리겠습니다! | Gold 5 | [Java](./17xxx/17352. 여러분의 다리가 되어 드리겠습니다！/여러분의 다리가 되어 드리겠습니다！.java) |
 | [17356](https://boj.kr/17356) | 욱 제 | Bronze 4 | [C](./17xxx/17356. 욱 제/욱 제.c) |
@@ -3613,6 +3616,7 @@
 | [25551](https://boj.kr/25551) | 멋쟁이 포닉스 | Bronze 1 | [C++](./25xxx/25551. 멋쟁이 포닉스/멋쟁이 포닉스.cc) |
 | [25558](https://boj.kr/25558) | 내비게이션 | Bronze 2 | [Java](./25xxx/25558. 내비게이션/내비게이션.java) |
 | [25576](https://boj.kr/25576) | 찾았다 악질 | Bronze 2 | [Java](./25xxx/25576. 찾았다 악질/찾았다 악질.java) |
+| [25577](https://boj.kr/25577) | 열 정렬정렬 정 | Gold 4 | [C++](./25xxx/25577. 열 정렬정렬 정/열 정렬정렬 정.cc) |
 | [25584](https://boj.kr/25584) | 근무 지옥에 빠진 푸앙이 (Large) | Silver 5 | [Java](./25xxx/25584. 근무 지옥에 빠진 푸앙이 （Large）/근무 지옥에 빠진 푸앙이 （Large）.java) |
 | [25585](https://boj.kr/25585) | 86 ─에이티식스─ 1 | Gold 5 | [C++](./25xxx/25585. 86 ─에이티식스─ 1/86 ─에이티식스─ 1.cc) |
 | [25591](https://boj.kr/25591) | 푸앙이와 종윤이 | Bronze 4 | [Java](./25xxx/25591. 푸앙이와 종윤이/푸앙이와 종윤이.java) |
