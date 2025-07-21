@@ -4,16 +4,10 @@ using namespace std;
 int main() {
     ios::sync_with_stdio(0); cin.tie(0);
     int n; cin >> n;
+    vector<int> x(n);
+    for(int i=0;i<n;i++) cin >> x[i];
 
-    int firstX; cin >> firstX;
-    int small=firstX, big=firstX;
-    while(n-->1) {
-        int x; cin >> x;
-        small = min(small, x);
-        big = max(big, x);
-    }
-
-    if(firstX==small) cout << "ez";
-    else if(firstX==big) cout << "hard";
+    if(x[0]==*min_element(x.begin(), x.end())) cout << "ez";
+    else if(x[0]==*max_element(x.begin(), x.end())) cout << "hard";
     else cout << "?";
 }
