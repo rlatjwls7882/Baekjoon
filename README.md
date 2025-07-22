@@ -432,6 +432,7 @@
 | [02153](https://boj.kr/2153) | 소수 단어 | Bronze 2 | [Java](./02xxx/2153. 소수 단어/소수 단어.java) |
 | [02154](https://boj.kr/2154) | 수 이어 쓰기 3 | Bronze 2 | [Java](./02xxx/2154. 수 이어 쓰기 3/수 이어 쓰기 3.java) |
 | [02156](https://boj.kr/2156) | 포도주 시식 | Silver 1 | [C++](./02xxx/2156. 포도주 시식/포도주 시식.cc) |
+| [02157](https://boj.kr/2157) | 여행 | Gold 4 | [C++](./02xxx/2157. 여행/여행.cc) |
 | [02159](https://boj.kr/2159) | 케익 배달 | Gold 3 | [C++](./02xxx/2159. 케익 배달/케익 배달.cc) |
 | [02160](https://boj.kr/2160) | 그림 비교 | Bronze 1 | [Java](./02xxx/2160. 그림 비교/그림 비교.java) |
 | [02161](https://boj.kr/2161) | 카드1 | Silver 5 | [Java](./02xxx/2161. 카드1/카드1.java) |
@@ -554,7 +555,7 @@
 | [02495](https://boj.kr/2495) | 연속구간 | Bronze 2 | [Java](./02xxx/2495. 연속구간/연속구간.java) |
 | [02501](https://boj.kr/2501) | 약수 구하기 | Bronze 3 | [Java](./02xxx/2501. 약수 구하기/약수 구하기.java) |
 | [02502](https://boj.kr/2502) | 떡 먹는 호랑이 | Silver 1 | [C++](./02xxx/2502. 떡 먹는 호랑이/떡 먹는 호랑이.cc) |
-| [02503](https://boj.kr/2503) | 숫자 야구 | Silver 2 | [C++](./02xxx/2503. 숫자 야구/숫자 야구.cc) |
+| [02503](https://boj.kr/2503) | 숫자 야구 | Silver 3 | [C++](./02xxx/2503. 숫자 야구/숫자 야구.cc) |
 | [02504](https://boj.kr/2504) | 괄호의 값 | Gold 5 | [C++](./02xxx/2504. 괄호의 값/괄호의 값.cc) |
 | [02506](https://boj.kr/2506) | 점수계산 | Bronze 3 | [Java](./02xxx/2506. 점수계산/점수계산.java) |
 | [02508](https://boj.kr/2508) | 사탕 박사 고창영 | Silver 5 | [Java](./02xxx/2508. 사탕 박사 고창영/사탕 박사 고창영.java) |
@@ -1138,7 +1139,7 @@
 | [05778](https://boj.kr/5778) | Fake tickets | Bronze 2 | [Java](./05xxx/5778. Fake tickets/Fake tickets.java) |
 | [05789](https://boj.kr/5789) | 한다 안한다 | Bronze 3 | [Java](./05xxx/5789. 한다 안한다/한다 안한다.java) |
 | [05800](https://boj.kr/5800) | 성적 통계 | Silver 5 | [Java](./05xxx/5800. 성적 통계/성적 통계.java) |
-| [05874](https://boj.kr/5874) | 소를 찾아라 | Silver 3 | [C++](./05xxx/5874. 소를 찾아라/소를 찾아라.cc) |
+| [05874](https://boj.kr/5874) | 소를 찾아라 | Silver 4 | [C++](./05xxx/5874. 소를 찾아라/소를 찾아라.cc) |
 | [05893](https://boj.kr/5893) | 17배 | Bronze 3 | [Java](./05xxx/5893. 17배/17배.java) |
 | [05904](https://boj.kr/5904) | Moo 게임 | Gold 5 | [C++](./05xxx/5904. Moo 게임/Moo 게임.cc) |
 | [05916](https://boj.kr/5916) | 농장 관리 | Platinum 1 | [C++](./05xxx/5916. 농장 관리/농장 관리.cc) |
@@ -2500,13 +2501,14 @@
 | [15656](https://boj.kr/15656) | N과 M (7) | Silver 3 | [Java](./15xxx/15656. N과 M （7）/N과 M （7）.java) |
 | [15657](https://boj.kr/15657) | N과 M (8) | Silver 3 | [Java](./15xxx/15657. N과 M （8）/N과 M （8）.java) |
 | [15658](https://boj.kr/15658) | 연산자 끼워넣기 (2) | Silver 2 | [Java](./15xxx/15658. 연산자 끼워넣기 （2）/연산자 끼워넣기 （2）.java) |
-| [15659](https://boj.kr/15659) | 연산자 끼워넣기 (3) | Gold 4 | [C++](./15xxx/15659. 연산자 끼워넣기 （3）/연산자 끼워넣기 （3）.cc) |
+| [15659](https://boj.kr/15659) | 연산자 끼워넣기 (3) | Gold 3 | [C++](./15xxx/15659. 연산자 끼워넣기 （3）/연산자 끼워넣기 （3）.cc) |
 | [15661](https://boj.kr/15661) | 링크와 스타트 | Gold 5 | [C++](./15xxx/15661. 링크와 스타트/링크와 스타트.cc) |
 | [15663](https://boj.kr/15663) | N과 M (9) | Silver 2 | [Java](./15xxx/15663. N과 M （9）/N과 M （9）.java) |
 | [15664](https://boj.kr/15664) | N과 M (10) | Silver 2 | [Java](./15xxx/15664. N과 M （10）/N과 M （10）.java) |
 | [15665](https://boj.kr/15665) | N과 M (11) | Silver 2 | [Java](./15xxx/15665. N과 M （11）/N과 M （11）.java) |
 | [15666](https://boj.kr/15666) | N과 M (12) | Silver 2 | [Java](./15xxx/15666. N과 M （12）/N과 M （12）.java) |
 | [15667](https://boj.kr/15667) | 2018 연세대학교 프로그래밍 경진대회 | Bronze 3 | [Java](./15xxx/15667. 2018 연세대학교 프로그래밍 경진대회/2018 연세대학교 프로그래밍 경진대회.java) |
+| [15668](https://boj.kr/15668) | 방 번호 | Gold 4 | [C++](./15xxx/15668. 방 번호/방 번호.cc) |
 | [15678](https://boj.kr/15678) | 연세워터파크 | Platinum 5 | [C++](./15xxx/15678. 연세워터파크/연세워터파크.cc) |
 | [15680](https://boj.kr/15680) | 연세대학교 | Bronze 5 | [Java](./15xxx/15680. 연세대학교/연세대학교.java) |
 | [15681](https://boj.kr/15681) | 트리와 쿼리 | Gold 5 | [C++](./15xxx/15681. 트리와 쿼리/트리와 쿼리.cc) |
@@ -2565,6 +2567,7 @@
 | [15874](https://boj.kr/15874) | Caesar Cipher | Bronze 2 | [Java](./15xxx/15874. Caesar Cipher/Caesar Cipher.java) |
 | [15876](https://boj.kr/15876) | Binary Counting | Silver 5 | [Java](./15xxx/15876. Binary Counting/Binary Counting.java) |
 | [15881](https://boj.kr/15881) | Pen Pineapple Apple Pen | Bronze 1 | [Java](./15xxx/15881. Pen Pineapple Apple Pen/Pen Pineapple Apple Pen.java) |
+| [15883](https://boj.kr/15883) | First In Last Out | Gold 4 | [C++](./15xxx/15883. First In Last Out/First In Last Out.cc) |
 | [15886](https://boj.kr/15886) | 내 선물을 받아줘 2 | Silver 3 | [C++](./15xxx/15886. 내 선물을 받아줘 2/내 선물을 받아줘 2.cc) |
 | [15887](https://boj.kr/15887) | 욱제는 결벽증이야!! | Silver 5 | [C++](./15xxx/15887. 욱제는 결벽증이야！！/욱제는 결벽증이야！！.cc) |
 | [15890](https://boj.kr/15890) | 전국 대학생 프로그래밍 대회 동아리 연합 여름 대회 2018 | Unrated | [Java](./15xxx/15890.%E2%80%85전국%E2%80%85대학생%E2%80%85프로그래밍%E2%80%85대회%E2%80%85동아리%E2%80%85연합%E2%80%85여름%E2%80%85대회%E2%80%852018/전국 대학생 프로그래밍 대회 동아리 연합 여름 대회 2018.java) |
@@ -4284,6 +4287,7 @@
 | [31261](https://boj.kr/31261) | НАМИСЛИХ СИ ЧИСЛО | Bronze 4 | [Java](./31xxx/31261. НАМИСЛИХ СИ ЧИСЛО/НАМИСЛИХ СИ ЧИСЛО.java) |
 | [31262](https://boj.kr/31262) | ПОДАРЪК | Bronze 2 | [C++](./31xxx/31262. ПОДАРЪК/ПОДАРЪК.cc) |
 | [31263](https://boj.kr/31263) | 대한민국을 지키는 가장 긴 힘 | Silver 3 | [C++](./31xxx/31263. 대한민국을 지키는 가장 긴 힘/대한민국을 지키는 가장 긴 힘.cc) |
+| [31265](https://boj.kr/31265) | 훈련 | Gold 2 | [C++](./31xxx/31265. 훈련/훈련.cc) |
 | [31269](https://boj.kr/31269) | Eurokod | Silver 5 | [Java](./31xxx/31269. Eurokod/Eurokod.java) |
 | [31280](https://boj.kr/31280) | ФАКИР | Bronze 4 | [Java](./31xxx/31280. ФАКИР/ФАКИР.java) |
 | [31281](https://boj.kr/31281) | ЗЛАТНАТА СРЕДА | Bronze 4 | [Java](./31xxx/31281. ЗЛАТНАТА СРЕДА/ЗЛАТНАТА СРЕДА.java) |
@@ -4389,7 +4393,7 @@
 | [32028](https://boj.kr/32028) | 이진 검색 트리 복원하기 | Gold 1 | [C++](./32xxx/32028. 이진 검색 트리 복원하기/이진 검색 트리 복원하기.cc) |
 | [32029](https://boj.kr/32029) | 지금 자면 꿈을 꾸지만 | Gold 5 | [C++](./32xxx/32029. 지금 자면 꿈을 꾸지만/지금 자면 꿈을 꾸지만.cc) |
 | [32046](https://boj.kr/32046) | Snacks within 300 Yen | Bronze 3 | [C++](./32xxx/32046. Snacks within 300 Yen/Snacks within 300 Yen.cc) |
-| [32068](https://boj.kr/32068) | 보물 찾기 | Bronze 3 | [C++](./32xxx/32068. 보물 찾기/보물 찾기.cc) |
+| [32068](https://boj.kr/32068) | 보물 찾기 | Bronze 2 | [C++](./32xxx/32068. 보물 찾기/보물 찾기.cc) |
 | [32069](https://boj.kr/32069) | 가로등 | Gold 5 | [C++](./32xxx/32069. 가로등/가로등.cc) |
 | [32076](https://boj.kr/32076) | Easy as ABC | Silver 4 | [C++](./32xxx/32076. Easy as ABC/Easy as ABC.cc) |
 | [32089](https://boj.kr/32089) | 部員の変遷 | Bronze 4 | [C++](./32xxx/32089. 部員の変遷/部員の変遷.cc) |
@@ -4602,4 +4606,5 @@
 | [34053](https://boj.kr/34053) | 도미노 게임 | Silver 3 | [C++](./34xxx/34053. 도미노 게임/도미노 게임.cc) |
 | [34055](https://boj.kr/34055) | 연산 추가하기 | Gold 2 | [C++](./34xxx/34055. 연산 추가하기/연산 추가하기.cc) |
 | [34056](https://boj.kr/34056) | 콘서트 | Gold 2 | [C++](./34xxx/34056. 콘서트/콘서트.cc) |
+| [34071](https://boj.kr/34071) | 첫 번째 문제는 정말 쉬운 문제일까? | Bronze 4 | [C++](./34xxx/34071. 첫 번째 문제는 정말 쉬운 문제일까？/첫 번째 문제는 정말 쉬운 문제일까？.cc) |
 </div>
