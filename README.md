@@ -402,6 +402,7 @@
 | [02033](https://boj.kr/2033) | 반올림 | Bronze 1 | [Java](./02xxx/2033. 반올림/반올림.java) |
 | [02036](https://boj.kr/2036) | 수열의 점수 | Gold 4 | [C++](./02xxx/2036. 수열의 점수/수열의 점수.cc) |
 | [02037](https://boj.kr/2037) | 문자메시지 | Bronze 1 | [C++](./02xxx/2037. 문자메시지/문자메시지.cc) |
+| [02038](https://boj.kr/2038) | 골롱 수열 | Gold 1 | [C++](./02xxx/2038. 골롱 수열/골롱 수열.cc) |
 | [02042](https://boj.kr/2042) | 구간 합 구하기 | Gold 1 | [C++](./02xxx/2042. 구간 합 구하기/구간 합 구하기.cc) |
 | [02052](https://boj.kr/2052) | 지수연산 | Bronze 2 | [Java](./02xxx/2052. 지수연산/지수연산.java) |
 | [02056](https://boj.kr/2056) | 작업 | Gold 4 | [Java](./02xxx/2056. 작업/작업.java) |
@@ -686,7 +687,7 @@
 | [02810](https://boj.kr/2810) | 컵홀더 | Bronze 1 | [Java](./02xxx/2810. 컵홀더/컵홀더.java) |
 | [02816](https://boj.kr/2816) | 디지털 티비 | Bronze 1 | [Java](./02xxx/2816. 디지털 티비/디지털 티비.java) |
 | [02822](https://boj.kr/2822) | 점수 계산 | Silver 5 | [Java](./02xxx/2822. 점수 계산/점수 계산.java) |
-| [02824](https://boj.kr/2824) | 최대공약수 | Silver 1 | [Java](./02xxx/2824. 최대공약수/최대공약수.java) |
+| [02824](https://boj.kr/2824) | 최대공약수 | Silver 2 | [Java](./02xxx/2824. 최대공약수/최대공약수.java) |
 | [02828](https://boj.kr/2828) | 사과 담기 게임 | Silver 5 | [Java](./02xxx/2828. 사과 담기 게임/사과 담기 게임.java) |
 | [02836](https://boj.kr/2836) | 수상 택시 | Gold 3 | [C++](./02xxx/2836. 수상 택시/수상 택시.cc) |
 | [02839](https://boj.kr/2839) | 설탕 배달 | Silver 4 | [C](./02xxx/2839. 설탕 배달/설탕 배달.c) |
@@ -1430,6 +1431,7 @@
 | [09070](https://boj.kr/9070) | 장보기 | Bronze 2 | [Java](./09xxx/9070. 장보기/장보기.java) |
 | [09076](https://boj.kr/9076) | 점수 집계 | Bronze 2 | [Java](./09xxx/9076. 점수 집계/점수 집계.java) |
 | [09081](https://boj.kr/9081) | 단어 맞추기 | Silver 1 | [C++](./09xxx/9081. 단어 맞추기/단어 맞추기.cc) |
+| [09083](https://boj.kr/9083) | 셔틀버스 | Gold 4 | [C++](./09xxx/9083. 셔틀버스/셔틀버스.cc) |
 | [09084](https://boj.kr/9084) | 동전 | Gold 5 | [C++](./09xxx/9084. 동전/동전.cc) |
 | [09085](https://boj.kr/9085) | 더하기 | Bronze 3 | [Java](./09xxx/9085. 더하기/더하기.java) |
 | [09086](https://boj.kr/9086) | 문자열 | Bronze 5 | [C](./09xxx/9086. 문자열/문자열.c) |
