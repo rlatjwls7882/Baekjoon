@@ -1597,6 +1597,7 @@
 | [10040](https://boj.kr/10040) | 투표 | Bronze 2 | [Java](./10xxx/10040. 투표/투표.java) |
 | [10041](https://boj.kr/10041) | 관광 | Bronze 1 | [C++](./10xxx/10041. 관광/관광.cc) |
 | [10093](https://boj.kr/10093) | 숫자 | Bronze 2 | [Java](./10xxx/10093. 숫자/숫자.java) |
+| [10096](https://boj.kr/10096) | 세 친구 | Gold 3 | [C++](./10xxx/10096. 세 친구/세 친구.cc) |
 | [10101](https://boj.kr/10101) | 삼각형 외우기 | Bronze 4 | [C](./10xxx/10101. 삼각형 외우기/삼각형 외우기.c) |
 | [10102](https://boj.kr/10102) | 개표 | Bronze 3 | [Java](./10xxx/10102. 개표/개표.java) |
 | [10103](https://boj.kr/10103) | 주사위 게임 | Bronze 3 | [Java](./10xxx/10103. 주사위 게임/주사위 게임.java) |
@@ -3225,6 +3226,7 @@
 | [21771](https://boj.kr/21771) | 가희야 거기서 자는 거 아니야 | Bronze 1 | [Java](./21xxx/21771. 가희야 거기서 자는 거 아니야/가희야 거기서 자는 거 아니야.java) |
 | [21772](https://boj.kr/21772) | 가희의 고구마 먹방 | Gold 5 | [C++](./21xxx/21772. 가희의 고구마 먹방/가희의 고구마 먹방.cc) |
 | [21773](https://boj.kr/21773) | 가희와 프로세스 1 | Gold 5 | [C++](./21xxx/21773. 가희와 프로세스 1/가희와 프로세스 1.cc) |
+| [21778](https://boj.kr/21778) | 가희와 프로세스 2 | Platinum 5 | [C++](./21xxx/21778. 가희와 프로세스 2/가희와 프로세스 2.cc) |
 | [21866](https://boj.kr/21866) | 추첨을 통해 커피를 받자 | Bronze 3 | [Java](./21xxx/21866. 추첨을 통해 커피를 받자/추첨을 통해 커피를 받자.java) |
 | [21867](https://boj.kr/21867) | Java Bitecode | Bronze 2 | [Java](./21xxx/21867. Java Bitecode/Java Bitecode.java) |
 | [21870](https://boj.kr/21870) | 시철이가 사랑한 GCD | Gold 5 | [C++](./21xxx/21870. 시철이가 사랑한 GCD/시철이가 사랑한 GCD.cc) |
@@ -3269,9 +3271,9 @@
 | [22332](https://boj.kr/22332) | XOR 2 | Silver 5 | [Text](./22xxx/22332. XOR 2/XOR 2.txt) |
 | [22333](https://boj.kr/22333) | XOR 3 | Silver 5 | [Text](./22xxx/22333. XOR 3/XOR 3.txt) |
 | [22334](https://boj.kr/22334) | XOR 4 | Silver 4 | [Text](./22xxx/22334. XOR 4/XOR 4.txt) |
-| [22335](https://boj.kr/22335) | XOR 5 | Silver 2 | [Text](./22xxx/22335. XOR 5/XOR 5.txt) |
+| [22335](https://boj.kr/22335) | XOR 5 | Silver 3 | [Text](./22xxx/22335. XOR 5/XOR 5.txt) |
 | [22336](https://boj.kr/22336) | XOR 6 | Silver 4 | [Text](./22xxx/22336. XOR 6/XOR 6.txt) |
-| [22338](https://boj.kr/22338) | XOR 8 | Silver 2 | [Text](./22xxx/22338. XOR 8/XOR 8.txt) |
+| [22338](https://boj.kr/22338) | XOR 8 | Silver 3 | [Text](./22xxx/22338. XOR 8/XOR 8.txt) |
 | [22341](https://boj.kr/22341) | 사각형 면적 | Bronze 2 | [Java](./22xxx/22341. 사각형 면적/사각형 면적.java) |
 | [22342](https://boj.kr/22342) | 계산 로봇 | Silver 1 | [C++](./22xxx/22342. 계산 로봇/계산 로봇.cc) |
 | [22351](https://boj.kr/22351) | 수학은 체육과목 입니다 3 | Silver 4 | [C++](./22xxx/22351. 수학은 체육과목 입니다 3/수학은 체육과목 입니다 3.cc) |
@@ -3563,6 +3565,7 @@
 | [25088](https://boj.kr/25088) | Punched Cards | Bronze 2 | [Java](./25xxx/25088. Punched Cards/Punched Cards.java) |
 | [25165](https://boj.kr/25165) | 영리한 아리의 포탈 타기 | Bronze 2 | [Java](./25xxx/25165. 영리한 아리의 포탈 타기/영리한 아리의 포탈 타기.java) |
 | [25166](https://boj.kr/25166) | 배고픈 아리의 샌드위치 구매하기 | Bronze 1 | [Java](./25xxx/25166. 배고픈 아리의 샌드위치 구매하기/배고픈 아리의 샌드위치 구매하기.java) |
+| [25174](https://boj.kr/25174) | 힘겨운 쿠기의 식당 개업기 | Gold 3 | [C++](./25xxx/25174. 힘겨운 쿠기의 식당 개업기/힘겨운 쿠기의 식당 개업기.cc) |
 | [25175](https://boj.kr/25175) | 두~~부 두부 두부 | Bronze 3 | [Java](./25xxx/25175. 두～～부 두부 두부/두～～부 두부 두부.java) |
 | [25176](https://boj.kr/25176) | 청정수열 (Easy) | Bronze 1 | [Java](./25xxx/25176. 청정수열 （Easy）/청정수열 （Easy）.java) |
 | [25177](https://boj.kr/25177) | 서강의 역사를 찾아서 | Bronze 2 | [Java](./25xxx/25177. 서강의 역사를 찾아서/서강의 역사를 찾아서.java) |
