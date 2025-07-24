@@ -1,9 +1,10 @@
 #include<bits/stdc++.h>
 using namespace std;
 
-const int MAX = 1000000;
+const int MAX = 1'000'000;
+
 int c[1000];
-bool cycleNode[1001], visited[1001][MAX];
+bool visited[1001][MAX];
 vector<vector<int>> conn(1001);
 
 struct element {
@@ -18,10 +19,7 @@ int main() {
         conn[a].push_back(b);
         conn[b].push_back(a);
     }
-    for(int i=0;i<t;i++) {
-        cin >> c[i];
-        cycleNode[c[i]] = true;
-    }
+    for(int i=0;i<t;i++) cin >> c[i];
 
     queue<element> q; q.push({1, 0});
     while(!q.empty()) {
