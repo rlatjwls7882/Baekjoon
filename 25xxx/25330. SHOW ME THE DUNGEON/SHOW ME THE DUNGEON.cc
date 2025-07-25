@@ -1,8 +1,6 @@
 #include<bits/stdc++.h>
 using namespace std;
 
-const int MAX = 20;
-
 struct element {
     int a, p;
     bool operator<(const element e) const {
@@ -11,18 +9,15 @@ struct element {
 };
 
 int n, k, maxCnt;
-vector<element> v(MAX);
-bool visited[MAX];
+vector<element> v(20);
 
 void dfs(int depth=0, int start=0, int cost=0, int totalCost=0, int cnt=0) {
     maxCnt = max(maxCnt, cnt);
     if(depth>=n) return;
 
     for(int i=start;i<n;i++) {
-        if(!visited[i] && totalCost+cost+v[i].a<=k) {
-            visited[i]=true;
+        if(totalCost+cost+v[i].a<=k) {
             dfs(depth+1, i+1, cost+v[i].a, totalCost+cost+v[i].a, cnt+v[i].p);
-            visited[i]=false;
         }
     }
 }
