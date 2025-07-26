@@ -6,6 +6,15 @@ int main() {
     int t; cin >> t;
     while(t--) {
         int x, y; cin >> x >> y;
-        cout << "1 1\n";
+
+        int lastX = 1, lastY = 1;
+        while(true) {
+            int nextX = lastX+lastY;
+            int nextY = lastX;
+            if(nextX>x || nextY>y) break;
+            lastX = nextX;
+            lastY = nextY;
+        }
+        cout << lastX << ' ' << lastY << '\n';
     }
 }
