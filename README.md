@@ -128,6 +128,7 @@
 | [01301](https://boj.kr/1301) | 비즈 공예 | Gold 3 | [C++](./01xxx/1301. 비즈 공예/비즈 공예.cc) |
 | [01302](https://boj.kr/1302) | 베스트셀러 | Silver 4 | [Java](./01xxx/1302. 베스트셀러/베스트셀러.java) |
 | [01303](https://boj.kr/1303) | 전쟁 - 전투 | Silver 1 | [C++](./01xxx/1303. 전쟁 － 전투/전쟁 － 전투.cc) |
+| [01304](https://boj.kr/1304) | 지역 | Gold 2 | [C++](./01xxx/1304. 지역/지역.cc) |
 | [01305](https://boj.kr/1305) | 광고 | Platinum 4 | [Java](./01xxx/1305. 광고/광고.java) |
 | [01308](https://boj.kr/1308) | D-Day | Silver 5 | [C++](./01xxx/1308. D－Day/D－Day.cc) |
 | [01309](https://boj.kr/1309) | 동물원 | Silver 1 | [C++](./01xxx/1309. 동물원/동물원.cc) |
@@ -3995,6 +3996,7 @@
 | [28303](https://boj.kr/28303) | 자석 | Gold 3 | [C++](./28xxx/28303. 자석/자석.cc) |
 | [28323](https://boj.kr/28323) | 불안정한 수열 | Bronze 1 | [Java](./28xxx/28323. 불안정한 수열/불안정한 수열.java) |
 | [28324](https://boj.kr/28324) | 스케이트 연습 | Silver 4 | [C++](./28xxx/28324. 스케이트 연습/스케이트 연습.cc) |
+| [28339](https://boj.kr/28339) | 이상한 드래프트 | Gold 3 | [C++](./28xxx/28339. 이상한 드래프트/이상한 드래프트.cc) |
 | [28352](https://boj.kr/28352) | 10! | Bronze 4 | [Java](./28xxx/28352. 10！/10！.java) |
 | [28353](https://boj.kr/28353) | 고양이 카페 | Silver 3 | [C++](./28xxx/28353. 고양이 카페/고양이 카페.cc) |
 | [28373](https://boj.kr/28373) | Eszett | Bronze 2 | [C++](./28xxx/28373. Eszett/Eszett.cc) |
@@ -4553,6 +4555,7 @@
 | [33277](https://boj.kr/33277) | 국방시계 | Bronze 3 | [C++](./33xxx/33277. 국방시계/국방시계.cc) |
 | [33466](https://boj.kr/33466) | 피타고라스 정리의 증명 | Gold 5 | [C++](./33xxx/33466. 피타고라스 정리의 증명/피타고라스 정리의 증명.cc) |
 | [33488](https://boj.kr/33488) | 아름다운 수열 | Bronze 2 | [C++](./33xxx/33488. 아름다운 수열/아름다운 수열.cc) |
+| [33489](https://boj.kr/33489) | 수열의 점수 | Gold 1 | [C++](./33xxx/33489. 수열의 점수/수열의 점수.cc) |
 | [33515](https://boj.kr/33515) | 노트북 세 대를 가지고 왔다 | Bronze 5 | [Python](./33xxx/33515. 노트북 세 대를 가지고 왔다/노트북 세 대를 가지고 왔다.py) |
 | [33528](https://boj.kr/33528) | Alphabetic Shift | Bronze 3 | [C++](./33xxx/33528. Alphabetic Shift/Alphabetic Shift.cc) |
 | [33538](https://boj.kr/33538) | Crawling | Bronze 3 | [C++](./33xxx/33538. Crawling/Crawling.cc) |
