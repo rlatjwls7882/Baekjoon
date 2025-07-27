@@ -1,4 +1,4 @@
-# [Gold IV] 장미
+# [Gold III] 장미
 
 [문제 링크](https://www.acmicpc.net/problem/3343) 
 
