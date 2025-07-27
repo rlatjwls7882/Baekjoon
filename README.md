@@ -821,6 +821,7 @@
 | [03276](https://boj.kr/3276) | ICONS | Bronze 3 | [Java](./03xxx/3276. ICONS/ICONS.java) |
 | [03282](https://boj.kr/3282) | ROOMS | Bronze 1 | [Java](./03xxx/3282. ROOMS/ROOMS.java) |
 | [03295](https://boj.kr/3295) | 단방향 링크 네트워크 | Platinum 2 | [C++](./03xxx/3295. 단방향 링크 네트워크/단방향 링크 네트워크.cc) |
+| [03343](https://boj.kr/3343) | 장미 | Gold 3 | [C++](./03xxx/3343. 장미/장미.cc) |
 | [03372](https://boj.kr/3372) | 보드 점프 | Silver 1 | [Java](./03xxx/3372. 보드 점프/보드 점프.java) |
 | [03392](https://boj.kr/3392) | 화성 지도 | Platinum 2 | [C++](./03xxx/3392. 화성 지도/화성 지도.cc) |
 | [03407](https://boj.kr/3407) | 맹세 | Silver 1 | [C++](./03xxx/3407. 맹세/맹세.cc) |
@@ -1287,7 +1288,7 @@
 | [07214](https://boj.kr/7214) | Ateivių kojinės | Bronze 1 | [C++](./07xxx/7214. Ateivių kojinės/Ateivių kojinės.cc) |
 | [07215](https://boj.kr/7215) | Ateivių kojinės | Bronze 1 | [C++](./07xxx/7215. Ateivių kojinės/Ateivių kojinės.cc) |
 | [07218](https://boj.kr/7218) | Pasislėpę romėniški skaičiai | Bronze 3 | [C](./07xxx/7218. Pasislėpę romėniški skaičiai/Pasislėpę romėniški skaičiai.c) |
-| [07239](https://boj.kr/7239) | Pjūklas | Silver 5 | [Java](./07xxx/7239. Pjūklas/Pjūklas.java) |
+| [07239](https://boj.kr/7239) | Pjūklas | Bronze 1 | [Java](./07xxx/7239. Pjūklas/Pjūklas.java) |
 | [07240](https://boj.kr/7240) | Rogutės | Bronze 3 | [Java](./07xxx/7240. Rogutės/Rogutės.java) |
 | [07241](https://boj.kr/7241) | Skaičiai | Bronze 2 | [Java](./07xxx/7241. Skaičiai/Skaičiai.java) |
 | [07255](https://boj.kr/7255) | Sujungimas | Gold 4 | [Java](./07xxx/7255. Sujungimas/Sujungimas.java) |
