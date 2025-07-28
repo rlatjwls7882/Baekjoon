@@ -19,8 +19,8 @@ int main() {
                     minVal = j;
                 }
             }
-            cnt++; // 최적 해 넣기
-            v.insert(v.begin()+i+1, minVal);
+            if(notGcd==0) cnt++;
+            else cnt += 2;
         }
     }
     cout << cnt;
