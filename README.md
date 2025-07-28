@@ -480,7 +480,7 @@
 | [02293](https://boj.kr/2293) | 동전 1 | Gold 4 | [C++](./02xxx/2293. 동전 1/동전 1.cc) |
 | [02294](https://boj.kr/2294) | 동전 2 | Gold 5 | [C++](./02xxx/2294. 동전 2/동전 2.cc) |
 | [02295](https://boj.kr/2295) | 세 수의 합 | Gold 4 | [C++](./02xxx/2295. 세 수의 합/세 수의 합.cc) |
-| [02302](https://boj.kr/2302) | 극장 좌석 | Gold 5 | [C++](./02xxx/2302. 극장 좌석/극장 좌석.cc) |
+| [02302](https://boj.kr/2302) | 극장 좌석 | Silver 1 | [C++](./02xxx/2302. 극장 좌석/극장 좌석.cc) |
 | [02303](https://boj.kr/2303) | 숫자 게임 | Silver 5 | [Java](./02xxx/2303. 숫자 게임/숫자 게임.java) |
 | [02304](https://boj.kr/2304) | 창고 다각형 | Silver 2 | [C++](./02xxx/2304. 창고 다각형/창고 다각형.cc) |
 | [02307](https://boj.kr/2307) | 도로검문 | Gold 1 | [C++](./02xxx/2307. 도로검문/도로검문.cc) |
@@ -836,6 +836,7 @@
 | [03486](https://boj.kr/3486) | Adding Reversed Numbers | Bronze 2 | [Java](./03xxx/3486. Adding Reversed Numbers/Adding Reversed Numbers.java) |
 | [03507](https://boj.kr/3507) | Automated Telephone Exchange | Bronze 3 | [Java](./03xxx/3507. Automated Telephone Exchange/Automated Telephone Exchange.java) |
 | [03512](https://boj.kr/3512) | Flat | Bronze 3 | [Java](./03xxx/3512. Flat/Flat.java) |
+| [03526](https://boj.kr/3526) | 이상적인 경로 | Platinum 5 | [C++](./03xxx/3526. 이상적인 경로/이상적인 경로.cc) |
 | [03533](https://boj.kr/3533) | Explicit Formula | Bronze 3 | [Java](./03xxx/3533. Explicit Formula/Explicit Formula.java) |
 | [03554](https://boj.kr/3554) | Enigmatic Device | Bronze 3 | [Java](./03xxx/3554. Enigmatic Device/Enigmatic Device.java) |
 | [03566](https://boj.kr/3566) | 대형 스크린 | Bronze 1 | [C++](./03xxx/3566. 대형 스크린/대형 스크린.cc) |
