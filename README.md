@@ -1689,7 +1689,7 @@
 | [10675](https://boj.kr/10675) | Cow Routing | Bronze 2 | [Java](./10xxx/10675. Cow Routing/Cow Routing.java) |
 | [10693](https://boj.kr/10693) | Abdelrahman | Bronze 3 | [Java](./10xxx/10693. Abdelrahman/Abdelrahman.java) |
 | [10695](https://boj.kr/10695) | Dalia | Bronze 3 | [Java](./10xxx/10695. Dalia/Dalia.java) |
-| [10696](https://boj.kr/10696) | Prof. Ossama | Bronze 3 | [Java](./10xxx/10696. Prof． Ossama/Prof． Ossama.java) |
+| [10696](https://boj.kr/10696) | Prof. Ossama | Bronze 4 | [Java](./10xxx/10696. Prof． Ossama/Prof． Ossama.java) |
 | [10698](https://boj.kr/10698) | Ahmed Aly | Bronze 3 | [Java](./10xxx/10698. Ahmed Aly/Ahmed Aly.java) |
 | [10699](https://boj.kr/10699) | 오늘 날짜 | Bronze 5 | [C](./10xxx/10699. 오늘 날짜/오늘 날짜.c) |
 | [10707](https://boj.kr/10707) | 수도요금 | Bronze 3 | [Java](./10xxx/10707. 수도요금/수도요금.java) |
@@ -2257,6 +2257,7 @@
 | [14246](https://boj.kr/14246) | K보다 큰 구간 | Silver 2 | [C++](./14xxx/14246. K보다 큰 구간/K보다 큰 구간.cc) |
 | [14247](https://boj.kr/14247) | 나무 자르기 | Silver 2 | [C++](./14xxx/14247. 나무 자르기/나무 자르기.cc) |
 | [14248](https://boj.kr/14248) | 점프 점프 | Silver 2 | [C++](./14xxx/14248. 점프 점프/점프 점프.cc) |
+| [14252](https://boj.kr/14252) | 공약수열 | Platinum 5 | [C++](./14xxx/14252. 공약수열/공약수열.cc) |
 | [14254](https://boj.kr/14254) | 비밀번호 변경 | Gold 5 | [C++](./14xxx/14254. 비밀번호 변경/비밀번호 변경.cc) |
 | [14264](https://boj.kr/14264) | 정육각형과 삼각형 | Bronze 3 | [Java](./14xxx/14264. 정육각형과 삼각형/정육각형과 삼각형.java) |
 | [14284](https://boj.kr/14284) | 간선 이어가기 2 | Gold 5 | [Java](./14xxx/14284. 간선 이어가기 2/간선 이어가기 2.java) |
