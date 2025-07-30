@@ -492,6 +492,7 @@
 | [02325](https://boj.kr/2325) | 개코전쟁 | Platinum 5 | [C++](./02xxx/2325. 개코전쟁/개코전쟁.cc) |
 | [02331](https://boj.kr/2331) | 반복수열 | Silver 4 | [C++](./02xxx/2331. 반복수열/반복수열.cc) |
 | [02338](https://boj.kr/2338) | 긴자리 계산 | Bronze 5 | [Java](./02xxx/2338. 긴자리 계산/긴자리 계산.java) |
+| [02342](https://boj.kr/2342) | Dance Dance Revolution | Gold 3 | [C++](./02xxx/2342. Dance Dance Revolution/Dance Dance Revolution.cc) |
 | [02343](https://boj.kr/2343) | 기타 레슨 | Silver 1 | [C++](./02xxx/2343. 기타 레슨/기타 레슨.cc) |
 | [02346](https://boj.kr/2346) | 풍선 터뜨리기 | Silver 3 | [Java](./02xxx/2346. 풍선 터뜨리기/풍선 터뜨리기.java) |
 | [02355](https://boj.kr/2355) | 시그마 | Bronze 2 | [Java](./02xxx/2355. 시그마/시그마.java) |
@@ -1404,7 +1405,7 @@
 | [08760](https://boj.kr/8760) | Schronisko | Bronze 4 | [C](./08xxx/8760. Schronisko/Schronisko.c) |
 | [08772](https://boj.kr/8772) | Szyfr Cezara | Bronze 2 | [Java](./08xxx/8772. Szyfr Cezara/Szyfr Cezara.java) |
 | [08794](https://boj.kr/8794) | Poniedziałki | Bronze 3 | [Java](./08xxx/8794. Poniedziałki/Poniedziałki.java) |
-| [08806](https://boj.kr/8806) | Papier kamień nożyczki | Bronze 3 | [Java](./08xxx/8806. Papier kamień nożyczki/Papier kamień nożyczki.java) |
+| [08806](https://boj.kr/8806) | Papier kamień nożyczki | Bronze 2 | [Java](./08xxx/8806. Papier kamień nożyczki/Papier kamień nożyczki.java) |
 | [08815](https://boj.kr/8815) | Test | Bronze 3 | [Java](./08xxx/8815. Test/Test.java) |
 | [08818](https://boj.kr/8818) | Deski | Bronze 2 | [Java](./08xxx/8818. Deski/Deski.java) |
 | [08826](https://boj.kr/8826) | Spacer | Bronze 3 | [Java](./08xxx/8826. Spacer/Spacer.java) |
@@ -1689,7 +1690,7 @@
 | [10675](https://boj.kr/10675) | Cow Routing | Bronze 2 | [Java](./10xxx/10675. Cow Routing/Cow Routing.java) |
 | [10693](https://boj.kr/10693) | Abdelrahman | Bronze 3 | [Java](./10xxx/10693. Abdelrahman/Abdelrahman.java) |
 | [10695](https://boj.kr/10695) | Dalia | Bronze 3 | [Java](./10xxx/10695. Dalia/Dalia.java) |
-| [10696](https://boj.kr/10696) | Prof. Ossama | Bronze 4 | [Java](./10xxx/10696. Prof． Ossama/Prof． Ossama.java) |
+| [10696](https://boj.kr/10696) | Prof. Ossama | Bronze 3 | [Java](./10xxx/10696. Prof． Ossama/Prof． Ossama.java) |
 | [10698](https://boj.kr/10698) | Ahmed Aly | Bronze 3 | [Java](./10xxx/10698. Ahmed Aly/Ahmed Aly.java) |
 | [10699](https://boj.kr/10699) | 오늘 날짜 | Bronze 5 | [C](./10xxx/10699. 오늘 날짜/오늘 날짜.c) |
 | [10707](https://boj.kr/10707) | 수도요금 | Bronze 3 | [Java](./10xxx/10707. 수도요금/수도요금.java) |
@@ -2723,6 +2724,7 @@
 | [16715](https://boj.kr/16715) | Inspiration | Bronze 1 | [Java](./16xxx/16715. Inspiration/Inspiration.java) |
 | [16719](https://boj.kr/16719) | ZOAC | Gold 5 | [C++](./16xxx/16719. ZOAC/ZOAC.cc) |
 | [16722](https://boj.kr/16722) | 결! 합! | Gold 5 | [Java](./16xxx/16722. 결！ 합！/결！ 합！.java) |
+| [16724](https://boj.kr/16724) | 피리 부는 사나이 | Gold 3 | [C++](./16xxx/16724. 피리 부는 사나이/피리 부는 사나이.cc) |
 | [16727](https://boj.kr/16727) | ICPC | Bronze 4 | [Java](./16xxx/16727. ICPC/ICPC.java) |
 | [16728](https://boj.kr/16728) | Chaarshanbegaan at Cafebazaar | Bronze 2 | [Java](./16xxx/16728. Chaarshanbegaan at Cafebazaar/Chaarshanbegaan at Cafebazaar.java) |
 | [16735](https://boj.kr/16735) | Congestion Charging Zone | Bronze 2 | [Java](./16xxx/16735. Congestion Charging Zone/Congestion Charging Zone.java) |
