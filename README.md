@@ -231,6 +231,7 @@
 | [01549](https://boj.kr/1549) | K | Gold 4 | [C++](./01xxx/1549. K/K.cc) |
 | [01550](https://boj.kr/1550) | 16진수 | Bronze 2 | [Java](./01xxx/1550. 16진수/16진수.java) |
 | [01551](https://boj.kr/1551) | 수열의 변화 | Bronze 1 | [Java](./01xxx/1551. 수열의 변화/수열의 변화.java) |
+| [01562](https://boj.kr/1562) | 계단 수 | Gold 1 | [C++](./01xxx/1562. 계단 수/계단 수.cc) |
 | [01564](https://boj.kr/1564) | 팩토리얼5 | Silver 1 | [C++](./01xxx/1564. 팩토리얼5/팩토리얼5.cc) |
 | [01568](https://boj.kr/1568) | 새 | Bronze 2 | [Java](./01xxx/1568. 새/새.java) |
 | [01574](https://boj.kr/1574) | 룩 어택 | Platinum 3 | [C++](./01xxx/1574. 룩 어택/룩 어택.cc) |
@@ -1480,6 +1481,7 @@
 | [09322](https://boj.kr/9322) | 철벽 보안 알고리즘 | Silver 4 | [C++](./09xxx/9322. 철벽 보안 알고리즘/철벽 보안 알고리즘.cc) |
 | [09324](https://boj.kr/9324) | 진짜 메시지 | Silver 4 | [Java](./09xxx/9324. 진짜 메시지/진짜 메시지.java) |
 | [09325](https://boj.kr/9325) | 얼마? | Bronze 3 | [Java](./09xxx/9325. 얼마？/얼마？.java) |
+| [09328](https://boj.kr/9328) | 열쇠 | Gold 1 | [C++](./09xxx/9328. 열쇠/열쇠.cc) |
 | [09339](https://boj.kr/9339) | 마라토너 | Bronze 1 | [Java](./09xxx/9339. 마라토너/마라토너.java) |
 | [09342](https://boj.kr/9342) | 염색체 | Silver 3 | [C++](./09xxx/9342. 염색체/염색체.cc) |
 | [09344](https://boj.kr/9344) | 도로 | Gold 3 | [Java](./09xxx/9344. 도로/도로.java) |
@@ -1514,6 +1516,7 @@
 | [09507](https://boj.kr/9507) | Generations of Tribbles | Silver 4 | [C++](./09xxx/9507. Generations of Tribbles/Generations of Tribbles.cc) |
 | [09517](https://boj.kr/9517) | 아이 러브 크로아티아 | Bronze 3 | [Java](./09xxx/9517. 아이 러브 크로아티아/아이 러브 크로아티아.java) |
 | [09525](https://boj.kr/9525) | 룩 배치하기 | Platinum 3 | [C++](./09xxx/9525. 룩 배치하기/룩 배치하기.cc) |
+| [09527](https://boj.kr/9527) | 1의 개수 세기 | Gold 2 | [C++](./09xxx/9527. 1의 개수 세기/1의 개수 세기.cc) |
 | [09536](https://boj.kr/9536) | 여우는 어떻게 울지? | Silver 3 | [Java](./09xxx/9536. 여우는 어떻게 울지？/여우는 어떻게 울지？.java) |
 | [09546](https://boj.kr/9546) | 3000번 버스 | Bronze 2 | [Java](./09xxx/9546. 3000번 버스/3000번 버스.java) |
 | [09549](https://boj.kr/9549) | 암호화된 비밀번호 | Silver 1 | [C++](./09xxx/9549. 암호화된 비밀번호/암호화된 비밀번호.cc) |
@@ -2800,6 +2803,7 @@
 | [17131](https://boj.kr/17131) | 여우가 정보섬에 올라온 이유 | Platinum 3 | [C++](./17xxx/17131. 여우가 정보섬에 올라온 이유/여우가 정보섬에 올라온 이유.cc) |
 | [17141](https://boj.kr/17141) | 연구소 2 | Gold 4 | [C++](./17xxx/17141. 연구소 2/연구소 2.cc) |
 | [17142](https://boj.kr/17142) | 연구소 3 | Gold 3 | [C++](./17xxx/17142. 연구소 3/연구소 3.cc) |
+| [17143](https://boj.kr/17143) | 낚시왕 | Gold 1 | [C++](./17xxx/17143. 낚시왕/낚시왕.cc) |
 | [17144](https://boj.kr/17144) | 미세먼지 안녕! | Gold 4 | [C++](./17xxx/17144. 미세먼지 안녕！/미세먼지 안녕！.cc) |
 | [17162](https://boj.kr/17162) | 가희의 수열놀이 (Small) | Gold 4 | [C++](./17xxx/17162. 가희의 수열놀이 （Small）/가희의 수열놀이 （Small）.cc) |
 | [17173](https://boj.kr/17173) | 배수들의 합 | Bronze 2 | [Java](./17xxx/17173. 배수들의 합/배수들의 합.java) |
