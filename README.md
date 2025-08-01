@@ -439,6 +439,7 @@
 | [02159](https://boj.kr/2159) | 케익 배달 | Gold 3 | [C++](./02xxx/2159. 케익 배달/케익 배달.cc) |
 | [02160](https://boj.kr/2160) | 그림 비교 | Bronze 1 | [Java](./02xxx/2160. 그림 비교/그림 비교.java) |
 | [02161](https://boj.kr/2161) | 카드1 | Silver 5 | [Java](./02xxx/2161. 카드1/카드1.java) |
+| [02162](https://boj.kr/2162) | 선분 그룹 | Platinum 5 | [C++](./02xxx/2162. 선분 그룹/선분 그룹.cc) |
 | [02163](https://boj.kr/2163) | 초콜릿 자르기 | Bronze 1 | [Java](./02xxx/2163. 초콜릿 자르기/초콜릿 자르기.java) |
 | [02164](https://boj.kr/2164) | 카드2 | Silver 4 | [Java](./02xxx/2164. 카드2/카드2.java) |
 | [02166](https://boj.kr/2166) | 다각형의 면적 | Gold 5 | [Java](./02xxx/2166. 다각형의 면적/다각형의 면적.java) |
@@ -591,6 +592,7 @@
 | [02565](https://boj.kr/2565) | 전깃줄 | Gold 5 | [C++](./02xxx/2565. 전깃줄/전깃줄.cc) |
 | [02566](https://boj.kr/2566) | 최댓값 | Bronze 3 | [Java](./02xxx/2566. 최댓값/최댓값.java) |
 | [02567](https://boj.kr/2567) | 색종이 - 2 | Silver 4 | [C++](./02xxx/2567. 색종이 － 2/색종이 － 2.cc) |
+| [02568](https://boj.kr/2568) | 전깃줄 - 2 | Platinum 5 | [C++](./02xxx/2568. 전깃줄 － 2/전깃줄 － 2.cc) |
 | [02570](https://boj.kr/2570) | 비숍2 | Platinum 2 | [C++](./02xxx/2570. 비숍2/비숍2.cc) |
 | [02573](https://boj.kr/2573) | 빙산 | Gold 4 | [C++](./02xxx/2573. 빙산/빙산.cc) |
 | [02576](https://boj.kr/2576) | 홀수 | Bronze 3 | [Java](./02xxx/2576. 홀수/홀수.java) |
@@ -922,7 +924,7 @@
 | [04378](https://boj.kr/4378) | 트ㅏㅊ; | Silver 5 | [Java](./04xxx/4378. 트ㅏㅊ；/트ㅏㅊ；.java) |
 | [04383](https://boj.kr/4383) | 점프는 즐거워 | Silver 5 | [C++](./04xxx/4383. 점프는 즐거워/점프는 즐거워.cc) |
 | [04386](https://boj.kr/4386) | 별자리 만들기 | Gold 3 | [Java](./04xxx/4386. 별자리 만들기/별자리 만들기.java) |
-| [04388](https://boj.kr/4388) | 받아올림 | Bronze 3 | [Java](./04xxx/4388. 받아올림/받아올림.java) |
+| [04388](https://boj.kr/4388) | 받아올림 | Bronze 2 | [Java](./04xxx/4388. 받아올림/받아올림.java) |
 | [04396](https://boj.kr/4396) | 지뢰 찾기 | Silver 4 | [C++](./04xxx/4396. 지뢰 찾기/지뢰 찾기.cc) |
 | [04435](https://boj.kr/4435) | 중간계 전쟁 | Bronze 3 | [Java](./04xxx/4435. 중간계 전쟁/중간계 전쟁.java) |
 | [04436](https://boj.kr/4436) | 엘프의 검 | Bronze 2 | [Java](./04xxx/4436. 엘프의 검/엘프의 검.java) |
@@ -4040,6 +4042,7 @@
 | [28701](https://boj.kr/28701) | 세제곱의 합 | Bronze 5 | [Java](./28xxx/28701. 세제곱의 합/세제곱의 합.java) |
 | [28702](https://boj.kr/28702) | FizzBuzz | Bronze 1 | [Java](./28xxx/28702. FizzBuzz/FizzBuzz.java) |
 | [28706](https://boj.kr/28706) | 럭키 세븐 | Gold 5 | [C++](./28xxx/28706. 럭키 세븐/럭키 세븐.cc) |
+| [28707](https://boj.kr/28707) | 배열 정렬 | Gold 1 | [C++](./28xxx/28707. 배열 정렬/배열 정렬.cc) |
 | [28722](https://boj.kr/28722) | Звуки в подвале | Bronze 2 | [Java](./28xxx/28722. Звуки в подвале/Звуки в подвале.java) |
 | [28808](https://boj.kr/28808) | Таблица результатов | Bronze 4 | [Java](./28xxx/28808. Таблица результатов/Таблица результатов.java) |
 | [28840](https://boj.kr/28840) | Как покормить дракона | Bronze 3 | [Java](./28xxx/28840. Как покормить дракона/Как покормить дракона.java) |
