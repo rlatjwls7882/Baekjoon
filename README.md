@@ -2069,6 +2069,7 @@
 | [12845](https://boj.kr/12845) | 모두의 마블 | Silver 3 | [C++](./12xxx/12845. 모두의 마블/모두의 마블.cc) |
 | [12847](https://boj.kr/12847) | 꿀 아르바이트 | Silver 3 | [C++](./12xxx/12847. 꿀 아르바이트/꿀 아르바이트.cc) |
 | [12849](https://boj.kr/12849) | 본대 산책 | Silver 1 | [C++](./12xxx/12849. 본대 산책/본대 산책.cc) |
+| [12850](https://boj.kr/12850) | 본대 산책2 | Platinum 5 | [C++](./12xxx/12850. 본대 산책2/본대 산책2.cc) |
 | [12851](https://boj.kr/12851) | 숨바꼭질 2 | Gold 4 | [C++](./12xxx/12851. 숨바꼭질 2/숨바꼭질 2.cc) |
 | [12852](https://boj.kr/12852) | 1로 만들기 2 | Silver 1 | [Java](./12xxx/12852. 1로 만들기 2/1로 만들기 2.java) |
 | [12865](https://boj.kr/12865) | 평범한 배낭 | Gold 5 | [C++](./12xxx/12865. 평범한 배낭/평범한 배낭.cc) |
@@ -3284,7 +3285,7 @@
 | [22279](https://boj.kr/22279) | Quality-Adjusted Life-Year | Bronze 4 | [Java](./22xxx/22279. Quality－Adjusted Life－Year/Quality－Adjusted Life－Year.java) |
 | [22332](https://boj.kr/22332) | XOR 2 | Silver 5 | [Text](./22xxx/22332. XOR 2/XOR 2.txt) |
 | [22333](https://boj.kr/22333) | XOR 3 | Silver 5 | [Text](./22xxx/22333. XOR 3/XOR 3.txt) |
-| [22334](https://boj.kr/22334) | XOR 4 | Silver 4 | [Text](./22xxx/22334. XOR 4/XOR 4.txt) |
+| [22334](https://boj.kr/22334) | XOR 4 | Silver 5 | [Text](./22xxx/22334. XOR 4/XOR 4.txt) |
 | [22335](https://boj.kr/22335) | XOR 5 | Silver 3 | [Text](./22xxx/22335. XOR 5/XOR 5.txt) |
 | [22336](https://boj.kr/22336) | XOR 6 | Silver 4 | [Text](./22xxx/22336. XOR 6/XOR 6.txt) |
 | [22338](https://boj.kr/22338) | XOR 8 | Silver 3 | [Text](./22xxx/22338. XOR 8/XOR 8.txt) |
@@ -4212,7 +4213,7 @@
 | [30403](https://boj.kr/30403) | 무지개 만들기 | Bronze 2 | [Java](./30xxx/30403. 무지개 만들기/무지개 만들기.java) |
 | [30407](https://boj.kr/30407) | 나비의 간식을 훔쳐먹은 춘배 | Gold 4 | [C++](./30xxx/30407. 나비의 간식을 훔쳐먹은 춘배/나비의 간식을 훔쳐먹은 춘배.cc) |
 | [30427](https://boj.kr/30427) | Reveals | Silver 2 | [C++](./30xxx/30427. Reveals/Reveals.cc) |
-| [30445](https://boj.kr/30445) | 행복 점수 | Bronze 1 | [Java](./30xxx/30445. 행복 점수/행복 점수.java) |
+| [30445](https://boj.kr/30445) | 행복 점수 | Silver 5 | [Java](./30xxx/30445. 행복 점수/행복 점수.java) |
 | [30446](https://boj.kr/30446) | 회문수 | Silver 2 | [Java](./30xxx/30446. 회문수/회문수.java) |
 | [30454](https://boj.kr/30454) | 얼룩말을 찾아라! | Bronze 3 | [Java](./30xxx/30454. 얼룩말을 찾아라！/얼룩말을 찾아라！.java) |
 | [30455](https://boj.kr/30455) | 이제는 더 이상 물러날 곳이 없다 | Bronze 1 | [Java](./30xxx/30455. 이제는 더 이상 물러날 곳이 없다/이제는 더 이상 물러날 곳이 없다.java) |
