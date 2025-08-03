@@ -2712,6 +2712,7 @@
 | [16561](https://boj.kr/16561) | 3의 배수 | Bronze 2 | [Java](./16xxx/16561. 3의 배수/3의 배수.java) |
 | [16562](https://boj.kr/16562) | 친구비 | Gold 4 | [Java](./16xxx/16562. 친구비/친구비.java) |
 | [16564](https://boj.kr/16564) | 히오스 프로게이머 | Silver 1 | [C++](./16xxx/16564. 히오스 프로게이머/히오스 프로게이머.cc) |
+| [16566](https://boj.kr/16566) | 카드 게임 | Platinum 5 | [C++](./16xxx/16566. 카드 게임/카드 게임.cc) |
 | [16572](https://boj.kr/16572) | Pixel Triangles | Platinum 5 | [C++](./16xxx/16572. Pixel Triangles/Pixel Triangles.cc) |
 | [16581](https://boj.kr/16581) | Lie Detector | Bronze 1 | [Java](./16xxx/16581. Lie Detector/Lie Detector.java) |
 | [16585](https://boj.kr/16585) | Tour de BINUS | Bronze 2 | [Java](./16xxx/16585. Tour de BINUS/Tour de BINUS.java) |
@@ -3686,7 +3687,7 @@
 | [25814](https://boj.kr/25814) | Heavy Numbers | Bronze 3 | [Java](./25xxx/25814. Heavy Numbers/Heavy Numbers.java) |
 | [25815](https://boj.kr/25815) | Cat’s Age | Bronze 3 | [Java](./25xxx/25815. Cat’s Age/Cat’s Age.java) |
 | [25822](https://boj.kr/25822) | 2000문제 푼 임스 | Silver 1 | [C++](./25xxx/25822. 2000문제 푼 임스/2000문제 푼 임스.cc) |
-| [25824](https://boj.kr/25824) | 빠른 오름차순 메시지 전달 | Gold 5 | [C++](./25xxx/25824. 빠른 오름차순 메시지 전달/빠른 오름차순 메시지 전달.cc) |
+| [25824](https://boj.kr/25824) | 빠른 오름차순 메시지 전달 | Silver 1 | [C++](./25xxx/25824. 빠른 오름차순 메시지 전달/빠른 오름차순 메시지 전달.cc) |
 | [25826](https://boj.kr/25826) | 2차원 배열 다중 업데이트 단일 합 | Gold 4 | [C++](./25xxx/25826. 2차원 배열 다중 업데이트 단일 합/2차원 배열 다중 업데이트 단일 합.cc) |
 | [25828](https://boj.kr/25828) | Corona Virus Testing | Bronze 4 | [C](./25xxx/25828. Corona Virus Testing/Corona Virus Testing.c) |
 | [25829](https://boj.kr/25829) | Presidential Election | Bronze 3 | [Java](./25xxx/25829. Presidential Election/Presidential Election.java) |
@@ -4082,7 +4083,7 @@
 | [29457](https://boj.kr/29457) | Игра с графом | Silver 3 | [C++](./29xxx/29457. Игра с графом/Игра с графом.cc) |
 | [29467](https://boj.kr/29467) | Шифровка | Bronze 3 | [Java](./29xxx/29467. Шифровка/Шифровка.java) |
 | [29483](https://boj.kr/29483) | Химия | Bronze 1 | [Java](./29xxx/29483. Химия/Химия.java) |
-| [29517](https://boj.kr/29517) | Зелье <<Сила чисел>> | Bronze 2 | [C++](./29xxx/29517. Зелье ＜＜Сила чисел＞＞/Зелье ＜＜Сила чисел＞＞.cc) |
+| [29517](https://boj.kr/29517) | Зелье <<Сила чисел>> | Bronze 1 | [C++](./29xxx/29517. Зелье ＜＜Сила чисел＞＞/Зелье ＜＜Сила чисел＞＞.cc) |
 | [29534](https://boj.kr/29534) | Буквы и весы | Bronze 3 | [C++](./29xxx/29534. Буквы и весы/Буквы и весы.cc) |
 | [29538](https://boj.kr/29538) | Взлет | Bronze 2 | [C++](./29xxx/29538. Взлет/Взлет.cc) |
 | [29546](https://boj.kr/29546) | Файлы | Bronze 4 | [Java](./29xxx/29546. Файлы/Файлы.java) |
@@ -4633,4 +4634,5 @@
 | [34055](https://boj.kr/34055) | 연산 추가하기 | Gold 2 | [C++](./34xxx/34055. 연산 추가하기/연산 추가하기.cc) |
 | [34056](https://boj.kr/34056) | 콘서트 | Gold 1 | [C++](./34xxx/34056. 콘서트/콘서트.cc) |
 | [34071](https://boj.kr/34071) | 첫 번째 문제는 정말 쉬운 문제일까? | Bronze 4 | [C++](./34xxx/34071. 첫 번째 문제는 정말 쉬운 문제일까？/첫 번째 문제는 정말 쉬운 문제일까？.cc) |
+| [34073](https://boj.kr/34073) | DORO | Bronze 4 | [C++](./34xxx/34073. DORO/DORO.cc) |
 </div>
