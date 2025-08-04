@@ -1848,6 +1848,7 @@
 | [11179](https://boj.kr/11179) | 2진수 뒤집기 | Bronze 1 | [Java](./11xxx/11179. 2진수 뒤집기/2진수 뒤집기.java) |
 | [11195](https://boj.kr/11195) | Peragrams | Bronze 2 | [Java](./11xxx/11195. Peragrams/Peragrams.java) |
 | [11213](https://boj.kr/11213) | Black Friday | Bronze 2 | [Java](./11xxx/11213. Black Friday/Black Friday.java) |
+| [11235](https://boj.kr/11235) | Polling | Silver 5 | [C++](./11xxx/11235. Polling/Polling.cc) |
 | [11255](https://boj.kr/11255) | ITAI Virus | Silver 4 | [C++](./11xxx/11255. ITAI Virus/ITAI Virus.cc) |
 | [11256](https://boj.kr/11256) | 사탕 | Silver 5 | [C++](./11xxx/11256. 사탕/사탕.cc) |
 | [11257](https://boj.kr/11257) | IT Passport Examination | Bronze 4 | [Java](./11xxx/11257. IT Passport Examination/IT Passport Examination.java) |
@@ -2488,6 +2489,7 @@
 | [15439](https://boj.kr/15439) | 베라의 패션 | Bronze 4 | [C](./15xxx/15439. 베라의 패션/베라의 패션.c) |
 | [15444](https://boj.kr/15444) | Vera and ABCDE | Bronze 2 | [Java](./15xxx/15444. Vera and ABCDE/Vera and ABCDE.java) |
 | [15449](https://boj.kr/15449) | Art | Bronze 2 | [Java](./15xxx/15449. Art/Art.java) |
+| [15464](https://boj.kr/15464) | The Bovine Shuffle | Silver 5 | [C++](./15xxx/15464. The Bovine Shuffle/The Bovine Shuffle.cc) |
 | [15467](https://boj.kr/15467) | The Combination of Poker Cards | Bronze 1 | [C++](./15xxx/15467. The Combination of Poker Cards/The Combination of Poker Cards.cc) |
 | [15474](https://boj.kr/15474) | 鉛筆 (Pencils) | Bronze 4 | [C](./15xxx/15474. 鉛筆 （Pencils）/鉛筆 （Pencils）.c) |
 | [15476](https://boj.kr/15476) | 幹線道路 (Trunk Road) | Bronze 1 | [C++](./15xxx/15476. 幹線道路 （Trunk Road）/幹線道路 （Trunk Road）.cc) |
@@ -4633,6 +4635,7 @@
 | [34053](https://boj.kr/34053) | 도미노 게임 | Silver 3 | [C++](./34xxx/34053. 도미노 게임/도미노 게임.cc) |
 | [34055](https://boj.kr/34055) | 연산 추가하기 | Gold 2 | [C++](./34xxx/34055. 연산 추가하기/연산 추가하기.cc) |
 | [34056](https://boj.kr/34056) | 콘서트 | Gold 1 | [C++](./34xxx/34056. 콘서트/콘서트.cc) |
+| [34064](https://boj.kr/34064) | 밤(Time For The Moon Night) | Gold 4 | [C++](./34xxx/34064. 밤（Time For The Moon Night）/밤（Time For The Moon Night）.cc) |
 | [34071](https://boj.kr/34071) | 첫 번째 문제는 정말 쉬운 문제일까? | Bronze 4 | [C++](./34xxx/34071. 첫 번째 문제는 정말 쉬운 문제일까？/첫 번째 문제는 정말 쉬운 문제일까？.cc) |
 | [34073](https://boj.kr/34073) | DORO | Bronze 4 | [C++](./34xxx/34073. DORO/DORO.cc) |
 </div>
