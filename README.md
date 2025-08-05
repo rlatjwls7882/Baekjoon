@@ -1218,6 +1218,7 @@
 | [06589](https://boj.kr/6589) | Heavy Cargo | Gold 4 | [Java](./06xxx/6589. Heavy Cargo/Heavy Cargo.java) |
 | [06591](https://boj.kr/6591) | 이항 쇼다운 | Silver 3 | [C++](./06xxx/6591. 이항 쇼다운/이항 쇼다운.cc) |
 | [06593](https://boj.kr/6593) | 상범 빌딩 | Gold 5 | [Java](./06xxx/6593. 상범 빌딩/상범 빌딩.java) |
+| [06599](https://boj.kr/6599) | The Tower of Babylon | Gold 4 | [C++](./06xxx/6599. The Tower of Babylon/The Tower of Babylon.cc) |
 | [06603](https://boj.kr/6603) | 로또 | Silver 2 | [Java](./06xxx/6603. 로또/로또.java) |
 | [06609](https://boj.kr/6609) | 모기곱셈 | Bronze 2 | [Python](./06xxx/6609. 모기곱셈/모기곱셈.py) |
 | [06679](https://boj.kr/6679) | 싱기한 네자리 숫자 | Bronze 2 | [Java](./06xxx/6679. 싱기한 네자리 숫자/싱기한 네자리 숫자.java) |
@@ -3340,6 +3341,7 @@
 | [23048](https://boj.kr/23048) | 자연수 색칠하기 | Gold 5 | [C++](./23xxx/23048. 자연수 색칠하기/자연수 색칠하기.cc) |
 | [23055](https://boj.kr/23055) | 공사장 표지판 | Bronze 2 | [Java](./23xxx/23055. 공사장 표지판/공사장 표지판.java) |
 | [23057](https://boj.kr/23057) | 도전 숫자왕 | Silver 2 | [C++](./23xxx/23057. 도전 숫자왕/도전 숫자왕.cc) |
+| [23074](https://boj.kr/23074) | 자연수 색칠하기 2 | Gold 1 | [C++](./23xxx/23074. 자연수 색칠하기 2/자연수 색칠하기 2.cc) |
 | [23080](https://boj.kr/23080) | 스키테일 암호 | Bronze 3 | [Java](./23xxx/23080. 스키테일 암호/스키테일 암호.java) |
 | [23083](https://boj.kr/23083) | 꿀벌 승연이 | Gold 5 | [Python](./23xxx/23083. 꿀벌 승연이/꿀벌 승연이.py) |
 | [23085](https://boj.kr/23085) | 판치기 | Gold 4 | [C++](./23xxx/23085. 판치기/판치기.cc) |
@@ -3424,6 +3426,7 @@
 | [23885](https://boj.kr/23885) | 비숍 투어 | Bronze 1 | [Java](./23xxx/23885. 비숍 투어/비숍 투어.java) |
 | [23886](https://boj.kr/23886) | 알프수 | Bronze 1 | [Java](./23xxx/23886. 알프수/알프수.java) |
 | [23888](https://boj.kr/23888) | 등차수열과 쿼리 | Gold 5 | [C++](./23xxx/23888. 등차수열과 쿼리/등차수열과 쿼리.cc) |
+| [23891](https://boj.kr/23891) | 타이어 끌기 | Gold 2 | [C++](./23xxx/23891. 타이어 끌기/타이어 끌기.cc) |
 | [23899](https://boj.kr/23899) | 알고리즘 수업 - 선택 정렬 5 | Bronze 1 | [Java](./23xxx/23899. 알고리즘 수업 － 선택 정렬 5/알고리즘 수업 － 선택 정렬 5.java) |
 | [23901](https://boj.kr/23901) | Bike Tour | Bronze 3 | [Java](./23xxx/23901. Bike Tour/Bike Tour.java) |
 | [23925](https://boj.kr/23925) | Retype | Bronze 3 | [Java](./23xxx/23925. Retype/Retype.java) |
@@ -4374,6 +4377,7 @@
 | [31668](https://boj.kr/31668) | 특별한 가지 | Bronze 4 | [C++](./31xxx/31668. 특별한 가지/특별한 가지.cc) |
 | [31669](https://boj.kr/31669) | 특별한 학교 탈출 | Bronze 3 | [C++](./31xxx/31669. 특별한 학교 탈출/특별한 학교 탈출.cc) |
 | [31670](https://boj.kr/31670) | 특별한 마법 공격 | Silver 2 | [C++](./31xxx/31670. 특별한 마법 공격/특별한 마법 공격.cc) |
+| [31675](https://boj.kr/31675) | 특별한 물리 공격 | Gold 3 | [C++](./31xxx/31675. 특별한 물리 공격/특별한 물리 공격.cc) |
 | [31694](https://boj.kr/31694) | Kto wygrał? | Bronze 3 | [Java](./31xxx/31694. Kto wygrał？/Kto wygrał？.java) |
 | [31712](https://boj.kr/31712) | 핑크빈 레이드 | Bronze 3 | [C++](./31xxx/31712. 핑크빈 레이드/핑크빈 레이드.cc) |
 | [31719](https://boj.kr/31719) | UDP 스택 | Gold 4 | [C++](./31xxx/31719. UDP 스택/UDP 스택.cc) |
