@@ -5,7 +5,7 @@ typedef long long ll;
 const int INF = 0x3f3f3f3f;
 const ll LINF = 0x3f3f3f3f3f3f3f3f;
 
-int outsideM[4000], outsideK[4000]; // left right up down
+int outsideM[4004], outsideK[4004]; // left right up down
 
 ll getCost(ll x1, ll x2, ll y1, ll y2) {
     return (x1-x2)*(x1-x2) + (y1-y2)*(y1-y2);
