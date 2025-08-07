@@ -984,7 +984,7 @@
 | [04807](https://boj.kr/4807) | Iterated Difference | Bronze 2 | [Java](./04xxx/4807. Iterated Difference/Iterated Difference.java) |
 | [04811](https://boj.kr/4811) | 알약 | Gold 5 | [C++](./04xxx/4811. 알약/알약.cc) |
 | [04841](https://boj.kr/4841) | Look and Say | Bronze 2 | [Java](./04xxx/4841. Look and Say/Look and Say.java) |
-| [04850](https://boj.kr/4850) | Baskets of Gold Coins | Bronze 3 | [Java](./04xxx/4850. Baskets of Gold Coins/Baskets of Gold Coins.java) |
+| [04850](https://boj.kr/4850) | Baskets of Gold Coins | Bronze 2 | [Java](./04xxx/4850. Baskets of Gold Coins/Baskets of Gold Coins.java) |
 | [04864](https://boj.kr/4864) | Gold Coins | Bronze 2 | [Java](./04xxx/4864. Gold Coins/Gold Coins.java) |
 | [04880](https://boj.kr/4880) | 다음수 | Bronze 3 | [Java](./04xxx/4880. 다음수/다음수.java) |
 | [04881](https://boj.kr/4881) | 자리수의 제곱 | Silver 3 | [C++](./04xxx/4881. 자리수의 제곱/자리수의 제곱.cc) |
@@ -2199,7 +2199,7 @@
 | [13610](https://boj.kr/13610) | Volta | Bronze 3 | [Java](./13xxx/13610. Volta/Volta.java) |
 | [13617](https://boj.kr/13617) | Handebol | Bronze 3 | [Java](./13xxx/13617. Handebol/Handebol.java) |
 | [13623](https://boj.kr/13623) | Zero or One | Bronze 4 | [C](./13xxx/13623. Zero or One/Zero or One.c) |
-| [13627](https://boj.kr/13627) | Dangerous Dive | Bronze 2 | [Java](./13xxx/13627. Dangerous Dive/Dangerous Dive.java) |
+| [13627](https://boj.kr/13627) | Dangerous Dive | Bronze 3 | [Java](./13xxx/13627. Dangerous Dive/Dangerous Dive.java) |
 | [13650](https://boj.kr/13650) | Botas perdidas | Bronze 1 | [Java](./13xxx/13650. Botas perdidas/Botas perdidas.java) |
 | [13655](https://boj.kr/13655) | Guarda Costeira | Bronze 2 | [Java](./13xxx/13655. Guarda Costeira/Guarda Costeira.java) |
 | [13658](https://boj.kr/13658) | Revisão de Contrato | Bronze 2 | [Java](./13xxx/13658. Revisão de Contrato/Revisão de Contrato.java) |
@@ -2578,6 +2578,7 @@
 | [15824](https://boj.kr/15824) | 너 봄에는 캡사이신이 맛있단다 | Gold 2 | [C++](./15xxx/15824. 너 봄에는 캡사이신이 맛있단다/너 봄에는 캡사이신이 맛있단다.cc) |
 | [15828](https://boj.kr/15828) | Router | Silver 4 | [Java](./15xxx/15828. Router/Router.java) |
 | [15829](https://boj.kr/15829) | Hashing | Bronze 2 | [Java](./15xxx/15829. Hashing/Hashing.java) |
+| [15834](https://boj.kr/15834) | Eli's Curious Mind | Silver 1 | [C++](./15xxx/15834. Eli's Curious Mind/Eli's Curious Mind.cc) |
 | [15835](https://boj.kr/15835) | Explorace | Gold 4 | [Java](./15xxx/15835. Explorace/Explorace.java) |
 | [15838](https://boj.kr/15838) | Wak Sani Satay | Bronze 3 | [Python](./15xxx/15838. Wak Sani Satay/Wak Sani Satay.py) |
 | [15841](https://boj.kr/15841) | Virus Outbreak | Bronze 1 | [Java](./15xxx/15841. Virus Outbreak/Virus Outbreak.java) |
@@ -2716,6 +2717,7 @@
 | [16561](https://boj.kr/16561) | 3의 배수 | Bronze 2 | [Java](./16xxx/16561. 3의 배수/3의 배수.java) |
 | [16562](https://boj.kr/16562) | 친구비 | Gold 4 | [Java](./16xxx/16562. 친구비/친구비.java) |
 | [16564](https://boj.kr/16564) | 히오스 프로게이머 | Silver 1 | [C++](./16xxx/16564. 히오스 프로게이머/히오스 프로게이머.cc) |
+| [16565](https://boj.kr/16565) | N포커 | Gold 2 | [C++](./16xxx/16565. N포커/N포커.cc) |
 | [16566](https://boj.kr/16566) | 카드 게임 | Platinum 5 | [C++](./16xxx/16566. 카드 게임/카드 게임.cc) |
 | [16572](https://boj.kr/16572) | Pixel Triangles | Platinum 5 | [C++](./16xxx/16572. Pixel Triangles/Pixel Triangles.cc) |
 | [16581](https://boj.kr/16581) | Lie Detector | Bronze 1 | [Java](./16xxx/16581. Lie Detector/Lie Detector.java) |
@@ -3218,6 +3220,7 @@
 | [21444](https://boj.kr/21444) | Космические захватчики | Bronze 2 | [Java](./21xxx/21444. Космические захватчики/Космические захватчики.java) |
 | [21507](https://boj.kr/21507) | POBEDA-2014 | Bronze 2 | [Java](./21xxx/21507. POBEDA－2014/POBEDA－2014.java) |
 | [21529](https://boj.kr/21529) | Кастинг | Bronze 2 | [Java](./21xxx/21529. Кастинг/Кастинг.java) |
+| [21530](https://boj.kr/21530) | Города | Bronze 1 | [C++](./21xxx/21530. Города/Города.cc) |
 | [21553](https://boj.kr/21553) | 암호 만들기 | Bronze 3 | [Java](./21xxx/21553. 암호 만들기/암호 만들기.java) |
 | [21557](https://boj.kr/21557) | 불꽃놀이 | Silver 4 | [C++](./21xxx/21557. 불꽃놀이/불꽃놀이.cc) |
 | [21567](https://boj.kr/21567) | 숫자의 개수 2 | Bronze 2 | [Java](./21xxx/21567. 숫자의 개수 2/숫자의 개수 2.java) |
@@ -4269,7 +4272,7 @@
 | [30803](https://boj.kr/30803) | 수도꼭지 | Silver 4 | [Java](./30xxx/30803. 수도꼭지/수도꼭지.java) |
 | [30804](https://boj.kr/30804) | 과일 탕후루 | Silver 2 | [C++](./30xxx/30804. 과일 탕후루/과일 탕후루.cc) |
 | [30805](https://boj.kr/30805) | 사전 순 최대 공통 부분 수열 | Gold 4 | [C++](./30xxx/30805. 사전 순 최대 공통 부분 수열/사전 순 최대 공통 부분 수열.cc) |
-| [30821](https://boj.kr/30821) | 별자리가 될 수 있다면 | Bronze 3 | [Java](./30xxx/30821. 별자리가 될 수 있다면/별자리가 될 수 있다면.java) |
+| [30821](https://boj.kr/30821) | 별자리가 될 수 있다면 | Bronze 2 | [Java](./30xxx/30821. 별자리가 될 수 있다면/별자리가 될 수 있다면.java) |
 | [30822](https://boj.kr/30822) | UOSPC 세기 | Bronze 3 | [Java](./30xxx/30822. UOSPC 세기/UOSPC 세기.java) |
 | [30825](https://boj.kr/30825) | 건공펀치 등차수열 | Silver 1 | [C++](./30xxx/30825. 건공펀치 등차수열/건공펀치 등차수열.cc) |
 | [30841](https://boj.kr/30841) | Ложки | Bronze 3 | [Java](./30xxx/30841. Ложки/Ложки.java) |
@@ -4351,6 +4354,7 @@
 | [31526](https://boj.kr/31526) | Rampant Growth | Bronze 2 | [Python](./31xxx/31526. Rampant Growth/Rampant Growth.py) |
 | [31529](https://boj.kr/31529) | 2024년에는 혼자가 아니길 | Silver 5 | [C++](./31xxx/31529. 2024년에는 혼자가 아니길/2024년에는 혼자가 아니길.cc) |
 | [31533](https://boj.kr/31533) | Furiosa AI 영상 처리 가속 | Bronze 2 | [Java](./31xxx/31533. Furiosa AI 영상 처리 가속/Furiosa AI 영상 처리 가속.java) |
+| [31536](https://boj.kr/31536) | 멈뭄미믜 저주 탈출 | Gold 3 | [C++](./31xxx/31536. 멈뭄미믜 저주 탈출/멈뭄미믜 저주 탈출.cc) |
 | [31561](https://boj.kr/31561) | 시계탑 | Bronze 3 | [Python](./31xxx/31561. 시계탑/시계탑.py) |
 | [31562](https://boj.kr/31562) | 전주 듣고 노래 맞히기 | Bronze 1 | [Java](./31xxx/31562. 전주 듣고 노래 맞히기/전주 듣고 노래 맞히기.java) |
 | [31565](https://boj.kr/31565) | 전역 역전 | Gold 4 | [C++](./31xxx/31565. 전역 역전/전역 역전.cc) |
