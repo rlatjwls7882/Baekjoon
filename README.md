@@ -406,7 +406,7 @@
 | [02037](https://boj.kr/2037) | 문자메시지 | Bronze 1 | [C++](./02xxx/2037. 문자메시지/문자메시지.cc) |
 | [02038](https://boj.kr/2038) | 골롱 수열 | Gold 1 | [C++](./02xxx/2038. 골롱 수열/골롱 수열.cc) |
 | [02042](https://boj.kr/2042) | 구간 합 구하기 | Gold 1 | [C++](./02xxx/2042. 구간 합 구하기/구간 합 구하기.cc) |
-| [02052](https://boj.kr/2052) | 지수연산 | Bronze 2 | [Java](./02xxx/2052. 지수연산/지수연산.java) |
+| [02052](https://boj.kr/2052) | 지수연산 | Bronze 1 | [Java](./02xxx/2052. 지수연산/지수연산.java) |
 | [02056](https://boj.kr/2056) | 작업 | Gold 4 | [Java](./02xxx/2056. 작업/작업.java) |
 | [02057](https://boj.kr/2057) | 팩토리얼 분해 | Silver 5 | [C++](./02xxx/2057. 팩토리얼 분해/팩토리얼 분해.cc) |
 | [02061](https://boj.kr/2061) | 좋은 암호 | Bronze 3 | [Java](./02xxx/2061. 좋은 암호/좋은 암호.java) |
@@ -1199,7 +1199,7 @@
 | [06360](https://boj.kr/6360) | L-I-N-G-O: LINGO | Gold 4 | [C++](./06xxx/6360. L－I－N－G－O： LINGO/L－I－N－G－O： LINGO.cc) |
 | [06376](https://boj.kr/6376) | e 계산 | Bronze 2 | [Java](./06xxx/6376. e 계산/e 계산.java) |
 | [06378](https://boj.kr/6378) | 디지털 루트 | Bronze 3 | [Java](./06xxx/6378. 디지털 루트/디지털 루트.java) |
-| [06436](https://boj.kr/6436) | Floppies | Bronze 3 | [Java](./06xxx/6436. Floppies/Floppies.java) |
+| [06436](https://boj.kr/6436) | Floppies | Bronze 2 | [Java](./06xxx/6436. Floppies/Floppies.java) |
 | [06437](https://boj.kr/6437) | Golf | Bronze 3 | [Java](./06xxx/6437. Golf/Golf.java) |
 | [06438](https://boj.kr/6438) | Reverse Text | Bronze 3 | [Java](./06xxx/6438. Reverse Text/Reverse Text.java) |
 | [06443](https://boj.kr/6443) | 애너그램 | Gold 5 | [C++](./06xxx/6443. 애너그램/애너그램.cc) |
@@ -1413,7 +1413,7 @@
 | [08794](https://boj.kr/8794) | Poniedziałki | Bronze 3 | [Java](./08xxx/8794. Poniedziałki/Poniedziałki.java) |
 | [08806](https://boj.kr/8806) | Papier kamień nożyczki | Bronze 2 | [Java](./08xxx/8806. Papier kamień nożyczki/Papier kamień nożyczki.java) |
 | [08815](https://boj.kr/8815) | Test | Bronze 3 | [Java](./08xxx/8815. Test/Test.java) |
-| [08818](https://boj.kr/8818) | Deski | Bronze 2 | [Java](./08xxx/8818. Deski/Deski.java) |
+| [08818](https://boj.kr/8818) | Deski | Bronze 1 | [Java](./08xxx/8818. Deski/Deski.java) |
 | [08826](https://boj.kr/8826) | Spacer | Bronze 3 | [Java](./08xxx/8826. Spacer/Spacer.java) |
 | [08846](https://boj.kr/8846) | Wymiana żarówki | Bronze 2 | [Java](./08xxx/8846. Wymiana żarówki/Wymiana żarówki.java) |
 | [08871](https://boj.kr/8871) | Zadanie próbne 2 | Bronze 5 | [C](./08xxx/8871. Zadanie próbne 2/Zadanie próbne 2.c) |
@@ -2116,6 +2116,7 @@
 | [13171](https://boj.kr/13171) | A | Silver 3 | [C++](./13xxx/13171. A/A.cc) |
 | [13172](https://boj.kr/13172) | Σ | Gold 4 | [C++](./13xxx/13172. Σ/Σ.cc) |
 | [13208](https://boj.kr/13208) | 승현이와 승현이 | Diamond 4 | [C++](./13xxx/13208. 승현이와 승현이/승현이와 승현이.cc) |
+| [13213](https://boj.kr/13213) | Binary Roads | Gold 5 | [C++](./13xxx/13213. Binary Roads/Binary Roads.cc) |
 | [13216](https://boj.kr/13216) | Badminton | Bronze 1 | [Java](./13xxx/13216. Badminton/Badminton.java) |
 | [13221](https://boj.kr/13221) | Manhattan | Bronze 3 | [Java](./13xxx/13221. Manhattan/Manhattan.java) |
 | [13222](https://boj.kr/13222) | Matches | Bronze 3 | [Java](./13xxx/13222. Matches/Matches.java) |
@@ -3107,6 +3108,7 @@
 | [20186](https://boj.kr/20186) | 수 고르기 | Silver 4 | [C++](./20xxx/20186. 수 고르기/수 고르기.cc) |
 | [20191](https://boj.kr/20191) | 줄임말 | Gold 2 | [C++](./20xxx/20191. 줄임말/줄임말.cc) |
 | [20205](https://boj.kr/20205) | 교수님 그림이 깨지는데요? | Bronze 2 | [Java](./20xxx/20205. 교수님 그림이 깨지는데요？/교수님 그림이 깨지는데요？.java) |
+| [20208](https://boj.kr/20208) | 진우의 민트초코우유 | Gold 5 | [C++](./20xxx/20208. 진우의 민트초코우유/진우의 민트초코우유.cc) |
 | [20209](https://boj.kr/20209) | 스트레이트 스위치 게임 | Gold 3 | [C++](./20xxx/20209. 스트레이트 스위치 게임/스트레이트 스위치 게임.cc) |
 | [20215](https://boj.kr/20215) | Cutting Corners | Bronze 4 | [C](./20xxx/20215. Cutting Corners/Cutting Corners.c) |
 | [20216](https://boj.kr/20216) | Ducky Debugging | Bronze 2 | [Java](./20xxx/20216. Ducky Debugging/Ducky Debugging.java) |
@@ -3586,6 +3588,7 @@
 | [25024](https://boj.kr/25024) | 시간과 날짜 | Bronze 3 | [Java](./25xxx/25024. 시간과 날짜/시간과 날짜.java) |
 | [25044](https://boj.kr/25044) | 에어컨 | Silver 4 | [C++](./25xxx/25044. 에어컨/에어컨.cc) |
 | [25046](https://boj.kr/25046) | 사각형 게임 (Small) | Gold 5 | [C++](./25xxx/25046. 사각형 게임 （Small）/사각형 게임 （Small）.cc) |
+| [25050](https://boj.kr/25050) | 최고의 간선 | Platinum 5 | [C++](./25xxx/25050. 최고의 간선/최고의 간선.cc) |
 | [25053](https://boj.kr/25053) | Organizing SWERC | Bronze 2 | [Java](./25xxx/25053. Organizing SWERC/Organizing SWERC.java) |
 | [25083](https://boj.kr/25083) | 새싹 | Bronze 5 | [C](./25xxx/25083. 새싹/새싹.c) |
 | [25084](https://boj.kr/25084) | Infinity Area | Bronze 3 | [Java](./25xxx/25084. Infinity Area/Infinity Area.java) |
