@@ -25,6 +25,7 @@
 | [01015](https://boj.kr/1015) | 수열 정렬 | Silver 4 | [C++](./01xxx/1015. 수열 정렬/수열 정렬.cc) |
 | [01017](https://boj.kr/1017) | 소수 쌍 | Platinum 3 | [C++](./01xxx/1017. 소수 쌍/소수 쌍.cc) |
 | [01018](https://boj.kr/1018) | 체스판 다시 칠하기 | Silver 4 | [Java](./01xxx/1018. 체스판 다시 칠하기/체스판 다시 칠하기.java) |
+| [01019](https://boj.kr/1019) | 책 페이지 | Platinum 5 | [C++](./01xxx/1019. 책 페이지/책 페이지.cc) |
 | [01021](https://boj.kr/1021) | 회전하는 큐 | Silver 3 | [Java](./01xxx/1021. 회전하는 큐/회전하는 큐.java) |
 | [01024](https://boj.kr/1024) | 수열의 합 | Silver 2 | [C++](./01xxx/1024. 수열의 합/수열의 합.cc) |
 | [01025](https://boj.kr/1025) | 제곱수 찾기 | Gold 5 | [C++](./01xxx/1025. 제곱수 찾기/제곱수 찾기.cc) |
@@ -3510,7 +3511,7 @@
 | [24395](https://boj.kr/24395) | 명진이의 신년계획 | Gold 3 | [C++](./24xxx/24395. 명진이의 신년계획/명진이의 신년계획.cc) |
 | [24398](https://boj.kr/24398) | 알고리즘 수업 - 선택 알고리즘 1 | Silver 5 | [Java](./24xxx/24398. 알고리즘 수업 － 선택 알고리즘 1/알고리즘 수업 － 선택 알고리즘 1.java) |
 | [24399](https://boj.kr/24399) | 알고리즘 수업 - 선택 알고리즘 2 | Silver 5 | [Java](./24xxx/24399. 알고리즘 수업 － 선택 알고리즘 2/알고리즘 수업 － 선택 알고리즘 2.java) |
-| [24405](https://boj.kr/24405) | Eye of Sauron | Bronze 2 | [Java](./24xxx/24405. Eye of Sauron/Eye of Sauron.java) |
+| [24405](https://boj.kr/24405) | Eye of Sauron | Bronze 3 | [Java](./24xxx/24405. Eye of Sauron/Eye of Sauron.java) |
 | [24408](https://boj.kr/24408) | Mult! | Bronze 3 | [Java](./24xxx/24408. Mult！/Mult！.java) |
 | [24416](https://boj.kr/24416) | 알고리즘 수업 - 피보나치 수 1 | Bronze 1 | [Java](./24xxx/24416. 알고리즘 수업 － 피보나치 수 1/알고리즘 수업 － 피보나치 수 1.java) |
 | [24417](https://boj.kr/24417) | 알고리즘 수업 - 피보나치 수 2 | Silver 4 | [Java](./24xxx/24417. 알고리즘 수업 － 피보나치 수 2/알고리즘 수업 － 피보나치 수 2.java) |
