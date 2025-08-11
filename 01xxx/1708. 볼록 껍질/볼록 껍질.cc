@@ -33,20 +33,15 @@ int main() {
     }
     sort(v.begin(), v.end());
 
-    stack<pos> stk;
+    vector<pos> stk;
     for(int i=0;i<n;i++) {
         if(stk.size()<2) {
-            stk.push(v[i]);
+            stk.push_back(v[i]);
         } else {
-            while(stk.size()>=2) {
-                pos top1 = stk.top(); stk.pop();
-                pos top2 = stk.top();
-                if(ccw(top2, top1, v[i])>0) {
-                    stk.push(top1);
-                    break;
-                }
+            while(stk.size()>=2 && ccw(stk[stk.size()-2], stk[stk.size()-1], v[i])<=0) {
+                stk.pop_back();
             }
-            stk.push(v[i]);
+            stk.push_back(v[i]);
         }
     }
     cout << stk.size();
