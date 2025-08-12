@@ -2,16 +2,7 @@
 using namespace std;
 
 typedef long long ll;
-typedef vector<int> vi;
-typedef vector<vi> vvi;
-typedef vector<vvi> vvvi;
-typedef vector<ll> vll;
-typedef vector<vll> vvll;
-typedef pair<int, int> pi;
-typedef pair<ll, ll> pll;
 
-const int INF = 0x3f3f3f3f;
-const ll LINF = 0x3f3f3f3f3f3f3f3f;
 const double PI = atan(1)*4;
 
 int n, l;
