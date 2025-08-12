@@ -272,6 +272,7 @@
 | [01703](https://boj.kr/1703) | 생장점 | Bronze 3 | [Java](./01xxx/1703. 생장점/생장점.java) |
 | [01706](https://boj.kr/1706) | 크로스워드 | Silver 2 | [C++](./01xxx/1706. 크로스워드/크로스워드.cc) |
 | [01707](https://boj.kr/1707) | 이분 그래프 | Gold 4 | [C++](./01xxx/1707. 이분 그래프/이분 그래프.cc) |
+| [01708](https://boj.kr/1708) | 볼록 껍질 | Platinum 5 | [C++](./01xxx/1708. 볼록 껍질/볼록 껍질.cc) |
 | [01709](https://boj.kr/1709) | 타일 위의 원 | Gold 4 | [C++](./01xxx/1709. 타일 위의 원/타일 위의 원.cc) |
 | [01711](https://boj.kr/1711) | 직각삼각형 | Silver 1 | [C++](./01xxx/1711. 직각삼각형/직각삼각형.cc) |
 | [01712](https://boj.kr/1712) | 손익분기점 | Bronze 2 | [Java](./01xxx/1712. 손익분기점/손익분기점.java) |
@@ -2055,7 +2056,7 @@
 | [12760](https://boj.kr/12760) | 최후의 승자는 누구? | Silver 5 | [Python](./12xxx/12760. 최후의 승자는 누구？/최후의 승자는 누구？.py) |
 | [12761](https://boj.kr/12761) | 돌다리 | Silver 1 | [C++](./12xxx/12761. 돌다리/돌다리.cc) |
 | [12778](https://boj.kr/12778) | CTP공국으로 이민 가자 | Bronze 2 | [Java](./12xxx/12778. CTP공국으로 이민 가자/CTP공국으로 이민 가자.java) |
-| [12779](https://boj.kr/12779) | 상품 is 뭔들 | Silver 3 | [C++](./12xxx/12779. 상품 is 뭔들/상품 is 뭔들.cc) |
+| [12779](https://boj.kr/12779) | 상품 is 뭔들 | Silver 2 | [C++](./12xxx/12779. 상품 is 뭔들/상품 is 뭔들.cc) |
 | [12780](https://boj.kr/12780) | 원피스 | Bronze 2 | [Java](./12xxx/12780. 원피스/원피스.java) |
 | [12782](https://boj.kr/12782) | 비트 우정지수 | Silver 4 | [C++](./12xxx/12782. 비트 우정지수/비트 우정지수.cc) |
 | [12784](https://boj.kr/12784) | 인하니카 공화국 | Gold 3 | [C++](./12xxx/12784. 인하니카 공화국/인하니카 공화국.cc) |
@@ -4437,7 +4438,7 @@
 | [32029](https://boj.kr/32029) | 지금 자면 꿈을 꾸지만 | Gold 5 | [C++](./32xxx/32029. 지금 자면 꿈을 꾸지만/지금 자면 꿈을 꾸지만.cc) |
 | [32046](https://boj.kr/32046) | Snacks within 300 Yen | Bronze 3 | [C++](./32xxx/32046. Snacks within 300 Yen/Snacks within 300 Yen.cc) |
 | [32068](https://boj.kr/32068) | 보물 찾기 | Bronze 2 | [C++](./32xxx/32068. 보물 찾기/보물 찾기.cc) |
-| [32069](https://boj.kr/32069) | 가로등 | Gold 5 | [C++](./32xxx/32069. 가로등/가로등.cc) |
+| [32069](https://boj.kr/32069) | 가로등 | Gold 4 | [C++](./32xxx/32069. 가로등/가로등.cc) |
 | [32076](https://boj.kr/32076) | Easy as ABC | Silver 4 | [C++](./32xxx/32076. Easy as ABC/Easy as ABC.cc) |
 | [32089](https://boj.kr/32089) | 部員の変遷 | Bronze 4 | [C++](./32xxx/32089. 部員の変遷/部員の変遷.cc) |
 | [32090](https://boj.kr/32090) | シンプルなエディタ | Bronze 2 | [C++](./32xxx/32090. シンプルなエディタ/シンプルなエディタ.cc) |
