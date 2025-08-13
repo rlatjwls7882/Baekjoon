@@ -477,6 +477,7 @@
 | [02248](https://boj.kr/2248) | 이진수 찾기 | Gold 3 | [C++](./02xxx/2248. 이진수 찾기/이진수 찾기.cc) |
 | [02250](https://boj.kr/2250) | 트리의 높이와 너비 | Gold 2 | [C++](./02xxx/2250. 트리의 높이와 너비/트리의 높이와 너비.cc) |
 | [02252](https://boj.kr/2252) | 줄 세우기 | Gold 3 | [Java](./02xxx/2252. 줄 세우기/줄 세우기.java) |
+| [02254](https://boj.kr/2254) | 감옥 건설 | Platinum 4 | [C++](./02xxx/2254. 감옥 건설/감옥 건설.cc) |
 | [02257](https://boj.kr/2257) | 화학식량 | Silver 1 | [C++](./02xxx/2257. 화학식량/화학식량.cc) |
 | [02263](https://boj.kr/2263) | 트리의 순회 | Gold 1 | [C++](./02xxx/2263. 트리의 순회/트리의 순회.cc) |
 | [02268](https://boj.kr/2268) | 수들의 합 7 | Gold 1 | [C++](./02xxx/2268. 수들의 합 7/수들의 합 7.cc) |
@@ -1313,6 +1314,7 @@
 | [07326](https://boj.kr/7326) | Number Steps | Bronze 1 | [Java](./07xxx/7326. Number Steps/Number Steps.java) |
 | [07360](https://boj.kr/7360) | Undercut | Bronze 2 | [Java](./07xxx/7360. Undercut/Undercut.java) |
 | [07366](https://boj.kr/7366) | Counting Sheep | Bronze 3 | [Java](./07xxx/7366. Counting Sheep/Counting Sheep.java) |
+| [07420](https://boj.kr/7420) | 맹독 방벽 | Platinum 4 | [C++](./07xxx/7420. 맹독 방벽/맹독 방벽.cc) |
 | [07432](https://boj.kr/7432) | 디스크 트리 | Gold 3 | [C++](./07xxx/7432. 디스크 트리/디스크 트리.cc) |
 | [07453](https://boj.kr/7453) | 합이 0인 네 정수 | Gold 2 | [C++](./07xxx/7453. 합이 0인 네 정수/합이 0인 네 정수.cc) |
 | [07482](https://boj.kr/7482) | 상자 만들기 | Silver 5 | [Java](./07xxx/7482. 상자 만들기/상자 만들기.java) |
@@ -2723,7 +2725,7 @@
 | [16562](https://boj.kr/16562) | 친구비 | Gold 4 | [Java](./16xxx/16562. 친구비/친구비.java) |
 | [16564](https://boj.kr/16564) | 히오스 프로게이머 | Silver 1 | [C++](./16xxx/16564. 히오스 프로게이머/히오스 프로게이머.cc) |
 | [16565](https://boj.kr/16565) | N포커 | Gold 2 | [C++](./16xxx/16565. N포커/N포커.cc) |
-| [16566](https://boj.kr/16566) | 카드 게임 | Platinum 5 | [C++](./16xxx/16566. 카드 게임/카드 게임.cc) |
+| [16566](https://boj.kr/16566) | 카드 게임 | Gold 1 | [C++](./16xxx/16566. 카드 게임/카드 게임.cc) |
 | [16572](https://boj.kr/16572) | Pixel Triangles | Platinum 5 | [C++](./16xxx/16572. Pixel Triangles/Pixel Triangles.cc) |
 | [16581](https://boj.kr/16581) | Lie Detector | Bronze 1 | [Java](./16xxx/16581. Lie Detector/Lie Detector.java) |
 | [16585](https://boj.kr/16585) | Tour de BINUS | Bronze 2 | [Java](./16xxx/16585. Tour de BINUS/Tour de BINUS.java) |
@@ -4655,4 +4657,5 @@
 | [34064](https://boj.kr/34064) | 밤(Time For The Moon Night) | Gold 4 | [C++](./34xxx/34064. 밤（Time For The Moon Night）/밤（Time For The Moon Night）.cc) |
 | [34071](https://boj.kr/34071) | 첫 번째 문제는 정말 쉬운 문제일까? | Bronze 4 | [C++](./34xxx/34071. 첫 번째 문제는 정말 쉬운 문제일까？/첫 번째 문제는 정말 쉬운 문제일까？.cc) |
 | [34073](https://boj.kr/34073) | DORO | Bronze 4 | [C++](./34xxx/34073. DORO/DORO.cc) |
+| [34115](https://boj.kr/34115) | 먼 카드 | Bronze 3 | [C++](./34xxx/34115. 먼 카드/먼 카드.cc) |
 </div>
