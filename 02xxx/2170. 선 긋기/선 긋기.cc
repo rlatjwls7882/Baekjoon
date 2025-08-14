@@ -1,36 +1,34 @@
 #include<bits/stdc++.h>
-
 using namespace std;
 
-bool comp(pair<int, int> a, pair<int, int> b) {
-    if(a.first==b.first) {
-        return a.second<b.second;
+const int INF = 0x3f3f3f3f;
+
+struct line {
+    int left, right;
+    bool operator<(const line l) const {
+        return left < l.left;
     }
-    return a.first<b.first;
-}
+};
 
-int main(void) {
-    ios::sync_with_stdio(0); cin.tie(0); cout.tie(0);
-    int N; cin >> N;
+int main() {
+    ios::sync_with_stdio(0); cin.tie(0);
+    int n; cin >> n;
 
-    pair<int, int> lines[N];
-    for(int i=0;i<N;i++) {
-        int x, y; cin >> x >> y;
-        lines[i] = make_pair(x, y);
-    }
-    sort(lines, lines+N, comp);
+    vector<line> lines(n);
+    for(int i=0;i<n;i++) cin >> lines[i].left >> lines[i].right;
+    sort(lines.begin(), lines.end());
 
-    int sum=0, left=-1000000000, right=-1000000000;
-    for(int i=0;i<N;i++) {
-        if(right<lines[i].first) {
-            sum += right-left;
-            left = lines[i].first;
-            right = lines[i].second;
+    int sum=0, left=-INF, right=-INF;
+    for(line l : lines) {
+        if(l.left<=right) {
+            right = max(right, l.right);
         } else {
-            right = max(right, lines[i].second);
+            sum += right-left;
+            left = l.left;
+            right = l.right;
         }
     }
     sum += right-left;
-    
+
     cout << sum;
 }
