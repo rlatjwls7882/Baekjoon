@@ -12,19 +12,13 @@ struct pos {
     }
 };
 
-ll ccw(pos a, pos b, pos c) {
-    pos vec1 = {b.x-a.x, b.y-a.y};
-    pos vec2 = {c.x-b.x, c.y-b.y};
-    return vec1.x*vec2.y - vec1.y*vec2.x;
-}
-
 ll ccw(pos a, pos b, pos c, pos d) {
     pos vec1 = {b.x-a.x, b.y-a.y};
     pos vec2 = {d.x-c.x, d.y-c.y};
     return vec1.x*vec2.y - vec1.y*vec2.x;
 }
 
-vector<pos> graham_Scan() {
+vector<pos> grahamScan() {
     int n; cin >> n;
     vector<pos> v(n);
     for(int i=0;i<n;i++) cin >> v[i].x >> v[i].y;
@@ -38,8 +32,8 @@ vector<pos> graham_Scan() {
 
     vector<pos> stk;
     for(int i=0;i<n;i++) {
-        while(stk.size()>=2 && ccw(stk[stk.size()-2], stk[stk.size()-1], v[i])<=0) stk.pop_back();
-        stk.push_back(v[i]);
+        while(stk.size()>=2 && ccw(stk[stk.size()-2], stk[stk.size()-1], stk[stk.size()-1], v[i])<=0) stk.pop_back();
+        stk.push_back(v[i]); 
     }
     return stk;
 }
@@ -48,20 +42,37 @@ ll dist(pos a, pos b) {
     return (b.x-a.x)*(b.x-a.x) + (b.y-a.y)*(b.y-a.y);
 }
 
-void rotating_Calipers(vector<pos> stk) {
+void rotateCalipers(vector<pos> stk) {
     int n = stk.size();
     pos a, b;
-    ll maxDist=0;
-    int i=0, j=1;
-    while(i<n && j<n) {
-        ll curDist = dist(stk[i], stk[j]);
-        if(curDist>maxDist) {
-            maxDist = curDist;
-            a = stk[i];
-            b = stk[j];
+    ll curDist=0;
+    int left=0, right=1;
+    while(left<n) {
+        while(ccw(stk[left], stk[(left+1)%n], stk[right], stk[(right+1)%n])>0) {
+            ll nextDist = dist(stk[left], stk[right]);
+            if(nextDist>curDist) {
+                curDist = nextDist;
+                a = stk[left];
+                b = stk[right];
+            }
+            right = (right+1)%n;
         }
-        if(j+1<n && ccw(stk[i], stk[i+1], stk[j], stk[j+1])>0) j++;
-        else i++;
+        while(ccw(stk[left], stk[(left+1)%n], stk[right], stk[(right+1)%n])<0) {
+            ll nextDist = dist(stk[left], stk[right]);
+            if(nextDist>curDist) {
+                curDist = nextDist;
+                a = stk[left];
+                b = stk[right];
+            }
+            right = (right+n-1)%n;
+        }
+        ll nextDist = dist(stk[left], stk[right]);
+        if(nextDist>curDist) {
+            curDist = nextDist;
+            a = stk[left];
+            b = stk[right];
+        }
+        left++;
     }
     cout << a.x << ' ' << a.y << ' ' << b.x << ' ' << b.y << '\n';
 }
@@ -70,6 +81,6 @@ int main() {
     ios::sync_with_stdio(0); cin.tie(0);
     int t; cin >> t;
     while(t--) {
-        rotating_Calipers(graham_Scan());
+        rotateCalipers(grahamScan());
     }
 }
