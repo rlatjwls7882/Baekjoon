@@ -23,7 +23,7 @@ bool isInside(vector<point> &hull, point p) {
         if(ccw(hull[0], hull[mid], p)>0) left=mid;
         else right=mid;
     }
-    return ccw(hull[left], p, hull[right])<0;
+    return ccw(hull[left], hull[right], p)>0;
 }
 
 int main() {
