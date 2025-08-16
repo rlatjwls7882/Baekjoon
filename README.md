@@ -861,6 +861,7 @@
 | [03648](https://boj.kr/3648) | 아이돌 | Platinum 3 | [C++](./03xxx/3648. 아이돌/아이돌.cc) |
 | [03649](https://boj.kr/3649) | 로봇 프로젝트 | Gold 5 | [C++](./03xxx/3649. 로봇 프로젝트/로봇 프로젝트.cc) |
 | [03665](https://boj.kr/3665) | 최종 순위 | Gold 1 | [C++](./03xxx/3665. 최종 순위/최종 순위.cc) |
+| [03679](https://boj.kr/3679) | 단순 다각형 | Platinum 4 | [C++](./03xxx/3679. 단순 다각형/단순 다각형.cc) |
 | [03683](https://boj.kr/3683) | 고양이와 개 | Platinum 2 | [C++](./03xxx/3683. 고양이와 개/고양이와 개.cc) |
 | [03711](https://boj.kr/3711) | 학번 | Silver 5 | [Java](./03xxx/3711. 학번/학번.java) |
 | [03724](https://boj.kr/3724) | 표 | Bronze 1 | [Java](./03xxx/3724. 표/표.java) |
@@ -870,7 +871,7 @@
 | [03758](https://boj.kr/3758) | KCPC | Silver 2 | [C++](./03xxx/3758. KCPC/KCPC.cc) |
 | [03765](https://boj.kr/3765) | Celebrity jeopardy | Bronze 4 | [Java](./03xxx/3765. Celebrity jeopardy/Celebrity jeopardy.java) |
 | [03778](https://boj.kr/3778) | 애너그램 거리 | Bronze 2 | [Java](./03xxx/3778. 애너그램 거리/애너그램 거리.java) |
-| [03783](https://boj.kr/3783) | 세제곱근 | Gold 1 | [Java](./03xxx/3783. 세제곱근/세제곱근.java) |
+| [03783](https://boj.kr/3783) | 세제곱근 | Gold 2 | [Java](./03xxx/3783. 세제곱근/세제곱근.java) |
 | [03787](https://boj.kr/3787) | Count on Canton | Silver 5 | [Java](./03xxx/3787. Count on Canton/Count on Canton.java) |
 | [03803](https://boj.kr/3803) | Networking | Gold 4 | [Java](./03xxx/3803. Networking/Networking.java) |
 | [03826](https://boj.kr/3826) | 스타일리시 | Gold 5 | [C++](./03xxx/3826. 스타일리시/스타일리시.cc) |
@@ -1468,6 +1469,7 @@
 | [09228](https://boj.kr/9228) | Check Digits | Bronze 2 | [Python](./09xxx/9228. Check Digits/Check Digits.py) |
 | [09229](https://boj.kr/9229) | 단어 사다리 | Bronze 1 | [Java](./09xxx/9229. 단어 사다리/단어 사다리.java) |
 | [09237](https://boj.kr/9237) | 이장님 초대 | Silver 5 | [Java](./09xxx/9237. 이장님 초대/이장님 초대.java) |
+| [09240](https://boj.kr/9240) | 로버트 후드 | Platinum 3 | [C++](./09xxx/9240. 로버트 후드/로버트 후드.cc) |
 | [09241](https://boj.kr/9241) | 바이러스 복제 | Gold 5 | [C++](./09xxx/9241. 바이러스 복제/바이러스 복제.cc) |
 | [09243](https://boj.kr/9243) | 파일 완전 삭제 | Bronze 2 | [Java](./09xxx/9243. 파일 완전 삭제/파일 완전 삭제.java) |
 | [09250](https://boj.kr/9250) | 문자열 집합 판별 | Platinum 2 | [C++](./09xxx/9250. 문자열 집합 판별/문자열 집합 판별.cc) |
@@ -1658,6 +1660,7 @@
 | [10246](https://boj.kr/10246) | 부동산 경매 | Silver 1 | [C++](./10xxx/10246. 부동산 경매/부동산 경매.cc) |
 | [10250](https://boj.kr/10250) | ACM 호텔 | Bronze 3 | [Java](./10xxx/10250. ACM 호텔/ACM 호텔.java) |
 | [10253](https://boj.kr/10253) | 헨리 | Gold 5 | [C++](./10xxx/10253. 헨리/헨리.cc) |
+| [10254](https://boj.kr/10254) | 고속도로 | Platinum 2 | [C++](./10xxx/10254. 고속도로/고속도로.cc) |
 | [10256](https://boj.kr/10256) | 돌연변이 | Platinum 2 | [C++](./10xxx/10256. 돌연변이/돌연변이.cc) |
 | [10262](https://boj.kr/10262) | 주사위 게임 | Bronze 2 | [Java](./10xxx/10262. 주사위 게임/주사위 게임.java) |
 | [10275](https://boj.kr/10275) | 골드 러시 | Bronze 1 | [C++](./10xxx/10275. 골드 러시/골드 러시.cc) |
@@ -1799,7 +1802,7 @@
 | [10997](https://boj.kr/10997) | 별 찍기 - 22 | Silver 2 | [Java](./10xxx/10997. 별 찍기 － 22/별 찍기 － 22.java) |
 | [10998](https://boj.kr/10998) | A×B | Bronze 5 | [C](./10xxx/10998. A×B/A×B.c) [C++](./10xxx/10998. A×B/A×B.cc) |
 | [10999](https://boj.kr/10999) | 구간 합 구하기 2 | Platinum 4 | [C++](./10xxx/10999. 구간 합 구하기 2/구간 합 구하기 2.cc) |
-| [11000](https://boj.kr/11000) | 강의실 배정 | Gold 5 | [Java](./11xxx/11000. 강의실 배정/강의실 배정.java) |
+| [11000](https://boj.kr/11000) | 강의실 배정 | Gold 4 | [Java](./11xxx/11000. 강의실 배정/강의실 배정.java) |
 | [11003](https://boj.kr/11003) | 최솟값 찾기 | Platinum 5 | [C++](./11xxx/11003. 최솟값 찾기/최솟값 찾기.cc) |
 | [11004](https://boj.kr/11004) | K번째 수 | Silver 5 | [Java](./11xxx/11004. K번째 수/K번째 수.java) |
 | [11005](https://boj.kr/11005) | 진법 변환 2 | Bronze 1 | [Java](./11xxx/11005. 진법 변환 2/진법 변환 2.java) |
