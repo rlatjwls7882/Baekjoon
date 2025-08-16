@@ -1,4 +1,4 @@
-# [Gold III] 금고 열기
+# [Gold II] 금고 열기
 
 [문제 링크](https://www.acmicpc.net/problem/9320) 
 
