@@ -1490,6 +1490,7 @@
 | [09313](https://boj.kr/9313) | Integer Flipping | Bronze 2 | [Java](./09xxx/9313. Integer Flipping/Integer Flipping.java) |
 | [09316](https://boj.kr/9316) | Hello Judge | Bronze 5 | [C](./09xxx/9316. Hello Judge/Hello Judge.c) |
 | [09317](https://boj.kr/9317) | Monitor DPI | Bronze 3 | [Java](./09xxx/9317. Monitor DPI/Monitor DPI.java) |
+| [09320](https://boj.kr/9320) | 금고 열기 | Gold 2 | [C++](./09xxx/9320. 금고 열기/금고 열기.cc) |
 | [09322](https://boj.kr/9322) | 철벽 보안 알고리즘 | Silver 4 | [C++](./09xxx/9322. 철벽 보안 알고리즘/철벽 보안 알고리즘.cc) |
 | [09324](https://boj.kr/9324) | 진짜 메시지 | Silver 4 | [Java](./09xxx/9324. 진짜 메시지/진짜 메시지.java) |
 | [09325](https://boj.kr/9325) | 얼마? | Bronze 3 | [Java](./09xxx/9325. 얼마？/얼마？.java) |
@@ -3169,6 +3170,7 @@
 | [20651](https://boj.kr/20651) | Daisy Chains | Bronze 1 | [C++](./20xxx/20651. Daisy Chains/Daisy Chains.cc) |
 | [20660](https://boj.kr/20660) | Pizza | Bronze 2 | [Java](./20xxx/20660. Pizza/Pizza.java) |
 | [20667](https://boj.kr/20667) | 크롬 | Gold 1 | [C++](./20xxx/20667. 크롬/크롬.cc) |
+| [20670](https://boj.kr/20670) | 미스테리 싸인 | Platinum 3 | [C++](./20xxx/20670. 미스테리 싸인/미스테리 싸인.cc) |
 | [20673](https://boj.kr/20673) | Covid-19 | Bronze 4 | [Java](./20xxx/20673. Covid－19/Covid－19.java) |
 | [20674](https://boj.kr/20674) | Statistics | Bronze 3 | [Java](./20xxx/20674. Statistics/Statistics.java) |
 | [20733](https://boj.kr/20733) | Triple Texting | Bronze 2 | [Java](./20xxx/20733. Triple Texting/Triple Texting.java) |
@@ -4595,7 +4597,7 @@
 | [33277](https://boj.kr/33277) | 국방시계 | Bronze 3 | [C++](./33xxx/33277. 국방시계/국방시계.cc) |
 | [33466](https://boj.kr/33466) | 피타고라스 정리의 증명 | Gold 5 | [C++](./33xxx/33466. 피타고라스 정리의 증명/피타고라스 정리의 증명.cc) |
 | [33488](https://boj.kr/33488) | 아름다운 수열 | Bronze 2 | [C++](./33xxx/33488. 아름다운 수열/아름다운 수열.cc) |
-| [33489](https://boj.kr/33489) | 수열의 점수 | Gold 1 | [C++](./33xxx/33489. 수열의 점수/수열의 점수.cc) |
+| [33489](https://boj.kr/33489) | 수열의 점수 | Gold 2 | [C++](./33xxx/33489. 수열의 점수/수열의 점수.cc) |
 | [33515](https://boj.kr/33515) | 노트북 세 대를 가지고 왔다 | Bronze 5 | [Python](./33xxx/33515. 노트북 세 대를 가지고 왔다/노트북 세 대를 가지고 왔다.py) |
 | [33528](https://boj.kr/33528) | Alphabetic Shift | Bronze 3 | [C++](./33xxx/33528. Alphabetic Shift/Alphabetic Shift.cc) |
 | [33538](https://boj.kr/33538) | Crawling | Bronze 3 | [C++](./33xxx/33538. Crawling/Crawling.cc) |
