@@ -907,6 +907,7 @@
 | [04158](https://boj.kr/4158) | CD | Silver 5 | [Java](./04xxx/4158. CD/CD.java) |
 | [04176](https://boj.kr/4176) | Digits | Bronze 2 | [Java](./04xxx/4176. Digits/Digits.java) |
 | [04179](https://boj.kr/4179) | 불! | Gold 3 | [C++](./04xxx/4179. 불！/불！.cc) |
+| [04181](https://boj.kr/4181) | Convex Hull | Platinum 4 | [C++](./04xxx/4181. Convex Hull/Convex Hull.cc) |
 | [04195](https://boj.kr/4195) | 친구 네트워크 | Gold 2 | [Java](./04xxx/4195. 친구 네트워크/친구 네트워크.java) |
 | [04196](https://boj.kr/4196) | 도미노 | Platinum 4 | [C++](./04xxx/4196. 도미노/도미노.cc) |
 | [04233](https://boj.kr/4233) | 가짜소수 | Gold 5 | [C++](./04xxx/4233. 가짜소수/가짜소수.cc) |
@@ -2549,7 +2550,7 @@
 | [15687](https://boj.kr/15687) | 직사각형 | Silver 5 | [C++](./15xxx/15687. 직사각형/직사각형.cc) |
 | [15688](https://boj.kr/15688) | 수 정렬하기 5 | Silver 5 | [Java](./15xxx/15688. 수 정렬하기 5/수 정렬하기 5.java) |
 | [15700](https://boj.kr/15700) | 타일 채우기 4 | Bronze 4 | [C](./15xxx/15700. 타일 채우기 4/타일 채우기 4.c) |
-| [15701](https://boj.kr/15701) | 순서쌍 | Bronze 2 | [Java](./15xxx/15701. 순서쌍/순서쌍.java) |
+| [15701](https://boj.kr/15701) | 순서쌍 | Bronze 1 | [Java](./15xxx/15701. 순서쌍/순서쌍.java) |
 | [15707](https://boj.kr/15707) | exceed or not | Silver 4 | [C++](./15xxx/15707. exceed or not/exceed or not.cc) |
 | [15708](https://boj.kr/15708) | 미네크래프트 | Platinum 5 | [C++](./15xxx/15708. 미네크래프트/미네크래프트.cc) |
 | [15711](https://boj.kr/15711) | 환상의 짝꿍 | Gold 3 | [C++](./15xxx/15711. 환상의 짝꿍/환상의 짝꿍.cc) |
@@ -3310,7 +3311,7 @@
 | [22333](https://boj.kr/22333) | XOR 3 | Silver 5 | [Text](./22xxx/22333. XOR 3/XOR 3.txt) |
 | [22334](https://boj.kr/22334) | XOR 4 | Silver 5 | [Text](./22xxx/22334. XOR 4/XOR 4.txt) |
 | [22335](https://boj.kr/22335) | XOR 5 | Silver 3 | [Text](./22xxx/22335. XOR 5/XOR 5.txt) |
-| [22336](https://boj.kr/22336) | XOR 6 | Silver 4 | [Text](./22xxx/22336. XOR 6/XOR 6.txt) |
+| [22336](https://boj.kr/22336) | XOR 6 | Silver 5 | [Text](./22xxx/22336. XOR 6/XOR 6.txt) |
 | [22338](https://boj.kr/22338) | XOR 8 | Silver 3 | [Text](./22xxx/22338. XOR 8/XOR 8.txt) |
 | [22341](https://boj.kr/22341) | 사각형 면적 | Bronze 2 | [Java](./22xxx/22341. 사각형 면적/사각형 면적.java) |
 | [22342](https://boj.kr/22342) | 계산 로봇 | Silver 1 | [C++](./22xxx/22342. 계산 로봇/계산 로봇.cc) |
@@ -4171,7 +4172,7 @@
 | [29813](https://boj.kr/29813) | 최애의 팀원 | Silver 3 | [C++](./29xxx/29813. 최애의 팀원/최애의 팀원.cc) |
 | [29814](https://boj.kr/29814) | 원교수님 과제가 너무 많아요 | Gold 1 | [C++](./29xxx/29814. 원교수님 과제가 너무 많아요/원교수님 과제가 너무 많아요.cc) |
 | [29823](https://boj.kr/29823) | Pakirobot Manhattanis | Bronze 4 | [Java](./29xxx/29823. Pakirobot Manhattanis/Pakirobot Manhattanis.java) |
-| [29829](https://boj.kr/29829) | Palindroom | Bronze 2 | [Java](./29xxx/29829. Palindroom/Palindroom.java) |
+| [29829](https://boj.kr/29829) | Palindroom | Bronze 3 | [Java](./29xxx/29829. Palindroom/Palindroom.java) |
 | [29835](https://boj.kr/29835) | Palindroom | Bronze 2 | [C++](./29xxx/29835. Palindroom/Palindroom.cc) |
 | [29847](https://boj.kr/29847) | Character Frequencies | Bronze 2 | [C++](./29xxx/29847. Character Frequencies/Character Frequencies.cc) |
 | [29863](https://boj.kr/29863) | Arno's Sleep Schedule | Bronze 5 | [Java](./29xxx/29863. Arno's Sleep Schedule/Arno's Sleep Schedule.java) |
