@@ -3481,6 +3481,7 @@
 | [24090](https://boj.kr/24090) | 알고리즘 수업 - 퀵 정렬 1 | Silver 5 | [Java](./24xxx/24090. 알고리즘 수업 － 퀵 정렬 1/알고리즘 수업 － 퀵 정렬 1.java) |
 | [24091](https://boj.kr/24091) | 알고리즘 수업 - 퀵 정렬 2 | Silver 5 | [Java](./24xxx/24091. 알고리즘 수업 － 퀵 정렬 2/알고리즘 수업 － 퀵 정렬 2.java) |
 | [24116](https://boj.kr/24116) | 本選会場 (Finals) | Gold 2 | [Java](./24xxx/24116. 本選会場 （Finals）/本選会場 （Finals）.java) |
+| [24123](https://boj.kr/24123) | コンテスト (Contest) | Silver 4 | [C++](./24xxx/24123. コンテスト （Contest）/コンテスト （Contest）.cc) |
 | [24183](https://boj.kr/24183) | Affischutskicket | Bronze 4 | [Java](./24xxx/24183. Affischutskicket/Affischutskicket.java) |
 | [24196](https://boj.kr/24196) | Gömda ord | Bronze 4 | [Java](./24xxx/24196. Gömda ord/Gömda ord.java) |
 | [24197](https://boj.kr/24197) | Tabbtabbande | Bronze 2 | [Python](./24xxx/24197. Tabbtabbande/Tabbtabbande.py) |
