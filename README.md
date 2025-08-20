@@ -2300,6 +2300,7 @@
 | [14433](https://boj.kr/14433) | 한조 대기 중 | Platinum 4 | [C++](./14xxx/14433. 한조 대기 중/한조 대기 중.cc) |
 | [14438](https://boj.kr/14438) | 수열과 쿼리 17 | Gold 1 | [C++](./14xxx/14438. 수열과 쿼리 17/수열과 쿼리 17.cc) |
 | [14442](https://boj.kr/14442) | 벽 부수고 이동하기 2 | Gold 3 | [C++](./14xxx/14442. 벽 부수고 이동하기 2/벽 부수고 이동하기 2.cc) |
+| [14462](https://boj.kr/14462) | 소가 길을 건너간 이유 8 | Gold 3 | [C++](./14xxx/14462. 소가 길을 건너간 이유 8/소가 길을 건너간 이유 8.cc) |
 | [14463](https://boj.kr/14463) | 소가 길을 건너간 이유 9 | Platinum 4 | [C++](./14xxx/14463. 소가 길을 건너간 이유 9/소가 길을 건너간 이유 9.cc) |
 | [14464](https://boj.kr/14464) | 소가 길을 건너간 이유 4 | Gold 1 | [Java](./14xxx/14464. 소가 길을 건너간 이유 4/소가 길을 건너간 이유 4.java) |
 | [14465](https://boj.kr/14465) | 소가 길을 건너간 이유 5 | Silver 2 | [C++](./14xxx/14465. 소가 길을 건너간 이유 5/소가 길을 건너간 이유 5.cc) |
@@ -3772,7 +3773,7 @@
 | [26171](https://boj.kr/26171) | An Interactive Problem | Bronze 1 | [C++](./26xxx/26171. An Interactive Problem/An Interactive Problem.cc) |
 | [26173](https://boj.kr/26173) | Cup Covering | Bronze 2 | [Java](./26xxx/26173. Cup Covering/Cup Covering.java) |
 | [26198](https://boj.kr/26198) | Chronogram | Bronze 3 | [Java](./26xxx/26198. Chronogram/Chronogram.java) |
-| [26201](https://boj.kr/26201) | Finding Maximal Non-Trivial Monotones | Bronze 2 | [Java](./26xxx/26201. Finding Maximal Non－Trivial Monotones/Finding Maximal Non－Trivial Monotones.java) |
+| [26201](https://boj.kr/26201) | Finding Maximal Non-Trivial Monotones | Bronze 3 | [Java](./26xxx/26201. Finding Maximal Non－Trivial Monotones/Finding Maximal Non－Trivial Monotones.java) |
 | [26205](https://boj.kr/26205) | Eliminating Ballons | Gold 5 | [C++](./26xxx/26205. Eliminating Ballons/Eliminating Ballons.cc) |
 | [26206](https://boj.kr/26206) | Multidimensional Hangman | Silver 3 | [C++](./26xxx/26206. Multidimensional Hangman/Multidimensional Hangman.cc) |
 | [26209](https://boj.kr/26209) | Intercepting Information | Bronze 5 | [C](./26xxx/26209. Intercepting Information/Intercepting Information.c) |
@@ -4668,4 +4669,5 @@
 | [34073](https://boj.kr/34073) | DORO | Bronze 4 | [C++](./34xxx/34073. DORO/DORO.cc) |
 | [34115](https://boj.kr/34115) | 먼 카드 | Bronze 3 | [C++](./34xxx/34115. 먼 카드/먼 카드.cc) |
 | [34125](https://boj.kr/34125) | 래환이의 아이브 콘서트 이야기 | Bronze 3 | [C++](./34xxx/34125. 래환이의 아이브 콘서트 이야기/래환이의 아이브 콘서트 이야기.cc) |
+| [34139](https://boj.kr/34139) | 의식의 광장 | Silver 2 | [C++](./34xxx/34139. 의식의 광장/의식의 광장.cc) |
 </div>
