@@ -595,7 +595,7 @@
 | [02564](https://boj.kr/2564) | 경비원 | Silver 1 | [C++](./02xxx/2564. 경비원/경비원.cc) |
 | [02565](https://boj.kr/2565) | 전깃줄 | Gold 5 | [C++](./02xxx/2565. 전깃줄/전깃줄.cc) |
 | [02566](https://boj.kr/2566) | 최댓값 | Bronze 3 | [Java](./02xxx/2566. 최댓값/최댓값.java) |
-| [02567](https://boj.kr/2567) | 색종이 - 2 | Silver 4 | [C++](./02xxx/2567. 색종이 － 2/색종이 － 2.cc) |
+| [02567](https://boj.kr/2567) | 색종이 - 2 | Silver 3 | [C++](./02xxx/2567. 색종이 － 2/색종이 － 2.cc) |
 | [02568](https://boj.kr/2568) | 전깃줄 - 2 | Platinum 5 | [C++](./02xxx/2568. 전깃줄 － 2/전깃줄 － 2.cc) |
 | [02570](https://boj.kr/2570) | 비숍2 | Platinum 2 | [C++](./02xxx/2570. 비숍2/비숍2.cc) |
 | [02573](https://boj.kr/2573) | 빙산 | Gold 4 | [C++](./02xxx/2573. 빙산/빙산.cc) |
@@ -1359,6 +1359,7 @@
 | [07789](https://boj.kr/7789) | 텔레프라임 | Bronze 2 | [Java](./07xxx/7789. 텔레프라임/텔레프라임.java) |
 | [07790](https://boj.kr/7790) | Joke | Bronze 2 | [Java](./07xxx/7790. Joke/Joke.java) |
 | [07795](https://boj.kr/7795) | 먹을 것인가 먹힐 것인가 | Silver 3 | [C++](./07xxx/7795. 먹을 것인가 먹힐 것인가/먹을 것인가 먹힐 것인가.cc) |
+| [07847](https://boj.kr/7847) | Sales Report | Silver 4 | [C++](./07xxx/7847. Sales Report/Sales Report.cc) |
 | [07891](https://boj.kr/7891) | Can you add this? | Bronze 5 | [C](./07xxx/7891. Can you add this？/Can you add this？.c) |
 | [07947](https://boj.kr/7947) | Koncert | Bronze 3 | [Java](./07xxx/7947. Koncert/Koncert.java) |
 | [07977](https://boj.kr/7977) | 크리스 마틴 | Gold 4 | [C++](./07xxx/7977. 크리스 마틴/크리스 마틴.cc) |
@@ -4670,4 +4671,5 @@
 | [34115](https://boj.kr/34115) | 먼 카드 | Bronze 3 | [C++](./34xxx/34115. 먼 카드/먼 카드.cc) |
 | [34125](https://boj.kr/34125) | 래환이의 아이브 콘서트 이야기 | Bronze 3 | [C++](./34xxx/34125. 래환이의 아이브 콘서트 이야기/래환이의 아이브 콘서트 이야기.cc) |
 | [34139](https://boj.kr/34139) | 의식의 광장 | Silver 2 | [C++](./34xxx/34139. 의식의 광장/의식의 광장.cc) |
+| [34146](https://boj.kr/34146) | 잃어버린 섬 | Silver 5 | |
 </div>
