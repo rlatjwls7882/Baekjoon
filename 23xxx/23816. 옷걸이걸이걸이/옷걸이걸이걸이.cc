@@ -1,29 +1,24 @@
 #include<bits/stdc++.h>
 using namespace std;
 
-const int MAX = 10'001;
+const int MAX = 10'016;
 
-int maxScore[MAX], spotCnt[MAX];
+int maxScore[MAX];
 
 int main() {
     ios::sync_with_stdio(0); cin.tie(0);
     int n, m; cin >> n >> m;
 
-    fill(spotCnt, spotCnt+MAX, n);
     memset(maxScore, -1, sizeof maxScore);
-    maxScore[0]=spotCnt[0]=0;
+    maxScore[0]=0;
 
-    for(int i=16;i>=2;i/=2) {
-        int cur = i-1; // 옷거리 개수
-        int score = i/2; // 획득 점수
-        if(i==16) score=0;
-
-        for(int rep=0;rep<n;rep++) {
-            for(int j=m-cur;j>=0;j--) {
-                if(maxScore[j]!=-1 && maxScore[j+cur]<maxScore[j]+score && spotCnt[j]<n) {
-                    maxScore[j+cur] = maxScore[j]+score;
-                    spotCnt[j+cur] = spotCnt[j]+1;
-                }
+    for(int i=0;i<n;i++) {
+        for(int j=m;j>=0;j--) {
+            if(maxScore[j]!=-1) {
+                maxScore[j+1] = max(maxScore[j+1], maxScore[j]+1);
+                maxScore[j+3] = max(maxScore[j+3], maxScore[j]+2);
+                maxScore[j+7] = max(maxScore[j+7], maxScore[j]+4);
+                maxScore[j+15] = max(maxScore[j+15], maxScore[j]);
             }
         }
     }
