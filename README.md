@@ -794,7 +794,7 @@
 | [03059](https://boj.kr/3059) | 등장하지 않는 문자의 합 | Bronze 3 | [Java](./03xxx/3059. 등장하지 않는 문자의 합/등장하지 않는 문자의 합.java) |
 | [03060](https://boj.kr/3060) | 욕심쟁이 돼지 | Silver 5 | [Java](./03xxx/3060. 욕심쟁이 돼지/욕심쟁이 돼지.java) |
 | [03062](https://boj.kr/3062) | 수 뒤집기 | Bronze 2 | [Java](./03xxx/3062. 수 뒤집기/수 뒤집기.java) |
-| [03063](https://boj.kr/3063) | 게시판 | Silver 4 | [C++](./03xxx/3063. 게시판/게시판.cc) |
+| [03063](https://boj.kr/3063) | 게시판 | Silver 5 | [C++](./03xxx/3063. 게시판/게시판.cc) |
 | [03064](https://boj.kr/3064) | Minesweeper | Gold 4 | [C++](./03xxx/3064. Minesweeper/Minesweeper.cc) |
 | [03065](https://boj.kr/3065) | Tournament | Gold 3 | [C++](./03xxx/3065. Tournament/Tournament.cc) |
 | [03067](https://boj.kr/3067) | Coins | Gold 5 | [C++](./03xxx/3067. Coins/Coins.cc) |
@@ -1362,6 +1362,7 @@
 | [07847](https://boj.kr/7847) | Sales Report | Silver 4 | [C++](./07xxx/7847. Sales Report/Sales Report.cc) |
 | [07891](https://boj.kr/7891) | Can you add this? | Bronze 5 | [C](./07xxx/7891. Can you add this？/Can you add this？.c) |
 | [07947](https://boj.kr/7947) | Koncert | Bronze 3 | [Java](./07xxx/7947. Koncert/Koncert.java) |
+| [07956](https://boj.kr/7956) | Liczby piwne | Silver 1 | [Java](./07xxx/7956. Liczby piwne/Liczby piwne.java) |
 | [07977](https://boj.kr/7977) | 크리스 마틴 | Gold 4 | [C++](./07xxx/7977. 크리스 마틴/크리스 마틴.cc) |
 | [07983](https://boj.kr/7983) | 내일 할거야 | Gold 5 | [C++](./07xxx/7983. 내일 할거야/내일 할거야.cc) |
 | [08012](https://boj.kr/8012) | 한동이는 영업사원! | Platinum 5 | [C++](./08xxx/8012. 한동이는 영업사원！/한동이는 영업사원！.cc) |
@@ -3264,7 +3265,7 @@
 | [21736](https://boj.kr/21736) | 헌내기는 친구가 필요해 | Silver 2 | [C++](./21xxx/21736. 헌내기는 친구가 필요해/헌내기는 친구가 필요해.cc) |
 | [21756](https://boj.kr/21756) | 지우개 | Bronze 2 | [Java](./21xxx/21756. 지우개/지우개.java) |
 | [21758](https://boj.kr/21758) | 꿀 따기 | Gold 5 | [C++](./21xxx/21758. 꿀 따기/꿀 따기.cc) |
-| [21771](https://boj.kr/21771) | 가희야 거기서 자는 거 아니야 | Bronze 1 | [Java](./21xxx/21771. 가희야 거기서 자는 거 아니야/가희야 거기서 자는 거 아니야.java) |
+| [21771](https://boj.kr/21771) | 가희야 거기서 자는 거 아니야 | Silver 5 | [Java](./21xxx/21771. 가희야 거기서 자는 거 아니야/가희야 거기서 자는 거 아니야.java) |
 | [21772](https://boj.kr/21772) | 가희의 고구마 먹방 | Gold 5 | [C++](./21xxx/21772. 가희의 고구마 먹방/가희의 고구마 먹방.cc) |
 | [21773](https://boj.kr/21773) | 가희와 프로세스 1 | Gold 5 | [C++](./21xxx/21773. 가희와 프로세스 1/가희와 프로세스 1.cc) |
 | [21778](https://boj.kr/21778) | 가희와 프로세스 2 | Platinum 5 | [C++](./21xxx/21778. 가희와 프로세스 2/가희와 프로세스 2.cc) |
