@@ -4674,4 +4674,5 @@
 | [34125](https://boj.kr/34125) | 래환이의 아이브 콘서트 이야기 | Bronze 3 | [C++](./34xxx/34125. 래환이의 아이브 콘서트 이야기/래환이의 아이브 콘서트 이야기.cc) |
 | [34139](https://boj.kr/34139) | 의식의 광장 | Silver 2 | [C++](./34xxx/34139. 의식의 광장/의식의 광장.cc) |
 | [34146](https://boj.kr/34146) | 잃어버린 섬 | Silver 5 | [C++](./34xxx/34146. 잃어버린 섬/잃어버린 섬.cc) |
+| [34210](https://boj.kr/34210) | A + B Queries | Bronze 5 | [C++](./34xxx/34210. A ＋ B Queries/A ＋ B Queries.cc) |
 </div>
