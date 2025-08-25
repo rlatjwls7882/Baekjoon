@@ -23,7 +23,7 @@ void dfs1(int cur) {
             dfs1(next);
             subTreeCnt[cur] += subTreeCnt[next];
             child[cur].push_back(next);
-            if(subTreeCnt[child[cur].front()] > subTreeCnt[child[cur].back()]) swap(child[cur].front(), child[cur].back());
+            if(subTreeCnt[child[cur].front()] < subTreeCnt[child[cur].back()]) swap(child[cur].front(), child[cur].back());
         }
     }
 }
