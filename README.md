@@ -2488,6 +2488,7 @@
 | [15236](https://boj.kr/15236) | Dominos | Bronze 3 | [Java](./15xxx/15236. Dominos/Dominos.java) |
 | [15238](https://boj.kr/15238) | Pirates | Bronze 3 | [Java](./15xxx/15238. Pirates/Pirates.java) |
 | [15239](https://boj.kr/15239) | Password check | Bronze 2 | [Java](./15xxx/15239. Password check/Password check.java) |
+| [15243](https://boj.kr/15243) | Tiling | Gold 5 | [C++](./15xxx/15243. Tiling/Tiling.cc) |
 | [15252](https://boj.kr/15252) | Opening Ceremony | Bronze 2 | [Java](./15xxx/15252. Opening Ceremony/Opening Ceremony.java) |
 | [15271](https://boj.kr/15271) | 친구 팰린드롬 2 | Platinum 4 | [C++](./15xxx/15271. 친구 팰린드롬 2/친구 팰린드롬 2.cc) |
 | [15272](https://boj.kr/15272) | Hissing Microphone | Bronze 3 | [Java](./15xxx/15272. Hissing Microphone/Hissing Microphone.java) |
