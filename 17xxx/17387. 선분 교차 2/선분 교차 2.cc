@@ -1,23 +1,33 @@
 #include<bits/stdc++.h>
 using namespace std;
 
-struct vec {
-    long long x, y;
+struct line {
+    long long x1, y1, x2, y2;
 };
 
-int cross(vec v1, vec v2) {
-    long long ret = v1.x*v2.y-v2.x*v1.y;
-    if(ret<0) return -1;
+int ccw(line a) {
+    long long ret = a.x1*a.y2 - a.x2*a.y1;
     if(ret>0) return 1;
+    if(ret<0) return -1;
     return 0;
+}
+
+bool isIntersect(line a, line b) {
+    int aToB1 = ccw({a.x2-a.x1, a.y2-a.y1, b.x1-a.x1, b.y1-a.y1});
+    int aToB2 = ccw({a.x2-a.x1, a.y2-a.y1, b.x2-a.x1, b.y2-a.y1});
+    int bToA1 = ccw({b.x2-b.x1, b.y2-b.y1, a.x1-b.x1, a.y1-b.y1});
+    int bToA2 = ccw({b.x2-b.x1, b.y2-b.y1, a.x2-b.x1, a.y2-b.y1});
+
+    if(aToB1 * aToB2==0 && bToA1 * bToA2==0) { // 두 선분이 일렬로 위치한 경우
+        return (min(a.x1, a.x2)<=b.x1 && b.x1<=max(a.x1, a.x2) || min(a.x1, a.x2)<=b.x2 && b.x2<=max(a.x1, a.x2) || min(b.x1, b.x2)<=a.x1 && a.x1<=max(b.x1, b.x2) || min(b.x1, b.x2)<=a.x2 && a.x2<=max(b.x1, b.x2))
+        && (min(a.y1, a.y2)<=b.y1 && b.y1<=max(a.y1, a.y2) || min(a.y1, a.y2)<=b.y2 && b.y2<=max(a.y1, a.y2) || min(b.y1, b.y2)<=a.y1 && a.y1<=max(b.y1, b.y2) || min(b.y1, b.y2)<=a.y2 && a.y2<=max(b.y1, b.y2));
+    }
+    return aToB1 * aToB2 <= 0 && bToA1 * bToA2 <= 0;
 }
 
 int main() {
     ios::sync_with_stdio(0); cin.tie(0);
-    long long x1, y1, x2, y2, x3, y3, x4, y4; cin >> x1 >> y1 >> x2 >> y2 >> x3 >> y3 >> x4 >> y4;
-    int a = cross({x2-x1, y2-y1}, {x3-x2, y3-y2});
-    int b = cross({x2-x1, y2-y1}, {x4-x2, y4-y2});
-    int c = cross({x4-x3, y4-y3}, {x1-x4, y1-y4});
-    int d = cross({x4-x3, y4-y3}, {x2-x4, y2-y4});
-    cout << (a==0 && b==0 && c==0 && d==0 && (min(x3, x4)<=x1 && x1<=max(x3, x4) || min(x3, x4)<=x2 && x2<=max(x3, x4) || min(x1, x2)<=x3 && x3<=max(x1, x2) || min(x1, x2)<=x4 && x4<=max(x1, x2)) && (min(y3, y4)<=y1 && y1<=max(y3, y4) || min(y3, y4)<=y2 && y2<=max(y3, y4) || min(y1, y2)<=y3 && y3<=max(y1, y2) || min(y1, y2)<=y4 && y4<=max(y1, y2)) || !(a==0 && b==0 && c==0 && d==0) && a*b<=0 && c*d<=0);
+    line a, b;
+    cin >> a.x1 >> a.y1 >> a.x2 >> a.y2 >> b.x1 >> b.y1 >> b.x2 >> b.y2;
+    cout << isIntersect(a, b);
 }
