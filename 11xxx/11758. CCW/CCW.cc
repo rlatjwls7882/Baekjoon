@@ -1,19 +1,22 @@
 #include<bits/stdc++.h>
 using namespace std;
 
-struct v {
+struct point {
     int x, y;
 };
 
-int cross(v v1, v v2) {
-    return v1.x*v2.y-v2.x*v1.y;
+int ccw(point a, point b, point c) {
+    point vect1 = {b.x-a.x, b.y-a.y};
+    point vect2 = {c.x-a.x, c.y-a.y};
+
+    int ret = vect1.x*vect2.y-vect1.y*vect2.x;
+    if(ret>0) return 1;
+    if(ret<0) return -1;
+    return 0;
 }
 
 int main() {
     ios::sync_with_stdio(0); cin.tie(0);
-    int x1, y1, x2, y2, x3, y3; cin >> x1 >> y1 >> x2 >> y2 >> x3 >> y3;
-    int val = cross({x2-x1, y2-y1}, {x3-x2, y3-y2});
-    if(val==0) cout << 0;
-    else if(val>0) cout << 1;
-    else cout << -1;
+    point p1, p2, p3; cin >> p1.x >> p1.y >> p2.x >> p2.y >> p3.x >> p3.y;
+    cout << ccw(p1, p2, p3);
 }
