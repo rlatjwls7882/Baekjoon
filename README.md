@@ -126,7 +126,7 @@
 | [01297](https://boj.kr/1297) | TV 크기 | Bronze 2 | [Java](./01xxx/1297. TV 크기/TV 크기.java) |
 | [01298](https://boj.kr/1298) | 노트북의 주인을 찾아서 | Platinum 4 | [C++](./01xxx/1298. 노트북의 주인을 찾아서/노트북의 주인을 찾아서.cc) |
 | [01300](https://boj.kr/1300) | K번째 수 | Gold 1 | [C++](./01xxx/1300. K번째 수/K번째 수.cc) |
-| [01301](https://boj.kr/1301) | 비즈 공예 | Gold 3 | [C++](./01xxx/1301. 비즈 공예/비즈 공예.cc) |
+| [01301](https://boj.kr/1301) | 비즈 공예 | Gold 2 | [C++](./01xxx/1301. 비즈 공예/비즈 공예.cc) |
 | [01302](https://boj.kr/1302) | 베스트셀러 | Silver 4 | [Java](./01xxx/1302. 베스트셀러/베스트셀러.java) |
 | [01303](https://boj.kr/1303) | 전쟁 - 전투 | Silver 1 | [C++](./01xxx/1303. 전쟁 － 전투/전쟁 － 전투.cc) |
 | [01304](https://boj.kr/1304) | 지역 | Gold 2 | [C++](./01xxx/1304. 지역/지역.cc) |
@@ -3211,6 +3211,7 @@
 | [21057](https://boj.kr/21057) | Keep Calm And Carry Off | Gold 1 | [C++](./21xxx/21057. Keep Calm And Carry Off/Keep Calm And Carry Off.cc) |
 | [21059](https://boj.kr/21059) | Methodic Multiplication | Bronze 1 | [Java](./21xxx/21059. Methodic Multiplication/Methodic Multiplication.java) |
 | [21105](https://boj.kr/21105) | New Financial Year | Bronze 3 | [Java](./21xxx/21105. New Financial Year/New Financial Year.java) |
+| [21138](https://boj.kr/21138) | Dominating Duos | Gold 2 | [C++](./21xxx/21138. Dominating Duos/Dominating Duos.cc) |
 | [21143](https://boj.kr/21143) | Magic Trick | Bronze 2 | [Java](./21xxx/21143. Magic Trick/Magic Trick.java) |
 | [21144](https://boj.kr/21144) | Missing Number | Bronze 2 | [Java](./21xxx/21144. Missing Number/Missing Number.java) |
 | [21146](https://boj.kr/21146) | Rating Problems | Bronze 3 | [Java](./21xxx/21146. Rating Problems/Rating Problems.java) |
