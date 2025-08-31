@@ -3653,6 +3653,7 @@
 | [25330](https://boj.kr/25330) | SHOW ME THE DUNGEON | Gold 4 | [C++](./25xxx/25330. SHOW ME THE DUNGEON/SHOW ME THE DUNGEON.cc) |
 | [25335](https://boj.kr/25335) | Gravity Hackenbush | Silver 5 | [Java](./25xxx/25335. Gravity Hackenbush/Gravity Hackenbush.java) |
 | [25344](https://boj.kr/25344) | 행성 정렬 | Silver 4 | [C++](./25xxx/25344. 행성 정렬/행성 정렬.cc) |
+| [25367](https://boj.kr/25367) | 너무 시시했다 | Gold 2 | [C++](./25xxx/25367. 너무 시시했다/너무 시시했다.cc) |
 | [25369](https://boj.kr/25369) | 카드 숫자 곱을 최소로 만들기 | Silver 1 | [C++](./25xxx/25369. 카드 숫자 곱을 최소로 만들기/카드 숫자 곱을 최소로 만들기.cc) |
 | [25371](https://boj.kr/25371) | k진수 정수의 자릿수 나누기 | Bronze 1 | [Java](./25xxx/25371. k진수 정수의 자릿수 나누기/k진수 정수의 자릿수 나누기.java) |
 | [25372](https://boj.kr/25372) | 성택이의 은밀한 비밀번호 | Bronze 5 | [C](./25xxx/25372. 성택이의 은밀한 비밀번호/성택이의 은밀한 비밀번호.c) |
@@ -4330,7 +4331,7 @@
 | [31052](https://boj.kr/31052) | Relocation | Bronze 3 | [C++](./31xxx/31052. Relocation/Relocation.cc) |
 | [31067](https://boj.kr/31067) | 다오의 경주 대회 | Bronze 1 | [C++](./31xxx/31067. 다오의 경주 대회/다오의 경주 대회.cc) |
 | [31090](https://boj.kr/31090) | 2023은 무엇이 특별할까? | Bronze 4 | [Java](./31xxx/31090. 2023은 무엇이 특별할까？/2023은 무엇이 특별할까？.java) |
-| [31097](https://boj.kr/31097) | Astrology | Bronze 2 | [Java](./31xxx/31097. Astrology/Astrology.java) |
+| [31097](https://boj.kr/31097) | Astrology | Bronze 3 | [Java](./31xxx/31097. Astrology/Astrology.java) |
 | [31125](https://boj.kr/31125) | Dice | Bronze 3 | [C++](./31xxx/31125. Dice/Dice.cc) |
 | [31134](https://boj.kr/31134) | A Hero Named Magnus | Bronze 4 | [C++](./31xxx/31134. A Hero Named Magnus/A Hero Named Magnus.cc) |
 | [31169](https://boj.kr/31169) | Hidden Password | Bronze 2 | [Java](./31xxx/31169. Hidden Password/Hidden Password.java) |
