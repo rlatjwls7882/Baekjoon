@@ -1326,7 +1326,7 @@
 | [07510](https://boj.kr/7510) | 고급 수학 | Bronze 3 | [Java](./07xxx/7510. 고급 수학/고급 수학.java) |
 | [07511](https://boj.kr/7511) | 소셜 네트워킹 어플리케이션 | Gold 5 | [Java](./07xxx/7511. 소셜 네트워킹 어플리케이션/소셜 네트워킹 어플리케이션.java) |
 | [07512](https://boj.kr/7512) | 연속하는 소수의 합 | Gold 3 | [C++](./07xxx/7512. 연속하는 소수의 합/연속하는 소수의 합.cc) |
-| [07513](https://boj.kr/7513) | 준살 프로그래밍 대회 | Bronze 1 | [Java](./07xxx/7513. 준살 프로그래밍 대회/준살 프로그래밍 대회.java) |
+| [07513](https://boj.kr/7513) | 준살 프로그래밍 대회 | Bronze 2 | [Java](./07xxx/7513. 준살 프로그래밍 대회/준살 프로그래밍 대회.java) |
 | [07523](https://boj.kr/7523) | Gauß | Bronze 2 | [Java](./07xxx/7523. Gauß/Gauß.java) |
 | [07547](https://boj.kr/7547) | Heavy Transportation | Gold 4 | [Java](./07xxx/7547. Heavy Transportation/Heavy Transportation.java) |
 | [07562](https://boj.kr/7562) | 나이트의 이동 | Silver 1 | [Java](./07xxx/7562. 나이트의 이동/나이트의 이동.java) |
@@ -3105,6 +3105,7 @@
 | [20055](https://boj.kr/20055) | 컨베이어 벨트 위의 로봇 | Gold 5 | [C++](./20xxx/20055. 컨베이어 벨트 위의 로봇/컨베이어 벨트 위의 로봇.cc) |
 | [20094](https://boj.kr/20094) | Sudoku 1 | Bronze 2 | [Text](./20xxx/20094. Sudoku 1/Sudoku 1.txt) |
 | [20095](https://boj.kr/20095) | Sudoku 2 | Silver 4 | [Text](./20xxx/20095. Sudoku 2/Sudoku 2.txt) |
+| [20096](https://boj.kr/20096) | Sudoku 3 | Silver 3 | [Text](./20xxx/20096. Sudoku 3/Sudoku 3.txt) |
 | [20104](https://boj.kr/20104) | Timecard | Bronze 2 | [C++](./20xxx/20104. Timecard/Timecard.cc) |
 | [20112](https://boj.kr/20112) | 사토르 마방진 | Bronze 1 | [Java](./20xxx/20112. 사토르 마방진/사토르 마방진.java) |
 | [20113](https://boj.kr/20113) | 긴급 회의 | Bronze 1 | [Java](./20xxx/20113. 긴급 회의/긴급 회의.java) |
@@ -3317,7 +3318,7 @@
 | [22332](https://boj.kr/22332) | XOR 2 | Silver 5 | [Text](./22xxx/22332. XOR 2/XOR 2.txt) |
 | [22333](https://boj.kr/22333) | XOR 3 | Silver 5 | [Text](./22xxx/22333. XOR 3/XOR 3.txt) |
 | [22334](https://boj.kr/22334) | XOR 4 | Silver 5 | [Text](./22xxx/22334. XOR 4/XOR 4.txt) |
-| [22335](https://boj.kr/22335) | XOR 5 | Silver 3 | [Text](./22xxx/22335. XOR 5/XOR 5.txt) |
+| [22335](https://boj.kr/22335) | XOR 5 | Silver 2 | [Text](./22xxx/22335. XOR 5/XOR 5.txt) |
 | [22336](https://boj.kr/22336) | XOR 6 | Silver 5 | [Text](./22xxx/22336. XOR 6/XOR 6.txt) |
 | [22338](https://boj.kr/22338) | XOR 8 | Silver 3 | [Text](./22xxx/22338. XOR 8/XOR 8.txt) |
 | [22341](https://boj.kr/22341) | 사각형 면적 | Bronze 2 | [Java](./22xxx/22341. 사각형 면적/사각형 면적.java) |
