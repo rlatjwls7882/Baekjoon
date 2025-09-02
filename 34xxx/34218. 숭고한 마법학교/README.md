@@ -1,4 +1,4 @@
-# [Gold V] 숭고한 마법학교
+# [Gold IV] 숭고한 마법학교
 
 [문제 링크](https://www.acmicpc.net/problem/34218) 
 
