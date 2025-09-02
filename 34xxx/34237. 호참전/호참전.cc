@@ -13,11 +13,10 @@ int main() {
 
     while(m--) {
         int g, a, b; cin >> g >> a >> b;
-        g -= a+b;
 
         int cnt=0;
         for(int i=0;i<n;i++) {
-            if(v[i].a>=a && v[i].b>=b && v[i].a-a + v[i].b-b<=g) cnt++;
+            if(v[i].a>=a && v[i].b>=b && v[i].a+v[i].b<=g) cnt++;
         }
         cout << cnt << '\n';
     }
