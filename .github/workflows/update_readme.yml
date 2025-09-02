@@ -28,6 +28,7 @@ jobs:
       - name: Push changes and commit
         continue-on-error: true
         run: |
+          git pull
           git config --global user.email "rlatjwls7882@gmail.com"
           git config --global user.name "rlatjwls7882"
           git commit -am "Update README.md"
