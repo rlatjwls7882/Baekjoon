@@ -1,4 +1,4 @@
-# [Bronze III] 숭고한에 어서오세요
+# [Bronze IV] 숭고한에 어서오세요
 
 [문제 링크](https://www.acmicpc.net/problem/34236) 
 
