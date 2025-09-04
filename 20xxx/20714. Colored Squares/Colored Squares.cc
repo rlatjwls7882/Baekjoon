@@ -11,7 +11,7 @@ int main() {
     int maxLen=0;
     int left=0, right=0;
     while(left<n || right<n) {
-        while(right<n && (right-left-cnt[s[left]]<k || right-left-cnt[s[left]]==k && s[left]==s[right])) {
+        while(right<n && (s[left]==s[right] || right-left-cnt[s[left]]<k)) {
             cnt[s[right++]]++;
             maxLen = max(maxLen, cnt[s[left]]);
         }
