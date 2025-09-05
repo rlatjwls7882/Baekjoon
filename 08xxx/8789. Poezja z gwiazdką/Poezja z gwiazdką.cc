@@ -53,7 +53,7 @@ int main() {
         for(int i=0;i<k;i++) cin >> b[i];
 
         vector<int> res(k);
-        int len=n/10+1;
+        int len=n/100+1;
         for(int idx=0;idx<n;idx+=len) {
             trie *root = new trie;
             for(int i=idx;i<min(idx+len, n);i++) {
