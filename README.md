@@ -3043,6 +3043,7 @@
 | [18436](https://boj.kr/18436) | 수열과 쿼리 37 | Gold 1 | [C++](./18xxx/18436. 수열과 쿼리 37/수열과 쿼리 37.cc) |
 | [18511](https://boj.kr/18511) | 큰 수 구성하기 | Silver 5 | [Java](./18xxx/18511. 큰 수 구성하기/큰 수 구성하기.java) |
 | [18512](https://boj.kr/18512) | 점프 점프 | Bronze 1 | [C++](./18xxx/18512. 점프 점프/점프 점프.cc) |
+| [18540](https://boj.kr/18540) | Scored Nim | Gold 2 | |
 | [18691](https://boj.kr/18691) | Pokemon Buddy | Bronze 4 | [Java](./18xxx/18691. Pokemon Buddy/Pokemon Buddy.java) |
 | [18698](https://boj.kr/18698) | The Walking Adam | Bronze 4 | [Java](./18xxx/18698. The Walking Adam/The Walking Adam.java) |
 | [18766](https://boj.kr/18766) | 카드 바꿔치기 | Bronze 1 | [Java](./18xxx/18766. 카드 바꿔치기/카드 바꿔치기.java) |
@@ -3943,6 +3944,7 @@
 | [27370](https://boj.kr/27370) | 친구와 배달하기 | Silver 3 | [C++](./27xxx/27370. 친구와 배달하기/친구와 배달하기.cc) |
 | [27372](https://boj.kr/27372) | 미니 빙고 | Gold 4 | [Python](./27xxx/27372. 미니 빙고/미니 빙고.py) |
 | [27375](https://boj.kr/27375) | 금공강 사수 | Silver 1 | [C++](./27xxx/27375. 금공강 사수/금공강 사수.cc) |
+| [27384](https://boj.kr/27384) | Beast Bullies | Gold 1 | |
 | [27386](https://boj.kr/27386) | Class Field Trip | Bronze 2 | [Java](./27xxx/27386. Class Field Trip/Class Field Trip.java) |
 | [27389](https://boj.kr/27389) | Metronome | Bronze 5 | [Java](./27xxx/27389. Metronome/Metronome.java) |
 | [27393](https://boj.kr/27393) | Smallest Calculated Value | Bronze 2 | [Java](./27xxx/27393. Smallest Calculated Value/Smallest Calculated Value.java) |
@@ -4701,7 +4703,7 @@
 | [34217](https://boj.kr/34217) | 찾아오시는 길 | Bronze 5 | [C++](./34xxx/34217. 찾아오시는 길/찾아오시는 길.cc) |
 | [34218](https://boj.kr/34218) | 숭고한 마법학교 | Gold 4 | [C++](./34xxx/34218. 숭고한 마법학교/숭고한 마법학교.cc) |
 | [34225](https://boj.kr/34225) | 현대모비스 부품 조립 | Silver 4 | [C++](./34xxx/34225. 현대모비스 부품 조립/현대모비스 부품 조립.cc) |
-| [34231](https://boj.kr/34231) | 네모난 순열 찾기 1 | Silver 5 | [C++](./34xxx/34231. 네모난 순열 찾기 1/네모난 순열 찾기 1.cc) |
+| [34231](https://boj.kr/34231) | 네모난 순열 찾기 1 | Silver 4 | [C++](./34xxx/34231. 네모난 순열 찾기 1/네모난 순열 찾기 1.cc) |
 | [34232](https://boj.kr/34232) | 네모난 순열 찾기 2 | Gold 5 | [C++](./34xxx/34232. 네모난 순열 찾기 2/네모난 순열 찾기 2.cc) |
 | [34236](https://boj.kr/34236) | 숭고한에 어서오세요 | Bronze 3 | [C++](./34xxx/34236. 숭고한에 어서오세요/숭고한에 어서오세요.cc) |
 | [34237](https://boj.kr/34237) | 호참전 | Bronze 2 | [C++](./34xxx/34237. 호참전/호참전.cc) |
