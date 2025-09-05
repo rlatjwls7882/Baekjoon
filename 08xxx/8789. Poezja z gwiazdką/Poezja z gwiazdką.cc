@@ -53,8 +53,8 @@ int main() {
         for(int i=0;i<k;i++) cin >> b[i];
 
         vector<int> res(k);
-        int idx=0, len=10000;
-        while(idx<n) {
+        int len=n/10+1;
+        for(int idx=0;idx<n;idx+=len) {
             trie *root = new trie;
             for(int i=idx;i<min(idx+len, n);i++) {
                 string s = a[i];
@@ -71,7 +71,6 @@ int main() {
                 for(string s : strings) root->insert(&s[0]);
             }
             for(int i=0;i<k;i++) res[i] += root->find(&b[i][0]);
-            idx += len;
             delete root;
         }
         for(int e : res) cout << e << '\n';
