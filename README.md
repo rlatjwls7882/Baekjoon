@@ -123,6 +123,7 @@
 | [01275](https://boj.kr/1275) | 커피숍2 | Gold 1 | [C++](./01xxx/1275. 커피숍2/커피숍2.cc) |
 | [01283](https://boj.kr/1283) | 단축키 지정 | Silver 1 | [C++](./01xxx/1283. 단축키 지정/단축키 지정.cc) |
 | [01284](https://boj.kr/1284) | 집 주소 | Bronze 3 | [Java](./01xxx/1284. 집 주소/집 주소.java) |
+| [01289](https://boj.kr/1289) | 트리의 가중치 | Platinum 3 | [C++](./01xxx/1289. 트리의 가중치/트리의 가중치.cc) |
 | [01292](https://boj.kr/1292) | 쉽게 푸는 문제 | Bronze 1 | [Java](./01xxx/1292. 쉽게 푸는 문제/쉽게 푸는 문제.java) |
 | [01296](https://boj.kr/1296) | 팀 이름 정하기 | Bronze 1 | [Java](./01xxx/1296. 팀 이름 정하기/팀 이름 정하기.java) |
 | [01297](https://boj.kr/1297) | TV 크기 | Bronze 2 | [Java](./01xxx/1297. TV 크기/TV 크기.java) |
@@ -1378,6 +1379,7 @@
 | [08246](https://boj.kr/8246) | Stół | Bronze 2 | [Java](./08xxx/8246. Stół/Stół.java) |
 | [08270](https://boj.kr/8270) | Tulips | Bronze 2 | [Java](./08xxx/8270. Tulips/Tulips.java) |
 | [08295](https://boj.kr/8295) | Rectangles | Bronze 2 | [Java](./08xxx/8295. Rectangles/Rectangles.java) |
+| [08314](https://boj.kr/8314) | Acyclic Decomposition | Platinum 5 | [C++](./08xxx/8314. Acyclic Decomposition/Acyclic Decomposition.cc) |
 | [08320](https://boj.kr/8320) | 직사각형을 만드는 방법 | Bronze 2 | [Java](./08xxx/8320. 직사각형을 만드는 방법/직사각형을 만드는 방법.java) |
 | [08370](https://boj.kr/8370) | Plane | Bronze 5 | [C](./08xxx/8370. Plane/Plane.c) |
 | [08371](https://boj.kr/8371) | Dyslexia | Bronze 3 | [Java](./08xxx/8371. Dyslexia/Dyslexia.java) |
@@ -1426,6 +1428,7 @@
 | [08741](https://boj.kr/8741) | 이진수 합 | Bronze 2 | [Java](./08xxx/8741. 이진수 합/이진수 합.java) |
 | [08760](https://boj.kr/8760) | Schronisko | Bronze 4 | [C](./08xxx/8760. Schronisko/Schronisko.c) |
 | [08772](https://boj.kr/8772) | Szyfr Cezara | Bronze 2 | [Java](./08xxx/8772. Szyfr Cezara/Szyfr Cezara.java) |
+| [08789](https://boj.kr/8789) | Poezja z gwiazdką | Platinum 4 | [C++](./08xxx/8789. Poezja z gwiazdką/Poezja z gwiazdką.cc) |
 | [08794](https://boj.kr/8794) | Poniedziałki | Bronze 3 | [Java](./08xxx/8794. Poniedziałki/Poniedziałki.java) |
 | [08806](https://boj.kr/8806) | Papier kamień nożyczki | Bronze 2 | [Java](./08xxx/8806. Papier kamień nożyczki/Papier kamień nożyczki.java) |
 | [08815](https://boj.kr/8815) | Test | Bronze 3 | [Java](./08xxx/8815. Test/Test.java) |
@@ -3043,7 +3046,7 @@
 | [18436](https://boj.kr/18436) | 수열과 쿼리 37 | Gold 1 | [C++](./18xxx/18436. 수열과 쿼리 37/수열과 쿼리 37.cc) |
 | [18511](https://boj.kr/18511) | 큰 수 구성하기 | Silver 5 | [Java](./18xxx/18511. 큰 수 구성하기/큰 수 구성하기.java) |
 | [18512](https://boj.kr/18512) | 점프 점프 | Bronze 1 | [C++](./18xxx/18512. 점프 점프/점프 점프.cc) |
-| [18540](https://boj.kr/18540) | Scored Nim | Gold 2 | |
+| [18540](https://boj.kr/18540) | Scored Nim | Gold 2 | [C++](./18xxx/18540. Scored Nim/Scored Nim.cc) |
 | [18691](https://boj.kr/18691) | Pokemon Buddy | Bronze 4 | [Java](./18xxx/18691. Pokemon Buddy/Pokemon Buddy.java) |
 | [18698](https://boj.kr/18698) | The Walking Adam | Bronze 4 | [Java](./18xxx/18698. The Walking Adam/The Walking Adam.java) |
 | [18766](https://boj.kr/18766) | 카드 바꿔치기 | Bronze 1 | [Java](./18xxx/18766. 카드 바꿔치기/카드 바꿔치기.java) |
@@ -3944,7 +3947,7 @@
 | [27370](https://boj.kr/27370) | 친구와 배달하기 | Silver 3 | [C++](./27xxx/27370. 친구와 배달하기/친구와 배달하기.cc) |
 | [27372](https://boj.kr/27372) | 미니 빙고 | Gold 4 | [Python](./27xxx/27372. 미니 빙고/미니 빙고.py) |
 | [27375](https://boj.kr/27375) | 금공강 사수 | Silver 1 | [C++](./27xxx/27375. 금공강 사수/금공강 사수.cc) |
-| [27384](https://boj.kr/27384) | Beast Bullies | Gold 1 | |
+| [27384](https://boj.kr/27384) | Beast Bullies | Gold 1 | [C++](./27xxx/27384. Beast Bullies/Beast Bullies.cc) |
 | [27386](https://boj.kr/27386) | Class Field Trip | Bronze 2 | [Java](./27xxx/27386. Class Field Trip/Class Field Trip.java) |
 | [27389](https://boj.kr/27389) | Metronome | Bronze 5 | [Java](./27xxx/27389. Metronome/Metronome.java) |
 | [27393](https://boj.kr/27393) | Smallest Calculated Value | Bronze 2 | [Java](./27xxx/27393. Smallest Calculated Value/Smallest Calculated Value.java) |
@@ -4702,7 +4705,7 @@
 | [34210](https://boj.kr/34210) | A + B Queries | Bronze 4 | [C++](./34xxx/34210. A ＋ B Queries/A ＋ B Queries.cc) |
 | [34217](https://boj.kr/34217) | 찾아오시는 길 | Bronze 5 | [C++](./34xxx/34217. 찾아오시는 길/찾아오시는 길.cc) |
 | [34218](https://boj.kr/34218) | 숭고한 마법학교 | Gold 4 | [C++](./34xxx/34218. 숭고한 마법학교/숭고한 마법학교.cc) |
-| [34225](https://boj.kr/34225) | 현대모비스 부품 조립 | Silver 4 | [C++](./34xxx/34225. 현대모비스 부품 조립/현대모비스 부품 조립.cc) |
+| [34225](https://boj.kr/34225) | 현대모비스 부품 조립 | Silver 3 | [C++](./34xxx/34225. 현대모비스 부품 조립/현대모비스 부품 조립.cc) |
 | [34231](https://boj.kr/34231) | 네모난 순열 찾기 1 | Silver 4 | [C++](./34xxx/34231. 네모난 순열 찾기 1/네모난 순열 찾기 1.cc) |
 | [34232](https://boj.kr/34232) | 네모난 순열 찾기 2 | Gold 5 | [C++](./34xxx/34232. 네모난 순열 찾기 2/네모난 순열 찾기 2.cc) |
 | [34236](https://boj.kr/34236) | 숭고한에 어서오세요 | Bronze 3 | [C++](./34xxx/34236. 숭고한에 어서오세요/숭고한에 어서오세요.cc) |
