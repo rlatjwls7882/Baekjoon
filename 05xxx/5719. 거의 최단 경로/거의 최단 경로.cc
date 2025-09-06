@@ -10,7 +10,7 @@ bool visited[MAX];
 struct edge {
     int u, v, c;
     bool operator==(const edge e) const {
-        return u==e.u && v==e.v && c==e.c;
+        return u==e.u && v==e.v;
     }
 };
 
