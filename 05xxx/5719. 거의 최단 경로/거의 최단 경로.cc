@@ -5,7 +5,6 @@ const int INF = 0x3f3f3f3f;
 const int MAX = 500;
 
 int n, m, s, d;
-int maxCost[MAX];
 bool visited[MAX];
 
 struct edge {
@@ -25,7 +24,7 @@ struct pos {
 };
 
 int dijkstra() {
-    fill(maxCost, maxCost+n, INF);
+    vector<int> maxCost(n, INF);
     prv = vector<vector<edge>>(n);
     priority_queue<pos> pq; pq.push({s, 0});
     maxCost[s]=0;
@@ -52,7 +51,10 @@ int dijkstra() {
         if(cur==s) continue;
         for(edge next:prv[cur]) {
             auto iter = find(conn[next.u].begin(), conn[next.u].end(), next);
-            if(iter!=conn[next.u].end()) conn[next.u].erase(iter);
+            if(iter!=conn[next.u].end()) {
+                swap(*iter, conn[next.u].back());
+                conn[next.u].pop_back();
+            }
             if(!visited[next.u]) {
                 visited[next.u]=true;
                 q.push(next.u);
