@@ -5,7 +5,6 @@ const int INF = 0x3f3f3f3f;
 const int MAX = 500;
 
 int n, m, s, d;
-bool visited[MAX];
 
 struct edge {
     int u, v, c;
@@ -33,11 +32,12 @@ int dijkstra() {
         if(maxCost[cur.idx] < cur.val || cur.idx==d) continue;
 
         for(edge &next:conn[cur.idx]) {
-            if(maxCost[next.v]>cur.val+next.c) {
-                maxCost[next.v] = cur.val+next.c;
+            int nextCost = cur.val+next.c;
+            if(maxCost[next.v]>nextCost) {
+                maxCost[next.v] = nextCost;
                 prv[next.v] = {next};
-                pq.push({next.v, maxCost[next.v]});
-            } else if(maxCost[next.v]==cur.val+next.c) {
+                pq.push({next.v, nextCost});
+            } else if(maxCost[next.v]==nextCost) {
                 prv[next.v].push_back(next);
             }
         }
@@ -67,7 +67,6 @@ int main() {
         cin >> n >> m >> s >> d;
         if(!n) break;
         conn = vector<vector<edge>>(n);
-        memset(visited, 0, sizeof visited);
         while(m--) {
             int u, v, c; cin >> u >> v >> c;
             conn[u].push_back({u, v, c});
