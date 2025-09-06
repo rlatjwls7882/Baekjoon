@@ -49,12 +49,9 @@ int dijkstra() {
     while(!q.empty()) {
         int cur = q.front(); q.pop();
         if(cur==s) continue;
+        prv[cur].erase(unique(prv[cur].begin(), prv[cur].end()), prv[cur].end());
         for(edge next:prv[cur]) {
-            auto iter = find(conn[next.u].begin(), conn[next.u].end(), next);
-            if(iter!=conn[next.u].end()) {
-                swap(*iter, conn[next.u].back());
-                conn[next.u].pop_back();
-            }
+            conn[next.u].erase(find(conn[next.u].begin(), conn[next.u].end(), next));
             if(!visited[next.u]) {
                 visited[next.u]=true;
                 q.push(next.u);
