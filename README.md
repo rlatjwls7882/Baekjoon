@@ -1153,6 +1153,7 @@
 | [05704](https://boj.kr/5704) | 팬그램 | Bronze 2 | [Java](./05xxx/5704. 팬그램/팬그램.java) |
 | [05715](https://boj.kr/5715) | Jingle Composing | Bronze 2 | [Java](./05xxx/5715. Jingle Composing/Jingle Composing.java) |
 | [05717](https://boj.kr/5717) | 상근이의 친구들 | Bronze 5 | [C](./05xxx/5717. 상근이의 친구들/상근이의 친구들.c) |
+| [05719](https://boj.kr/5719) | 거의 최단 경로 | Platinum 5 | [C++](./05xxx/5719. 거의 최단 경로/거의 최단 경로.cc) |
 | [05724](https://boj.kr/5724) | 파인만 | Bronze 3 | [Java](./05xxx/5724. 파인만/파인만.java) |
 | [05735](https://boj.kr/5735) | Emoticons :-) | Platinum 2 | [C++](./05xxx/5735. Emoticons ：－）/Emoticons ：－）.cc) |
 | [05751](https://boj.kr/5751) | Head or Tail | Bronze 3 | [Java](./05xxx/5751. Head or Tail/Head or Tail.java) |
@@ -2210,6 +2211,7 @@
 | [13525](https://boj.kr/13525) | Fridge | Silver 5 | [C++](./13xxx/13525. Fridge/Fridge.cc) |
 | [13528](https://boj.kr/13528) | Grass Seed Inc. | Bronze 3 | [Java](./13xxx/13528. Grass Seed Inc．/Grass Seed Inc．.java) |
 | [13532](https://boj.kr/13532) | 악마의 수열 | Gold 2 | [C++](./13xxx/13532. 악마의 수열/악마의 수열.cc) |
+| [13537](https://boj.kr/13537) | 수열과 쿼리 1 | Platinum 3 | [C++](./13xxx/13537. 수열과 쿼리 1/수열과 쿼리 1.cc) |
 | [13544](https://boj.kr/13544) | 수열과 쿼리 3 | Platinum 3 | [C++](./13xxx/13544. 수열과 쿼리 3/수열과 쿼리 3.cc) |
 | [13545](https://boj.kr/13545) | 수열과 쿼리 0 | Diamond 4 | [C++](./13xxx/13545. 수열과 쿼리 0/수열과 쿼리 0.cc) |
 | [13546](https://boj.kr/13546) | 수열과 쿼리 4 | Diamond 4 | [C++](./13xxx/13546. 수열과 쿼리 4/수열과 쿼리 4.cc) |
@@ -2542,6 +2544,7 @@
 | [15612](https://boj.kr/15612) | Cube Bits | Bronze 2 | [Java](./15xxx/15612. Cube Bits/Cube Bits.java) |
 | [15624](https://boj.kr/15624) | 피보나치 수 7 | Silver 4 | [Java](./15xxx/15624. 피보나치 수 7/피보나치 수 7.java) |
 | [15633](https://boj.kr/15633) | Fan Death | Bronze 3 | [Java](./15xxx/15633. Fan Death/Fan Death.java) |
+| [15638](https://boj.kr/15638) | No Description | Unrated | [C++](./15xxx/15638. No Description/No Description.cc) |
 | [15645](https://boj.kr/15645) | 내려가기 2 | Silver 1 | [C++](./15xxx/15645. 내려가기 2/내려가기 2.cc) |
 | [15649](https://boj.kr/15649) | N과 M (1) | Silver 3 | [C++](./15xxx/15649. N과 M （1）/N과 M （1）.cc) [Java](./15xxx/15649. N과 M （1）/N과 M （1）.java) |
 | [15650](https://boj.kr/15650) | N과 M (2) | Silver 3 | [Java](./15xxx/15650. N과 M （2）/N과 M （2）.java) |
@@ -4054,6 +4057,7 @@
 | [28278](https://boj.kr/28278) | 스택 2 | Silver 4 | [Java](./28xxx/28278. 스택 2/스택 2.java) |
 | [28279](https://boj.kr/28279) | 덱 2 | Silver 4 | [Java](./28xxx/28279. 덱 2/덱 2.java) |
 | [28281](https://boj.kr/28281) | 선물 | Bronze 4 | [Java](./28xxx/28281. 선물/선물.java) |
+| [28282](https://boj.kr/28282) | 운명 | Silver 5 | [C++](./28xxx/28282. 운명/운명.cc) |
 | [28286](https://boj.kr/28286) | 재채점을 기다리는 중 | Silver 2 | [C++](./28xxx/28286. 재채점을 기다리는 중/재채점을 기다리는 중.cc) |
 | [28288](https://boj.kr/28288) | Special Event | Bronze 3 | [Java](./28xxx/28288. Special Event/Special Event.java) |
 | [28289](https://boj.kr/28289) | 과 조사하기 | Bronze 3 | [Java](./28xxx/28289. 과 조사하기/과 조사하기.java) |
