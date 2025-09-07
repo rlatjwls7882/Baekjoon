@@ -3,7 +3,7 @@ using namespace std;
 
 const int MAX = 10'001;
 
-int minCost[MAX], inDegree[MAX], visited[MAX];
+int maxCost[MAX], inDegree[MAX], visited[MAX];
 
 struct edge {
     int u, v, c, idx;
@@ -27,11 +27,11 @@ int main() {
     while(!q.empty()) {
         int cur = q.front(); q.pop();
         for(auto next : conn[cur]) {
-            int nextCost = minCost[cur]+next.c;
-            if(minCost[next.v] < nextCost) {
-                minCost[next.v] = nextCost;
+            int nextCost = maxCost[cur]+next.c;
+            if(maxCost[next.v] < nextCost) {
+                maxCost[next.v] = nextCost;
                 prv[next.v] = {next};
-            } else if(minCost[next.v] == nextCost) {
+            } else if(maxCost[next.v] == nextCost) {
                 prv[next.v].push_back(next);
             }
             if(--inDegree[next.v]==0) q.push(next.v);
@@ -50,5 +50,5 @@ int main() {
             }
         }
     }
-    cout << minCost[e] << '\n' << cnt;
+    cout << maxCost[e] << '\n' << cnt;
 }
