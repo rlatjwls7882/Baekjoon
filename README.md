@@ -24,7 +24,7 @@
 | [01014](https://boj.kr/1014) | 컨닝 | Platinum 4 | [C++](./01xxx/1014. 컨닝/컨닝.cc) |
 | [01015](https://boj.kr/1015) | 수열 정렬 | Silver 4 | [C++](./01xxx/1015. 수열 정렬/수열 정렬.cc) |
 | [01017](https://boj.kr/1017) | 소수 쌍 | Platinum 3 | [C++](./01xxx/1017. 소수 쌍/소수 쌍.cc) |
-| [01018](https://boj.kr/1018) | 체스판 다시 칠하기 | Silver 4 | [Java](./01xxx/1018. 체스판 다시 칠하기/체스판 다시 칠하기.java) |
+| [01018](https://boj.kr/1018) | 체스판 다시 칠하기 | Silver 3 | [Java](./01xxx/1018. 체스판 다시 칠하기/체스판 다시 칠하기.java) |
 | [01019](https://boj.kr/1019) | 책 페이지 | Platinum 5 | [C++](./01xxx/1019. 책 페이지/책 페이지.cc) |
 | [01021](https://boj.kr/1021) | 회전하는 큐 | Silver 3 | [Java](./01xxx/1021. 회전하는 큐/회전하는 큐.java) |
 | [01024](https://boj.kr/1024) | 수열의 합 | Silver 2 | [C++](./01xxx/1024. 수열의 합/수열의 합.cc) |
@@ -374,6 +374,7 @@
 | [01945](https://boj.kr/1945) | 직사각형 | Gold 2 | [C++](./01xxx/1945. 직사각형/직사각형.cc) |
 | [01946](https://boj.kr/1946) | 신입 사원 | Silver 1 | [C++](./01xxx/1946. 신입 사원/신입 사원.cc) |
 | [01947](https://boj.kr/1947) | 선물 전달 | Gold 3 | [C++](./01xxx/1947. 선물 전달/선물 전달.cc) |
+| [01948](https://boj.kr/1948) | 임계경로 | Platinum 5 | [C++](./01xxx/1948. 임계경로/임계경로.cc) |
 | [01949](https://boj.kr/1949) | 우수 마을 | Gold 2 | [C++](./01xxx/1949. 우수 마을/우수 마을.cc) |
 | [01952](https://boj.kr/1952) | 달팽이2 | Bronze 1 | [Java](./01xxx/1952. 달팽이2/달팽이2.java) |
 | [01956](https://boj.kr/1956) | 운동 | Gold 4 | [Java](./01xxx/1956. 운동/운동.java) |
@@ -598,7 +599,7 @@
 | [02558](https://boj.kr/2558) | A+B - 2 | Bronze 5 | [C](./02xxx/2558. A＋B － 2/A＋B － 2.c) |
 | [02559](https://boj.kr/2559) | 수열 | Silver 3 | [Java](./02xxx/2559. 수열/수열.java) |
 | [02562](https://boj.kr/2562) | 최댓값 | Bronze 3 | [C](./02xxx/2562. 최댓값/최댓값.c) |
-| [02563](https://boj.kr/2563) | 색종이 | Silver 5 | [Java](./02xxx/2563. 색종이/색종이.java) |
+| [02563](https://boj.kr/2563) | 색종이 | Silver 5 | [C++](./02xxx/2563. 색종이/색종이.cc) [Java](./02xxx/2563. 색종이/색종이.java) |
 | [02564](https://boj.kr/2564) | 경비원 | Silver 1 | [C++](./02xxx/2564. 경비원/경비원.cc) |
 | [02565](https://boj.kr/2565) | 전깃줄 | Gold 5 | [C++](./02xxx/2565. 전깃줄/전깃줄.cc) |
 | [02566](https://boj.kr/2566) | 최댓값 | Bronze 3 | [Java](./02xxx/2566. 최댓값/최댓값.java) |
@@ -1345,6 +1346,7 @@
 | [07571](https://boj.kr/7571) | 점 모으기 | Gold 5 | [C++](./07xxx/7571. 점 모으기/점 모으기.cc) |
 | [07572](https://boj.kr/7572) | 간지(干支) | Bronze 2 | [Java](./07xxx/7572. 간지（干支）/간지（干支）.java) |
 | [07576](https://boj.kr/7576) | 토마토 | Gold 5 | [Java](./07xxx/7576. 토마토/토마토.java) |
+| [07578](https://boj.kr/7578) | 공장 | Platinum 5 | [C++](./07xxx/7578. 공장/공장.cc) |
 | [07579](https://boj.kr/7579) | 앱 | Gold 3 | [C++](./07xxx/7579. 앱/앱.cc) |
 | [07581](https://boj.kr/7581) | Cuboids | Bronze 3 | [Java](./07xxx/7581. Cuboids/Cuboids.java) |
 | [07582](https://boj.kr/7582) | On the Bus | Bronze 2 | [Java](./07xxx/7582. On the Bus/On the Bus.java) |
@@ -1732,7 +1734,7 @@
 | [10757](https://boj.kr/10757) | 큰 수 A+B | Bronze 5 | [Java](./10xxx/10757. 큰 수 A＋B/큰 수 A＋B.java) |
 | [10768](https://boj.kr/10768) | 특별한 날 | Bronze 4 | [C](./10xxx/10768. 특별한 날/특별한 날.c) |
 | [10769](https://boj.kr/10769) | 행복한지 슬픈지 | Bronze 1 | [Java](./10xxx/10769. 행복한지 슬픈지/행복한지 슬픈지.java) |
-| [10773](https://boj.kr/10773) | 제로 | Silver 4 | [Java](./10xxx/10773. 제로/제로.java) |
+| [10773](https://boj.kr/10773) | 제로 | Silver 4 | [C++](./10xxx/10773. 제로/제로.cc) [Java](./10xxx/10773. 제로/제로.java) |
 | [10775](https://boj.kr/10775) | 공항 | Gold 2 | [C++](./10xxx/10775. 공항/공항.cc) |
 | [10797](https://boj.kr/10797) | 10부제 | Bronze 4 | [C](./10xxx/10797. 10부제/10부제.c) |
 | [10798](https://boj.kr/10798) | 세로읽기 | Bronze 1 | [Java](./10xxx/10798. 세로읽기/세로읽기.java) |
@@ -1769,7 +1771,7 @@
 | [10837](https://boj.kr/10837) | 동전 게임 | Silver 3 | [C++](./10xxx/10837. 동전 게임/동전 게임.cc) |
 | [10840](https://boj.kr/10840) | 구간 성분 | Gold 1 | [C++](./10xxx/10840. 구간 성분/구간 성분.cc) |
 | [10844](https://boj.kr/10844) | 쉬운 계단 수 | Silver 1 | [Java](./10xxx/10844. 쉬운 계단 수/쉬운 계단 수.java) |
-| [10845](https://boj.kr/10845) | 큐 | Silver 4 | [Java](./10xxx/10845. 큐/큐.java) |
+| [10845](https://boj.kr/10845) | 큐 | Silver 4 | [C++](./10xxx/10845. 큐/큐.cc) [Java](./10xxx/10845. 큐/큐.java) |
 | [10855](https://boj.kr/10855) | Extreme Sort | Bronze 2 | [Java](./10xxx/10855. Extreme Sort/Extreme Sort.java) |
 | [10859](https://boj.kr/10859) | 뒤집어진 소수 | Silver 2 | [C++](./10xxx/10859. 뒤집어진 소수/뒤집어진 소수.cc) |
 | [10864](https://boj.kr/10864) | 친구 | Bronze 2 | [Java](./10xxx/10864. 친구/친구.java) |
@@ -4712,7 +4714,7 @@
 | [34225](https://boj.kr/34225) | 현대모비스 부품 조립 | Silver 3 | [C++](./34xxx/34225. 현대모비스 부품 조립/현대모비스 부품 조립.cc) |
 | [34231](https://boj.kr/34231) | 네모난 순열 찾기 1 | Silver 4 | [C++](./34xxx/34231. 네모난 순열 찾기 1/네모난 순열 찾기 1.cc) |
 | [34232](https://boj.kr/34232) | 네모난 순열 찾기 2 | Gold 5 | [C++](./34xxx/34232. 네모난 순열 찾기 2/네모난 순열 찾기 2.cc) |
-| [34236](https://boj.kr/34236) | 숭고한에 어서오세요 | Bronze 3 | [C++](./34xxx/34236. 숭고한에 어서오세요/숭고한에 어서오세요.cc) |
+| [34236](https://boj.kr/34236) | 숭고한에 어서오세요 | Bronze 4 | [C++](./34xxx/34236. 숭고한에 어서오세요/숭고한에 어서오세요.cc) |
 | [34237](https://boj.kr/34237) | 호참전 | Bronze 2 | [C++](./34xxx/34237. 호참전/호참전.cc) |
 | [34238](https://boj.kr/34238) | Find the Fox | Silver 5 | [C++](./34xxx/34238. Find the Fox/Find the Fox.cc) |
 </div>
