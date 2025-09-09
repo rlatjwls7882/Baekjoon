@@ -493,7 +493,7 @@
 | [02293](https://boj.kr/2293) | 동전 1 | Gold 4 | [C++](./02xxx/2293. 동전 1/동전 1.cc) |
 | [02294](https://boj.kr/2294) | 동전 2 | Gold 5 | [C++](./02xxx/2294. 동전 2/동전 2.cc) |
 | [02295](https://boj.kr/2295) | 세 수의 합 | Gold 4 | [C++](./02xxx/2295. 세 수의 합/세 수의 합.cc) |
-| [02302](https://boj.kr/2302) | 극장 좌석 | Silver 1 | [C++](./02xxx/2302. 극장 좌석/극장 좌석.cc) |
+| [02302](https://boj.kr/2302) | 극장 좌석 | Gold 5 | [C++](./02xxx/2302. 극장 좌석/극장 좌석.cc) |
 | [02303](https://boj.kr/2303) | 숫자 게임 | Silver 5 | [Java](./02xxx/2303. 숫자 게임/숫자 게임.java) |
 | [02304](https://boj.kr/2304) | 창고 다각형 | Silver 1 | [C++](./02xxx/2304. 창고 다각형/창고 다각형.cc) |
 | [02307](https://boj.kr/2307) | 도로검문 | Gold 1 | [C++](./02xxx/2307. 도로검문/도로검문.cc) |
@@ -3527,7 +3527,7 @@
 | [24294](https://boj.kr/24294) | ГРАДИНА | Bronze 4 | [Java](./24xxx/24294. ГРАДИНА/ГРАДИНА.java) |
 | [24296](https://boj.kr/24296) | ЛИНИЯ | Bronze 3 | [Java](./24xxx/24296. ЛИНИЯ/ЛИНИЯ.java) |
 | [24302](https://boj.kr/24302) | КУРИЕРИ | Bronze 3 | [Java](./24xxx/24302. КУРИЕРИ/КУРИЕРИ.java) |
-| [24303](https://boj.kr/24303) | ПРЪЧКИ | Bronze 3 | [Java](./24xxx/24303. ПРЪЧКИ/ПРЪЧКИ.java) |
+| [24303](https://boj.kr/24303) | ПРЪЧКИ | Bronze 2 | [Java](./24xxx/24303. ПРЪЧКИ/ПРЪЧКИ.java) |
 | [24309](https://boj.kr/24309) | РАВЕНСТВО | Bronze 5 | [Java](./24xxx/24309. РАВЕНСТВО/РАВЕНСТВО.java) |
 | [24310](https://boj.kr/24310) | БОЯДИСВАНЕ НА ОГРАДА | Bronze 2 | [Java](./24xxx/24310. БОЯДИСВАНЕ НА ОГРАДА/БОЯДИСВАНЕ НА ОГРАДА.java) |
 | [24311](https://boj.kr/24311) | ПЪТУВАНЕ | Bronze 3 | [Java](./24xxx/24311. ПЪТУВАНЕ/ПЪТУВАНЕ.java) |
@@ -4717,4 +4717,5 @@
 | [34236](https://boj.kr/34236) | 숭고한에 어서오세요 | Bronze 4 | [C++](./34xxx/34236. 숭고한에 어서오세요/숭고한에 어서오세요.cc) |
 | [34237](https://boj.kr/34237) | 호참전 | Bronze 2 | [C++](./34xxx/34237. 호참전/호참전.cc) |
 | [34238](https://boj.kr/34238) | Find the Fox | Silver 5 | [C++](./34xxx/34238. Find the Fox/Find the Fox.cc) |
+| [34281](https://boj.kr/34281) | Class Photo | Bronze 5 | [C++](./34xxx/34281. Class Photo/Class Photo.cc) |
 </div>
