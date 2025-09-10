@@ -4717,5 +4717,6 @@
 | [34236](https://boj.kr/34236) | 숭고한에 어서오세요 | Bronze 4 | [C++](./34xxx/34236. 숭고한에 어서오세요/숭고한에 어서오세요.cc) |
 | [34237](https://boj.kr/34237) | 호참전 | Bronze 2 | [C++](./34xxx/34237. 호참전/호참전.cc) |
 | [34238](https://boj.kr/34238) | Find the Fox | Silver 5 | [C++](./34xxx/34238. Find the Fox/Find the Fox.cc) |
+| [34242](https://boj.kr/34242) | 힝스티비 | Gold 5 | [C++](./34xxx/34242. 힝스티비/힝스티비.cc) |
 | [34281](https://boj.kr/34281) | Class Photo | Bronze 5 | [C++](./34xxx/34281. Class Photo/Class Photo.cc) |
 </div>
