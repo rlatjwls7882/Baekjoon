@@ -1979,7 +1979,7 @@
 | [11663](https://boj.kr/11663) | 선분 위의 점 | Silver 3 | [C++](./11xxx/11663. 선분 위의 점/선분 위의 점.cc) |
 | [11665](https://boj.kr/11665) | 직육면체 교집합 | Silver 5 | [Java](./11xxx/11665. 직육면체 교집합/직육면체 교집합.java) |
 | [11680](https://boj.kr/11680) | Dice Cup | Bronze 2 | [Java](./11xxx/11680. Dice Cup/Dice Cup.java) |
-| [11688](https://boj.kr/11688) | 최소공배수 찾기 | Gold 4 | [C++](./11xxx/11688. 최소공배수 찾기/최소공배수 찾기.cc) |
+| [11688](https://boj.kr/11688) | 최소공배수 찾기 | Gold 5 | [C++](./11xxx/11688. 최소공배수 찾기/최소공배수 찾기.cc) |
 | [11689](https://boj.kr/11689) | GCD(n, k) = 1 | Gold 1 | [C++](./11xxx/11689. GCD（n， k） ＝ 1/GCD（n， k） ＝ 1.cc) |
 | [11690](https://boj.kr/11690) | LCM(1, 2, ..., n) | Gold 3 | [C++](./11xxx/11690. LCM（1， 2， ．．．， n）/LCM（1， 2， ．．．， n）.cc) |
 | [11718](https://boj.kr/11718) | 그대로 출력하기 | Bronze 3 | [C](./11xxx/11718. 그대로 출력하기/그대로 출력하기.c) |
@@ -2063,6 +2063,7 @@
 | [12524](https://boj.kr/12524) | Twibet (Large) | Silver 2 | [Java](./12xxx/12524. Twibet （Large）/Twibet （Large）.java) |
 | [12571](https://boj.kr/12571) | Rope Intranet (Small) | Bronze 3 | [Java](./12xxx/12571. Rope Intranet （Small）/Rope Intranet （Small）.java) |
 | [12572](https://boj.kr/12572) | Rope Intranet (Large) | Bronze 2 | [Java](./12xxx/12572. Rope Intranet （Large）/Rope Intranet （Large）.java) |
+| [12593](https://boj.kr/12593) | Theme Park (Small) | Silver 1 | [C++](./12xxx/12593. Theme Park （Small）/Theme Park （Small）.cc) |
 | [12595](https://boj.kr/12595) | Odd Man Out (Small) | Bronze 1 | [Java](./12xxx/12595. Odd Man Out （Small）/Odd Man Out （Small）.java) |
 | [12596](https://boj.kr/12596) | Odd Man Out (Large) | Silver 5 | [Java](./12xxx/12596. Odd Man Out （Large）/Odd Man Out （Large）.java) |
 | [12603](https://boj.kr/12603) | Store Credit (Small) | Bronze 2 | [Java](./12xxx/12603. Store Credit （Small）/Store Credit （Small）.java) |
@@ -4719,4 +4720,5 @@
 | [34238](https://boj.kr/34238) | Find the Fox | Silver 5 | [C++](./34xxx/34238. Find the Fox/Find the Fox.cc) |
 | [34242](https://boj.kr/34242) | 힝스티비 | Gold 5 | [C++](./34xxx/34242. 힝스티비/힝스티비.cc) |
 | [34281](https://boj.kr/34281) | Class Photo | Bronze 5 | [C++](./34xxx/34281. Class Photo/Class Photo.cc) |
+| [34306](https://boj.kr/34306) | M-Climb Road | Bronze 4 | [C++](./34xxx/34306. M－Climb Road/M－Climb Road.cc) |
 </div>
