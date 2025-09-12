@@ -495,7 +495,7 @@
 | [02295](https://boj.kr/2295) | 세 수의 합 | Gold 4 | [C++](./02xxx/2295. 세 수의 합/세 수의 합.cc) |
 | [02302](https://boj.kr/2302) | 극장 좌석 | Gold 5 | [C++](./02xxx/2302. 극장 좌석/극장 좌석.cc) |
 | [02303](https://boj.kr/2303) | 숫자 게임 | Silver 5 | [Java](./02xxx/2303. 숫자 게임/숫자 게임.java) |
-| [02304](https://boj.kr/2304) | 창고 다각형 | Silver 1 | [C++](./02xxx/2304. 창고 다각형/창고 다각형.cc) |
+| [02304](https://boj.kr/2304) | 창고 다각형 | Silver 2 | [C++](./02xxx/2304. 창고 다각형/창고 다각형.cc) |
 | [02307](https://boj.kr/2307) | 도로검문 | Gold 1 | [C++](./02xxx/2307. 도로검문/도로검문.cc) |
 | [02309](https://boj.kr/2309) | 일곱 난쟁이 | Bronze 1 | [Java](./02xxx/2309. 일곱 난쟁이/일곱 난쟁이.java) |
 | [02312](https://boj.kr/2312) | 수 복원하기 | Silver 3 | [C++](./02xxx/2312. 수 복원하기/수 복원하기.cc) |
@@ -2007,6 +2007,8 @@
 | [11816](https://boj.kr/11816) | 8진수, 10진수, 16진수 | Bronze 2 | [Java](./11xxx/11816. 8진수， 10진수， 16진수/8진수， 10진수， 16진수.java) |
 | [11822](https://boj.kr/11822) | Document | Bronze 1 | [C++](./11xxx/11822. Document/Document.cc) |
 | [11866](https://boj.kr/11866) | 요세푸스 문제 0 | Silver 4 | [Java](./11xxx/11866. 요세푸스 문제 0/요세푸스 문제 0.java) |
+| [11868](https://boj.kr/11868) | 님 게임 2 | Platinum 4 | [C++](./11xxx/11868. 님 게임 2/님 게임 2.cc) |
+| [11869](https://boj.kr/11869) | 님블 | Platinum 4 | [C++](./11xxx/11869. 님블/님블.cc) |
 | [11874](https://boj.kr/11874) | ZAMKA | Bronze 3 | [Java](./11xxx/11874. ZAMKA/ZAMKA.java) |
 | [11880](https://boj.kr/11880) | 개미 | Bronze 2 | [Java](./11xxx/11880. 개미/개미.java) |
 | [11881](https://boj.kr/11881) | 지우개 | Gold 3 | [C++](./11xxx/11881. 지우개/지우개.cc) |
@@ -4628,7 +4630,7 @@
 | [33179](https://boj.kr/33179) | Hezardastan’s Annual Report | Bronze 4 | [C++](./33xxx/33179. Hezardastan’s Annual Report/Hezardastan’s Annual Report.cc) |
 | [33191](https://boj.kr/33191) | Yalda | Bronze 4 | [C++](./33xxx/33191. Yalda/Yalda.cc) |
 | [33192](https://boj.kr/33192) | Divar’s Salaries | Bronze 3 | [C++](./33xxx/33192. Divar’s Salaries/Divar’s Salaries.cc) |
-| [33213](https://boj.kr/33213) | Fermatovi Fakini | Bronze 3 | [C++](./33xxx/33213. Fermatovi Fakini/Fermatovi Fakini.cc) |
+| [33213](https://boj.kr/33213) | Fermatovi Fakini | Bronze 2 | [C++](./33xxx/33213. Fermatovi Fakini/Fermatovi Fakini.cc) |
 | [33243](https://boj.kr/33243) | Family Tree | Silver 1 | [C++](./33xxx/33243. Family Tree/Family Tree.cc) |
 | [33249](https://boj.kr/33249) | Circus Tent | Bronze 3 | [C++](./33xxx/33249. Circus Tent/Circus Tent.cc) |
 | [33253](https://boj.kr/33253) | Game Night | Bronze 2 | [C++](./33xxx/33253. Game Night/Game Night.cc) |
