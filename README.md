@@ -204,6 +204,7 @@
 | [01461](https://boj.kr/1461) | 도서관 | Gold 4 | [C++](./01xxx/1461. 도서관/도서관.cc) |
 | [01463](https://boj.kr/1463) | 1로 만들기 | Silver 3 | [Java](./01xxx/1463. 1로 만들기/1로 만들기.java) |
 | [01471](https://boj.kr/1471) | 사탕 돌리기 | Platinum 5 | [C++](./01xxx/1471. 사탕 돌리기/사탕 돌리기.cc) |
+| [01474](https://boj.kr/1474) | 밑 줄 | Silver 1 | [C++](./01xxx/1474. 밑 줄/밑 줄.cc) |
 | [01475](https://boj.kr/1475) | 방 번호 | Silver 5 | [Java](./01xxx/1475. 방 번호/방 번호.java) |
 | [01476](https://boj.kr/1476) | 날짜 계산 | Silver 5 | [Java](./01xxx/1476. 날짜 계산/날짜 계산.java) |
 | [01484](https://boj.kr/1484) | 다이어트 | Gold 5 | [C++](./01xxx/1484. 다이어트/다이어트.cc) |
@@ -879,7 +880,7 @@
 | [03758](https://boj.kr/3758) | KCPC | Silver 2 | [C++](./03xxx/3758. KCPC/KCPC.cc) |
 | [03765](https://boj.kr/3765) | Celebrity jeopardy | Bronze 4 | [Java](./03xxx/3765. Celebrity jeopardy/Celebrity jeopardy.java) |
 | [03778](https://boj.kr/3778) | 애너그램 거리 | Bronze 2 | [Java](./03xxx/3778. 애너그램 거리/애너그램 거리.java) |
-| [03783](https://boj.kr/3783) | 세제곱근 | Gold 2 | [Java](./03xxx/3783. 세제곱근/세제곱근.java) |
+| [03783](https://boj.kr/3783) | 세제곱근 | Gold 1 | [Java](./03xxx/3783. 세제곱근/세제곱근.java) |
 | [03787](https://boj.kr/3787) | Count on Canton | Silver 5 | [Java](./03xxx/3787. Count on Canton/Count on Canton.java) |
 | [03803](https://boj.kr/3803) | Networking | Gold 4 | [Java](./03xxx/3803. Networking/Networking.java) |
 | [03826](https://boj.kr/3826) | 스타일리시 | Gold 5 | [C++](./03xxx/3826. 스타일리시/스타일리시.cc) |
@@ -4722,5 +4723,6 @@
 | [34238](https://boj.kr/34238) | Find the Fox | Silver 5 | [C++](./34xxx/34238. Find the Fox/Find the Fox.cc) |
 | [34242](https://boj.kr/34242) | 힝스티비 | Gold 5 | [C++](./34xxx/34242. 힝스티비/힝스티비.cc) |
 | [34281](https://boj.kr/34281) | Class Photo | Bronze 5 | [C++](./34xxx/34281. Class Photo/Class Photo.cc) |
+| [34297](https://boj.kr/34297) | Parking Pandemonium | Bronze 5 | [C++](./34xxx/34297. Parking Pandemonium/Parking Pandemonium.cc) |
 | [34306](https://boj.kr/34306) | M-Climb Road | Bronze 4 | [C++](./34xxx/34306. M－Climb Road/M－Climb Road.cc) |
 </div>
