@@ -7,36 +7,25 @@ import java.util.StringTokenizer;
 
 public class Main {
 	static BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-	static BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
-	
+	static BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));	
 	public static void main(String[] args) throws IOException {
 		
 		StringTokenizer st = new StringTokenizer(br.readLine());
-		long A = Long.valueOf(st.nextToken());
-		long B = Long.valueOf(st.nextToken());
-		long C = Long.valueOf(st.nextToken());
+		long a = Long.valueOf(st.nextToken());
+		long b = Long.valueOf(st.nextToken());
+		long c = Long.valueOf(st.nextToken());
 		
-		// A를 B번 곱한 수를 C로 나눈 나머지 계산
-		bw.write(Long.toString(multiple(A, B, C)));
+		bw.write(Long.toString(pow(a, b, c)));
 		
-		bw.close();
-	} // end of main()
+        bw.close();
+    } // end of main
 	
-	// A^B%C
-	static long multiple(long A, long B, long C) {
+	static long pow(long a, long b, long c) {
+		if(b==0) return 1;
+		if(b==1) return a%c;
 		
-		if(B==0) {
-			return 1L;
-		} else if(B==1) {
-			return A%C;
-		}
-		
-		long key = multiple(A, B/2, C);
-		if(B%2==0) {
-			return key*key%C;
-		} else {
-			return (key*key%C*A)%C;
-		}
-		
-	} // end of multiple()
-} // end of Main class
+		long tmp = pow(a, b/2, c);
+		if(b%2==1) return tmp*tmp%c*a%c;
+		return tmp*tmp%c;
+	} // end of pow
+} // end of Main
