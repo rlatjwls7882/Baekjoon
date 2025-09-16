@@ -250,7 +250,7 @@
 | [01600](https://boj.kr/1600) | 말이 되고픈 원숭이 | Gold 3 | [C++](./01xxx/1600. 말이 되고픈 원숭이/말이 되고픈 원숭이.cc) |
 | [01614](https://boj.kr/1614) | 영식이의 손가락 | Silver 3 | [C++](./01xxx/1614. 영식이의 손가락/영식이의 손가락.cc) |
 | [01620](https://boj.kr/1620) | 나는야 포켓몬 마스터 이다솜 | Silver 4 | [Java](./01xxx/1620. 나는야 포켓몬 마스터 이다솜/나는야 포켓몬 마스터 이다솜.java) |
-| [01629](https://boj.kr/1629) | 곱셈 | Silver 1 | [Java](./01xxx/1629. 곱셈/곱셈.java) |
+| [01629](https://boj.kr/1629) | 곱셈 | Silver 1 | [C++](./01xxx/1629. 곱셈/곱셈.cc) [Java](./01xxx/1629. 곱셈/곱셈.java) |
 | [01636](https://boj.kr/1636) | 한번 열면 멈출 수 없어 | Gold 4 | [C++](./01xxx/1636. 한번 열면 멈출 수 없어/한번 열면 멈출 수 없어.cc) |
 | [01644](https://boj.kr/1644) | 소수의 연속합 | Gold 3 | [Java](./01xxx/1644. 소수의 연속합/소수의 연속합.java) |
 | [01647](https://boj.kr/1647) | 도시 분할 계획 | Gold 4 | [Java](./01xxx/1647. 도시 분할 계획/도시 분할 계획.java) |
@@ -779,7 +779,7 @@
 | [03004](https://boj.kr/3004) | 체스판 조각 | Bronze 3 | [Java](./03xxx/3004. 체스판 조각/체스판 조각.java) |
 | [03009](https://boj.kr/3009) | 네 번째 점 | Bronze 3 | [Java](./03xxx/3009. 네 번째 점/네 번째 점.java) |
 | [03015](https://boj.kr/3015) | 오아시스 재결합 | Platinum 5 | [C++](./03xxx/3015. 오아시스 재결합/오아시스 재결합.cc) |
-| [03018](https://boj.kr/3018) | 캠프파이어 | Silver 3 | [C++](./03xxx/3018. 캠프파이어/캠프파이어.cc) |
+| [03018](https://boj.kr/3018) | 캠프파이어 | Silver 4 | [C++](./03xxx/3018. 캠프파이어/캠프파이어.cc) |
 | [03019](https://boj.kr/3019) | 테트리스 | Gold 5 | [C++](./03xxx/3019. 테트리스/테트리스.cc) |
 | [03020](https://boj.kr/3020) | 개똥벌레 | Gold 5 | [C++](./03xxx/3020. 개똥벌레/개똥벌레.cc) |
 | [03023](https://boj.kr/3023) | 마술사 이민혁 | Bronze 1 | [Java](./03xxx/3023. 마술사 이민혁/마술사 이민혁.java) |
@@ -803,7 +803,7 @@
 | [03059](https://boj.kr/3059) | 등장하지 않는 문자의 합 | Bronze 3 | [Java](./03xxx/3059. 등장하지 않는 문자의 합/등장하지 않는 문자의 합.java) |
 | [03060](https://boj.kr/3060) | 욕심쟁이 돼지 | Silver 5 | [Java](./03xxx/3060. 욕심쟁이 돼지/욕심쟁이 돼지.java) |
 | [03062](https://boj.kr/3062) | 수 뒤집기 | Bronze 2 | [Java](./03xxx/3062. 수 뒤집기/수 뒤집기.java) |
-| [03063](https://boj.kr/3063) | 게시판 | Silver 5 | [C++](./03xxx/3063. 게시판/게시판.cc) |
+| [03063](https://boj.kr/3063) | 게시판 | Silver 4 | [C++](./03xxx/3063. 게시판/게시판.cc) |
 | [03064](https://boj.kr/3064) | Minesweeper | Gold 4 | [C++](./03xxx/3064. Minesweeper/Minesweeper.cc) |
 | [03065](https://boj.kr/3065) | Tournament | Gold 3 | [C++](./03xxx/3065. Tournament/Tournament.cc) |
 | [03067](https://boj.kr/3067) | Coins | Gold 5 | [C++](./03xxx/3067. Coins/Coins.cc) |
@@ -2012,6 +2012,7 @@
 | [11866](https://boj.kr/11866) | 요세푸스 문제 0 | Silver 4 | [Java](./11xxx/11866. 요세푸스 문제 0/요세푸스 문제 0.java) |
 | [11868](https://boj.kr/11868) | 님 게임 2 | Platinum 4 | [C++](./11xxx/11868. 님 게임 2/님 게임 2.cc) |
 | [11869](https://boj.kr/11869) | 님블 | Platinum 4 | [C++](./11xxx/11869. 님블/님블.cc) |
+| [11871](https://boj.kr/11871) | 님 게임 홀짝 | Platinum 3 | [C++](./11xxx/11871. 님 게임 홀짝/님 게임 홀짝.cc) |
 | [11874](https://boj.kr/11874) | ZAMKA | Bronze 3 | [Java](./11xxx/11874. ZAMKA/ZAMKA.java) |
 | [11880](https://boj.kr/11880) | 개미 | Bronze 2 | [Java](./11xxx/11880. 개미/개미.java) |
 | [11881](https://boj.kr/11881) | 지우개 | Gold 3 | [C++](./11xxx/11881. 지우개/지우개.cc) |
@@ -2796,6 +2797,7 @@
 | [16847](https://boj.kr/16847) | Teenage Mutant | Bronze 2 | [Java](./16xxx/16847. Teenage Mutant/Teenage Mutant.java) |
 | [16861](https://boj.kr/16861) | Harshad Numbers | Bronze 3 | [Java](./16xxx/16861. Harshad Numbers/Harshad Numbers.java) |
 | [16864](https://boj.kr/16864) | So You Like Your Food Hot? | Bronze 2 | [Java](./16xxx/16864. So You Like Your Food Hot？/So You Like Your Food Hot？.java) |
+| [16877](https://boj.kr/16877) | 핌버 | Platinum 3 | [C++](./16xxx/16877. 핌버/핌버.cc) |
 | [16882](https://boj.kr/16882) | 카드 게임 | Gold 3 | [C++](./16xxx/16882. 카드 게임/카드 게임.cc) |
 | [16888](https://boj.kr/16888) | 루트 게임 | Gold 5 | [C++](./16xxx/16888. 루트 게임/루트 게임.cc) |
 | [16895](https://boj.kr/16895) | 님 게임 3 | Platinum 4 | [C++](./16xxx/16895. 님 게임 3/님 게임 3.cc) |
@@ -4739,4 +4741,5 @@
 | [34297](https://boj.kr/34297) | Parking Pandemonium | Bronze 5 | [C++](./34xxx/34297. Parking Pandemonium/Parking Pandemonium.cc) |
 | [34306](https://boj.kr/34306) | M-Climb Road | Bronze 4 | [C++](./34xxx/34306. M－Climb Road/M－Climb Road.cc) |
 | [34323](https://boj.kr/34323) | 할인이 필요해 | Bronze 4 | [C++](./34xxx/34323. 할인이 필요해/할인이 필요해.cc) |
+| [34346](https://boj.kr/34346) | 대각선 | Bronze 4 | [C++](./34xxx/34346. 대각선/대각선.cc) |
 </div>
