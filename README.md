@@ -1089,6 +1089,7 @@
 | [05367](https://boj.kr/5367) | Target Practice | Bronze 2 | [Java](./05xxx/5367. Target Practice/Target Practice.java) |
 | [05368](https://boj.kr/5368) | Escape Route | Bronze 2 | [Java](./05xxx/5368. Escape Route/Escape Route.java) |
 | [05370](https://boj.kr/5370) | Which Way | Bronze 2 | [Java](./05xxx/5370. Which Way/Which Way.java) |
+| [05386](https://boj.kr/5386) | 금화 게임 | Platinum 4 | [C++](./05xxx/5386. 금화 게임/금화 게임.cc) |
 | [05397](https://boj.kr/5397) | 키로거 | Silver 2 | [C++](./05xxx/5397. 키로거/키로거.cc) |
 | [05398](https://boj.kr/5398) | 틀렸습니다 | Platinum 2 | [C++](./05xxx/5398. 틀렸습니다/틀렸습니다.cc) |
 | [05419](https://boj.kr/5419) | 북서풍 | Platinum 3 | [C++](./05xxx/5419. 북서풍/북서풍.cc) |
@@ -2310,7 +2311,7 @@
 | [14247](https://boj.kr/14247) | 나무 자르기 | Silver 2 | [C++](./14xxx/14247. 나무 자르기/나무 자르기.cc) |
 | [14248](https://boj.kr/14248) | 점프 점프 | Silver 2 | [C++](./14xxx/14248. 점프 점프/점프 점프.cc) |
 | [14252](https://boj.kr/14252) | 공약수열 | Platinum 5 | [C++](./14xxx/14252. 공약수열/공약수열.cc) |
-| [14254](https://boj.kr/14254) | 비밀번호 변경 | Gold 5 | [C++](./14xxx/14254. 비밀번호 변경/비밀번호 변경.cc) |
+| [14254](https://boj.kr/14254) | 비밀번호 변경 | Gold 4 | [C++](./14xxx/14254. 비밀번호 변경/비밀번호 변경.cc) |
 | [14264](https://boj.kr/14264) | 정육각형과 삼각형 | Bronze 3 | [Java](./14xxx/14264. 정육각형과 삼각형/정육각형과 삼각형.java) |
 | [14284](https://boj.kr/14284) | 간선 이어가기 2 | Gold 5 | [Java](./14xxx/14284. 간선 이어가기 2/간선 이어가기 2.java) |
 | [14290](https://boj.kr/14290) | Diwali lightings (Small) | Bronze 2 | [Java](./14xxx/14290. Diwali lightings （Small）/Diwali lightings （Small）.java) |
@@ -4657,6 +4658,7 @@
 | [33528](https://boj.kr/33528) | Alphabetic Shift | Bronze 3 | [C++](./33xxx/33528. Alphabetic Shift/Alphabetic Shift.cc) |
 | [33538](https://boj.kr/33538) | Crawling | Bronze 3 | [C++](./33xxx/33538. Crawling/Crawling.cc) |
 | [33541](https://boj.kr/33541) | 2025는 무엇이 특별할까? | Bronze 3 | [C++](./33xxx/33541. 2025는 무엇이 특별할까？/2025는 무엇이 특별할까？.cc) |
+| [33561](https://boj.kr/33561) | 임스의 땅따먹기 | Gold 3 | [C++](./33xxx/33561. 임스의 땅따먹기/임스의 땅따먹기.cc) |
 | [33571](https://boj.kr/33571) | 구멍 | Bronze 4 | [C++](./33xxx/33571. 구멍/구멍.cc) |
 | [33572](https://boj.kr/33572) | 자세히 보아야 예쁘다 | Bronze 2 | [C++](./33xxx/33572. 자세히 보아야 예쁘다/자세히 보아야 예쁘다.cc) |
 | [33612](https://boj.kr/33612) | 피갤컵 | Bronze 5 | [C++](./33xxx/33612. 피갤컵/피갤컵.cc) |
@@ -4740,6 +4742,7 @@
 | [34281](https://boj.kr/34281) | Class Photo | Bronze 5 | [C++](./34xxx/34281. Class Photo/Class Photo.cc) |
 | [34297](https://boj.kr/34297) | Parking Pandemonium | Bronze 5 | [C++](./34xxx/34297. Parking Pandemonium/Parking Pandemonium.cc) |
 | [34306](https://boj.kr/34306) | M-Climb Road | Bronze 4 | [C++](./34xxx/34306. M－Climb Road/M－Climb Road.cc) |
+| [34308](https://boj.kr/34308) | Abby's Absolutes | Bronze 4 | [C++](./34xxx/34308. Abby's Absolutes/Abby's Absolutes.cc) |
 | [34323](https://boj.kr/34323) | 할인이 필요해 | Bronze 4 | [C++](./34xxx/34323. 할인이 필요해/할인이 필요해.cc) |
 | [34346](https://boj.kr/34346) | 대각선 | Bronze 4 | [C++](./34xxx/34346. 대각선/대각선.cc) |
 </div>
