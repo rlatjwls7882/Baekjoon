@@ -736,7 +736,7 @@
 | [02891](https://boj.kr/2891) | 카약과 강풍 | Silver 4 | [Java](./02xxx/2891. 카약과 강풍/카약과 강풍.java) |
 | [02896](https://boj.kr/2896) | 무알콜 칵테일 | Bronze 1 | [Java](./02xxx/2896. 무알콜 칵테일/무알콜 칵테일.java) |
 | [02897](https://boj.kr/2897) | 몬스터 트럭 | Bronze 1 | [Java](./02xxx/2897. 몬스터 트럭/몬스터 트럭.java) |
-| [02902](https://boj.kr/2902) | KMP는 왜 KMP일까? | Bronze 2 | [Java](./02xxx/2902. KMP는 왜 KMP일까？/KMP는 왜 KMP일까？.java) |
+| [02902](https://boj.kr/2902) | KMP는 왜 KMP일까? | Bronze 3 | [Java](./02xxx/2902. KMP는 왜 KMP일까？/KMP는 왜 KMP일까？.java) |
 | [02903](https://boj.kr/2903) | 중앙 이동 알고리즘 | Bronze 3 | [Java](./02xxx/2903. 중앙 이동 알고리즘/중앙 이동 알고리즘.java) |
 | [02908](https://boj.kr/2908) | 상수 | Bronze 2 | [Java](./02xxx/2908. 상수/상수.java) |
 | [02909](https://boj.kr/2909) | 캔디 구매 | Bronze 2 | [Java](./02xxx/2909. 캔디 구매/캔디 구매.java) |
@@ -1021,6 +1021,7 @@
 | [04968](https://boj.kr/4968) | Equal Total Scores | Bronze 2 | [C++](./04xxx/4968. Equal Total Scores/Equal Total Scores.cc) |
 | [04969](https://boj.kr/4969) | 월요일-토요일 | Gold 5 | [C++](./04xxx/4969. 월요일－토요일/월요일－토요일.cc) |
 | [04974](https://boj.kr/4974) | ICPC Score Totalizer Software | Bronze 2 | [Java](./04xxx/4974. ICPC Score Totalizer Software/ICPC Score Totalizer Software.java) |
+| [04981](https://boj.kr/4981) | Organize Your Train part II | Silver 4 | [C++](./04xxx/4981. Organize Your Train part II/Organize Your Train part II.cc) |
 | [04998](https://boj.kr/4998) | 저금 | Bronze 2 | [Java](./04xxx/4998. 저금/저금.java) |
 | [04999](https://boj.kr/4999) | 아! | Bronze 5 | [C](./04xxx/4999. 아！/아！.c) |
 | [05013](https://boj.kr/5013) | Death Knight Hero | Bronze 3 | [Java](./05xxx/5013. Death Knight Hero/Death Knight Hero.java) |
@@ -1168,6 +1169,7 @@
 | [05778](https://boj.kr/5778) | Fake tickets | Bronze 2 | [Java](./05xxx/5778. Fake tickets/Fake tickets.java) |
 | [05789](https://boj.kr/5789) | 한다 안한다 | Bronze 3 | [Java](./05xxx/5789. 한다 안한다/한다 안한다.java) |
 | [05800](https://boj.kr/5800) | 성적 통계 | Silver 5 | [Java](./05xxx/5800. 성적 통계/성적 통계.java) |
+| [05867](https://boj.kr/5867) | Scrambled Letters | Gold 4 | [C++](./05xxx/5867. Scrambled Letters/Scrambled Letters.cc) |
 | [05874](https://boj.kr/5874) | 소를 찾아라 | Silver 4 | [C++](./05xxx/5874. 소를 찾아라/소를 찾아라.cc) |
 | [05893](https://boj.kr/5893) | 17배 | Bronze 3 | [Java](./05xxx/5893. 17배/17배.java) |
 | [05904](https://boj.kr/5904) | Moo 게임 | Gold 5 | [C++](./05xxx/5904. Moo 게임/Moo 게임.cc) |
@@ -1371,6 +1373,7 @@
 | [07771](https://boj.kr/7771) | 배틀쉽 | Gold 5 | [C++](./07xxx/7771. 배틀쉽/배틀쉽.cc) |
 | [07782](https://boj.kr/7782) | Alien | Bronze 3 | [Java](./07xxx/7782. Alien/Alien.java) |
 | [07785](https://boj.kr/7785) | 회사에 있는 사람 | Silver 5 | [Java](./07xxx/7785. 회사에 있는 사람/회사에 있는 사람.java) |
+| [07787](https://boj.kr/7787) | 빨간 칩, 초록 칩 | Platinum 3 | [C++](./07xxx/7787. 빨간 칩， 초록 칩/빨간 칩， 초록 칩.cc) |
 | [07789](https://boj.kr/7789) | 텔레프라임 | Bronze 2 | [Java](./07xxx/7789. 텔레프라임/텔레프라임.java) |
 | [07790](https://boj.kr/7790) | Joke | Bronze 2 | [Java](./07xxx/7790. Joke/Joke.java) |
 | [07795](https://boj.kr/7795) | 먹을 것인가 먹힐 것인가 | Silver 3 | [C++](./07xxx/7795. 먹을 것인가 먹힐 것인가/먹을 것인가 먹힐 것인가.cc) |
@@ -1986,6 +1989,7 @@
 | [11688](https://boj.kr/11688) | 최소공배수 찾기 | Gold 5 | [C++](./11xxx/11688. 최소공배수 찾기/최소공배수 찾기.cc) |
 | [11689](https://boj.kr/11689) | GCD(n, k) = 1 | Gold 1 | [C++](./11xxx/11689. GCD（n， k） ＝ 1/GCD（n， k） ＝ 1.cc) |
 | [11690](https://boj.kr/11690) | LCM(1, 2, ..., n) | Gold 3 | [C++](./11xxx/11690. LCM（1， 2， ．．．， n）/LCM（1， 2， ．．．， n）.cc) |
+| [11695](https://boj.kr/11695) | 표 게임 | Platinum 4 | [C++](./11xxx/11695. 표 게임/표 게임.cc) |
 | [11718](https://boj.kr/11718) | 그대로 출력하기 | Bronze 3 | [C](./11xxx/11718. 그대로 출력하기/그대로 출력하기.c) |
 | [11719](https://boj.kr/11719) | 그대로 출력하기 2 | Bronze 3 | [Java](./11xxx/11719. 그대로 출력하기 2/그대로 출력하기 2.java) |
 | [11720](https://boj.kr/11720) | 숫자의 합 | Bronze 4 | [C](./11xxx/11720. 숫자의 합/숫자의 합.c) |
@@ -2696,6 +2700,7 @@
 | [16173](https://boj.kr/16173) | 점프왕 쩰리 (Small) | Silver 4 | [C++](./16xxx/16173. 점프왕 쩰리 （Small）/점프왕 쩰리 （Small）.cc) |
 | [16174](https://boj.kr/16174) | 점프왕 쩰리 (Large) | Silver 1 | [C++](./16xxx/16174. 점프왕 쩰리 （Large）/점프왕 쩰리 （Large）.cc) |
 | [16175](https://boj.kr/16175) | General Election | Bronze 3 | [Java](./16xxx/16175. General Election/General Election.java) |
+| [16187](https://boj.kr/16187) | Game on Plane | Platinum 3 | [C++](./16xxx/16187. Game on Plane/Game on Plane.cc) |
 | [16189](https://boj.kr/16189) | Repetitive Palindrome | Bronze 1 | [Java](./16xxx/16189. Repetitive Palindrome/Repetitive Palindrome.java) |
 | [16194](https://boj.kr/16194) | 카드 구매하기 2 | Silver 1 | [Java](./16xxx/16194. 카드 구매하기 2/카드 구매하기 2.java) |
 | [16195](https://boj.kr/16195) | 1, 2, 3 더하기 9 | Silver 1 | [C++](./16xxx/16195. 1， 2， 3 더하기 9/1， 2， 3 더하기 9.cc) |
@@ -3079,6 +3084,7 @@
 | [18883](https://boj.kr/18883) | N M 찍기 | Bronze 3 | [Java](./18xxx/18883. N M 찍기/N M 찍기.java) |
 | [18884](https://boj.kr/18884) | New Year and Naming | Bronze 2 | [Java](./18xxx/18884. New Year and Naming/New Year and Naming.java) |
 | [18917](https://boj.kr/18917) | 수열과 쿼리 38 | Silver 3 | [Java](./18xxx/18917. 수열과 쿼리 38/수열과 쿼리 38.java) |
+| [18937](https://boj.kr/18937) | 왕들의 외나무다리 돌게임 | Platinum 3 | [C++](./18xxx/18937. 왕들의 외나무다리 돌게임/왕들의 외나무다리 돌게임.cc) |
 | [18964](https://boj.kr/18964) | Questionnaire | Bronze 3 | [Java](./18xxx/18964. Questionnaire/Questionnaire.java) |
 | [18979](https://boj.kr/18979) | Triangle Partition | Silver 3 | [C++](./18xxx/18979. Triangle Partition/Triangle Partition.cc) |
 | [19155](https://boj.kr/19155) | Copying Homework | Bronze 2 | [Java](./19xxx/19155. Copying Homework/Copying Homework.java) |
@@ -3803,6 +3809,7 @@
 | [26068](https://boj.kr/26068) | 치킨댄스를 추는 곰곰이를 본 임스 2 | Bronze 4 | [Java](./26xxx/26068. 치킨댄스를 추는 곰곰이를 본 임스 2/치킨댄스를 추는 곰곰이를 본 임스 2.java) |
 | [26069](https://boj.kr/26069) | 붙임성 좋은 총총이 | Silver 4 | [Java](./26xxx/26069. 붙임성 좋은 총총이/붙임성 좋은 총총이.java) |
 | [26072](https://boj.kr/26072) | 곰곰이와 시소 | Silver 2 | [C++](./26xxx/26072. 곰곰이와 시소/곰곰이와 시소.cc) |
+| [26073](https://boj.kr/26073) | 외로운 곰곰이는 친구가 있어요 | Gold 3 | [C++](./26xxx/26073. 외로운 곰곰이는 친구가 있어요/외로운 곰곰이는 친구가 있어요.cc) |
 | [26082](https://boj.kr/26082) | WARBOY | Bronze 5 | [C](./26xxx/26082. WARBOY/WARBOY.c) |
 | [26085](https://boj.kr/26085) | 효구와 호규 (Easy) | Silver 1 | [Java](./26xxx/26085. 효구와 호규 （Easy）/효구와 호규 （Easy）.java) |
 | [26091](https://boj.kr/26091) | 현대모비스 소프트웨어 아카데미 | Silver 1 | [C++](./26xxx/26091. 현대모비스 소프트웨어 아카데미/현대모비스 소프트웨어 아카데미.cc) |
@@ -4628,6 +4635,7 @@
 | [32981](https://boj.kr/32981) | 찐 Even Number | Silver 3 | [C++](./32xxx/32981. 찐 Even Number/찐 Even Number.cc) |
 | [33026](https://boj.kr/33026) | LOL Lovers | Bronze 3 | [C++](./33xxx/33026. LOL Lovers/LOL Lovers.cc) |
 | [33046](https://boj.kr/33046) | Alea Iacta Est | Bronze 4 | [C++](./33xxx/33046. Alea Iacta Est/Alea Iacta Est.cc) |
+| [33111](https://boj.kr/33111) | Intensive Training | Silver 2 | [C++](./33xxx/33111. Intensive Training/Intensive Training.cc) |
 | [33135](https://boj.kr/33135) | Append and Panic! | Bronze 3 | [C++](./33xxx/33135. Append and Panic！/Append and Panic！.cc) |
 | [33156](https://boj.kr/33156) | 구간이 이븐하지 않아요. | Gold 3 | [C++](./33xxx/33156. 구간이 이븐하지 않아요．/구간이 이븐하지 않아요．.cc) |
 | [33161](https://boj.kr/33161) | 鉛筆 2 (Pencils 2) | Bronze 5 | [Python](./33xxx/33161. 鉛筆 2 （Pencils 2）/鉛筆 2 （Pencils 2）.py) |
@@ -4681,7 +4689,7 @@
 | [33708](https://boj.kr/33708) | 인수분해 정렬 | Gold 3 | [C++](./33xxx/33708. 인수분해 정렬/인수분해 정렬.cc) |
 | [33709](https://boj.kr/33709) | 치매예방수칙 3.3.3 | Bronze 1 | [C++](./33xxx/33709. 치매예방수칙 3．3．3/치매예방수칙 3．3．3.cc) |
 | [33753](https://boj.kr/33753) | 주차 요금 정산하기 | Bronze 3 | [C++](./33xxx/33753. 주차 요금 정산하기/주차 요금 정산하기.cc) |
-| [33756](https://boj.kr/33756) | 88888 | Silver 3 | [C++](./33xxx/33756. 88888/88888.cc) |
+| [33756](https://boj.kr/33756) | 88888 | Silver 2 | [C++](./33xxx/33756. 88888/88888.cc) |
 | [33779](https://boj.kr/33779) | Back and Forth | Bronze 3 | [C++](./33xxx/33779. Back and Forth/Back and Forth.cc) |
 | [33810](https://boj.kr/33810) | SciComLove (2025) | Bronze 4 | [C++](./33xxx/33810. SciComLove （2025）/SciComLove （2025）.cc) |
 | [33835](https://boj.kr/33835) | 도로 공사 | Bronze 1 | [C++](./33xxx/33835. 도로 공사/도로 공사.cc) |
