@@ -1,4 +1,4 @@
-# [Bronze I] Increasing Substring
+# [Silver V] Increasing Substring
 
 [문제 링크](https://www.acmicpc.net/problem/23003) 
 
