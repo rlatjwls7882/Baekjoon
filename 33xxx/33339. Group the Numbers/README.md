@@ -1,4 +1,4 @@
-# [Gold II] Group the Numbers
+# [Gold I] Group the Numbers
 
 [문제 링크](https://www.acmicpc.net/problem/33339) 
 
