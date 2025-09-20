@@ -286,6 +286,7 @@
 | [01715](https://boj.kr/1715) | 카드 정렬하기 | Gold 4 | [Java](./01xxx/1715. 카드 정렬하기/카드 정렬하기.java) |
 | [01717](https://boj.kr/1717) | 집합의 표현 | Gold 5 | [C++](./01xxx/1717. 집합의 표현/집합의 표현.cc) [Java](./01xxx/1717. 집합의 표현/집합의 표현.java) |
 | [01718](https://boj.kr/1718) | 암호 | Bronze 2 | [Java](./01xxx/1718. 암호/암호.java) |
+| [01719](https://boj.kr/1719) | 택배 | Gold 3 | [C++](./01xxx/1719. 택배/택배.cc) |
 | [01722](https://boj.kr/1722) | 순열의 순서 | Gold 5 | [C++](./01xxx/1722. 순열의 순서/순열의 순서.cc) |
 | [01725](https://boj.kr/1725) | 히스토그램 | Platinum 5 | [C++](./01xxx/1725. 히스토그램/히스토그램.cc) |
 | [01730](https://boj.kr/1730) | 판화 | Silver 4 | [C++](./01xxx/1730. 판화/판화.cc) |
@@ -2113,7 +2114,7 @@
 | [12849](https://boj.kr/12849) | 본대 산책 | Silver 1 | [C++](./12xxx/12849. 본대 산책/본대 산책.cc) |
 | [12850](https://boj.kr/12850) | 본대 산책2 | Platinum 5 | [C++](./12xxx/12850. 본대 산책2/본대 산책2.cc) |
 | [12851](https://boj.kr/12851) | 숨바꼭질 2 | Gold 4 | [C++](./12xxx/12851. 숨바꼭질 2/숨바꼭질 2.cc) |
-| [12852](https://boj.kr/12852) | 1로 만들기 2 | Silver 1 | [Java](./12xxx/12852. 1로 만들기 2/1로 만들기 2.java) |
+| [12852](https://boj.kr/12852) | 1로 만들기 2 | Gold 5 | [Java](./12xxx/12852. 1로 만들기 2/1로 만들기 2.java) |
 | [12865](https://boj.kr/12865) | 평범한 배낭 | Gold 5 | [C++](./12xxx/12865. 평범한 배낭/평범한 배낭.cc) |
 | [12866](https://boj.kr/12866) | 피노키오 | Bronze 1 | [Java](./12xxx/12866. 피노키오/피노키오.java) |
 | [12871](https://boj.kr/12871) | 무한 문자열 | Silver 5 | [Java](./12xxx/12871. 무한 문자열/무한 문자열.java) |
@@ -3797,6 +3798,7 @@
 | [25966](https://boj.kr/25966) | 배찬우는 배열을 좋아해 | Silver 5 | [C++](./25xxx/25966. 배찬우는 배열을 좋아해/배찬우는 배열을 좋아해.cc) |
 | [25985](https://boj.kr/25985) | Fastestest Function | Bronze 2 | [Java](./25xxx/25985. Fastestest Function/Fastestest Function.java) |
 | [25991](https://boj.kr/25991) | Lots of Liquid | Bronze 4 | [Java](./25xxx/25991. Lots of Liquid/Lots of Liquid.java) |
+| [25993](https://boj.kr/25993) | Bellevue | Silver 1 | [C++](./25xxx/25993. Bellevue/Bellevue.cc) |
 | [26004](https://boj.kr/26004) | HI-ARC | Bronze 3 | [Java](./26xxx/26004. HI－ARC/HI－ARC.java) |
 | [26005](https://boj.kr/26005) | 나뭇잎 학회 | Silver 5 | [C++](./26xxx/26005. 나뭇잎 학회/나뭇잎 학회.cc) |
 | [26026](https://boj.kr/26026) | Coffee Cup Combo | Bronze 3 | [Java](./26xxx/26026. Coffee Cup Combo/Coffee Cup Combo.java) |
@@ -4753,4 +4755,5 @@
 | [34308](https://boj.kr/34308) | Abby's Absolutes | Bronze 4 | [C++](./34xxx/34308. Abby's Absolutes/Abby's Absolutes.cc) |
 | [34323](https://boj.kr/34323) | 할인이 필요해 | Bronze 4 | [C++](./34xxx/34323. 할인이 필요해/할인이 필요해.cc) |
 | [34346](https://boj.kr/34346) | 대각선 | Bronze 4 | [C++](./34xxx/34346. 대각선/대각선.cc) |
+| [34362](https://boj.kr/34362) | Above | Bronze 5 | [C++](./34xxx/34362. Above/Above.cc) |
 </div>
