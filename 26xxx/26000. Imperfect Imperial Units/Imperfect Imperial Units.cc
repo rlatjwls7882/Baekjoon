@@ -35,6 +35,6 @@ int main() {
     while(q--) {
         ld a; string sa, sb; cin >> a >> sa >> sb >> sb;
         if(!res.count({sa, sb})) cout << "impossible\n";
-        else cout << scientific << setprecision(15) << res[{sa, sb}]*a << '\n';
+        else cout << setprecision(15) << res[{sa, sb}]*a << '\n';
     }
 }
