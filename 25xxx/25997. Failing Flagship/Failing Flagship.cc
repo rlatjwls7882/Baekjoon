@@ -11,15 +11,15 @@ unordered_map<char, ld> dir = {
 };
 
 ld getDir(string s) {
-    ld moveAng = 45;
+    ld moveAng=90;
     ld cur = dir[s.back()];
     for(int i=s.length()-2;i>=0;i--) {
         int next = dir[s[i]];
         if(s[i]=='N' && cur>=270) next = 360;
 
+        moveAng/=2;
         if(next>cur) cur += moveAng;
         else cur -= moveAng;
-        moveAng/=2;
     }
     return cur;
 }
