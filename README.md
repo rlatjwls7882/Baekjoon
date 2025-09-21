@@ -1366,6 +1366,7 @@
 | [07616](https://boj.kr/7616) | 교실로 가는 길 | Platinum 2 | [C++](./07xxx/7616. 교실로 가는 길/교실로 가는 길.cc) |
 | [07626](https://boj.kr/7626) | 직사각형 | Platinum 1 | [C++](./07xxx/7626. 직사각형/직사각형.cc) |
 | [07637](https://boj.kr/7637) | AAAAHH! Overbooked! | Bronze 1 | [Java](./07xxx/7637. AAAAHH！ Overbooked！/AAAAHH！ Overbooked！.java) |
+| [07638](https://boj.kr/7638) | Betting Sets | Silver 2 | [C++](./07xxx/7638. Betting Sets/Betting Sets.cc) |
 | [07656](https://boj.kr/7656) | 만능 오라클 | Silver 4 | [Java](./07xxx/7656. 만능 오라클/만능 오라클.java) |
 | [07662](https://boj.kr/7662) | 이중 우선순위 큐 | Gold 4 | [Java](./07xxx/7662. 이중 우선순위 큐/이중 우선순위 큐.java) |
 | [07682](https://boj.kr/7682) | 틱택토 | Gold 5 | [C++](./07xxx/7682. 틱택토/틱택토.cc) |
@@ -1878,6 +1879,7 @@
 | [11134](https://boj.kr/11134) | 쿠키애호가 | Bronze 3 | [Java](./11xxx/11134. 쿠키애호가/쿠키애호가.java) |
 | [11145](https://boj.kr/11145) | Is it a Number? | Bronze 2 | [Java](./11xxx/11145. Is it a Number？/Is it a Number？.java) |
 | [11149](https://boj.kr/11149) | Decode the Message | Bronze 2 | [Java](./11xxx/11149. Decode the Message/Decode the Message.java) |
+| [11158](https://boj.kr/11158) | Angry Grammar Nazi | Bronze 1 | [C++](./11xxx/11158. Angry Grammar Nazi/Angry Grammar Nazi.cc) |
 | [11161](https://boj.kr/11161) | Negative People in Da House | Bronze 3 | [Java](./11xxx/11161. Negative People in Da House/Negative People in Da House.java) |
 | [11170](https://boj.kr/11170) | 0의 개수 | Bronze 1 | [Java](./11xxx/11170. 0의 개수/0의 개수.java) |
 | [11176](https://boj.kr/11176) | In the Shower | Bronze 3 | [Java](./11xxx/11176. In the Shower/In the Shower.java) |
@@ -2087,6 +2089,7 @@
 | [12657](https://boj.kr/12657) | Watersheds (Small) | Silver 2 | [C++](./12xxx/12657. Watersheds （Small）/Watersheds （Small）.cc) |
 | [12727](https://boj.kr/12727) | Numbers (Small) | Gold 3 | [C++](./12xxx/12727. Numbers （Small）/Numbers （Small）.cc) |
 | [12738](https://boj.kr/12738) | 가장 긴 증가하는 부분 수열 3 | Gold 2 | [C++](./12xxx/12738. 가장 긴 증가하는 부분 수열 3/가장 긴 증가하는 부분 수열 3.cc) |
+| [12746](https://boj.kr/12746) | Traffic (Large) | Platinum 2 | [C++](./12xxx/12746. Traffic （Large）/Traffic （Large）.cc) |
 | [12755](https://boj.kr/12755) | 수면 장애 | Silver 4 | [C++](./12xxx/12755. 수면 장애/수면 장애.cc) |
 | [12756](https://boj.kr/12756) | 고급 여관 | Bronze 3 | [Java](./12xxx/12756. 고급 여관/고급 여관.java) |
 | [12759](https://boj.kr/12759) | 틱! 택! 토! | Silver 5 | [Java](./12xxx/12759. 틱！ 택！ 토！/틱！ 택！ 토！.java) |
@@ -3400,6 +3403,7 @@
 | [22986](https://boj.kr/22986) | Flat Earth | Bronze 1 | [Java](./22xxx/22986. Flat Earth/Flat Earth.java) |
 | [22993](https://boj.kr/22993) | 서든어택 3 | Silver 4 | [Java](./22xxx/22993. 서든어택 3/서든어택 3.java) |
 | [22999](https://boj.kr/22999) | K-Goodness String | Bronze 2 | [Java](./22xxx/22999. K－Goodness String/K－Goodness String.java) |
+| [23003](https://boj.kr/23003) | Increasing Substring | Silver 5 | [C++](./23xxx/23003. Increasing Substring/Increasing Substring.cc) |
 | [23027](https://boj.kr/23027) | 1번부터 문제의 상태가…? | Bronze 2 | [Java](./23xxx/23027. 1번부터 문제의 상태가…？/1번부터 문제의 상태가…？.java) |
 | [23028](https://boj.kr/23028) | 5학년은 다니기 싫어요 | Silver 5 | [Java](./23xxx/23028. 5학년은 다니기 싫어요/5학년은 다니기 싫어요.java) |
 | [23029](https://boj.kr/23029) | 시식 코너는 나의 것 | Silver 1 | [C++](./23xxx/23029. 시식 코너는 나의 것/시식 코너는 나의 것.cc) |
@@ -4661,6 +4665,7 @@
 | [33249](https://boj.kr/33249) | Circus Tent | Bronze 3 | [C++](./33xxx/33249. Circus Tent/Circus Tent.cc) |
 | [33253](https://boj.kr/33253) | Game Night | Bronze 2 | [C++](./33xxx/33253. Game Night/Game Night.cc) |
 | [33277](https://boj.kr/33277) | 국방시계 | Bronze 3 | [C++](./33xxx/33277. 국방시계/국방시계.cc) |
+| [33339](https://boj.kr/33339) | Group the Numbers | Gold 1 | [C++](./33xxx/33339. Group the Numbers/Group the Numbers.cc) |
 | [33466](https://boj.kr/33466) | 피타고라스 정리의 증명 | Gold 5 | [C++](./33xxx/33466. 피타고라스 정리의 증명/피타고라스 정리의 증명.cc) |
 | [33488](https://boj.kr/33488) | 아름다운 수열 | Bronze 2 | [C++](./33xxx/33488. 아름다운 수열/아름다운 수열.cc) |
 | [33489](https://boj.kr/33489) | 수열의 점수 | Gold 2 | [C++](./33xxx/33489. 수열의 점수/수열의 점수.cc) |
