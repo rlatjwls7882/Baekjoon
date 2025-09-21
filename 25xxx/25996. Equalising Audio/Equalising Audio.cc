@@ -15,7 +15,7 @@ int main() {
     }
     average /= n;
 
-    if(x==0 || average==0) {
+    if(average==0) {
         for(int i=0;i<n;i++) cout << "0 ";
         return 0;
     }
