@@ -1311,6 +1311,7 @@
 | [07015](https://boj.kr/7015) | Millennium | Bronze 2 | [Java](./07xxx/7015. Millennium/Millennium.java) |
 | [07044](https://boj.kr/7044) | Bad Cowtractors | Gold 4 | [Java](./07xxx/7044. Bad Cowtractors/Bad Cowtractors.java) |
 | [07120](https://boj.kr/7120) | String | Bronze 2 | [Java](./07xxx/7120. String/String.java) |
+| [07124](https://boj.kr/7124) | Sarnased kolmnurgad | Bronze 1 | [C++](./07xxx/7124. Sarnased kolmnurgad/Sarnased kolmnurgad.cc) |
 | [07130](https://boj.kr/7130) | Milk and Honey | Bronze 3 | [Java](./07xxx/7130. Milk and Honey/Milk and Honey.java) |
 | [07132](https://boj.kr/7132) | Hammasrattad | Bronze 1 | [Java](./07xxx/7132. Hammasrattad/Hammasrattad.java) |
 | [07168](https://boj.kr/7168) | Nonogramm | Bronze 2 | [Java](./07xxx/7168. Nonogramm/Nonogramm.java) |
@@ -3234,6 +3235,7 @@
 | [20914](https://boj.kr/20914) | QWERTY 자판 | Silver 2 | [C++](./20xxx/20914. QWERTY 자판/QWERTY 자판.cc) |
 | [20920](https://boj.kr/20920) | 영단어 암기는 괴로워 | Silver 3 | [Java](./20xxx/20920. 영단어 암기는 괴로워/영단어 암기는 괴로워.java) |
 | [20922](https://boj.kr/20922) | 겹치는 건 싫어 | Silver 1 | [C++](./20xxx/20922. 겹치는 건 싫어/겹치는 건 싫어.cc) |
+| [20923](https://boj.kr/20923) | 숫자 할리갈리 게임 | Silver 1 | [C++](./20xxx/20923. 숫자 할리갈리 게임/숫자 할리갈리 게임.cc) |
 | [20926](https://boj.kr/20926) | 얼음 미로 | Gold 2 | [C++](./20xxx/20926. 얼음 미로/얼음 미로.cc) |
 | [20944](https://boj.kr/20944) | 팰린드롬 척화비 | Bronze 3 | [Java](./20xxx/20944. 팰린드롬 척화비/팰린드롬 척화비.java) |
 | [20946](https://boj.kr/20946) | 합성인수분해 | Gold 5 | [C++](./20xxx/20946. 합성인수분해/합성인수분해.cc) |
@@ -3803,6 +3805,10 @@
 | [25985](https://boj.kr/25985) | Fastestest Function | Bronze 2 | [Java](./25xxx/25985. Fastestest Function/Fastestest Function.java) |
 | [25991](https://boj.kr/25991) | Lots of Liquid | Bronze 4 | [Java](./25xxx/25991. Lots of Liquid/Lots of Liquid.java) |
 | [25993](https://boj.kr/25993) | Bellevue | Silver 1 | [C++](./25xxx/25993. Bellevue/Bellevue.cc) |
+| [25996](https://boj.kr/25996) | Equalising Audio | Silver 3 | [C++](./25xxx/25996. Equalising Audio/Equalising Audio.cc) |
+| [25997](https://boj.kr/25997) | Failing Flagship | Silver 2 | [C++](./25xxx/25997. Failing Flagship/Failing Flagship.cc) |
+| [26000](https://boj.kr/26000) | Imperfect Imperial Units | Gold 3 | [C++](./26xxx/26000. Imperfect Imperial Units/Imperfect Imperial Units.cc) |
+| [26001](https://boj.kr/26001) | Jagged Skyline | Platinum 3 | [C++](./26xxx/26001. Jagged Skyline/Jagged Skyline.cc) |
 | [26004](https://boj.kr/26004) | HI-ARC | Bronze 3 | [Java](./26xxx/26004. HI－ARC/HI－ARC.java) |
 | [26005](https://boj.kr/26005) | 나뭇잎 학회 | Silver 5 | [C++](./26xxx/26005. 나뭇잎 학회/나뭇잎 학회.cc) |
 | [26026](https://boj.kr/26026) | Coffee Cup Combo | Bronze 3 | [Java](./26xxx/26026. Coffee Cup Combo/Coffee Cup Combo.java) |
@@ -4018,6 +4024,7 @@
 | [27659](https://boj.kr/27659) | Queue skipping (Easy) | Bronze 2 | [Java](./27xxx/27659. Queue skipping （Easy）/Queue skipping （Easy）.java) |
 | [27736](https://boj.kr/27736) | 찬반투표 | Bronze 3 | [Java](./27xxx/27736. 찬반투표/찬반투표.java) |
 | [27855](https://boj.kr/27855) | Cornhole | Bronze 4 | [Java](./27xxx/27855. Cornhole/Cornhole.java) |
+| [27865](https://boj.kr/27865) | 랜덤 게임? | Bronze 1 | [C++](./27xxx/27865. 랜덤 게임？/랜덤 게임？.cc) |
 | [27866](https://boj.kr/27866) | 문자와 문자열 | Bronze 5 | [C](./27xxx/27866. 문자와 문자열/문자와 문자열.c) |
 | [27880](https://boj.kr/27880) | Gahui and Soongsil University station | Bronze 4 | [Java](./27xxx/27880.%E2%80%85Gahui%E2%80%85and%E2%80%85Soongsil%E2%80%85University%E2%80%85station/Gahui%E2%80%85and%E2%80%85Soongsil%E2%80%85University%E2%80%85station.java) |
 | [27885](https://boj.kr/27885) | 가희와 열리지 않는 건널목 | Bronze 1 | [C++](./27xxx/27885. 가희와 열리지 않는 건널목/가희와 열리지 않는 건널목.cc) |
@@ -4243,6 +4250,7 @@
 | [29863](https://boj.kr/29863) | Arno's Sleep Schedule | Bronze 5 | [Java](./29xxx/29863. Arno's Sleep Schedule/Arno's Sleep Schedule.java) |
 | [29895](https://boj.kr/29895) | Jõululaul | Bronze 3 | [Java](./29xxx/29895. Jõululaul/Jõululaul.java) |
 | [29918](https://boj.kr/29918) | Leiutaja number üks | Bronze 3 | [Java](./29xxx/29918. Leiutaja number üks/Leiutaja number üks.java) |
+| [29946](https://boj.kr/29946) | Koopamatk | Gold 3 | [C++](./29xxx/29946. Koopamatk/Koopamatk.cc) |
 | [29965](https://boj.kr/29965) | Average scores | Bronze 3 | [Java](./29xxx/29965. Average scores/Average scores.java) |
 | [29966](https://boj.kr/29966) | Külmkapimagnetid | Bronze 1 | [Java](./29xxx/29966. Külmkapimagnetid/Külmkapimagnetid.java) |
 | [29986](https://boj.kr/29986) | Amusement Park Adventure | Bronze 4 | [Java](./29xxx/29986. Altura Mínima/Altura Mínima.java) |
