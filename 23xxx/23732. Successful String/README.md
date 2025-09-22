@@ -1,4 +1,4 @@
-# [Gold V] Successful String
+# [Gold IV] Successful String
 
 [문제 링크](https://www.acmicpc.net/problem/23732) 
 
