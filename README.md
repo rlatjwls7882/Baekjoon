@@ -985,6 +985,7 @@
 | [04673](https://boj.kr/4673) | 셀프 넘버 | Silver 5 | [Java](./04xxx/4673. 셀프 넘버/셀프 넘버.java) |
 | [04675](https://boj.kr/4675) | Word Amalgamation | Silver 5 | [Java](./04xxx/4675. Word Amalgamation/Word Amalgamation.java) |
 | [04678](https://boj.kr/4678) | Skew Binary | Bronze 2 | [Java](./04xxx/4678. Skew Binary/Skew Binary.java) |
+| [04680](https://boj.kr/4680) | Sum It Up | Silver 2 | [C++](./04xxx/4680. Sum It Up/Sum It Up.cc) |
 | [04690](https://boj.kr/4690) | 완전 세제곱 | Bronze 3 | [Java](./04xxx/4690. 완전 세제곱/완전 세제곱.java) |
 | [04696](https://boj.kr/4696) | St. Ives | Bronze 4 | [Java](./04xxx/4696. St． Ives/St． Ives.java) |
 | [04697](https://boj.kr/4697) | Fifty Coats of Gray | Bronze 2 | [Java](./04xxx/4697. Fifty Coats of Gray/Fifty Coats of Gray.java) |
@@ -3257,6 +3258,7 @@
 | [21057](https://boj.kr/21057) | Keep Calm And Carry Off | Gold 1 | [C++](./21xxx/21057. Keep Calm And Carry Off/Keep Calm And Carry Off.cc) |
 | [21059](https://boj.kr/21059) | Methodic Multiplication | Bronze 1 | [Java](./21xxx/21059. Methodic Multiplication/Methodic Multiplication.java) |
 | [21105](https://boj.kr/21105) | New Financial Year | Bronze 3 | [Java](./21xxx/21105. New Financial Year/New Financial Year.java) |
+| [21127](https://boj.kr/21127) | Binary Supersonic Utahraptors | Silver 2 | [C++](./21xxx/21127. Binary Supersonic Utahraptors/Binary Supersonic Utahraptors.cc) |
 | [21138](https://boj.kr/21138) | Dominating Duos | Gold 2 | [C++](./21xxx/21138. Dominating Duos/Dominating Duos.cc) |
 | [21143](https://boj.kr/21143) | Magic Trick | Bronze 2 | [Java](./21xxx/21143. Magic Trick/Magic Trick.java) |
 | [21144](https://boj.kr/21144) | Missing Number | Bronze 2 | [Java](./21xxx/21144. Missing Number/Missing Number.java) |
@@ -3461,6 +3463,7 @@
 | [23656](https://boj.kr/23656) | Jack and Jill | Silver 2 | [C++](./23xxx/23656. Jack and Jill/Jack and Jill.cc) |
 | [23663](https://boj.kr/23663) | Deja vu of Go Players | Bronze 3 | [Java](./23xxx/23663. Deja vu of Go Players/Deja vu of Go Players.java) |
 | [23716](https://boj.kr/23716) | Transform the String | Bronze 2 | [Java](./23xxx/23716. Transform the String/Transform the String.java) |
+| [23732](https://boj.kr/23732) | Successful String | Gold 4 | [C++](./23xxx/23732. Successful String/Successful String.cc) |
 | [23738](https://boj.kr/23738) | Ресторан | Bronze 2 | [Java](./23xxx/23738. Ресторан/Ресторан.java) |
 | [23739](https://boj.kr/23739) | 벼락치기 | Bronze 1 | [Java](./23xxx/23739. 벼락치기/벼락치기.java) |
 | [23740](https://boj.kr/23740) | 버스 노선 개편하기 | Gold 5 | [C++](./23xxx/23740. 버스 노선 개편하기/버스 노선 개편하기.cc) |
@@ -4737,6 +4740,7 @@
 | [34010](https://boj.kr/34010) | e-코너 시스템 테스트 (Easy) | Bronze 2 | [C++](./34xxx/34010. e－코너 시스템 테스트 （Easy）/e－코너 시스템 테스트 （Easy）.cc) |
 | [34021](https://boj.kr/34021) | [T] 스코어보드가 121분 남은 시점에서 프리즈되었습니다. | Bronze 3 | [C++](./34xxx/34021. ［T］ 스코어보드가 121분 남은 시점에서 프리즈되었습니다．/［T］ 스코어보드가 121분 남은 시점에서 프리즈되었습니다．.cc) |
 | [34027](https://boj.kr/34027) | 제곱 수? | Bronze 3 | [C++](./34xxx/34027. 제곱 수？/제곱 수？.cc) |
+| [34028](https://boj.kr/34028) | 우리의 다정한 계절 속에(Seasons of Memories) | Bronze 1 | [C++](./34xxx/34028. 우리의 다정한 계절 속에（Seasons of Memories）/우리의 다정한 계절 속에（Seasons of Memories）.cc) |
 | [34032](https://boj.kr/34032) | /gg | Bronze 3 | [C++](./34xxx/34032. ／gg/／gg.cc) |
 | [34052](https://boj.kr/34052) | 체육은 수학과목 입니다 2 | Bronze 5 | [C++](./34xxx/34052. 체육은 수학과목 입니다 2/체육은 수학과목 입니다 2.cc) |
 | [34053](https://boj.kr/34053) | 도미노 게임 | Silver 3 | [C++](./34xxx/34053. 도미노 게임/도미노 게임.cc) |
