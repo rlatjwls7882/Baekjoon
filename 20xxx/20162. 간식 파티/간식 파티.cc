@@ -1,21 +1,20 @@
 #include<bits/stdc++.h>
 using namespace std;
 
-const int MAX = 100'001;
-
-int dp[MAX]; // 마지막으로 먹은 간식의 점수가 i인 최대 점수합
+int a[1000], dp[1000]; // dp[i] : i까지의 최대 MSIS
 
 int main() {
     ios::sync_with_stdio(0); cin.tie(0);
     int n; cin >> n;
+    for(int i=0;i<n;i++) {
+        cin >> a[i];
+        dp[i] = a[i];
 
-    memset(dp, -1, sizeof dp);
-    dp[0]=0;
-    while(n--) {
-        int score; cin >> score;
-        for(int i=score-1;i>=0;i--) {
-            if(dp[i]!=-1) dp[score] = max(dp[score], dp[i]+score);
+        for(int j=0;j<i;j++) {
+            if(a[j]<a[i]) {
+                dp[i] = max(dp[i], dp[j]+a[i]);
+            }
         }
     }
-    cout << *max_element(dp, dp+MAX);
+    cout << *max_element(dp, dp+n);
 }
