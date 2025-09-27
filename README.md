@@ -3553,6 +3553,7 @@
 | [24197](https://boj.kr/24197) | Tabbtabbande | Bronze 2 | [Python](./24xxx/24197. Tabbtabbande/Tabbtabbande.py) |
 | [24198](https://boj.kr/24198) | Muffinspelet | Bronze 3 | [Java](./24xxx/24198. Muffinspelet/Muffinspelet.java) |
 | [24228](https://boj.kr/24228) | 젓가락 | Silver 5 | [C++](./24xxx/24228. 젓가락/젓가락.cc) |
+| [24230](https://boj.kr/24230) | 트리 색칠하기 | Gold 5 | [C++](./24xxx/24230. 트리 색칠하기/트리 색칠하기.cc) |
 | [24262](https://boj.kr/24262) | 알고리즘 수업 - 알고리즘의 수행 시간 1 | Bronze 5 | [C](./24xxx/24262. 알고리즘 수업 － 알고리즘의 수행 시간 1/알고리즘 수업 － 알고리즘의 수행 시간 1.c) |
 | [24263](https://boj.kr/24263) | 알고리즘 수업 - 알고리즘의 수행 시간 2 | Bronze 4 | [C](./24xxx/24263. 알고리즘 수업 － 알고리즘의 수행 시간 2/알고리즘 수업 － 알고리즘의 수행 시간 2.c) |
 | [24264](https://boj.kr/24264) | 알고리즘 수업 - 알고리즘의 수행 시간 3 | Bronze 3 | [Java](./24xxx/24264. 알고리즘 수업 － 알고리즘의 수행 시간 3/알고리즘 수업 － 알고리즘의 수행 시간 3.java) |
@@ -3819,6 +3820,7 @@
 | [25997](https://boj.kr/25997) | Failing Flagship | Silver 2 | [C++](./25xxx/25997. Failing Flagship/Failing Flagship.cc) |
 | [26000](https://boj.kr/26000) | Imperfect Imperial Units | Gold 3 | [C++](./26xxx/26000. Imperfect Imperial Units/Imperfect Imperial Units.cc) |
 | [26001](https://boj.kr/26001) | Jagged Skyline | Platinum 3 | [C++](./26xxx/26001. Jagged Skyline/Jagged Skyline.cc) |
+| [26003](https://boj.kr/26003) | Lowest Latency | Platinum 4 | [C++](./26xxx/26003. Lowest Latency/Lowest Latency.cc) |
 | [26004](https://boj.kr/26004) | HI-ARC | Bronze 3 | [Java](./26xxx/26004. HI－ARC/HI－ARC.java) |
 | [26005](https://boj.kr/26005) | 나뭇잎 학회 | Silver 5 | [C++](./26xxx/26005. 나뭇잎 학회/나뭇잎 학회.cc) |
 | [26026](https://boj.kr/26026) | Coffee Cup Combo | Bronze 3 | [Java](./26xxx/26026. Coffee Cup Combo/Coffee Cup Combo.java) |
@@ -4239,6 +4241,7 @@
 | [29738](https://boj.kr/29738) | Goodbye, Code Jam | Bronze 4 | [Java](./29xxx/29738. Goodbye， Code Jam/Goodbye， Code Jam.java) |
 | [29751](https://boj.kr/29751) | 삼각형 | Bronze 5 | [Java](./29xxx/29751. 삼각형/삼각형.java) |
 | [29752](https://boj.kr/29752) | 최장 스트릭 | Bronze 3 | [Java](./29xxx/29752. 최장 스트릭/최장 스트릭.java) |
+| [29753](https://boj.kr/29753) | 최소 성적 | Silver 4 | [C++](./29xxx/29753. 최소 성적/최소 성적.cc) |
 | [29754](https://boj.kr/29754) | 세상에는 많은 유튜버가 있고, 그중에서 버츄얼 유튜버도 존재한다 | Silver 1 | [C++](./29xxx/29754. 세상에는 많은 유튜버가 있고， 그중에서 버츄얼 유튜버도 존재한다/세상에는 많은 유튜버가 있고， 그중에서 버츄얼 유튜버도 존재한다.cc) |
 | [29756](https://boj.kr/29756) | DDR 체력 관리 | Gold 4 | [C++](./29xxx/29756. DDR 체력 관리/DDR 체력 관리.cc) |
 | [29766](https://boj.kr/29766) | DKSH 찾기 | Bronze 4 | [Java](./29xxx/29766. DKSH 찾기/DKSH 찾기.java) |
