@@ -661,6 +661,7 @@
 | [02688](https://boj.kr/2688) | 줄어들지 않아 | Silver 1 | [C++](./02xxx/2688. 줄어들지 않아/줄어들지 않아.cc) |
 | [02693](https://boj.kr/2693) | N번째 큰 수 | Bronze 1 | [Java](./02xxx/2693. N번째 큰 수/N번째 큰 수.java) |
 | [02696](https://boj.kr/2696) | 중앙값 구하기 | Gold 2 | [C++](./02xxx/2696. 중앙값 구하기/중앙값 구하기.cc) |
+| [02697](https://boj.kr/2697) | 다음수 구하기 | Silver 2 | [C++](./02xxx/2697. 다음수 구하기/다음수 구하기.cc) |
 | [02702](https://boj.kr/2702) | 초6 수학 | Bronze 2 | [Java](./02xxx/2702. 초6 수학/초6 수학.java) |
 | [02703](https://boj.kr/2703) | Cryptoquote | Bronze 2 | [Java](./02xxx/2703. Cryptoquote/Cryptoquote.java) |
 | [02704](https://boj.kr/2704) | 이진법 시계 | Bronze 2 | [Java](./02xxx/2704. 이진법 시계/이진법 시계.java) |
@@ -3129,7 +3130,7 @@
 | [19774](https://boj.kr/19774) | ABCD-код | Bronze 3 | [Java](./19xxx/19774. ABCD－код/ABCD－код.java) |
 | [19786](https://boj.kr/19786) | Ставка | Bronze 3 | [Java](./19xxx/19786. Ставка/Ставка.java) |
 | [19796](https://boj.kr/19796) | Реклама на заборе | Bronze 3 | [Java](./19xxx/19796. Реклама на заборе/Реклама на заборе.java) |
-| [19813](https://boj.kr/19813) | Dates | Bronze 2 | [Java](./19xxx/19813. Dates/Dates.java) |
+| [19813](https://boj.kr/19813) | Dates | Bronze 3 | [Java](./19xxx/19813. Dates/Dates.java) |
 | [19843](https://boj.kr/19843) | 수면 패턴 | Bronze 1 | [Java](./19xxx/19843. 수면 패턴/수면 패턴.java) |
 | [19939](https://boj.kr/19939) | 박 터뜨리기 | Silver 4 | [C++](./19xxx/19939. 박 터뜨리기/박 터뜨리기.cc) |
 | [19940](https://boj.kr/19940) | 피자 오븐 | Gold 5 | [C++](./19xxx/19940. 피자 오븐/피자 오븐.cc) |
@@ -3292,6 +3293,7 @@
 | [21339](https://boj.kr/21339) | Contest Struggles | Bronze 3 | [Java](./21xxx/21339. Contest Struggles/Contest Struggles.java) |
 | [21354](https://boj.kr/21354) | Äpplen och päron | Bronze 4 | [Java](./21xxx/21354. Äpplen och päron/Äpplen och päron.java) |
 | [21355](https://boj.kr/21355) | Personnummer | Bronze 2 | [Java](./21xxx/21355. Personnummer/Personnummer.java) |
+| [21394](https://boj.kr/21394) | 숫자 카드 | Bronze 1 | [C++](./21xxx/21394. 숫자 카드/숫자 카드.cc) |
 | [21406](https://boj.kr/21406) | Строка | Bronze 2 | [Java](./21xxx/21406. Строка/Строка.java) |
 | [21412](https://boj.kr/21412) | Дробь | Bronze 2 | [Java](./21xxx/21412. Дробь/Дробь.java) |
 | [21420](https://boj.kr/21420) | Монетки | Bronze 3 | [Java](./21xxx/21420. Монетки/Монетки.java) |
@@ -4180,6 +4182,7 @@
 | [29097](https://boj.kr/29097) | Короли | Bronze 4 | [C++](./29xxx/29097. Короли/Короли.cc) |
 | [29108](https://boj.kr/29108) | Логины | Bronze 3 | [Java](./29xxx/29108. Логины/Логины.java) |
 | [29133](https://boj.kr/29133) | Фома и занимательная математика | Bronze 3 | [C++](./29xxx/29133. Фома и занимательная математика/Фома и занимательная математика.cc) |
+| [29155](https://boj.kr/29155) | 개발자 지망생 구름이의 취업 뽀개기 | Silver 3 | [C++](./29xxx/29155. 개발자 지망생 구름이의 취업 뽀개기/개발자 지망생 구름이의 취업 뽀개기.cc) |
 | [29159](https://boj.kr/29159) | 케이크 두 개 | Silver 3 | [C++](./29xxx/29159. 케이크 두 개/케이크 두 개.cc) |
 | [29163](https://boj.kr/29163) | Счастье Мистера Бина | Bronze 5 | [Java](./29xxx/29163. Счастье Мистера Бина/Счастье Мистера Бина.java) |
 | [29196](https://boj.kr/29196) | 소수가 아닌 수 2 | Bronze 1 | [C++](./29xxx/29196. 소수가 아닌 수 2/소수가 아닌 수 2.cc) |
@@ -4793,4 +4796,5 @@
 | [34348](https://boj.kr/34348) | snupc 문자열 (Easy) | Gold 2 | [C++](./34xxx/34348. snupc 문자열 （Easy）/snupc 문자열 （Easy）.cc) |
 | [34362](https://boj.kr/34362) | Above | Bronze 5 | [C++](./34xxx/34362. Above/Above.cc) |
 | [34400](https://boj.kr/34400) | 민규의 서카디안 리듬 | Bronze 4 | [C++](./34xxx/34400. 민규의 서카디안 리듬/민규의 서카디안 리듬.cc) |
+| [34509](https://boj.kr/34509) | 2, 4, 6, 8 | Bronze 4 | [Text](./34xxx/34509. 2， 4， 6， 8/2， 4， 6， 8.txt) |
 </div>
