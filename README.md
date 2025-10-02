@@ -700,7 +700,7 @@
 | [02780](https://boj.kr/2780) | 비밀번호 | Silver 1 | [C++](./02xxx/2780. 비밀번호/비밀번호.cc) |
 | [02783](https://boj.kr/2783) | 삼각 김밥 | Bronze 3 | [Java](./02xxx/2783. 삼각 김밥/삼각 김밥.java) |
 | [02785](https://boj.kr/2785) | 체인 | Silver 1 | [C++](./02xxx/2785. 체인/체인.cc) |
-| [02787](https://boj.kr/2787) | 흔한 수열 문제 | Platinum 3 | [C++](./02xxx/2787. 흔한 수열 문제/흔한 수열 문제.cc) |
+| [02787](https://boj.kr/2787) | 흔한 수열 문제 | Platinum 2 | [C++](./02xxx/2787. 흔한 수열 문제/흔한 수열 문제.cc) |
 | [02789](https://boj.kr/2789) | 유학 금지 | Bronze 2 | [Java](./02xxx/2789. 유학 금지/유학 금지.java) |
 | [02792](https://boj.kr/2792) | 보석 상자 | Silver 1 | [C++](./02xxx/2792. 보석 상자/보석 상자.cc) |
 | [02798](https://boj.kr/2798) | 블랙잭 | Bronze 2 | [Java](./02xxx/2798. 블랙잭/블랙잭.java) |
@@ -2331,6 +2331,7 @@
 | [14252](https://boj.kr/14252) | 공약수열 | Platinum 5 | [C++](./14xxx/14252. 공약수열/공약수열.cc) |
 | [14254](https://boj.kr/14254) | 비밀번호 변경 | Gold 4 | [C++](./14xxx/14254. 비밀번호 변경/비밀번호 변경.cc) |
 | [14264](https://boj.kr/14264) | 정육각형과 삼각형 | Bronze 3 | [Java](./14xxx/14264. 정육각형과 삼각형/정육각형과 삼각형.java) |
+| [14269](https://boj.kr/14269) | 전설의 쌍검 용사 | Gold 2 | [C++](./14xxx/14269. 전설의 쌍검 용사/전설의 쌍검 용사.cc) |
 | [14284](https://boj.kr/14284) | 간선 이어가기 2 | Gold 5 | [Java](./14xxx/14284. 간선 이어가기 2/간선 이어가기 2.java) |
 | [14290](https://boj.kr/14290) | Diwali lightings (Small) | Bronze 2 | [Java](./14xxx/14290. Diwali lightings （Small）/Diwali lightings （Small）.java) |
 | [14291](https://boj.kr/14291) | Diwali lightings (Large) | Silver 4 | [Java](./14xxx/14291. Diwali lightings （Large）/Diwali lightings （Large）.java) |
@@ -2946,6 +2947,7 @@
 | [17389](https://boj.kr/17389) | 보너스 점수 | Bronze 2 | [Java](./17xxx/17389. 보너스 점수/보너스 점수.java) |
 | [17390](https://boj.kr/17390) | 이건 꼭 풀어야 해! | Silver 3 | [C++](./17xxx/17390. 이건 꼭 풀어야 해！/이건 꼭 풀어야 해！.cc) |
 | [17391](https://boj.kr/17391) | 무한부스터 | Silver 1 | [C++](./17xxx/17391. 무한부스터/무한부스터.cc) |
+| [17394](https://boj.kr/17394) | 핑거 스냅 | Gold 5 | [C++](./17xxx/17394. 핑거 스냅/핑거 스냅.cc) |
 | [17396](https://boj.kr/17396) | 백도어 | Gold 5 | [Java](./17xxx/17396. 백도어/백도어.java) |
 | [17398](https://boj.kr/17398) | 통신망 분할 | Platinum 5 | [C++](./17xxx/17398. 통신망 분할/통신망 분할.cc) |
 | [17404](https://boj.kr/17404) | RGB거리 2 | Gold 4 | [C++](./17xxx/17404. RGB거리 2/RGB거리 2.cc) |
@@ -3117,6 +3119,7 @@
 | [19580](https://boj.kr/19580) | 마스크가 필요해 | Platinum 5 | [C++](./19xxx/19580. 마스크가 필요해/마스크가 필요해.cc) |
 | [19583](https://boj.kr/19583) | 싸이버개강총회 | Silver 2 | [C++](./19xxx/19583. 싸이버개강총회/싸이버개강총회.cc) |
 | [19592](https://boj.kr/19592) | 장난감 경주 | Silver 5 | [C++](./19xxx/19592. 장난감 경주/장난감 경주.cc) |
+| [19595](https://boj.kr/19595) | 소수 게임 | Gold 2 | [C++](./19xxx/19595. 소수 게임/소수 게임.cc) |
 | [19598](https://boj.kr/19598) | 최소 회의실 개수 | Gold 5 | [C++](./19xxx/19598. 최소 회의실 개수/최소 회의실 개수.cc) |
 | [19602](https://boj.kr/19602) | Dog Treats | Bronze 4 | [C](./19xxx/19602. Dog Treats/Dog Treats.c) |
 | [19604](https://boj.kr/19604) | Art | Bronze 2 | [Java](./19xxx/19604. Art/Art.java) |
@@ -3298,7 +3301,7 @@
 | [21339](https://boj.kr/21339) | Contest Struggles | Bronze 3 | [Java](./21xxx/21339. Contest Struggles/Contest Struggles.java) |
 | [21354](https://boj.kr/21354) | Äpplen och päron | Bronze 4 | [Java](./21xxx/21354. Äpplen och päron/Äpplen och päron.java) |
 | [21355](https://boj.kr/21355) | Personnummer | Bronze 2 | [Java](./21xxx/21355. Personnummer/Personnummer.java) |
-| [21394](https://boj.kr/21394) | 숫자 카드 | Bronze 1 | [C++](./21xxx/21394. 숫자 카드/숫자 카드.cc) |
+| [21394](https://boj.kr/21394) | 숫자 카드 | Silver 5 | [C++](./21xxx/21394. 숫자 카드/숫자 카드.cc) |
 | [21406](https://boj.kr/21406) | Строка | Bronze 2 | [Java](./21xxx/21406. Строка/Строка.java) |
 | [21412](https://boj.kr/21412) | Дробь | Bronze 2 | [Java](./21xxx/21412. Дробь/Дробь.java) |
 | [21420](https://boj.kr/21420) | Монетки | Bronze 3 | [Java](./21xxx/21420. Монетки/Монетки.java) |
@@ -4709,12 +4712,14 @@
 | [33488](https://boj.kr/33488) | 아름다운 수열 | Bronze 2 | [C++](./33xxx/33488. 아름다운 수열/아름다운 수열.cc) |
 | [33489](https://boj.kr/33489) | 수열의 점수 | Gold 2 | [C++](./33xxx/33489. 수열의 점수/수열의 점수.cc) |
 | [33515](https://boj.kr/33515) | 노트북 세 대를 가지고 왔다 | Bronze 5 | [Python](./33xxx/33515. 노트북 세 대를 가지고 왔다/노트북 세 대를 가지고 왔다.py) |
+| [33526](https://boj.kr/33526) | Anti-Fan Death | Silver 2 | [C++](./33xxx/33526. Anti－Fan Death/Anti－Fan Death.cc) |
 | [33528](https://boj.kr/33528) | Alphabetic Shift | Bronze 3 | [C++](./33xxx/33528. Alphabetic Shift/Alphabetic Shift.cc) |
 | [33538](https://boj.kr/33538) | Crawling | Bronze 3 | [C++](./33xxx/33538. Crawling/Crawling.cc) |
 | [33541](https://boj.kr/33541) | 2025는 무엇이 특별할까? | Bronze 3 | [C++](./33xxx/33541. 2025는 무엇이 특별할까？/2025는 무엇이 특별할까？.cc) |
 | [33561](https://boj.kr/33561) | 임스의 땅따먹기 | Gold 3 | [C++](./33xxx/33561. 임스의 땅따먹기/임스의 땅따먹기.cc) |
 | [33571](https://boj.kr/33571) | 구멍 | Bronze 4 | [C++](./33xxx/33571. 구멍/구멍.cc) |
 | [33572](https://boj.kr/33572) | 자세히 보아야 예쁘다 | Bronze 2 | [C++](./33xxx/33572. 자세히 보아야 예쁘다/자세히 보아야 예쁘다.cc) |
+| [33575](https://boj.kr/33575) | 시간표 | Silver 4 | [C++](./33xxx/33575. 시간표/시간표.cc) |
 | [33612](https://boj.kr/33612) | 피갤컵 | Bronze 5 | [C++](./33xxx/33612. 피갤컵/피갤컵.cc) |
 | [33631](https://boj.kr/33631) | 1교시: 가정 | Bronze 3 | [C++](./33xxx/33631. 1교시： 가정/1교시： 가정.cc) |
 | [33651](https://boj.kr/33651) | Vandalism | Bronze 4 | [C++](./33xxx/33651. Vandalism/Vandalism.cc) |
@@ -4808,4 +4813,8 @@
 | [34362](https://boj.kr/34362) | Above | Bronze 5 | [C++](./34xxx/34362. Above/Above.cc) |
 | [34400](https://boj.kr/34400) | 민규의 서카디안 리듬 | Bronze 4 | [C++](./34xxx/34400. 민규의 서카디안 리듬/민규의 서카디안 리듬.cc) |
 | [34509](https://boj.kr/34509) | 2, 4, 6, 8 | Bronze 4 | [Text](./34xxx/34509. 2， 4， 6， 8/2， 4， 6， 8.txt) |
+| [34529](https://boj.kr/34529) | Acquiring SW-IT Corn | Bronze 4 | [C++](./34xxx/34529. Acquiring SW－IT Corn/Acquiring SW－IT Corn.cc) |
+| [34543](https://boj.kr/34543) | 와우산 스탬프 투어 | Bronze 4 | [C++](./34xxx/34543. 와우산 스탬프 투어/와우산 스탬프 투어.cc) |
+| [34553](https://boj.kr/34553) | 알파벳 점수 계산기 | Bronze 3 | |
+| [34554](https://boj.kr/34554) | 특수한 정수 쌍 | Silver 5 | |
 </div>
