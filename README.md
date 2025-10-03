@@ -500,7 +500,7 @@
 | [02295](https://boj.kr/2295) | 세 수의 합 | Gold 4 | [C++](./02xxx/2295. 세 수의 합/세 수의 합.cc) |
 | [02302](https://boj.kr/2302) | 극장 좌석 | Gold 5 | [C++](./02xxx/2302. 극장 좌석/극장 좌석.cc) |
 | [02303](https://boj.kr/2303) | 숫자 게임 | Silver 5 | [Java](./02xxx/2303. 숫자 게임/숫자 게임.java) |
-| [02304](https://boj.kr/2304) | 창고 다각형 | Silver 2 | [C++](./02xxx/2304. 창고 다각형/창고 다각형.cc) |
+| [02304](https://boj.kr/2304) | 창고 다각형 | Silver 1 | [C++](./02xxx/2304. 창고 다각형/창고 다각형.cc) |
 | [02307](https://boj.kr/2307) | 도로검문 | Gold 1 | [C++](./02xxx/2307. 도로검문/도로검문.cc) |
 | [02309](https://boj.kr/2309) | 일곱 난쟁이 | Bronze 1 | [Java](./02xxx/2309. 일곱 난쟁이/일곱 난쟁이.java) |
 | [02312](https://boj.kr/2312) | 수 복원하기 | Silver 3 | [C++](./02xxx/2312. 수 복원하기/수 복원하기.cc) |
@@ -1048,7 +1048,7 @@
 | [05101](https://boj.kr/5101) | Sequences | Bronze 3 | [Java](./05xxx/5101. Sequences/Sequences.java) |
 | [05102](https://boj.kr/5102) | Sarah's Toys | Bronze 3 | [Java](./05xxx/5102. Sarah's Toys/Sarah's Toys.java) |
 | [05103](https://boj.kr/5103) | DVDs | Bronze 2 | [Java](./05xxx/5103. DVDs/DVDs.java) |
-| [05105](https://boj.kr/5105) | Postman Joe | Bronze 2 | [Java](./05xxx/5105. Postman Joe/Postman Joe.java) |
+| [05105](https://boj.kr/5105) | Postman Joe | Bronze 1 | [Java](./05xxx/5105. Postman Joe/Postman Joe.java) |
 | [05121](https://boj.kr/5121) | Alarmist | Bronze 2 | [Java](./05xxx/5121. Alarmist/Alarmist.java) |
 | [05139](https://boj.kr/5139) | Oil Exploration | Bronze 2 | [Java](./05xxx/5139. Oil Exploration/Oil Exploration.java) |
 | [05145](https://boj.kr/5145) | Subway Fares | Bronze 2 | [Java](./05xxx/5145. Subway Fares/Subway Fares.java) |
@@ -4554,7 +4554,7 @@
 | [32029](https://boj.kr/32029) | 지금 자면 꿈을 꾸지만 | Gold 5 | [C++](./32xxx/32029. 지금 자면 꿈을 꾸지만/지금 자면 꿈을 꾸지만.cc) |
 | [32046](https://boj.kr/32046) | Snacks within 300 Yen | Bronze 3 | [C++](./32xxx/32046. Snacks within 300 Yen/Snacks within 300 Yen.cc) |
 | [32068](https://boj.kr/32068) | 보물 찾기 | Bronze 2 | [C++](./32xxx/32068. 보물 찾기/보물 찾기.cc) |
-| [32069](https://boj.kr/32069) | 가로등 | Gold 4 | [C++](./32xxx/32069. 가로등/가로등.cc) |
+| [32069](https://boj.kr/32069) | 가로등 | Gold 5 | [C++](./32xxx/32069. 가로등/가로등.cc) |
 | [32076](https://boj.kr/32076) | Easy as ABC | Silver 4 | [C++](./32xxx/32076. Easy as ABC/Easy as ABC.cc) |
 | [32089](https://boj.kr/32089) | 部員の変遷 | Bronze 4 | [C++](./32xxx/32089. 部員の変遷/部員の変遷.cc) |
 | [32090](https://boj.kr/32090) | シンプルなエディタ | Bronze 2 | [C++](./32xxx/32090. シンプルなエディタ/シンプルなエディタ.cc) |
@@ -4815,6 +4815,6 @@
 | [34509](https://boj.kr/34509) | 2, 4, 6, 8 | Bronze 4 | [Text](./34xxx/34509. 2， 4， 6， 8/2， 4， 6， 8.txt) |
 | [34529](https://boj.kr/34529) | Acquiring SW-IT Corn | Bronze 4 | [C++](./34xxx/34529. Acquiring SW－IT Corn/Acquiring SW－IT Corn.cc) |
 | [34543](https://boj.kr/34543) | 와우산 스탬프 투어 | Bronze 4 | [C++](./34xxx/34543. 와우산 스탬프 투어/와우산 스탬프 투어.cc) |
-| [34553](https://boj.kr/34553) | 알파벳 점수 계산기 | Bronze 3 | |
-| [34554](https://boj.kr/34554) | 특수한 정수 쌍 | Silver 5 | |
+| [34553](https://boj.kr/34553) | 알파벳 점수 계산기 | Bronze 3 | [C++](./34xxx/34553. 알파벳 점수 계산기/알파벳 점수 계산기.cc) |
+| [34554](https://boj.kr/34554) | 특수한 정수 쌍 | Silver 4 | [C++](./34xxx/34554. 특수한 정수 쌍/특수한 정수 쌍.cc) |
 </div>
