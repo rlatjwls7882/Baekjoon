@@ -1,4 +1,4 @@
-# [Silver II] 분할
+# [Silver I] 분할
 
 [문제 링크](https://www.acmicpc.net/problem/32625) 
 
