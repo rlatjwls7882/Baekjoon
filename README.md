@@ -914,7 +914,7 @@
 | [04107](https://boj.kr/4107) | Knitting | Bronze 2 | [Java](./04xxx/4107. Knitting/Knitting.java) |
 | [04108](https://boj.kr/4108) | 지뢰찾기 | Silver 5 | [Java](./04xxx/4108. 지뢰찾기/지뢰찾기.java) |
 | [04118](https://boj.kr/4118) | Fred’s Lotto Tickets | Bronze 3 | [Java](./04xxx/4118. Fred’s Lotto Tickets/Fred’s Lotto Tickets.java) |
-| [04134](https://boj.kr/4134) | 다음 소수 | Silver 4 | [Java](./04xxx/4134. 다음 소수/다음 소수.java) |
+| [04134](https://boj.kr/4134) | 다음 소수 | Silver 4 | [C++](./04xxx/4134. 다음 소수/다음 소수.cc) [Java](./04xxx/4134. 다음 소수/다음 소수.java) |
 | [04141](https://boj.kr/4141) | Numbersrebmun | Bronze 2 | [Java](./04xxx/4141. Numbersrebmun/Numbersrebmun.java) |
 | [04143](https://boj.kr/4143) | Bridges and Tunnels | Gold 3 | [Java](./04xxx/4143. Bridges and Tunnels/Bridges and Tunnels.java) |
 | [04150](https://boj.kr/4150) | 피보나치 수 | Bronze 1 | [Java](./04xxx/4150. 피보나치 수/피보나치 수.java) |
@@ -2905,6 +2905,7 @@
 | [17219](https://boj.kr/17219) | 비밀번호 찾기 | Silver 4 | [C++](./17xxx/17219. 비밀번호 찾기/비밀번호 찾기.cc) [Java](./17xxx/17219. 비밀번호 찾기/비밀번호 찾기.java) |
 | [17224](https://boj.kr/17224) | APC는 왜 서브태스크 대회가 되었을까? | Bronze 1 | [Java](./17xxx/17224. APC는 왜 서브태스크 대회가 되었을까？/APC는 왜 서브태스크 대회가 되었을까？.java) |
 | [17225](https://boj.kr/17225) | 세훈이의 선물가게 | Gold 5 | [C++](./17xxx/17225. 세훈이의 선물가게/세훈이의 선물가게.cc) |
+| [17241](https://boj.kr/17241) | Pineapple Advertising | Silver 1 | [C++](./17xxx/17241. Pineapple Advertising/Pineapple Advertising.cc) |
 | [17247](https://boj.kr/17247) | 택시 거리 | Bronze 1 | [Java](./17xxx/17247. 택시 거리/택시 거리.java) |
 | [17249](https://boj.kr/17249) | 태보태보 총난타 | Bronze 2 | [Java](./17xxx/17249. 태보태보 총난타/태보태보 총난타.java) |
 | [17250](https://boj.kr/17250) | 은하철도 | Gold 4 | [Java](./17xxx/17250. 은하철도/은하철도.java) |
@@ -3857,6 +3858,7 @@
 | [26150](https://boj.kr/26150) | Identify, Sort, Index, Solve | Silver 5 | [C++](./26xxx/26150. Identify， Sort， Index， Solve/Identify， Sort， Index， Solve.cc) |
 | [26153](https://boj.kr/26153) | 로하의 농사 | Gold 4 | [C++](./26xxx/26153. 로하의 농사/로하의 농사.cc) |
 | [26155](https://boj.kr/26155) | 배수관 미스터리 | Platinum 5 | [C++](./26xxx/26155. 배수관 미스터리/배수관 미스터리.cc) |
+| [26156](https://boj.kr/26156) | 나락도 락이다 | Gold 3 | [C++](./26xxx/26156. 나락도 락이다/나락도 락이다.cc) |
 | [26168](https://boj.kr/26168) | 배열 전체 탐색하기 | Silver 4 | [C++](./26xxx/26168. 배열 전체 탐색하기/배열 전체 탐색하기.cc) |
 | [26169](https://boj.kr/26169) | 세 번 이내에 사과를 먹자 | Silver 3 | [C++](./26xxx/26169. 세 번 이내에 사과를 먹자/세 번 이내에 사과를 먹자.cc) |
 | [26171](https://boj.kr/26171) | An Interactive Problem | Bronze 1 | [C++](./26xxx/26171. An Interactive Problem/An Interactive Problem.cc) |
@@ -4663,6 +4665,9 @@
 | [32800](https://boj.kr/32800) | Bus Assignment | Bronze 3 | [C++](./32xxx/32800. Bus Assignment/Bus Assignment.cc) |
 | [32801](https://boj.kr/32801) | Generalized FizzBuzz | Bronze 4 | [C++](./32xxx/32801. Generalized FizzBuzz/Generalized FizzBuzz.cc) |
 | [32805](https://boj.kr/32805) | A Stack of Gold | Bronze 2 | [Python](./32xxx/32805. A Stack of Gold/A Stack of Gold.py) |
+| [32806](https://boj.kr/32806) | Average Substring Value | Gold 3 | [C++](./32xxx/32806. Average Substring Value/Average Substring Value.cc) |
+| [32810](https://boj.kr/32810) | Leapfrog Encryption | Silver 3 | [C++](./32xxx/32810. Leapfrog Encryption/Leapfrog Encryption.cc) |
+| [32811](https://boj.kr/32811) | Letter Balloons | Silver 2 | [C++](./32xxx/32811. Letter Balloons/Letter Balloons.cc) |
 | [32813](https://boj.kr/32813) | Oooh I See | Silver 5 | [C++](./32xxx/32813. Oooh I See/Oooh I See.cc) |
 | [32830](https://boj.kr/32830) | Cards Flipping | Platinum 5 | [C++](./32xxx/32830. Cards Flipping/Cards Flipping.cc) |
 | [32834](https://boj.kr/32834) | Pair Sorting | Platinum 3 | [C++](./32xxx/32834. Pair Sorting/Pair Sorting.cc) |
@@ -4758,6 +4763,7 @@
 | [33909](https://boj.kr/33909) | 알파벳 블록 | Bronze 3 | [C++](./33xxx/33909. 알파벳 블록/알파벳 블록.cc) |
 | [33918](https://boj.kr/33918) | 맛있는 스콘 만들기 | Platinum 3 | [C++](./33xxx/33918. 맛있는 스콘 만들기/맛있는 스콘 만들기.cc) |
 | [33923](https://boj.kr/33923) | 인경호 울타리 공사 | Bronze 1 | [C++](./33xxx/33923. 인경호 울타리 공사/인경호 울타리 공사.cc) |
+| [33924](https://boj.kr/33924) | 신묘마루의 요술망치 | Bronze 1 | [C++](./33xxx/33924. 신묘마루의 요술망치/신묘마루의 요술망치.cc) |
 | [33933](https://boj.kr/33933) | 인덕이와 산책 | Gold 2 | [C++](./33xxx/33933. 인덕이와 산책/인덕이와 산책.cc) |
 | [33937](https://boj.kr/33937) | 태권도와 복싱을 합한 운동 | Bronze 1 | [C++](./33xxx/33937. 태권도와 복싱을 합한 운동/태권도와 복싱을 합한 운동.cc) |
 | [33939](https://boj.kr/33939) | 부도덕한 그래프 (Easy) | Silver 1 | [C++](./33xxx/33939. 부도덕한 그래프 （Easy）/부도덕한 그래프 （Easy）.cc) |
