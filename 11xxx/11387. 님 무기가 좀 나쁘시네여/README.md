@@ -1,4 +1,4 @@
-# [Silver III] 님 무기가 좀 나쁘시네여
+# [Silver IV] 님 무기가 좀 나쁘시네여
 
 [문제 링크](https://www.acmicpc.net/problem/11387) 
 
