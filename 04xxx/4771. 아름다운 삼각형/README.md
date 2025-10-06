@@ -1,4 +1,4 @@
-# [Silver III] 아름다운 삼각형
+# [Silver II] 아름다운 삼각형
 
 [문제 링크](https://www.acmicpc.net/problem/4771) 
 
