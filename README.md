@@ -391,7 +391,7 @@
 | [01969](https://boj.kr/1969) | DNA | Silver 4 | [C++](./01xxx/1969. DNA/DNA.cc) |
 | [01972](https://boj.kr/1972) | 놀라운 문자열 | Silver 3 | [C++](./01xxx/1972. 놀라운 문자열/놀라운 문자열.cc) |
 | [01974](https://boj.kr/1974) | Jump Jump Championship | Platinum 5 | [C++](./01xxx/1974. Jump Jump Championship/Jump Jump Championship.cc) |
-| [01975](https://boj.kr/1975) | Number Game | Bronze 2 | [Java](./01xxx/1975. Number Game/Number Game.java) |
+| [01975](https://boj.kr/1975) | Number Game | Bronze 1 | [Java](./01xxx/1975. Number Game/Number Game.java) |
 | [01976](https://boj.kr/1976) | 여행 가자 | Gold 4 | [Java](./01xxx/1976. 여행 가자/여행 가자.java) |
 | [01977](https://boj.kr/1977) | 완전제곱수 | Bronze 2 | [Java](./01xxx/1977. 완전제곱수/완전제곱수.java) |
 | [01978](https://boj.kr/1978) | 소수 찾기 | Bronze 2 | [C](./01xxx/1978. 소수 찾기/소수 찾기.c) |
@@ -474,6 +474,7 @@
 | [02212](https://boj.kr/2212) | 센서 | Gold 5 | [C++](./02xxx/2212. 센서/센서.cc) |
 | [02213](https://boj.kr/2213) | 트리의 독립집합 | Gold 1 | [C++](./02xxx/2213. 트리의 독립집합/트리의 독립집합.cc) |
 | [02217](https://boj.kr/2217) | 로프 | Silver 4 | [C++](./02xxx/2217. 로프/로프.cc) |
+| [02223](https://boj.kr/2223) | 금화 | Silver 3 | [C++](./02xxx/2223. 금화/금화.cc) |
 | [02225](https://boj.kr/2225) | 합분해 | Gold 5 | [C++](./02xxx/2225. 합분해/합분해.cc) |
 | [02226](https://boj.kr/2226) | 이진수 | Gold 4 | [Java](./02xxx/2226. 이진수/이진수.java) |
 | [02229](https://boj.kr/2229) | 조 짜기 | Gold 5 | [C++](./02xxx/2229. 조 짜기/조 짜기.cc) |
@@ -511,7 +512,7 @@
 | [02331](https://boj.kr/2331) | 반복수열 | Silver 4 | [C++](./02xxx/2331. 반복수열/반복수열.cc) |
 | [02338](https://boj.kr/2338) | 긴자리 계산 | Bronze 5 | [Java](./02xxx/2338. 긴자리 계산/긴자리 계산.java) |
 | [02342](https://boj.kr/2342) | Dance Dance Revolution | Gold 3 | [C++](./02xxx/2342. Dance Dance Revolution/Dance Dance Revolution.cc) |
-| [02343](https://boj.kr/2343) | 기타 레슨 | Silver 1 | [C++](./02xxx/2343. 기타 레슨/기타 레슨.cc) |
+| [02343](https://boj.kr/2343) | 기타 레슨 | Gold 5 | [C++](./02xxx/2343. 기타 레슨/기타 레슨.cc) |
 | [02346](https://boj.kr/2346) | 풍선 터뜨리기 | Silver 3 | [Java](./02xxx/2346. 풍선 터뜨리기/풍선 터뜨리기.java) |
 | [02355](https://boj.kr/2355) | 시그마 | Bronze 2 | [Java](./02xxx/2355. 시그마/시그마.java) |
 | [02357](https://boj.kr/2357) | 최솟값과 최댓값 | Gold 1 | [C++](./02xxx/2357. 최솟값과 최댓값/최솟값과 최댓값.cc) |
@@ -998,6 +999,7 @@
 | [04740](https://boj.kr/4740) | 거울, 오! 거울 | Bronze 3 | [Java](./04xxx/4740. 거울， 오！ 거울/거울， 오！ 거울.java) |
 | [04758](https://boj.kr/4758) | Filling Out the Team | Bronze 3 | [Java](./04xxx/4758. Filling Out the Team/Filling Out the Team.java) |
 | [04766](https://boj.kr/4766) | 일반 화학 실험 | Bronze 3 | [Java](./04xxx/4766. 일반 화학 실험/일반 화학 실험.java) |
+| [04771](https://boj.kr/4771) | 아름다운 삼각형 | Silver 2 | [C++](./04xxx/4771. 아름다운 삼각형/아름다운 삼각형.cc) |
 | [04775](https://boj.kr/4775) | Spelling Be | Silver 5 | [Java](./04xxx/4775. Spelling Be/Spelling Be.java) |
 | [04779](https://boj.kr/4779) | 칸토어 집합 | Silver 3 | [Java](./04xxx/4779. 칸토어 집합/칸토어 집합.java) |
 | [04781](https://boj.kr/4781) | 사탕 가게 | Gold 4 | [C++](./04xxx/4781. 사탕 가게/사탕 가게.cc) |
@@ -3513,6 +3515,7 @@
 | [23814](https://boj.kr/23814) | 아 저는 볶음밥이요 | Silver 3 | [C++](./23xxx/23814. 아 저는 볶음밥이요/아 저는 볶음밥이요.cc) |
 | [23816](https://boj.kr/23816) | 옷걸이걸이걸이 | Gold 3 | [C++](./23xxx/23816. 옷걸이걸이걸이/옷걸이걸이걸이.cc) |
 | [23817](https://boj.kr/23817) | 포항항 | Gold 1 | [C++](./23xxx/23817. 포항항/포항항.cc) |
+| [23818](https://boj.kr/23818) | 원수의 원수 | Gold 1 | [C++](./23xxx/23818. 원수의 원수/원수의 원수.cc) |
 | [23825](https://boj.kr/23825) | SASA 모형을 만들어보자 | Bronze 4 | [C](./23xxx/23825. SASA 모형을 만들어보자/SASA 모형을 만들어보자.c) |
 | [23827](https://boj.kr/23827) | 수열 (Easy) | Silver 4 | [Java](./23xxx/23827. 수열 （Easy）/수열 （Easy）.java) |
 | [23832](https://boj.kr/23832) | 서로소 그래프 | Gold 1 | [C++](./23xxx/23832. 서로소 그래프/서로소 그래프.cc) |
@@ -4615,6 +4618,7 @@
 | [32342](https://boj.kr/32342) | 와우와 쿼리 | Bronze 3 | [C++](./32xxx/32342. 와우와 쿼리/와우와 쿼리.cc) |
 | [32343](https://boj.kr/32343) | 드랍 더 비트 | Bronze 1 | [C++](./32xxx/32343. 드랍 더 비트/드랍 더 비트.cc) |
 | [32344](https://boj.kr/32344) | 유물 발굴 | Silver 5 | [C++](./32xxx/32344. 유물 발굴/유물 발굴.cc) |
+| [32350](https://boj.kr/32350) | 오버킬 | Bronze 1 | [C++](./32xxx/32350. 오버킬/오버킬.cc) |
 | [32357](https://boj.kr/32357) | 더블팰린드롬 | Bronze 1 | [C++](./32xxx/32357. 더블팰린드롬/더블팰린드롬.cc) |
 | [32364](https://boj.kr/32364) | Hat Circle | Bronze 3 | [C++](./32xxx/32364. Hat Circle/Hat Circle.cc) |
 | [32369](https://boj.kr/32369) | 양파 실험 | Bronze 4 | [C++](./32xxx/32369. 양파 실험/양파 실험.cc) |
