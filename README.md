@@ -1241,6 +1241,7 @@
 | [06497](https://boj.kr/6497) | 전력난 | Gold 4 | [Java](./06xxx/6497. 전력난/전력난.java) |
 | [06500](https://boj.kr/6500) | 랜덤 숫자 만들기 | Bronze 2 | [Java](./06xxx/6500. 랜덤 숫자 만들기/랜덤 숫자 만들기.java) |
 | [06502](https://boj.kr/6502) | 동혁 피자 | Bronze 2 | [Java](./06xxx/6502. 동혁 피자/동혁 피자.java) |
+| [06503](https://boj.kr/6503) | 망가진 키보드 | Gold 5 | [C++](./06xxx/6503. 망가진 키보드/망가진 키보드.cc) |
 | [06515](https://boj.kr/6515) | Frequent values | Platinum 2 | [C++](./06xxx/6515. Frequent values/Frequent values.cc) |
 | [06543](https://boj.kr/6543) | 그래프의 싱크 | Platinum 4 | [C++](./06xxx/6543. 그래프의 싱크/그래프의 싱크.cc) |
 | [06549](https://boj.kr/6549) | 히스토그램에서 가장 큰 직사각형 | Platinum 5 | [C++](./06xxx/6549. 히스토그램에서 가장 큰 직사각형/히스토그램에서 가장 큰 직사각형.cc) |
@@ -4726,6 +4727,7 @@
 | [33466](https://boj.kr/33466) | 피타고라스 정리의 증명 | Gold 5 | [C++](./33xxx/33466. 피타고라스 정리의 증명/피타고라스 정리의 증명.cc) |
 | [33488](https://boj.kr/33488) | 아름다운 수열 | Bronze 2 | [C++](./33xxx/33488. 아름다운 수열/아름다운 수열.cc) |
 | [33489](https://boj.kr/33489) | 수열의 점수 | Gold 2 | [C++](./33xxx/33489. 수열의 점수/수열의 점수.cc) |
+| [33511](https://boj.kr/33511) | 쉐이드 커튼 위 먼지는 쌓이는 중 | Gold 3 | [C++](./33xxx/33511. 쉐이드 커튼 위 먼지는 쌓이는 중/쉐이드 커튼 위 먼지는 쌓이는 중.cc) |
 | [33515](https://boj.kr/33515) | 노트북 세 대를 가지고 왔다 | Bronze 5 | [Python](./33xxx/33515. 노트북 세 대를 가지고 왔다/노트북 세 대를 가지고 왔다.py) |
 | [33526](https://boj.kr/33526) | Anti-Fan Death | Silver 2 | [C++](./33xxx/33526. Anti－Fan Death/Anti－Fan Death.cc) |
 | [33528](https://boj.kr/33528) | Alphabetic Shift | Bronze 3 | [C++](./33xxx/33528. Alphabetic Shift/Alphabetic Shift.cc) |
@@ -4829,7 +4831,11 @@
 | [34348](https://boj.kr/34348) | snupc 문자열 (Easy) | Gold 1 | [C++](./34xxx/34348. snupc 문자열 （Easy）/snupc 문자열 （Easy）.cc) |
 | [34362](https://boj.kr/34362) | Above | Bronze 5 | [C++](./34xxx/34362. Above/Above.cc) |
 | [34400](https://boj.kr/34400) | 민규의 서카디안 리듬 | Bronze 4 | [C++](./34xxx/34400. 민규의 서카디안 리듬/민규의 서카디안 리듬.cc) |
+| [34411](https://boj.kr/34411) | M-Climb | Bronze 5 | [C++](./34xxx/34411. M－Climb/M－Climb.cc) |
+| [34412](https://boj.kr/34412) | 13 Floors | Bronze 5 | [C++](./34xxx/34412. 13 Floors/13 Floors.cc) |
 | [34424](https://boj.kr/34424) | Flatter Land | Bronze 5 | [C++](./34xxx/34424. Flatter Land/Flatter Land.cc) |
+| [34446](https://boj.kr/34446) | E-Days Ore Cart Pull | Bronze 5 | [C++](./34xxx/34446. E－Days Ore Cart Pull/E－Days Ore Cart Pull.cc) |
+| [34454](https://boj.kr/34454) | Roller Coaster Ride | Bronze 5 | [C++](./34xxx/34454. Roller Coaster Ride/Roller Coaster Ride.cc) |
 | [34509](https://boj.kr/34509) | 2, 4, 6, 8 | Bronze 4 | [Text](./34xxx/34509. 2， 4， 6， 8/2， 4， 6， 8.txt) |
 | [34529](https://boj.kr/34529) | Acquiring SW-IT Corn | Bronze 4 | [C++](./34xxx/34529. Acquiring SW－IT Corn/Acquiring SW－IT Corn.cc) |
 | [34530](https://boj.kr/34530) | Back to Origin | Bronze 1 | [C++](./34xxx/34530. Back to Origin/Back to Origin.cc) |
