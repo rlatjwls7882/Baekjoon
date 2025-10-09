@@ -395,7 +395,7 @@
 | [01976](https://boj.kr/1976) | 여행 가자 | Gold 4 | [Java](./01xxx/1976. 여행 가자/여행 가자.java) |
 | [01977](https://boj.kr/1977) | 완전제곱수 | Bronze 2 | [Java](./01xxx/1977. 완전제곱수/완전제곱수.java) |
 | [01978](https://boj.kr/1978) | 소수 찾기 | Bronze 2 | [C](./01xxx/1978. 소수 찾기/소수 찾기.c) |
-| [01985](https://boj.kr/1985) | 디지털 친구 | Silver 4 | [C++](./01xxx/1985. 디지털 친구/디지털 친구.cc) |
+| [01985](https://boj.kr/1985) | 디지털 친구 | Silver 3 | [C++](./01xxx/1985. 디지털 친구/디지털 친구.cc) |
 | [01986](https://boj.kr/1986) | 체스 | Silver 1 | [C++](./01xxx/1986. 체스/체스.cc) |
 | [01987](https://boj.kr/1987) | 알파벳 | Gold 4 | [Java](./01xxx/1987. 알파벳/알파벳.java) |
 | [01990](https://boj.kr/1990) | 소수인팰린드롬 | Gold 5 | [C++](./01xxx/1990. 소수인팰린드롬/소수인팰린드롬.cc) |
@@ -490,6 +490,7 @@
 | [02248](https://boj.kr/2248) | 이진수 찾기 | Gold 3 | [C++](./02xxx/2248. 이진수 찾기/이진수 찾기.cc) |
 | [02250](https://boj.kr/2250) | 트리의 높이와 너비 | Gold 2 | [C++](./02xxx/2250. 트리의 높이와 너비/트리의 높이와 너비.cc) |
 | [02252](https://boj.kr/2252) | 줄 세우기 | Gold 3 | [C++](./02xxx/2252. 줄 세우기/줄 세우기.cc) [Java](./02xxx/2252. 줄 세우기/줄 세우기.java) |
+| [02253](https://boj.kr/2253) | 점프 | Gold 4 | [C++](./02xxx/2253. 점프/점프.cc) |
 | [02254](https://boj.kr/2254) | 감옥 건설 | Platinum 4 | [C++](./02xxx/2254. 감옥 건설/감옥 건설.cc) |
 | [02257](https://boj.kr/2257) | 화학식량 | Silver 1 | [C++](./02xxx/2257. 화학식량/화학식량.cc) |
 | [02263](https://boj.kr/2263) | 트리의 순회 | Gold 1 | [C++](./02xxx/2263. 트리의 순회/트리의 순회.cc) |
@@ -996,6 +997,7 @@
 | [04697](https://boj.kr/4697) | Fifty Coats of Gray | Bronze 2 | [Java](./04xxx/4697. Fifty Coats of Gray/Fifty Coats of Gray.java) |
 | [04714](https://boj.kr/4714) | Lunacy | Bronze 4 | [Java](./04xxx/4714. Lunacy/Lunacy.java) |
 | [04727](https://boj.kr/4727) | Close Enough Computations | Bronze 2 | [C++](./04xxx/4727. Close Enough Computations/Close Enough Computations.cc) |
+| [04732](https://boj.kr/4732) | 조옮김 | Bronze 1 | [C++](./04xxx/4732. 조옮김/조옮김.cc) |
 | [04740](https://boj.kr/4740) | 거울, 오! 거울 | Bronze 3 | [Java](./04xxx/4740. 거울， 오！ 거울/거울， 오！ 거울.java) |
 | [04758](https://boj.kr/4758) | Filling Out the Team | Bronze 3 | [Java](./04xxx/4758. Filling Out the Team/Filling Out the Team.java) |
 | [04766](https://boj.kr/4766) | 일반 화학 실험 | Bronze 3 | [Java](./04xxx/4766. 일반 화학 실험/일반 화학 실험.java) |
@@ -1242,6 +1244,7 @@
 | [06500](https://boj.kr/6500) | 랜덤 숫자 만들기 | Bronze 2 | [Java](./06xxx/6500. 랜덤 숫자 만들기/랜덤 숫자 만들기.java) |
 | [06502](https://boj.kr/6502) | 동혁 피자 | Bronze 2 | [Java](./06xxx/6502. 동혁 피자/동혁 피자.java) |
 | [06503](https://boj.kr/6503) | 망가진 키보드 | Gold 5 | [C++](./06xxx/6503. 망가진 키보드/망가진 키보드.cc) |
+| [06504](https://boj.kr/6504) | 킬로미터를 마일로 | Silver 5 | [C++](./06xxx/6504. 킬로미터를 마일로/킬로미터를 마일로.cc) |
 | [06515](https://boj.kr/6515) | Frequent values | Platinum 2 | [C++](./06xxx/6515. Frequent values/Frequent values.cc) |
 | [06543](https://boj.kr/6543) | 그래프의 싱크 | Platinum 4 | [C++](./06xxx/6543. 그래프의 싱크/그래프의 싱크.cc) |
 | [06549](https://boj.kr/6549) | 히스토그램에서 가장 큰 직사각형 | Platinum 5 | [C++](./06xxx/6549. 히스토그램에서 가장 큰 직사각형/히스토그램에서 가장 큰 직사각형.cc) |
@@ -1608,6 +1611,7 @@
 | [09733](https://boj.kr/9733) | 꿀벌 | Silver 5 | [Java](./09xxx/9733. 꿀벌/꿀벌.java) |
 | [09742](https://boj.kr/9742) | 순열 | Silver 3 | [C++](./09xxx/9742. 순열/순열.cc) |
 | [09756](https://boj.kr/9756) | Goldbach (Extension of Goldbach’s Conjecture) | Bronze 2 | [C++](./09xxx/9756. Goldbach （Extension of Goldbach’s Conjecture）/Goldbach （Extension of Goldbach’s Conjecture）.cc) |
+| [09765](https://boj.kr/9765) | 여섯 방정식 | Silver 2 | [C++](./09xxx/9765. 여섯 방정식/여섯 방정식.cc) |
 | [09771](https://boj.kr/9771) | Word Searching | Bronze 3 | [Java](./09xxx/9771. Word Searching/Word Searching.java) |
 | [09772](https://boj.kr/9772) | Quadrants | Bronze 4 | [Java](./09xxx/9772. Quadrants/Quadrants.java) |
 | [09773](https://boj.kr/9773) | ID Key | Bronze 3 | [Java](./09xxx/9773. ID Key/ID Key.java) |
@@ -2885,6 +2889,7 @@
 | [17103](https://boj.kr/17103) | 골드바흐 파티션 | Silver 2 | [Java](./17xxx/17103. 골드바흐 파티션/골드바흐 파티션.java) |
 | [17106](https://boj.kr/17106) | 빙고 | Platinum 5 | [Text](./17xxx/17106. 빙고/빙고.txt) |
 | [17114](https://boj.kr/17114) | 하이퍼 토마토 | Gold 1 | [C++](./17xxx/17114. 하이퍼 토마토/하이퍼 토마토.cc) |
+| [17117](https://boj.kr/17117) | 평가 | Unrated | [C++](./17xxx/17117. 평가/평가.cc) |
 | [17122](https://boj.kr/17122) | 체스 | Bronze 2 | [Java](./17xxx/17122. 체스/체스.java) |
 | [17127](https://boj.kr/17127) | 벚꽃이 정보섬에 피어난 이유 | Silver 5 | [C++](./17xxx/17127. 벚꽃이 정보섬에 피어난 이유/벚꽃이 정보섬에 피어난 이유.cc) |
 | [17129](https://boj.kr/17129) | 윌리암슨수액빨이딱따구리가 정보섬에 올라온 이유 | Silver 1 | [C++](./17xxx/17129. 윌리암슨수액빨이딱따구리가 정보섬에 올라온 이유/윌리암슨수액빨이딱따구리가 정보섬에 올라온 이유.cc) |
@@ -3850,6 +3855,7 @@
 | [26042](https://boj.kr/26042) | 식당 입구 대기 줄 | Silver 5 | [Java](./26xxx/26042. 식당 입구 대기 줄/식당 입구 대기 줄.java) |
 | [26043](https://boj.kr/26043) | 식당 메뉴 | Silver 4 | [C++](./26xxx/26043. 식당 메뉴/식당 메뉴.cc) |
 | [26057](https://boj.kr/26057) | Большой удой | Bronze 4 | [Java](./26xxx/26057. Большой удой/Большой удой.java) |
+| [26058](https://boj.kr/26058) | Сделай 100 | Silver 2 | [Text](./26xxx/26058. Сделай 100/Сделай 100.txt) |
 | [26068](https://boj.kr/26068) | 치킨댄스를 추는 곰곰이를 본 임스 2 | Bronze 4 | [Java](./26xxx/26068. 치킨댄스를 추는 곰곰이를 본 임스 2/치킨댄스를 추는 곰곰이를 본 임스 2.java) |
 | [26069](https://boj.kr/26069) | 붙임성 좋은 총총이 | Silver 4 | [Java](./26xxx/26069. 붙임성 좋은 총총이/붙임성 좋은 총총이.java) |
 | [26072](https://boj.kr/26072) | 곰곰이와 시소 | Silver 2 | [C++](./26xxx/26072. 곰곰이와 시소/곰곰이와 시소.cc) |
@@ -4770,6 +4776,7 @@
 | [33869](https://boj.kr/33869) | 일기 암호화하기 | Bronze 2 | [C++](./33xxx/33869. 일기 암호화하기/일기 암호화하기.cc) |
 | [33883](https://boj.kr/33883) | Acentuación del idioma español | Bronze 3 | [C++](./33xxx/33883. Acentuación del idioma español/Acentuación del idioma español.cc) |
 | [33884](https://boj.kr/33884) | 클리크 조절 | Bronze 1 | [C++](./33xxx/33884. 클리크 조절/클리크 조절.cc) |
+| [33897](https://boj.kr/33897) | 헤키레키잇센 | Bronze 1 | [C++](./33xxx/33897. 헤키레키잇센/헤키레키잇센.cc) |
 | [33898](https://boj.kr/33898) | HEPC1 | Bronze 1 | [C++](./33xxx/33898. HEPC1/HEPC1.cc) |
 | [33900](https://boj.kr/33900) | 캠핑장 부지 평탄화 | Silver 4 | [C++](./33xxx/33900. 캠핑장 부지 평탄화/캠핑장 부지 평탄화.cc) |
 | [33909](https://boj.kr/33909) | 알파벳 블록 | Bronze 3 | [C++](./33xxx/33909. 알파벳 블록/알파벳 블록.cc) |
@@ -4844,4 +4851,5 @@
 | [34552](https://boj.kr/34552) | 디딤돌 장학금 | Bronze 4 | [C++](./34xxx/34552. 디딤돌 장학금/디딤돌 장학금.cc) |
 | [34553](https://boj.kr/34553) | 알파벳 점수 계산기 | Bronze 3 | [C++](./34xxx/34553. 알파벳 점수 계산기/알파벳 점수 계산기.cc) |
 | [34554](https://boj.kr/34554) | 특수한 정수 쌍 | Silver 4 | [C++](./34xxx/34554. 특수한 정수 쌍/특수한 정수 쌍.cc) |
+| [34584](https://boj.kr/34584) | Take It or Double It | Bronze 4 | [C++](./34xxx/34584. Take It or Double It/Take It or Double It.cc) |
 </div>
