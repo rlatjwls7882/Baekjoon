@@ -124,6 +124,7 @@
 | [01283](https://boj.kr/1283) | 단축키 지정 | Silver 1 | [C++](./01xxx/1283. 단축키 지정/단축키 지정.cc) |
 | [01284](https://boj.kr/1284) | 집 주소 | Bronze 3 | [Java](./01xxx/1284. 집 주소/집 주소.java) |
 | [01289](https://boj.kr/1289) | 트리의 가중치 | Platinum 3 | [C++](./01xxx/1289. 트리의 가중치/트리의 가중치.cc) |
+| [01291](https://boj.kr/1291) | 이면수와 임현수 | Silver 3 | [C++](./01xxx/1291. 이면수와 임현수/이면수와 임현수.cc) |
 | [01292](https://boj.kr/1292) | 쉽게 푸는 문제 | Bronze 1 | [Java](./01xxx/1292. 쉽게 푸는 문제/쉽게 푸는 문제.java) |
 | [01296](https://boj.kr/1296) | 팀 이름 정하기 | Bronze 1 | [Java](./01xxx/1296. 팀 이름 정하기/팀 이름 정하기.java) |
 | [01297](https://boj.kr/1297) | TV 크기 | Bronze 2 | [Java](./01xxx/1297. TV 크기/TV 크기.java) |
@@ -2417,6 +2418,7 @@
 | [14609](https://boj.kr/14609) | 구분구적법 (Large) | Gold 4 | [C++](./14xxx/14609. 구분구적법 （Large）/구분구적법 （Large）.cc) |
 | [14610](https://boj.kr/14610) | 좋은 대회 | Gold 4 | [C++](./14xxx/14610. 좋은 대회/좋은 대회.cc) |
 | [14614](https://boj.kr/14614) | Calculate! | Bronze 2 | [Java](./14xxx/14614. Calculate！/Calculate！.java) |
+| [14615](https://boj.kr/14615) | Defend the CTP!!! | Gold 4 | [C++](./14xxx/14615. Defend the CTP！！！/Defend the CTP！！！.cc) |
 | [14620](https://boj.kr/14620) | 꽃길 | Silver 2 | [Java](./14xxx/14620. 꽃길/꽃길.java) |
 | [14621](https://boj.kr/14621) | 나만 안되는 연애 | Gold 3 | [Java](./14xxx/14621. 나만 안되는 연애/나만 안되는 연애.java) |
 | [14622](https://boj.kr/14622) | 소수 게임 | Gold 4 | [C++](./14xxx/14622. 소수 게임/소수 게임.cc) |
@@ -3027,7 +3029,7 @@
 | [17919](https://boj.kr/17919) | Östgötska | Bronze 2 | [Java](./17xxx/17919. Östgötska/Östgötska.java) |
 | [17924](https://boj.kr/17924) | Cooking Water | Bronze 2 | [Java](./17xxx/17924. Cooking Water/Cooking Water.java) |
 | [17930](https://boj.kr/17930) | Hanging Out on the Terrace | Bronze 2 | [Java](./17xxx/17930. Hanging Out on the Terrace/Hanging Out on the Terrace.java) |
-| [17931](https://boj.kr/17931) | Greedily Increasing Subsequence | Bronze 1 | [C++](./17xxx/17931. Greedily Increasing Subsequence/Greedily Increasing Subsequence.cc) |
+| [17931](https://boj.kr/17931) | Greedily Increasing Subsequence | Bronze 2 | [C++](./17xxx/17931. Greedily Increasing Subsequence/Greedily Increasing Subsequence.cc) |
 | [17944](https://boj.kr/17944) | 퐁당퐁당 1 | Bronze 3 | [Java](./17xxx/17944. 퐁당퐁당 1/퐁당퐁당 1.java) |
 | [17945](https://boj.kr/17945) | 통학의 신 | Bronze 3 | [Java](./17xxx/17945. 통학의 신/통학의 신.java) |
 | [17946](https://boj.kr/17946) | 피자는 나눌 수록 커지잖아요 | Bronze 2 | [Java](./17xxx/17946. 피자는 나눌 수록 커지잖아요/피자는 나눌 수록 커지잖아요.java) |
@@ -3437,7 +3439,7 @@
 | [22986](https://boj.kr/22986) | Flat Earth | Bronze 1 | [Java](./22xxx/22986. Flat Earth/Flat Earth.java) |
 | [22993](https://boj.kr/22993) | 서든어택 3 | Silver 4 | [Java](./22xxx/22993. 서든어택 3/서든어택 3.java) |
 | [22999](https://boj.kr/22999) | K-Goodness String | Bronze 2 | [Java](./22xxx/22999. K－Goodness String/K－Goodness String.java) |
-| [23003](https://boj.kr/23003) | Increasing Substring | Silver 5 | [C++](./23xxx/23003. Increasing Substring/Increasing Substring.cc) |
+| [23003](https://boj.kr/23003) | Increasing Substring | Bronze 1 | [C++](./23xxx/23003. Increasing Substring/Increasing Substring.cc) |
 | [23027](https://boj.kr/23027) | 1번부터 문제의 상태가…? | Bronze 2 | [Java](./23xxx/23027. 1번부터 문제의 상태가…？/1번부터 문제의 상태가…？.java) |
 | [23028](https://boj.kr/23028) | 5학년은 다니기 싫어요 | Silver 5 | [Java](./23xxx/23028. 5학년은 다니기 싫어요/5학년은 다니기 싫어요.java) |
 | [23029](https://boj.kr/23029) | 시식 코너는 나의 것 | Silver 1 | [C++](./23xxx/23029. 시식 코너는 나의 것/시식 코너는 나의 것.cc) |
@@ -3910,7 +3912,7 @@
 | [26510](https://boj.kr/26510) | V for Vendetta | Bronze 3 | [Java](./26xxx/26510. V for Vendetta/V for Vendetta.java) |
 | [26511](https://boj.kr/26511) | Complexity | Bronze 1 | [C++](./26xxx/26511. Complexity/Complexity.cc) |
 | [26513](https://boj.kr/26513) | Egg Drop | Bronze 2 | [C++](./26xxx/26513. Egg Drop/Egg Drop.cc) |
-| [26516](https://boj.kr/26516) | Mutint | Bronze 1 | [Java](./26xxx/26516. Mutint/Mutint.java) |
+| [26516](https://boj.kr/26516) | Mutint | Bronze 2 | [Java](./26xxx/26516. Mutint/Mutint.java) |
 | [26517](https://boj.kr/26517) | 연속인가? ? | Silver 5 | [Java](./26xxx/26517. 연속인가？ ？/연속인가？ ？.java) |
 | [26529](https://boj.kr/26529) | Bunnies | Bronze 2 | [Java](./26xxx/26529. Bunnies/Bunnies.java) |
 | [26530](https://boj.kr/26530) | Shipping | Bronze 4 | [Java](./26xxx/26530. Shipping/Shipping.java) |
@@ -4370,6 +4372,7 @@
 | [30460](https://boj.kr/30460) | 스위치 | Gold 5 | [C++](./30xxx/30460. 스위치/스위치.cc) |
 | [30461](https://boj.kr/30461) | 낚시 | Gold 4 | [C++](./30xxx/30461. 낚시/낚시.cc) |
 | [30468](https://boj.kr/30468) | 호반우가 학교에 지각한 이유 1 | Bronze 4 | [Java](./30xxx/30468. 호반우가 학교에 지각한 이유 1/호반우가 학교에 지각한 이유 1.java) |
+| [30471](https://boj.kr/30471) | 호반우가 학교에 지각한 이유 4 | Gold 2 | [C++](./30xxx/30471. 호반우가 학교에 지각한 이유 4/호반우가 학교에 지각한 이유 4.cc) |
 | [30489](https://boj.kr/30489) | <code>apt upgrade</code> | Bronze 1 | [Java](./30xxx/30489. ＜code＞apt upgrade＜／code＞/＜code＞apt upgrade＜／code＞.java) |
 | [30490](https://boj.kr/30490) | Battle Bots | Bronze 2 | [C++](./30xxx/30490. Battle Bots/Battle Bots.cc) |
 | [30492](https://boj.kr/30492) | Democratic Naming | Bronze 2 | [Java](./30xxx/30492. Democratic Naming/Democratic Naming.java) |
@@ -4740,6 +4743,7 @@
 | [33528](https://boj.kr/33528) | Alphabetic Shift | Bronze 3 | [C++](./33xxx/33528. Alphabetic Shift/Alphabetic Shift.cc) |
 | [33538](https://boj.kr/33538) | Crawling | Bronze 3 | [C++](./33xxx/33538. Crawling/Crawling.cc) |
 | [33541](https://boj.kr/33541) | 2025는 무엇이 특별할까? | Bronze 3 | [C++](./33xxx/33541. 2025는 무엇이 특별할까？/2025는 무엇이 특별할까？.cc) |
+| [33556](https://boj.kr/33556) | Java String Equals | Bronze 1 | [C++](./33xxx/33556. Java String Equals/Java String Equals.cc) |
 | [33561](https://boj.kr/33561) | 임스의 땅따먹기 | Gold 3 | [C++](./33xxx/33561. 임스의 땅따먹기/임스의 땅따먹기.cc) |
 | [33571](https://boj.kr/33571) | 구멍 | Bronze 4 | [C++](./33xxx/33571. 구멍/구멍.cc) |
 | [33572](https://boj.kr/33572) | 자세히 보아야 예쁘다 | Bronze 2 | [C++](./33xxx/33572. 자세히 보아야 예쁘다/자세히 보아야 예쁘다.cc) |
@@ -4788,6 +4792,7 @@
 | [33937](https://boj.kr/33937) | 태권도와 복싱을 합한 운동 | Bronze 1 | [C++](./33xxx/33937. 태권도와 복싱을 합한 운동/태권도와 복싱을 합한 운동.cc) |
 | [33939](https://boj.kr/33939) | 부도덕한 그래프 (Easy) | Silver 1 | [C++](./33xxx/33939. 부도덕한 그래프 （Easy）/부도덕한 그래프 （Easy）.cc) |
 | [33950](https://boj.kr/33950) | 어게인 포닉스 | Bronze 3 | [C++](./33xxx/33950. 어게인 포닉스/어게인 포닉스.cc) |
+| [33957](https://boj.kr/33957) | Golden Section Search | Silver 2 | [C++](./33xxx/33957. Golden Section Search/Golden Section Search.cc) |
 | [33963](https://boj.kr/33963) | 돈복사 | Bronze 2 | [C++](./33xxx/33963. 돈복사/돈복사.cc) |
 | [33964](https://boj.kr/33964) | 레퓨닛의 덧셈 | Bronze 4 | [C++](./33xxx/33964. 레퓨닛의 덧셈/레퓨닛의 덧셈.cc) |
 | [33965](https://boj.kr/33965) | 주사위 피라미드 | Silver 5 | [C++](./33xxx/33965. 주사위 피라미드/주사위 피라미드.cc) |
@@ -4816,7 +4821,7 @@
 | [34125](https://boj.kr/34125) | 래환이의 아이브 콘서트 이야기 | Bronze 3 | [C++](./34xxx/34125. 래환이의 아이브 콘서트 이야기/래환이의 아이브 콘서트 이야기.cc) |
 | [34139](https://boj.kr/34139) | 의식의 광장 | Silver 2 | [C++](./34xxx/34139. 의식의 광장/의식의 광장.cc) |
 | [34146](https://boj.kr/34146) | 잃어버린 섬 | Silver 5 | [C++](./34xxx/34146. 잃어버린 섬/잃어버린 섬.cc) |
-| [34161](https://boj.kr/34161) | OO0OO | Bronze 3 | [C++](./34xxx/34161. OO0OO/OO0OO.cc) |
+| [34161](https://boj.kr/34161) | OO0OO | Bronze 4 | [C++](./34xxx/34161. OO0OO/OO0OO.cc) |
 | [34162](https://boj.kr/34162) | NP=P | Silver 5 | [C++](./34xxx/34162. NP＝P/NP＝P.cc) |
 | [34183](https://boj.kr/34183) | SUAPC 의자 준비하기 | Bronze 4 | [C++](./34xxx/34183.%E2%80%85SUAPC%E2%80%85의자%E2%80%85준비하기/SUAPC%E2%80%85의자%E2%80%85준비하기.cc) |
 | [34200](https://boj.kr/34200) | 장애물 | Bronze 1 | [C++](./34xxx/34200. 장애물/장애물.cc) |
@@ -4845,6 +4850,7 @@
 | [34446](https://boj.kr/34446) | E-Days Ore Cart Pull | Bronze 5 | [C++](./34xxx/34446. E－Days Ore Cart Pull/E－Days Ore Cart Pull.cc) |
 | [34454](https://boj.kr/34454) | Roller Coaster Ride | Bronze 5 | [C++](./34xxx/34454. Roller Coaster Ride/Roller Coaster Ride.cc) |
 | [34509](https://boj.kr/34509) | 2, 4, 6, 8 | Bronze 4 | [Text](./34xxx/34509. 2， 4， 6， 8/2， 4， 6， 8.txt) |
+| [34511](https://boj.kr/34511) | Polyominonal Puzzle | Bronze 1 | [C++](./34xxx/34511. Polyominonal Puzzle/Polyominonal Puzzle.cc) |
 | [34529](https://boj.kr/34529) | Acquiring SW-IT Corn | Bronze 4 | [C++](./34xxx/34529. Acquiring SW－IT Corn/Acquiring SW－IT Corn.cc) |
 | [34530](https://boj.kr/34530) | Back to Origin | Bronze 1 | [C++](./34xxx/34530. Back to Origin/Back to Origin.cc) |
 | [34543](https://boj.kr/34543) | 와우산 스탬프 투어 | Bronze 4 | [C++](./34xxx/34543. 와우산 스탬프 투어/와우산 스탬프 투어.cc) |
