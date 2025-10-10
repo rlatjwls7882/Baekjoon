@@ -1030,6 +1030,7 @@
 | [04963](https://boj.kr/4963) | 섬의 개수 | Silver 2 | [Java](./04xxx/4963. 섬의 개수/섬의 개수.java) |
 | [04968](https://boj.kr/4968) | Equal Total Scores | Bronze 2 | [C++](./04xxx/4968. Equal Total Scores/Equal Total Scores.cc) |
 | [04969](https://boj.kr/4969) | 월요일-토요일 | Gold 5 | [C++](./04xxx/4969. 월요일－토요일/월요일－토요일.cc) |
+| [04970](https://boj.kr/4970) | 디지털 회로 개론 | Gold 3 | [C++](./04xxx/4970. 디지털 회로 개론/디지털 회로 개론.cc) |
 | [04974](https://boj.kr/4974) | ICPC Score Totalizer Software | Bronze 2 | [Java](./04xxx/4974. ICPC Score Totalizer Software/ICPC Score Totalizer Software.java) |
 | [04981](https://boj.kr/4981) | Organize Your Train part II | Silver 4 | [C++](./04xxx/4981. Organize Your Train part II/Organize Your Train part II.cc) |
 | [04998](https://boj.kr/4998) | 저금 | Bronze 2 | [Java](./04xxx/4998. 저금/저금.java) |
@@ -1188,7 +1189,7 @@
 | [05919](https://boj.kr/5919) | Hay Bales | Bronze 2 | [Java](./05xxx/5919. Hay Bales/Hay Bales.java) |
 | [05928](https://boj.kr/5928) | Contest Timing | Bronze 4 | [C](./05xxx/5928. Contest Timing/Contest Timing.c) |
 | [05940](https://boj.kr/5940) | Math Practice | Bronze 2 | [Java](./05xxx/5940. Math Practice/Math Practice.java) |
-| [05948](https://boj.kr/5948) | Bad Random Numbers | Bronze 2 | [Java](./05xxx/5948. Bad Random Numbers/Bad Random Numbers.java) |
+| [05948](https://boj.kr/5948) | Bad Random Numbers | Bronze 1 | [Java](./05xxx/5948. Bad Random Numbers/Bad Random Numbers.java) |
 | [05949](https://boj.kr/5949) | Adding Commas | Bronze 3 | [Java](./05xxx/5949. Adding Commas/Adding Commas.java) |
 | [05959](https://boj.kr/5959) | Crop Circles | Bronze 1 | [Java](./05xxx/5959. Crop Circles/Crop Circles.java) |
 | [05966](https://boj.kr/5966) | Cow Cotillion | Silver 4 | [Java](./05xxx/5966. Cow Cotillion/Cow Cotillion.java) |
@@ -4230,7 +4231,7 @@
 | [29534](https://boj.kr/29534) | Буквы и весы | Bronze 3 | [C++](./29xxx/29534. Буквы и весы/Буквы и весы.cc) |
 | [29538](https://boj.kr/29538) | Взлет | Bronze 2 | [C++](./29xxx/29538. Взлет/Взлет.cc) |
 | [29546](https://boj.kr/29546) | Файлы | Bronze 4 | [Java](./29xxx/29546. Файлы/Файлы.java) |
-| [29558](https://boj.kr/29558) | Эксперимент | Bronze 2 | [Java](./29xxx/29558. Эксперимент/Эксперимент.java) |
+| [29558](https://boj.kr/29558) | Эксперимент | Bronze 1 | [Java](./29xxx/29558. Эксперимент/Эксперимент.java) |
 | [29587](https://boj.kr/29587) | Последовательность | Bronze 2 | [Java](./29xxx/29587. Последовательность/Последовательность.java) |
 | [29602](https://boj.kr/29602) | Расписание | Bronze 2 | [Python](./29xxx/29602. Расписание/Расписание.py) |
 | [29614](https://boj.kr/29614) | 학점계산프로그램 | Bronze 2 | [Java](./29xxx/29614. 학점계산프로그램/학점계산프로그램.java) |
@@ -4815,7 +4816,7 @@
 | [34125](https://boj.kr/34125) | 래환이의 아이브 콘서트 이야기 | Bronze 3 | [C++](./34xxx/34125. 래환이의 아이브 콘서트 이야기/래환이의 아이브 콘서트 이야기.cc) |
 | [34139](https://boj.kr/34139) | 의식의 광장 | Silver 2 | [C++](./34xxx/34139. 의식의 광장/의식의 광장.cc) |
 | [34146](https://boj.kr/34146) | 잃어버린 섬 | Silver 5 | [C++](./34xxx/34146. 잃어버린 섬/잃어버린 섬.cc) |
-| [34161](https://boj.kr/34161) | OO0OO | Bronze 4 | [C++](./34xxx/34161. OO0OO/OO0OO.cc) |
+| [34161](https://boj.kr/34161) | OO0OO | Bronze 3 | [C++](./34xxx/34161. OO0OO/OO0OO.cc) |
 | [34162](https://boj.kr/34162) | NP=P | Silver 5 | [C++](./34xxx/34162. NP＝P/NP＝P.cc) |
 | [34183](https://boj.kr/34183) | SUAPC 의자 준비하기 | Bronze 4 | [C++](./34xxx/34183.%E2%80%85SUAPC%E2%80%85의자%E2%80%85준비하기/SUAPC%E2%80%85의자%E2%80%85준비하기.cc) |
 | [34200](https://boj.kr/34200) | 장애물 | Bronze 1 | [C++](./34xxx/34200. 장애물/장애물.cc) |
