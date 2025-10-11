@@ -1330,7 +1330,7 @@
 | [07130](https://boj.kr/7130) | Milk and Honey | Bronze 3 | [Java](./07xxx/7130. Milk and Honey/Milk and Honey.java) |
 | [07132](https://boj.kr/7132) | Hammasrattad | Bronze 1 | [Java](./07xxx/7132. Hammasrattad/Hammasrattad.java) |
 | [07168](https://boj.kr/7168) | Nonogramm | Bronze 2 | [Java](./07xxx/7168. Nonogramm/Nonogramm.java) |
-| [07173](https://boj.kr/7173) | Klass | Bronze 2 | [Java](./07xxx/7173. Klass/Klass.java) |
+| [07173](https://boj.kr/7173) | Klass | Bronze 1 | [Java](./07xxx/7173. Klass/Klass.java) |
 | [07181](https://boj.kr/7181) | Mõttemeister | Bronze 3 | [Java](./07xxx/7181. Mõttemeister/Mõttemeister.java) |
 | [07214](https://boj.kr/7214) | Ateivių kojinės | Bronze 1 | [C++](./07xxx/7214. Ateivių kojinės/Ateivių kojinės.cc) |
 | [07215](https://boj.kr/7215) | Ateivių kojinės | Bronze 1 | [C++](./07xxx/7215. Ateivių kojinės/Ateivių kojinės.cc) |
