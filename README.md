@@ -3176,6 +3176,7 @@
 | [20044](https://boj.kr/20044) | Project Teams | Silver 4 | [C++](./20xxx/20044. Project Teams/Project Teams.cc) |
 | [20053](https://boj.kr/20053) | 최소, 최대 2 | Bronze 3 | [Java](./20xxx/20053. 최소， 최대 2/최소， 최대 2.java) |
 | [20055](https://boj.kr/20055) | 컨베이어 벨트 위의 로봇 | Gold 5 | [C++](./20xxx/20055. 컨베이어 벨트 위의 로봇/컨베이어 벨트 위의 로봇.cc) |
+| [20093](https://boj.kr/20093) | Coins | Platinum 3 | [C++](./20xxx/20093. Coins/Coins.cc) |
 | [20094](https://boj.kr/20094) | Sudoku 1 | Bronze 2 | [Text](./20xxx/20094. Sudoku 1/Sudoku 1.txt) |
 | [20095](https://boj.kr/20095) | Sudoku 2 | Silver 4 | [Text](./20xxx/20095. Sudoku 2/Sudoku 2.txt) |
 | [20096](https://boj.kr/20096) | Sudoku 3 | Silver 3 | [Text](./20xxx/20096. Sudoku 3/Sudoku 3.txt) |
