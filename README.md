@@ -1340,7 +1340,7 @@
 | [07240](https://boj.kr/7240) | Rogutės | Bronze 3 | [Java](./07xxx/7240. Rogutės/Rogutės.java) |
 | [07241](https://boj.kr/7241) | Skaičiai | Bronze 2 | [Java](./07xxx/7241. Skaičiai/Skaičiai.java) |
 | [07255](https://boj.kr/7255) | Sujungimas | Gold 4 | [Java](./07xxx/7255. Sujungimas/Sujungimas.java) |
-| [07271](https://boj.kr/7271) | Viršininkai | Gold 4 | [Java](./07xxx/7271. Viršininkai/Viršininkai.java) |
+| [07271](https://boj.kr/7271) | Viršininkai | Gold 3 | [Java](./07xxx/7271. Viršininkai/Viršininkai.java) |
 | [07274](https://boj.kr/7274) | Liftas | Silver 5 | [C++](./07xxx/7274. Liftas/Liftas.cc) |
 | [07275](https://boj.kr/7275) | Skalbiniai | Bronze 2 | [Java](./07xxx/7275. Skalbiniai/Skalbiniai.java) |
 | [07279](https://boj.kr/7279) | Autobusas | Bronze 3 | [Java](./07xxx/7279. Autobusas/Autobusas.java) |
