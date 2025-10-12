@@ -4861,4 +4861,5 @@
 | [34553](https://boj.kr/34553) | 알파벳 점수 계산기 | Bronze 3 | [C++](./34xxx/34553. 알파벳 점수 계산기/알파벳 점수 계산기.cc) |
 | [34554](https://boj.kr/34554) | 특수한 정수 쌍 | Silver 4 | [C++](./34xxx/34554. 특수한 정수 쌍/특수한 정수 쌍.cc) |
 | [34584](https://boj.kr/34584) | Take It or Double It | Bronze 4 | [C++](./34xxx/34584. Take It or Double It/Take It or Double It.cc) |
+| [34619](https://boj.kr/34619) | 소대 배정 | Bronze 2 | [C++](./34xxx/34619. 소대 배정/소대 배정.cc) |
 </div>
