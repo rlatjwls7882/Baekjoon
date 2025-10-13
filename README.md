@@ -4646,6 +4646,7 @@
 | [32400](https://boj.kr/32400) | 다트판 | Bronze 2 | [C++](./32xxx/32400. 다트판/다트판.cc) |
 | [32401](https://boj.kr/32401) | ANA는 회문이야 | Bronze 2 | [C++](./32xxx/32401. ANA는 회문이야/ANA는 회문이야.cc) |
 | [32403](https://boj.kr/32403) | 전구 주기 맞추기 | Silver 5 | [C++](./32xxx/32403. 전구 주기 맞추기/전구 주기 맞추기.cc) |
+| [32404](https://boj.kr/32404) | 일이 커졌어 | Gold 5 | [C++](./32xxx/32404. 일이 커졌어/일이 커졌어.cc) |
 | [32432](https://boj.kr/32432) | Attention to the Meeting | Bronze 3 | [C++](./32xxx/32432. Attention to the Meeting/Attention to the Meeting.cc) |
 | [32436](https://boj.kr/32436) | Enigma of the Jewelry Case | Bronze 2 | [Java](./32xxx/32436. Enigma of the Jewelry Case/Enigma of the Jewelry Case.java) |
 | [32449](https://boj.kr/32449) | Animal Farm | Bronze 3 | [C++](./32xxx/32449. Animal Farm/Animal Farm.cc) |
