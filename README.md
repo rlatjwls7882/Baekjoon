@@ -4702,6 +4702,7 @@
 | [32905](https://boj.kr/32905) | RACI | Bronze 4 | [C++](./32xxx/32905. RACI/RACI.cc) |
 | [32916](https://boj.kr/32916) | Another Brick in the Wall | Bronze 1 | [C++](./32xxx/32916. Another Brick in the Wall/Another Brick in the Wall.cc) |
 | [32929](https://boj.kr/32929) | UOS 문자열 | Bronze 5 | [C++](./32xxx/32929. UOS 문자열/UOS 문자열.cc) |
+| [32932](https://boj.kr/32932) | 드론 조작 | Bronze 1 | [C++](./32xxx/32932. 드론 조작/드론 조작.cc) |
 | [32941](https://boj.kr/32941) | 왜 맘대로 예약하냐고 | Bronze 4 | [C++](./32xxx/32941. 왜 맘대로 예약하냐고/왜 맘대로 예약하냐고.cc) |
 | [32942](https://boj.kr/32942) | 그래프와 그래프 | Silver 5 | [C++](./32xxx/32942. 그래프와 그래프/그래프와 그래프.cc) |
 | [32951](https://boj.kr/32951) | AI 선도대학 | Bronze 5 | [C++](./32xxx/32951. AI 선도대학/AI 선도대학.cc) |
