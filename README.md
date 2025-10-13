@@ -4717,6 +4717,7 @@
 | [33046](https://boj.kr/33046) | Alea Iacta Est | Bronze 4 | [C++](./33xxx/33046. Alea Iacta Est/Alea Iacta Est.cc) |
 | [33111](https://boj.kr/33111) | Intensive Training | Silver 2 | [C++](./33xxx/33111. Intensive Training/Intensive Training.cc) |
 | [33135](https://boj.kr/33135) | Append and Panic! | Bronze 3 | [C++](./33xxx/33135. Append and Panic！/Append and Panic！.cc) |
+| [33152](https://boj.kr/33152) | 경인 국가의 행사 | Gold 1 | [C++](./33xxx/33152. 경인 국가의 행사/경인 국가의 행사.cc) |
 | [33156](https://boj.kr/33156) | 구간이 이븐하지 않아요. | Gold 3 | [C++](./33xxx/33156. 구간이 이븐하지 않아요．/구간이 이븐하지 않아요．.cc) |
 | [33161](https://boj.kr/33161) | 鉛筆 2 (Pencils 2) | Bronze 5 | [Python](./33xxx/33161. 鉛筆 2 （Pencils 2）/鉛筆 2 （Pencils 2）.py) |
 | [33162](https://boj.kr/33162) | 散歩 (Walking) | Bronze 4 | [C++](./33xxx/33162. 散歩 （Walking）/散歩 （Walking）.cc) |
@@ -4865,6 +4866,7 @@
 | [34552](https://boj.kr/34552) | 디딤돌 장학금 | Bronze 4 | [C++](./34xxx/34552. 디딤돌 장학금/디딤돌 장학금.cc) |
 | [34553](https://boj.kr/34553) | 알파벳 점수 계산기 | Bronze 3 | [C++](./34xxx/34553. 알파벳 점수 계산기/알파벳 점수 계산기.cc) |
 | [34554](https://boj.kr/34554) | 특수한 정수 쌍 | Silver 4 | [C++](./34xxx/34554. 특수한 정수 쌍/특수한 정수 쌍.cc) |
+| [34563](https://boj.kr/34563) | 궁핍한 모그 | Bronze 2 | [C++](./34xxx/34563. 궁핍한 모그/궁핍한 모그.cc) |
 | [34584](https://boj.kr/34584) | Take It or Double It | Bronze 4 | [C++](./34xxx/34584. Take It or Double It/Take It or Double It.cc) |
 | [34619](https://boj.kr/34619) | 소대 배정 | Bronze 2 | [C++](./34xxx/34619. 소대 배정/소대 배정.cc) |
 </div>
