@@ -3,7 +3,7 @@ using namespace std;
 
 typedef unsigned long long ull;
 
-bitset<100> comb[60];
+bitset<100> reversed[60];
 ull w[201], basis[60], idx[60];
 
 int main() {
@@ -18,40 +18,40 @@ int main() {
     if(t==1) {
         ull n, x; cin >> n >> x;
 
-        // 처음에는 작은 숫자 선택
+        // 처음에는 아무거나 선택
         ull xorVal = x;
         vector<pair<int, int>> v;
         for(int i=0;i<n;i++) {
             int a, b; cin >> a >> b;
-            v.push_back({min(a, b), max(a, b)});
-            xorVal ^= w[min(a, b)];
+            v.push_back({a, b});
+            xorVal ^= w[a];
         }
 
-        // xor해서 x가 나오지 않는 경우 가우스 소거법으로 적당히 카드를 뒤집어서 x가 나오도록 수정
+        // xor해서 x가 나오도록 가우스 소거법으로 적당히 카드 뒤집기
         for(int i=0;i<n;i++) {
-            ull curChange = w[v[i].first]^w[v[i].second];
-            bitset<100> curComb; curComb[i]=1;
+            ull cur = w[v[i].first]^w[v[i].second];
+            bitset<100> curReversed; curReversed[i]=1;
             for(int j=59;j>=0;j--) {
-                if(((curChange>>j)&1ULL)==0) continue;
+                if(((cur>>j)&1ULL)==0) continue;
                 if(!basis[j]) {
-                    basis[j] = curChange;
+                    basis[j] = cur;
                     idx[j] = i;
-                    comb[j] = curComb;
+                    reversed[j] = curReversed;
                     break;
                 }
-                curChange ^= basis[j];
-                curComb ^= comb[j];
+                cur ^= basis[j];
+                curReversed ^= reversed[j];
             }
         }
 
         ull cur=xorVal;
-        bitset<100> curComb;
+        bitset<100> curReversed;
         for(int i=59;i>=0;i--) {
             if(((cur>>i)&1ULL)==0) continue;
             cur ^= basis[i];
-            curComb ^= comb[i];
+            curReversed ^= reversed[i];
         }
-        for(int i=0;i<n;i++) cout << (curComb[i] ? v[i].second : v[i].first) << ' ';
+        for(int i=0;i<n;i++) cout << (curReversed[i] ? v[i].second : v[i].first) << ' ';
     } else {
         int n; cin >> n;
         ull ret=0;
