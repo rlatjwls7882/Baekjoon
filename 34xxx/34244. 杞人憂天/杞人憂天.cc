@@ -3,15 +3,15 @@ using namespace std;
 
 typedef unsigned long long ull;
 
-bitset<100> comb[64];
-ull w[201], basis[64], idx[64];
+bitset<100> comb[60];
+ull w[201], basis[60], idx[60];
 
 int main() {
     ios::sync_with_stdio(0); cin.tie(0);
 
     // 랜덤한 가중치 할당
     mt19937_64 rd(123456789);
-    uniform_int_distribution<ull> rnd(0, ~0ULL);
+    uniform_int_distribution<ull> rnd(0, (1ULL<<60)-1);
     for(int i=1;i<=200;i++) w[i] = rnd(rd);
 
     int t; cin >> t;
@@ -31,7 +31,7 @@ int main() {
         for(int i=0;i<n;i++) {
             ull curChange = w[v[i].first]^w[v[i].second];
             bitset<100> curComb; curComb[i]=1;
-            for(int j=63;j>=0;j--) {
+            for(int j=59;j>=0;j--) {
                 if(((curChange>>j)&1ULL)==0) continue;
                 if(!basis[j]) {
                     basis[j] = curChange;
@@ -46,8 +46,8 @@ int main() {
 
         ull cur=xorVal;
         bitset<100> curComb;
-        for(int i=63;i>=0;i--) {
-            if(((cur>>i)&1ULL)==0 || !basis[i]) continue;
+        for(int i=59;i>=0;i--) {
+            if(((cur>>i)&1ULL)==0) continue;
             cur ^= basis[i];
             curComb ^= comb[i];
         }
