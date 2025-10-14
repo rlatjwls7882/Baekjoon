@@ -2046,6 +2046,7 @@
 | [11880](https://boj.kr/11880) | 개미 | Bronze 2 | [Java](./11xxx/11880. 개미/개미.java) |
 | [11881](https://boj.kr/11881) | 지우개 | Gold 3 | [C++](./11xxx/11881. 지우개/지우개.cc) |
 | [11895](https://boj.kr/11895) | 속이기 | Silver 2 | [C++](./11xxx/11895. 속이기/속이기.cc) |
+| [11896](https://boj.kr/11896) | 다각형 | Silver 5 | [C++](./11xxx/11896. 다각형/다각형.cc) |
 | [11899](https://boj.kr/11899) | 괄호 끼워넣기 | Silver 3 | [Java](./11xxx/11899. 괄호 끼워넣기/괄호 끼워넣기.java) |
 | [11908](https://boj.kr/11908) | 카드 | Bronze 3 | [Java](./11xxx/11908. 카드/카드.java) |
 | [11909](https://boj.kr/11909) | 배열 탈출 | Gold 5 | [Java](./11xxx/11909. 배열 탈출/배열 탈출.java) |
