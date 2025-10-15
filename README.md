@@ -3670,6 +3670,7 @@
 | [24661](https://boj.kr/24661) | Items and Heroes | Diamond 5 | [C++](./24xxx/24661. Items and Heroes/Items and Heroes.cc) |
 | [24723](https://boj.kr/24723) | 녹색거탑 | Bronze 4 | [Java](./24xxx/24723. 녹색거탑/녹색거탑.java) |
 | [24724](https://boj.kr/24724) | 현대모비스와 함께하는 부품 관리 | Bronze 3 | [Java](./24xxx/24724. 현대모비스와 함께하는 부품 관리/현대모비스와 함께하는 부품 관리.java) |
+| [24725](https://boj.kr/24725) | 엠비티아이 | Silver 3 | |
 | [24736](https://boj.kr/24736) | Football Scoring | Bronze 5 | [C](./24xxx/24736. Football Scoring/Football Scoring.c) |
 | [24747](https://boj.kr/24747) | Letterle | Bronze 2 | [Java](./24xxx/24747. Letterle/Letterle.java) |
 | [24751](https://boj.kr/24751) | Betting | Bronze 4 | [C](./24xxx/24751. Betting/Betting.c) |
@@ -4860,6 +4861,7 @@
 | [34446](https://boj.kr/34446) | E-Days Ore Cart Pull | Bronze 5 | [C++](./34xxx/34446. E－Days Ore Cart Pull/E－Days Ore Cart Pull.cc) |
 | [34454](https://boj.kr/34454) | Roller Coaster Ride | Bronze 5 | [C++](./34xxx/34454. Roller Coaster Ride/Roller Coaster Ride.cc) |
 | [34509](https://boj.kr/34509) | 2, 4, 6, 8 | Bronze 4 | [Text](./34xxx/34509. 2， 4， 6， 8/2， 4， 6， 8.txt) |
+| [34510](https://boj.kr/34510) | 초콜릿 우유가 좋아 | Bronze 2 | |
 | [34511](https://boj.kr/34511) | Polyominonal Puzzle | Bronze 1 | [C++](./34xxx/34511. Polyominonal Puzzle/Polyominonal Puzzle.cc) |
 | [34529](https://boj.kr/34529) | Acquiring SW-IT Corn | Bronze 4 | [C++](./34xxx/34529. Acquiring SW－IT Corn/Acquiring SW－IT Corn.cc) |
 | [34530](https://boj.kr/34530) | Back to Origin | Bronze 1 | [C++](./34xxx/34530. Back to Origin/Back to Origin.cc) |
