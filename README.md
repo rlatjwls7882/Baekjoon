@@ -4545,7 +4545,7 @@
 | [31789](https://boj.kr/31789) | 모험의 시작 | Bronze 3 | [C++](./31xxx/31789. 모험의 시작/모험의 시작.cc) |
 | [31798](https://boj.kr/31798) | 단원평가 | Bronze 3 | [C++](./31xxx/31798.%E2%80%85단원평가/단원평가.cc) |
 | [31799](https://boj.kr/31799) | 평점 변환 | Silver 5 | [C++](./31xxx/31799. 평점 변환/평점 변환.cc) |
-| [31804](https://boj.kr/31804) | Chance! | Gold 4 | |
+| [31804](https://boj.kr/31804) | Chance! | Gold 4 | [C++](./31xxx/31804. Chance！/Chance！.cc) |
 | [31821](https://boj.kr/31821) | 학식 사주기 | Bronze 4 | [Java](./31xxx/31821. 학식 사주기/학식 사주기.java) |
 | [31822](https://boj.kr/31822) | 재수강 | Bronze 4 | [Java](./31xxx/31822. 재수강/재수강.java) |
 | [31823](https://boj.kr/31823) | 악질 검거 | Bronze 1 | [C++](./31xxx/31823. 악질 검거/악질 검거.cc) |
