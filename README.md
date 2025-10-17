@@ -4704,6 +4704,7 @@
 | [32860](https://boj.kr/32860) | 수수수수퍼노바 | Bronze 2 | [C++](./32xxx/32860. 수수수수퍼노바/수수수수퍼노바.cc) |
 | [32866](https://boj.kr/32866) | 코인의 신 건모 | Bronze 3 | [C++](./32xxx/32866. 코인의 신 건모/코인의 신 건모.cc) |
 | [32888](https://boj.kr/32888) | Consolidating Windows | Bronze 3 | [C++](./32xxx/32888. Consolidating Windows/Consolidating Windows.cc) |
+| [32896](https://boj.kr/32896) | Hash Collision | Platinum 3 | [C++](./32xxx/32896. Hash Collision/Hash Collision.cc) |
 | [32902](https://boj.kr/32902) | Chips | Bronze 4 | [C++](./32xxx/32902. Chips/Chips.cc) |
 | [32905](https://boj.kr/32905) | RACI | Bronze 4 | [C++](./32xxx/32905. RACI/RACI.cc) |
 | [32916](https://boj.kr/32916) | Another Brick in the Wall | Bronze 1 | [C++](./32xxx/32916. Another Brick in the Wall/Another Brick in the Wall.cc) |
