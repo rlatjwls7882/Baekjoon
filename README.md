@@ -3981,7 +3981,7 @@
 | [27065](https://boj.kr/27065) | 2022년이 아름다웠던 이유 | Bronze 1 | [Java](./27xxx/27065. 2022년이 아름다웠던 이유/2022년이 아름다웠던 이유.java) |
 | [27087](https://boj.kr/27087) | 직육면체 | Gold 5 | [C++](./27xxx/27087. 직육면체/직육면체.cc) |
 | [27101](https://boj.kr/27101) | Metric Matrices | Bronze 2 | [Java](./27xxx/27101. Metric Matrices/Metric Matrices.java) |
-| [27106](https://boj.kr/27106) | Making Change | Bronze 2 | [Java](./27xxx/27106. Making Change/Making Change.java) |
+| [27106](https://boj.kr/27106) | Making Change | Bronze 3 | [Java](./27xxx/27106. Making Change/Making Change.java) |
 | [27110](https://boj.kr/27110) | 특식 배부 | Bronze 4 | [C](./27xxx/27110. 특식 배부/특식 배부.c) |
 | [27111](https://boj.kr/27111) | 출입 기록 | Silver 5 | [C++](./27xxx/27111. 출입 기록/출입 기록.cc) |
 | [27114](https://boj.kr/27114) | 조교의 맹연습 | Gold 4 | [C++](./27xxx/27114. 조교의 맹연습/조교의 맹연습.cc) |
