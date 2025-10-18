@@ -497,6 +497,7 @@
 | [02257](https://boj.kr/2257) | 화학식량 | Silver 1 | [C++](./02xxx/2257. 화학식량/화학식량.cc) |
 | [02263](https://boj.kr/2263) | 트리의 순회 | Gold 1 | [C++](./02xxx/2263. 트리의 순회/트리의 순회.cc) |
 | [02268](https://boj.kr/2268) | 수들의 합 7 | Gold 1 | [C++](./02xxx/2268. 수들의 합 7/수들의 합 7.cc) |
+| [02287](https://boj.kr/2287) | 모노디지털 표현 | Gold 1 | [C++](./02xxx/2287. 모노디지털 표현/모노디지털 표현.cc) |
 | [02290](https://boj.kr/2290) | LCD Test | Silver 2 | [C++](./02xxx/2290. LCD Test/LCD Test.cc) |
 | [02292](https://boj.kr/2292) | 벌집 | Bronze 2 | [Java](./02xxx/2292. 벌집/벌집.java) |
 | [02293](https://boj.kr/2293) | 동전 1 | Gold 4 | [C++](./02xxx/2293. 동전 1/동전 1.cc) |
