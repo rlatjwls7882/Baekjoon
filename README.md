@@ -3925,6 +3925,7 @@
 | [26513](https://boj.kr/26513) | Egg Drop | Bronze 2 | [C++](./26xxx/26513. Egg Drop/Egg Drop.cc) |
 | [26516](https://boj.kr/26516) | Mutint | Bronze 2 | [Java](./26xxx/26516. Mutint/Mutint.java) |
 | [26517](https://boj.kr/26517) | 연속인가? ? | Silver 5 | [Java](./26xxx/26517. 연속인가？ ？/연속인가？ ？.java) |
+| [26523](https://boj.kr/26523) | 균등분포와 정규분포 | Silver 1 | [C++](./26xxx/26523. 균등분포와 정규분포/균등분포와 정규분포.cc) |
 | [26529](https://boj.kr/26529) | Bunnies | Bronze 2 | [Java](./26xxx/26529. Bunnies/Bunnies.java) |
 | [26530](https://boj.kr/26530) | Shipping | Bronze 4 | [Java](./26xxx/26530. Shipping/Shipping.java) |
 | [26531](https://boj.kr/26531) | Simple Sum | Bronze 4 | [C](./26xxx/26531. Simple Sum/Simple Sum.c) |
