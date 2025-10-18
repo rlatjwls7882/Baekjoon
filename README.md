@@ -748,6 +748,7 @@
 | [02897](https://boj.kr/2897) | 몬스터 트럭 | Bronze 1 | [Java](./02xxx/2897. 몬스터 트럭/몬스터 트럭.java) |
 | [02902](https://boj.kr/2902) | KMP는 왜 KMP일까? | Bronze 3 | [Java](./02xxx/2902. KMP는 왜 KMP일까？/KMP는 왜 KMP일까？.java) |
 | [02903](https://boj.kr/2903) | 중앙 이동 알고리즘 | Bronze 3 | [Java](./02xxx/2903. 중앙 이동 알고리즘/중앙 이동 알고리즘.java) |
+| [02904](https://boj.kr/2904) | 수학은 너무 쉬워 | Gold 3 | [C++](./02xxx/2904. 수학은 너무 쉬워/수학은 너무 쉬워.cc) |
 | [02908](https://boj.kr/2908) | 상수 | Bronze 2 | [Java](./02xxx/2908. 상수/상수.java) |
 | [02909](https://boj.kr/2909) | 캔디 구매 | Bronze 2 | [Java](./02xxx/2909. 캔디 구매/캔디 구매.java) |
 | [02910](https://boj.kr/2910) | 빈도 정렬 | Silver 3 | [C++](./02xxx/2910. 빈도 정렬/빈도 정렬.cc) |
