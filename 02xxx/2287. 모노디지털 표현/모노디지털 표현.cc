@@ -2,7 +2,7 @@
 using namespace std;
 
 int k, t;
-vector<set<int>> dp(9); // dp[i] : k를 i번 사용하여 만들 수 있는 수들
+vector<unordered_set<int>> dp(9); // dp[i] : k를 i번 사용하여 만들 수 있는 수들
 
 string chk(int n) {
     for(int i=1;i<=8;i++) {
