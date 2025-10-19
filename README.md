@@ -4884,6 +4884,7 @@
 | [34552](https://boj.kr/34552) | 디딤돌 장학금 | Bronze 4 | [C++](./34xxx/34552. 디딤돌 장학금/디딤돌 장학금.cc) |
 | [34553](https://boj.kr/34553) | 알파벳 점수 계산기 | Bronze 3 | [C++](./34xxx/34553. 알파벳 점수 계산기/알파벳 점수 계산기.cc) |
 | [34554](https://boj.kr/34554) | 특수한 정수 쌍 | Silver 4 | [C++](./34xxx/34554. 특수한 정수 쌍/특수한 정수 쌍.cc) |
+| [34558](https://boj.kr/34558) | Prime Median | Gold 5 | [C++](./34xxx/34558. Prime Median/Prime Median.cc) |
 | [34563](https://boj.kr/34563) | 궁핍한 모그 | Bronze 2 | [C++](./34xxx/34563. 궁핍한 모그/궁핍한 모그.cc) |
 | [34584](https://boj.kr/34584) | Take It or Double It | Bronze 4 | [C++](./34xxx/34584. Take It or Double It/Take It or Double It.cc) |
 | [34619](https://boj.kr/34619) | 소대 배정 | Bronze 2 | [C++](./34xxx/34619. 소대 배정/소대 배정.cc) |
