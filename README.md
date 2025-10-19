@@ -4405,6 +4405,7 @@
 | [30596](https://boj.kr/30596) | Axis-Aligned Area | Bronze 3 | [Java](./30xxx/30596. Axis－Aligned Area/Axis－Aligned Area.java) |
 | [30617](https://boj.kr/30617) | Knob | Bronze 3 | [Java](./30xxx/30617. Knob/Knob.java) |
 | [30618](https://boj.kr/30618) | donstructive | Silver 4 | [Java](./30xxx/30618. donstructive/donstructive.java) |
+| [30619](https://boj.kr/30619) | 내 집 마련하기 | Silver 2 | [C++](./30xxx/30619. 내 집 마련하기/내 집 마련하기.cc) |
 | [30620](https://boj.kr/30620) | 서로소 싫어 | Silver 2 | [C++](./30xxx/30620. 서로소 싫어/서로소 싫어.cc) |
 | [30625](https://boj.kr/30625) | 댄스타임 | Silver 1 | [C++](./30xxx/30625. 댄스타임/댄스타임.cc) |
 | [30642](https://boj.kr/30642) | 아이그루스와 화장실 | Bronze 3 | [Java](./30xxx/30642.%E2%80%85아이그루스와%E2%80%85화장실/아이그루스와 화장실.java) |
