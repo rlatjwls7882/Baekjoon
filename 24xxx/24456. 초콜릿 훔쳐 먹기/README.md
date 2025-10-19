@@ -1,4 +1,4 @@
-# [Gold II] 초콜릿 훔쳐 먹기
+# [Gold III] 초콜릿 훔쳐 먹기
 
 [문제 링크](https://www.acmicpc.net/problem/24456) 
 
