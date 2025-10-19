@@ -11,8 +11,7 @@ struct element {
             return true;
         } else {
             if(e.in>=e.out) return false;
-            if(in!=e.in) return in>e.in;
-            return out<e.out;
+            return in>e.in;
         }
     }
 };
