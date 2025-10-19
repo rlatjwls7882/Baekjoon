@@ -5,7 +5,6 @@ typedef long long ll;
 const int MAX = 10'001;
 const ll w = 11*10*9*8*7*6*5*4*3*2;
 
-
 struct element {
     ll e, l, k;
 };
