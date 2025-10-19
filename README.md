@@ -3262,6 +3262,7 @@
 | [20651](https://boj.kr/20651) | Daisy Chains | Bronze 1 | [C++](./20xxx/20651. Daisy Chains/Daisy Chains.cc) |
 | [20660](https://boj.kr/20660) | Pizza | Bronze 2 | [Java](./20xxx/20660. Pizza/Pizza.java) |
 | [20667](https://boj.kr/20667) | 크롬 | Gold 1 | [C++](./20xxx/20667. 크롬/크롬.cc) |
+| [20668](https://boj.kr/20668) | 카트라이더 | Gold 1 | [C++](./20xxx/20668. 카트라이더/카트라이더.cc) |
 | [20670](https://boj.kr/20670) | 미스테리 싸인 | Platinum 3 | [C++](./20xxx/20670. 미스테리 싸인/미스테리 싸인.cc) |
 | [20673](https://boj.kr/20673) | Covid-19 | Bronze 4 | [Java](./20xxx/20673. Covid－19/Covid－19.java) |
 | [20674](https://boj.kr/20674) | Statistics | Bronze 3 | [Java](./20xxx/20674. Statistics/Statistics.java) |
