@@ -1251,6 +1251,7 @@
 | [06502](https://boj.kr/6502) | 동혁 피자 | Bronze 2 | [Java](./06xxx/6502. 동혁 피자/동혁 피자.java) |
 | [06503](https://boj.kr/6503) | 망가진 키보드 | Gold 5 | [C++](./06xxx/6503. 망가진 키보드/망가진 키보드.cc) |
 | [06504](https://boj.kr/6504) | 킬로미터를 마일로 | Silver 5 | [C++](./06xxx/6504. 킬로미터를 마일로/킬로미터를 마일로.cc) |
+| [06510](https://boj.kr/6510) | Annoying painting tool | Silver 1 | [C++](./06xxx/6510. Annoying painting tool/Annoying painting tool.cc) |
 | [06515](https://boj.kr/6515) | Frequent values | Platinum 2 | [C++](./06xxx/6515. Frequent values/Frequent values.cc) |
 | [06543](https://boj.kr/6543) | 그래프의 싱크 | Platinum 4 | [C++](./06xxx/6543. 그래프의 싱크/그래프의 싱크.cc) |
 | [06549](https://boj.kr/6549) | 히스토그램에서 가장 큰 직사각형 | Platinum 5 | [C++](./06xxx/6549. 히스토그램에서 가장 큰 직사각형/히스토그램에서 가장 큰 직사각형.cc) |
