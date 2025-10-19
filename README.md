@@ -3981,6 +3981,7 @@
 | [26849](https://boj.kr/26849) | Non Classical Problem | Bronze 3 | [Java](./26xxx/26849. Non Classical Problem/Non Classical Problem.java) |
 | [26863](https://boj.kr/26863) | Absolutely Flat | Bronze 3 | [Java](./26xxx/26863. Absolutely Flat/Absolutely Flat.java) |
 | [26884](https://boj.kr/26884) | Kent-buggen | Bronze 1 | [Java](./26xxx/26884. Kent－buggen/Kent－buggen.java) |
+| [26893](https://boj.kr/26893) | Tågstationer | Platinum 4 | [C++](./26xxx/26893. Tågstationer/Tågstationer.cc) |
 | [26906](https://boj.kr/26906) | Vikingahackare | Bronze 3 | [Java](./26xxx/26906. Vikingahackare/Vikingahackare.java) |
 | [26933](https://boj.kr/26933) | Receptet | Bronze 3 | [Java](./26xxx/26933. Receptet/Receptet.java) |
 | [26940](https://boj.kr/26940) | Chokladkartongen | Bronze 3 | [Java](./26xxx/26940. Chokladkartongen/Chokladkartongen.java) |
