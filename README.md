@@ -1429,6 +1429,7 @@
 | [08559](https://boj.kr/8559) | Potęga | Bronze 2 | [Java](./08xxx/8559. Potęga/Potęga.java) |
 | [08574](https://boj.kr/8574) | Ratownik | Bronze 3 | [Java](./08xxx/8574. Ratownik/Ratownik.java) |
 | [08595](https://boj.kr/8595) | 히든 넘버 | Bronze 1 | [Java](./08xxx/8595. 히든 넘버/히든 넘버.java) |
+| [08610](https://boj.kr/8610) | Szyfr | Bronze 1 | [C++](./08xxx/8610. Szyfr/Szyfr.cc) |
 | [08611](https://boj.kr/8611) | 팰린드롬 숫자 | Silver 5 | [Java](./08xxx/8611. 팰린드롬 숫자/팰린드롬 숫자.java) |
 | [08620](https://boj.kr/8620) | Hurtownia | Bronze 1 | [Java](./08xxx/8620. Hurtownia/Hurtownia.java) |
 | [08635](https://boj.kr/8635) | Zliczacz liter | Bronze 2 | [Java](./08xxx/8635. Zliczacz liter/Zliczacz liter.java) |
@@ -4715,6 +4716,7 @@
 | [32860](https://boj.kr/32860) | 수수수수퍼노바 | Bronze 2 | [C++](./32xxx/32860. 수수수수퍼노바/수수수수퍼노바.cc) |
 | [32866](https://boj.kr/32866) | 코인의 신 건모 | Bronze 3 | [C++](./32xxx/32866. 코인의 신 건모/코인의 신 건모.cc) |
 | [32888](https://boj.kr/32888) | Consolidating Windows | Bronze 3 | [C++](./32xxx/32888. Consolidating Windows/Consolidating Windows.cc) |
+| [32894](https://boj.kr/32894) | Flowing Fountain | Gold 1 | [C++](./32xxx/32894. Flowing Fountain/Flowing Fountain.cc) |
 | [32896](https://boj.kr/32896) | Hash Collision | Platinum 3 | [C++](./32xxx/32896. Hash Collision/Hash Collision.cc) |
 | [32902](https://boj.kr/32902) | Chips | Bronze 4 | [C++](./32xxx/32902. Chips/Chips.cc) |
 | [32905](https://boj.kr/32905) | RACI | Bronze 4 | [C++](./32xxx/32905. RACI/RACI.cc) |
