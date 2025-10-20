@@ -3787,6 +3787,7 @@
 | [25527](https://boj.kr/25527) | Counting Peaks of Infection | Bronze 3 | [Java](./25xxx/25527. Counting Peaks of Infection/Counting Peaks of Infection.java) |
 | [25551](https://boj.kr/25551) | 멋쟁이 포닉스 | Bronze 1 | [C++](./25xxx/25551. 멋쟁이 포닉스/멋쟁이 포닉스.cc) |
 | [25558](https://boj.kr/25558) | 내비게이션 | Bronze 2 | [Java](./25xxx/25558. 내비게이션/내비게이션.java) |
+| [25559](https://boj.kr/25559) | 패스 | Gold 4 | [C++](./25xxx/25559. 패스/패스.cc) |
 | [25576](https://boj.kr/25576) | 찾았다 악질 | Bronze 2 | [Java](./25xxx/25576. 찾았다 악질/찾았다 악질.java) |
 | [25577](https://boj.kr/25577) | 열 정렬정렬 정 | Gold 4 | [C++](./25xxx/25577. 열 정렬정렬 정/열 정렬정렬 정.cc) |
 | [25584](https://boj.kr/25584) | 근무 지옥에 빠진 푸앙이 (Large) | Silver 5 | [Java](./25xxx/25584. 근무 지옥에 빠진 푸앙이 （Large）/근무 지옥에 빠진 푸앙이 （Large）.java) |
