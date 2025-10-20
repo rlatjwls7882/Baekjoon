@@ -2153,6 +2153,7 @@
 | [12875](https://boj.kr/12875) | 칙령 | Gold 4 | [C++](./12xxx/12875. 칙령/칙령.cc) |
 | [12891](https://boj.kr/12891) | DNA 비밀번호 | Silver 2 | [C++](./12xxx/12891. DNA 비밀번호/DNA 비밀번호.cc) |
 | [12893](https://boj.kr/12893) | 적의 적 | Gold 4 | [C++](./12xxx/12893. 적의 적/적의 적.cc) |
+| [12897](https://boj.kr/12897) | Candy | Silver 1 | [C++](./12xxx/12897. Candy/Candy.cc) |
 | [12899](https://boj.kr/12899) | 데이터 구조 | Platinum 4 | [C++](./12xxx/12899. 데이터 구조/데이터 구조.cc) |
 | [12904](https://boj.kr/12904) | A와 B | Gold 5 | [Java](./12xxx/12904. A와 B/A와 B.java) |
 | [12916](https://boj.kr/12916) | K-Path | Gold 1 | [C++](./12xxx/12916. K－Path/K－Path.cc) |
