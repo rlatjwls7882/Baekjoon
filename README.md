@@ -4130,6 +4130,7 @@
 | [28063](https://boj.kr/28063) | 동전 복사 | Bronze 1 | [Java](./28xxx/28063. 동전 복사/동전 복사.java) |
 | [28064](https://boj.kr/28064) | 이민희진 | Silver 5 | [C++](./28xxx/28064. 이민희진/이민희진.cc) |
 | [28065](https://boj.kr/28065) | SW 수열 구하기 | Silver 4 | [C++](./28xxx/28065. SW 수열 구하기/SW 수열 구하기.cc) |
+| [28068](https://boj.kr/28068) | I Am Knowledge | Platinum 4 | [C++](./28xxx/28068. I Am Knowledge/I Am Knowledge.cc) |
 | [28074](https://boj.kr/28074) | 모비스 | Bronze 4 | [Java](./28xxx/28074. 모비스/모비스.java) |
 | [28078](https://boj.kr/28078) | 중력 큐 | Gold 5 | [C++](./28xxx/28078. 중력 큐/중력 큐.cc) |
 | [28088](https://boj.kr/28088) | 응애(EASY) | Silver 4 | [C++](./28xxx/28088. 응애（EASY）/응애（EASY）.cc) |
