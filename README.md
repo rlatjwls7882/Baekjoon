@@ -1542,6 +1542,7 @@
 | [09324](https://boj.kr/9324) | 진짜 메시지 | Silver 4 | [Java](./09xxx/9324. 진짜 메시지/진짜 메시지.java) |
 | [09325](https://boj.kr/9325) | 얼마? | Bronze 3 | [Java](./09xxx/9325. 얼마？/얼마？.java) |
 | [09328](https://boj.kr/9328) | 열쇠 | Gold 1 | [C++](./09xxx/9328. 열쇠/열쇠.cc) |
+| [09329](https://boj.kr/9329) | 패스트 푸드 상금 | Bronze 1 | [C++](./09xxx/9329. 패스트 푸드 상금/패스트 푸드 상금.cc) |
 | [09339](https://boj.kr/9339) | 마라토너 | Bronze 1 | [Java](./09xxx/9339. 마라토너/마라토너.java) |
 | [09342](https://boj.kr/9342) | 염색체 | Silver 3 | [C++](./09xxx/9342. 염색체/염색체.cc) |
 | [09344](https://boj.kr/9344) | 도로 | Gold 3 | [Java](./09xxx/9344. 도로/도로.java) |
