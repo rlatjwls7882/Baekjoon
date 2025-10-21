@@ -2587,12 +2587,14 @@
 | [15474](https://boj.kr/15474) | 鉛筆 (Pencils) | Bronze 4 | [C](./15xxx/15474. 鉛筆 （Pencils）/鉛筆 （Pencils）.c) |
 | [15476](https://boj.kr/15476) | 幹線道路 (Trunk Road) | Bronze 1 | [C++](./15xxx/15476. 幹線道路 （Trunk Road）/幹線道路 （Trunk Road）.cc) |
 | [15486](https://boj.kr/15486) | 퇴사 2 | Gold 5 | [C++](./15xxx/15486. 퇴사 2/퇴사 2.cc) |
+| [15487](https://boj.kr/15487) | A[j]-A[i]+A[l]-A[k] | Gold 4 | [C++](./15xxx/15487. A［j］－A［i］＋A［l］－A［k］/A［j］－A［i］＋A［l］－A［k］.cc) |
 | [15489](https://boj.kr/15489) | 파스칼 삼각형 | Silver 4 | [Java](./15xxx/15489. 파스칼 삼각형/파스칼 삼각형.java) |
 | [15494](https://boj.kr/15494) | Davor | Bronze 2 | [Java](./15xxx/15494. Davor/Davor.java) |
 | [15508](https://boj.kr/15508) | Xayahh-Rakann at Moloco (Easy) | Gold 4 | [Java](./15xxx/15508. Xayahh－Rakann at Moloco （Easy）/Xayahh－Rakann at Moloco （Easy）.java) |
 | [15516](https://boj.kr/15516) | Array Manipulation at Moloco (Easy) | Silver 5 | [C++](./15xxx/15516. Array Manipulation at Moloco （Easy）/Array Manipulation at Moloco （Easy）.cc) |
 | [15549](https://boj.kr/15549) | if | Silver 5 | [Text](./15xxx/15549.%E2%80%85if/if.txt) |
 | [15552](https://boj.kr/15552) | 빠른 A+B | Bronze 4 | [C](./15xxx/15552. 빠른 A＋B/빠른 A＋B.c) |
+| [15563](https://boj.kr/15563) | Äventyr 1 | Silver 1 | [C++](./15xxx/15563. Äventyr 1/Äventyr 1.cc) |
 | [15565](https://boj.kr/15565) | 귀여운 라이언 | Silver 1 | [C++](./15xxx/15565. 귀여운 라이언/귀여운 라이언.cc) |
 | [15593](https://boj.kr/15593) | Lifeguards (Bronze) | Bronze 1 | [Java](./15xxx/15593. Lifeguards （Bronze）/Lifeguards （Bronze）.java) |
 | [15595](https://boj.kr/15595) | 정답 비율 계산하기 | Silver 3 | [C++](./15xxx/15595. 정답 비율 계산하기/정답 비율 계산하기.cc) |
