@@ -2123,6 +2123,7 @@
 | [12759](https://boj.kr/12759) | 틱! 택! 토! | Silver 5 | [Java](./12xxx/12759. 틱！ 택！ 토！/틱！ 택！ 토！.java) |
 | [12760](https://boj.kr/12760) | 최후의 승자는 누구? | Silver 5 | [Python](./12xxx/12760. 최후의 승자는 누구？/최후의 승자는 누구？.py) |
 | [12761](https://boj.kr/12761) | 돌다리 | Silver 1 | [C++](./12xxx/12761. 돌다리/돌다리.cc) |
+| [12776](https://boj.kr/12776) | Swap Space | Platinum 4 | [C++](./12xxx/12776. Swap Space/Swap Space.cc) |
 | [12778](https://boj.kr/12778) | CTP공국으로 이민 가자 | Bronze 2 | [Java](./12xxx/12778. CTP공국으로 이민 가자/CTP공국으로 이민 가자.java) |
 | [12779](https://boj.kr/12779) | 상품 is 뭔들 | Silver 2 | [C++](./12xxx/12779. 상품 is 뭔들/상품 is 뭔들.cc) |
 | [12780](https://boj.kr/12780) | 원피스 | Bronze 2 | [Java](./12xxx/12780. 원피스/원피스.java) |
