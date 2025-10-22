@@ -2158,6 +2158,7 @@
 | [12899](https://boj.kr/12899) | 데이터 구조 | Platinum 4 | [C++](./12xxx/12899. 데이터 구조/데이터 구조.cc) |
 | [12904](https://boj.kr/12904) | A와 B | Gold 5 | [Java](./12xxx/12904. A와 B/A와 B.java) |
 | [12916](https://boj.kr/12916) | K-Path | Gold 1 | [C++](./12xxx/12916. K－Path/K－Path.cc) |
+| [12919](https://boj.kr/12919) | A와 B 2 | Gold 5 | [C++](./12xxx/12919. A와 B 2/A와 B 2.cc) |
 | [12921](https://boj.kr/12921) | 제한된 메모리 | Platinum 1 | [C++](./12xxx/12921. 제한된 메모리/제한된 메모리.cc) |
 | [12924](https://boj.kr/12924) | 멋진 쌍 | Gold 5 | [C++](./12xxx/12924. 멋진 쌍/멋진 쌍.cc) |
 | [12927](https://boj.kr/12927) | 배수 스위치 | Silver 4 | [C++](./12xxx/12927. 배수 스위치/배수 스위치.cc) |
