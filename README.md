@@ -4523,7 +4523,7 @@
 | [31518](https://boj.kr/31518) | Triple Sevens | Bronze 4 | [Python](./31xxx/31518. Triple Sevens/Triple Sevens.py) |
 | [31520](https://boj.kr/31520) | Champernowne Verification | Bronze 4 | [Python](./31xxx/31520. Champernowne Verification/Champernowne Verification.py) |
 | [31526](https://boj.kr/31526) | Rampant Growth | Bronze 2 | [Python](./31xxx/31526. Rampant Growth/Rampant Growth.py) |
-| [31529](https://boj.kr/31529) | 2024년에는 혼자가 아니길 | Silver 5 | [C++](./31xxx/31529. 2024년에는 혼자가 아니길/2024년에는 혼자가 아니길.cc) |
+| [31529](https://boj.kr/31529) | 2024년에는 혼자가 아니길 | Silver 4 | [C++](./31xxx/31529. 2024년에는 혼자가 아니길/2024년에는 혼자가 아니길.cc) |
 | [31533](https://boj.kr/31533) | Furiosa AI 영상 처리 가속 | Bronze 2 | [Java](./31xxx/31533. Furiosa AI 영상 처리 가속/Furiosa AI 영상 처리 가속.java) |
 | [31536](https://boj.kr/31536) | 멈뭄미믜 저주 탈출 | Gold 3 | [C++](./31xxx/31536. 멈뭄미믜 저주 탈출/멈뭄미믜 저주 탈출.cc) |
 | [31561](https://boj.kr/31561) | 시계탑 | Bronze 3 | [Python](./31xxx/31561. 시계탑/시계탑.py) |
