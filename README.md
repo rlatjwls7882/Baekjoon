@@ -3761,6 +3761,7 @@
 | [25318](https://boj.kr/25318) | solved.ac 2022 | Silver 1 | [Python](./25xxx/25318. solved．ac 2022/solved．ac 2022.py) |
 | [25325](https://boj.kr/25325) | 학생 인기도 측정 | Silver 5 | [Java](./25xxx/25325. 학생 인기도 측정/학생 인기도 측정.java) |
 | [25326](https://boj.kr/25326) | 다중 항목 선호도 조사 (Small) | Bronze 1 | [Java](./25xxx/25326. 다중 항목 선호도 조사 （Small）/다중 항목 선호도 조사 （Small）.java) |
+| [25328](https://boj.kr/25328) | 문자열 집합 조합하기 | Silver 2 | [C++](./25xxx/25328. 문자열 집합 조합하기/문자열 집합 조합하기.cc) |
 | [25330](https://boj.kr/25330) | SHOW ME THE DUNGEON | Gold 4 | [C++](./25xxx/25330. SHOW ME THE DUNGEON/SHOW ME THE DUNGEON.cc) |
 | [25335](https://boj.kr/25335) | Gravity Hackenbush | Silver 5 | [Java](./25xxx/25335. Gravity Hackenbush/Gravity Hackenbush.java) |
 | [25344](https://boj.kr/25344) | 행성 정렬 | Silver 4 | [C++](./25xxx/25344. 행성 정렬/행성 정렬.cc) |
