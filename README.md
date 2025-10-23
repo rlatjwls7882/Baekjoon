@@ -1478,6 +1478,7 @@
 | [08949](https://boj.kr/8949) | 대충 더해 | Bronze 2 | [Java](./08xxx/8949. 대충 더해/대충 더해.java) |
 | [08958](https://boj.kr/8958) | OX퀴즈 | Bronze 2 | [C](./08xxx/8958. OX퀴즈/OX퀴즈.c) |
 | [08965](https://boj.kr/8965) | Circular Sequence | Bronze 2 | [Java](./08xxx/8965. Circular Sequence/Circular Sequence.java) |
+| [08973](https://boj.kr/8973) | 수학 공책 | Gold 4 | [C++](./08xxx/8973. 수학 공책/수학 공책.cc) |
 | [08974](https://boj.kr/8974) | 희주의 수학시험 | Bronze 1 | [Java](./08xxx/8974. 희주의 수학시험/희주의 수학시험.java) |
 | [08979](https://boj.kr/8979) | 올림픽 | Silver 5 | [Java](./08xxx/8979. 올림픽/올림픽.java) |
 | [09009](https://boj.kr/9009) | 피보나치 | Silver 1 | [C++](./09xxx/9009. 피보나치/피보나치.cc) |
@@ -4858,6 +4859,7 @@
 | [34073](https://boj.kr/34073) | DORO | Bronze 4 | [C++](./34xxx/34073. DORO/DORO.cc) |
 | [34115](https://boj.kr/34115) | 먼 카드 | Bronze 3 | [C++](./34xxx/34115. 먼 카드/먼 카드.cc) |
 | [34125](https://boj.kr/34125) | 래환이의 아이브 콘서트 이야기 | Bronze 3 | [C++](./34xxx/34125. 래환이의 아이브 콘서트 이야기/래환이의 아이브 콘서트 이야기.cc) |
+| [34126](https://boj.kr/34126) | 래환이의 초콜릿 포장 이야기 | Silver 3 | [C++](./34xxx/34126. 래환이의 초콜릿 포장 이야기/래환이의 초콜릿 포장 이야기.cc) |
 | [34139](https://boj.kr/34139) | 의식의 광장 | Silver 2 | [C++](./34xxx/34139. 의식의 광장/의식의 광장.cc) |
 | [34146](https://boj.kr/34146) | 잃어버린 섬 | Silver 5 | [C++](./34xxx/34146. 잃어버린 섬/잃어버린 섬.cc) |
 | [34161](https://boj.kr/34161) | OO0OO | Bronze 4 | [C++](./34xxx/34161. OO0OO/OO0OO.cc) |
