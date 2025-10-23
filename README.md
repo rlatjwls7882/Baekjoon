@@ -1308,7 +1308,7 @@
 | [06889](https://boj.kr/6889) | Smile with Similes | Bronze 3 | [Java](./06xxx/6889. Smile with Similes/Smile with Similes.java) |
 | [06890](https://boj.kr/6890) | Simple Encryption | Bronze 2 | [Java](./06xxx/6890. Simple Encryption/Simple Encryption.java) |
 | [06892](https://boj.kr/6892) | Fix | Bronze 2 | [Java](./06xxx/6892. Fix/Fix.java) |
-| [06893](https://boj.kr/6893) | TopYodeller | Bronze 1 | [C++](./06xxx/6893. TopYodeller/TopYodeller.cc) |
+| [06893](https://boj.kr/6893) | TopYodeller | Silver 5 | [C++](./06xxx/6893. TopYodeller/TopYodeller.cc) |
 | [06903](https://boj.kr/6903) | Trident | Bronze 3 | [Java](./06xxx/6903. Trident/Trident.java) |
 | [06904](https://boj.kr/6904) | Picture Perfect | Bronze 2 | [Java](./06xxx/6904. Picture Perfect/Picture Perfect.java) |
 | [06909](https://boj.kr/6909) | Trucking Troubles | Gold 4 | [Java](./06xxx/6909. Trucking Troubles/Trucking Troubles.java) |
