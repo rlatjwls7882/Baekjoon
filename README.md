@@ -3890,6 +3890,7 @@
 | [26072](https://boj.kr/26072) | 곰곰이와 시소 | Silver 2 | [C++](./26xxx/26072. 곰곰이와 시소/곰곰이와 시소.cc) |
 | [26073](https://boj.kr/26073) | 외로운 곰곰이는 친구가 있어요 | Gold 3 | [C++](./26xxx/26073. 외로운 곰곰이는 친구가 있어요/외로운 곰곰이는 친구가 있어요.cc) |
 | [26082](https://boj.kr/26082) | WARBOY | Bronze 5 | [C](./26xxx/26082. WARBOY/WARBOY.c) |
+| [26084](https://boj.kr/26084) | DPS | Silver 2 | [C++](./26xxx/26084. DPS/DPS.cc) |
 | [26085](https://boj.kr/26085) | 효구와 호규 (Easy) | Silver 1 | [Java](./26xxx/26085. 효구와 호규 （Easy）/효구와 호규 （Easy）.java) |
 | [26091](https://boj.kr/26091) | 현대모비스 소프트웨어 아카데미 | Silver 1 | [C++](./26xxx/26091. 현대모비스 소프트웨어 아카데미/현대모비스 소프트웨어 아카데미.cc) |
 | [26097](https://boj.kr/26097) | 효구와 호규 (Hard) | Gold 2 | [Java](./26xxx/26097. 효구와 호규 （Hard）/효구와 호규 （Hard）.java) |
@@ -4892,6 +4893,7 @@
 | [34443](https://boj.kr/34443) | Hack-a-Holics | Bronze 5 | [C++](./34xxx/34443. Hack－a－Holics/Hack－a－Holics.cc) |
 | [34446](https://boj.kr/34446) | E-Days Ore Cart Pull | Bronze 5 | [C++](./34xxx/34446. E－Days Ore Cart Pull/E－Days Ore Cart Pull.cc) |
 | [34454](https://boj.kr/34454) | Roller Coaster Ride | Bronze 5 | [C++](./34xxx/34454. Roller Coaster Ride/Roller Coaster Ride.cc) |
+| [34455](https://boj.kr/34455) | Donut Shop | Bronze 4 | [C++](./34xxx/34455. Donut Shop/Donut Shop.cc) |
 | [34509](https://boj.kr/34509) | 2, 4, 6, 8 | Bronze 4 | [Text](./34xxx/34509. 2， 4， 6， 8/2， 4， 6， 8.txt) |
 | [34510](https://boj.kr/34510) | 초콜릿 우유가 좋아 | Bronze 2 | [C++](./34xxx/34510. 초콜릿 우유가 좋아/초콜릿 우유가 좋아.cc) |
 | [34511](https://boj.kr/34511) | Polyominonal Puzzle | Bronze 1 | [C++](./34xxx/34511. Polyominonal Puzzle/Polyominonal Puzzle.cc) |
