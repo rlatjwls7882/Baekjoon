@@ -4895,6 +4895,7 @@
 | [34511](https://boj.kr/34511) | Polyominonal Puzzle | Bronze 1 | [C++](./34xxx/34511. Polyominonal Puzzle/Polyominonal Puzzle.cc) |
 | [34529](https://boj.kr/34529) | Acquiring SW-IT Corn | Bronze 4 | [C++](./34xxx/34529. Acquiring SW－IT Corn/Acquiring SW－IT Corn.cc) |
 | [34530](https://boj.kr/34530) | Back to Origin | Bronze 1 | [C++](./34xxx/34530. Back to Origin/Back to Origin.cc) |
+| [34534](https://boj.kr/34534) | Form a Straight! | Bronze 1 | [C++](./34xxx/34534. Form a Straight！/Form a Straight！.cc) |
 | [34543](https://boj.kr/34543) | 와우산 스탬프 투어 | Bronze 4 | [C++](./34xxx/34543. 와우산 스탬프 투어/와우산 스탬프 투어.cc) |
 | [34544](https://boj.kr/34544) | 후문으로 | Bronze 2 | [C++](./34xxx/34544. 후문으로/후문으로.cc) |
 | [34552](https://boj.kr/34552) | 디딤돌 장학금 | Bronze 4 | [C++](./34xxx/34552. 디딤돌 장학금/디딤돌 장학금.cc) |
