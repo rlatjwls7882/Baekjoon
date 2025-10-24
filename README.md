@@ -2635,6 +2635,7 @@
 | [15688](https://boj.kr/15688) | 수 정렬하기 5 | Silver 5 | [Java](./15xxx/15688. 수 정렬하기 5/수 정렬하기 5.java) |
 | [15700](https://boj.kr/15700) | 타일 채우기 4 | Bronze 4 | [C](./15xxx/15700. 타일 채우기 4/타일 채우기 4.c) |
 | [15701](https://boj.kr/15701) | 순서쌍 | Bronze 1 | [Java](./15xxx/15701. 순서쌍/순서쌍.java) |
+| [15702](https://boj.kr/15702) | 중간고사 채점 | Silver 5 | [C++](./15xxx/15702. 중간고사 채점/중간고사 채점.cc) |
 | [15707](https://boj.kr/15707) | exceed or not | Silver 4 | [C++](./15xxx/15707. exceed or not/exceed or not.cc) |
 | [15708](https://boj.kr/15708) | 미네크래프트 | Platinum 5 | [C++](./15xxx/15708. 미네크래프트/미네크래프트.cc) |
 | [15711](https://boj.kr/15711) | 환상의 짝꿍 | Gold 3 | [C++](./15xxx/15711. 환상의 짝꿍/환상의 짝꿍.cc) |
