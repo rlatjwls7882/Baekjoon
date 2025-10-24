@@ -4211,6 +4211,7 @@
 | [28640](https://boj.kr/28640) | Домино | Bronze 3 | [Java](./28xxx/28640. Домино/Домино.java) |
 | [28648](https://boj.kr/28648) | Торговый центр | Bronze 4 | [Java](./28xxx/28648. Торговый центр/Торговый центр.java) |
 | [28653](https://boj.kr/28653) | Минимальная строка | Bronze 1 | [Java](./28xxx/28653. Минимальная строка/Минимальная строка.java) |
+| [28682](https://boj.kr/28682) | 재우야 임관하자 | Bronze 1 | [C++](./28xxx/28682. 재우야 임관하자/재우야 임관하자.cc) |
 | [28683](https://boj.kr/28683) | 피타! 피타! 피타츄! | Gold 5 | [C++](./28xxx/28683. 피타！ 피타！ 피타츄！/피타！ 피타！ 피타츄！.cc) |
 | [28691](https://boj.kr/28691) | 정보보호학부 동아리 소개 | Bronze 5 | [Java](./28xxx/28691. 정보보호학부 동아리 소개/정보보호학부 동아리 소개.java) |
 | [28692](https://boj.kr/28692) | 선형 회귀는 너무 쉬워 2 | Silver 5 | [Java](./28xxx/28692. 선형 회귀는 너무 쉬워 2/선형 회귀는 너무 쉬워 2.java) |
@@ -4572,6 +4573,7 @@
 | [31799](https://boj.kr/31799) | 평점 변환 | Silver 5 | [C++](./31xxx/31799. 평점 변환/평점 변환.cc) |
 | [31800](https://boj.kr/31800) | Best Chance | Bronze 1 | [C++](./31xxx/31800. Best Chance/Best Chance.cc) |
 | [31804](https://boj.kr/31804) | Chance! | Gold 4 | [C++](./31xxx/31804. Chance！/Chance！.cc) |
+| [31816](https://boj.kr/31816) | Closet | Platinum 2 | [C++](./31xxx/31816. Closet/Closet.cc) |
 | [31821](https://boj.kr/31821) | 학식 사주기 | Bronze 4 | [Java](./31xxx/31821. 학식 사주기/학식 사주기.java) |
 | [31822](https://boj.kr/31822) | 재수강 | Bronze 4 | [Java](./31xxx/31822. 재수강/재수강.java) |
 | [31823](https://boj.kr/31823) | 악질 검거 | Bronze 1 | [C++](./31xxx/31823. 악질 검거/악질 검거.cc) |
