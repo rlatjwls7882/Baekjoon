@@ -56,7 +56,7 @@
 | [01080](https://boj.kr/1080) | 행렬 | Silver 1 | [C++](./01xxx/1080. 행렬/행렬.cc) |
 | [01085](https://boj.kr/1085) | 직사각형에서 탈출 | Bronze 3 | [Java](./01xxx/1085. 직사각형에서 탈출/직사각형에서 탈출.java) |
 | [01086](https://boj.kr/1086) | 박성원 | Platinum 5 | [C++](./01xxx/1086. 박성원/박성원.cc) |
-| [01089](https://boj.kr/1089) | 스타트링크 타워 | Gold 4 | [C++](./01xxx/1089. 스타트링크 타워/스타트링크 타워.cc) |
+| [01089](https://boj.kr/1089) | 스타트링크 타워 | Gold 3 | [C++](./01xxx/1089. 스타트링크 타워/스타트링크 타워.cc) |
 | [01092](https://boj.kr/1092) | 배 | Gold 5 | [C++](./01xxx/1092. 배/배.cc) |
 | [01093](https://boj.kr/1093) | 스티커 수집 | Platinum 3 | [C++](./01xxx/1093. 스티커 수집/스티커 수집.cc) |
 | [01094](https://boj.kr/1094) | 막대기 | Silver 5 | [Java](./01xxx/1094. 막대기/막대기.java) |
@@ -3086,6 +3086,7 @@
 | [18142](https://boj.kr/18142) | Tapioka | Bronze 2 | [Java](./18xxx/18142. Tapioka/Tapioka.java) |
 | [18154](https://boj.kr/18154) | Speeding | Bronze 2 | [Java](./18xxx/18154. Speeding/Speeding.java) |
 | [18156](https://boj.kr/18156) | Black and White | Bronze 1 | [Java](./18xxx/18156. Black and White/Black and White.java) |
+| [18158](https://boj.kr/18158) | What an Easy Problem | Bronze 2 | [C++](./18xxx/18158. What an Easy Problem/What an Easy Problem.cc) |
 | [18198](https://boj.kr/18198) | Basketball One-on-One | Bronze 4 | [Java](./18xxx/18198. Basketball One－on－One/Basketball One－on－One.java) |
 | [18221](https://boj.kr/18221) | 교수님 저는 취업할래요 | Silver 5 | [C++](./18xxx/18221. 교수님 저는 취업할래요/교수님 저는 취업할래요.cc) |
 | [18222](https://boj.kr/18222) | 투에-모스 문자열 | Silver 2 | [C++](./18xxx/18222. 투에－모스 문자열/투에－모스 문자열.cc) |
