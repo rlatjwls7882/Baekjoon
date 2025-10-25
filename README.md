@@ -130,7 +130,7 @@
 | [01297](https://boj.kr/1297) | TV 크기 | Bronze 2 | [Java](./01xxx/1297. TV 크기/TV 크기.java) |
 | [01298](https://boj.kr/1298) | 노트북의 주인을 찾아서 | Platinum 4 | [C++](./01xxx/1298. 노트북의 주인을 찾아서/노트북의 주인을 찾아서.cc) |
 | [01300](https://boj.kr/1300) | K번째 수 | Gold 1 | [C++](./01xxx/1300. K번째 수/K번째 수.cc) |
-| [01301](https://boj.kr/1301) | 비즈 공예 | Gold 2 | [C++](./01xxx/1301. 비즈 공예/비즈 공예.cc) |
+| [01301](https://boj.kr/1301) | 비즈 공예 | Gold 3 | [C++](./01xxx/1301. 비즈 공예/비즈 공예.cc) |
 | [01302](https://boj.kr/1302) | 베스트셀러 | Silver 4 | [Java](./01xxx/1302. 베스트셀러/베스트셀러.java) |
 | [01303](https://boj.kr/1303) | 전쟁 - 전투 | Silver 1 | [C++](./01xxx/1303. 전쟁 － 전투/전쟁 － 전투.cc) |
 | [01304](https://boj.kr/1304) | 지역 | Gold 2 | [C++](./01xxx/1304. 지역/지역.cc) |
@@ -3049,6 +3049,7 @@
 | [17912](https://boj.kr/17912) | License to Launch | Bronze 4 | [Java](./17xxx/17912. License to Launch/License to Launch.java) |
 | [17919](https://boj.kr/17919) | Östgötska | Bronze 2 | [Java](./17xxx/17919. Östgötska/Östgötska.java) |
 | [17924](https://boj.kr/17924) | Cooking Water | Bronze 2 | [Java](./17xxx/17924. Cooking Water/Cooking Water.java) |
+| [17927](https://boj.kr/17927) | Counting Greedily Increasing Supersequences | Gold 2 | [C++](./17xxx/17927. Counting Greedily Increasing Supersequences/Counting Greedily Increasing Supersequences.cc) |
 | [17930](https://boj.kr/17930) | Hanging Out on the Terrace | Bronze 2 | [Java](./17xxx/17930. Hanging Out on the Terrace/Hanging Out on the Terrace.java) |
 | [17931](https://boj.kr/17931) | Greedily Increasing Subsequence | Bronze 2 | [C++](./17xxx/17931. Greedily Increasing Subsequence/Greedily Increasing Subsequence.cc) |
 | [17944](https://boj.kr/17944) | 퐁당퐁당 1 | Bronze 3 | [Java](./17xxx/17944. 퐁당퐁당 1/퐁당퐁당 1.java) |
