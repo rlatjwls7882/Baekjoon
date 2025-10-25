@@ -4753,6 +4753,7 @@
 | [32978](https://boj.kr/32978) | 아 맞다 마늘 | Bronze 3 | [C++](./32xxx/32978. 아 맞다 마늘/아 맞다 마늘.cc) |
 | [32981](https://boj.kr/32981) | 찐 Even Number | Silver 3 | [C++](./32xxx/32981. 찐 Even Number/찐 Even Number.cc) |
 | [33026](https://boj.kr/33026) | LOL Lovers | Bronze 3 | [C++](./33xxx/33026. LOL Lovers/LOL Lovers.cc) |
+| [33040](https://boj.kr/33040) | 마작 거신병 1 | Silver 1 | [C++](./33xxx/33040. 마작 거신병 1/마작 거신병 1.cc) |
 | [33046](https://boj.kr/33046) | Alea Iacta Est | Bronze 4 | [C++](./33xxx/33046. Alea Iacta Est/Alea Iacta Est.cc) |
 | [33111](https://boj.kr/33111) | Intensive Training | Silver 2 | [C++](./33xxx/33111. Intensive Training/Intensive Training.cc) |
 | [33135](https://boj.kr/33135) | Append and Panic! | Bronze 3 | [C++](./33xxx/33135. Append and Panic！/Append and Panic！.cc) |
