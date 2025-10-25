@@ -12,7 +12,7 @@ struct element {
     int l, r, idx;
     bool operator<(const element e) const {
         if(r!=e.r) return r<e.r;
-        return r-l>e.r-e.l;
+        return l<-e.l;
     }
 };
 
