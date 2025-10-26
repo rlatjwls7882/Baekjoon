@@ -1553,6 +1553,7 @@
 | [09345](https://boj.kr/9345) | 디지털 비디오 디스크(DVDs) | Platinum 3 | [C++](./09xxx/9345. 디지털 비디오 디스크（DVDs）/디지털 비디오 디스크（DVDs）.cc) |
 | [09349](https://boj.kr/9349) | Fegla and the Bed Bugs | Bronze 2 | [Java](./09xxx/9349. Fegla and the Bed Bugs/Fegla and the Bed Bugs.java) |
 | [09358](https://boj.kr/9358) | 순열 접기 게임 | Silver 5 | [C++](./09xxx/9358. 순열 접기 게임/순열 접기 게임.cc) |
+| [09359](https://boj.kr/9359) | 서로소 | Gold 1 | [C++](./09xxx/9359. 서로소/서로소.cc) |
 | [09366](https://boj.kr/9366) | 삼각형 분류 | Bronze 3 | [Java](./09xxx/9366. 삼각형 분류/삼각형 분류.java) |
 | [09370](https://boj.kr/9370) | 미확인 도착지 | Gold 2 | [Java](./09xxx/9370. 미확인 도착지/미확인 도착지.java) |
 | [09372](https://boj.kr/9372) | 상근이의 여행 | Silver 4 | [Java](./09xxx/9372. 상근이의 여행/상근이의 여행.java) |
