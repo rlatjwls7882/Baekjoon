@@ -195,6 +195,7 @@
 | [01437](https://boj.kr/1437) | 수 분해 | Gold 4 | [C++](./01xxx/1437. 수 분해/수 분해.cc) |
 | [01439](https://boj.kr/1439) | 뒤집기 | Silver 5 | [Java](./01xxx/1439. 뒤집기/뒤집기.java) |
 | [01440](https://boj.kr/1440) | 타임머신 | Bronze 2 | [Java](./01xxx/1440. 타임머신/타임머신.java) |
+| [01441](https://boj.kr/1441) | 나누어 질까 | Gold 1 | [C++](./01xxx/1441. 나누어 질까/나누어 질까.cc) |
 | [01445](https://boj.kr/1445) | 일요일 아침의 데이트 | Gold 2 | [C++](./01xxx/1445. 일요일 아침의 데이트/일요일 아침의 데이트.cc) |
 | [01446](https://boj.kr/1446) | 지름길 | Silver 1 | [C++](./01xxx/1446. 지름길/지름길.cc) |
 | [01448](https://boj.kr/1448) | 삼각형 만들기 | Silver 3 | [C++](./01xxx/1448. 삼각형 만들기/삼각형 만들기.cc) |
@@ -2169,6 +2170,7 @@
 | [12931](https://boj.kr/12931) | 두 배 더하기 | Gold 5 | [C++](./12xxx/12931. 두 배 더하기/두 배 더하기.cc) |
 | [12933](https://boj.kr/12933) | 오리 | Silver 2 | [C++](./12xxx/12933. 오리/오리.cc) |
 | [12934](https://boj.kr/12934) | 턴 게임 | Gold 5 | [C++](./12xxx/12934. 턴 게임/턴 게임.cc) |
+| [12944](https://boj.kr/12944) | 재미있는 숫자 놀이 | Gold 2 | [C++](./12xxx/12944. 재미있는 숫자 놀이/재미있는 숫자 놀이.cc) |
 | [12947](https://boj.kr/12947) | 트리 만들기 | Gold 4 | [C++](./12xxx/12947. 트리 만들기/트리 만들기.cc) |
 | [12956](https://boj.kr/12956) | 퍼레이드 | Gold 2 | [C++](./12xxx/12956. 퍼레이드/퍼레이드.cc) |
 | [12966](https://boj.kr/12966) | 턴 게임 2 | Gold 2 | [C++](./12xxx/12966. 턴 게임 2/턴 게임 2.cc) |
@@ -2496,6 +2498,7 @@
 | [14803](https://boj.kr/14803) | Steed 2: Cruise Control (Small) | Bronze 2 | [Java](./14xxx/14803. Steed 2： Cruise Control （Small）/Steed 2： Cruise Control （Small）.java) |
 | [14804](https://boj.kr/14804) | Steed 2: Cruise Control (Large) | Bronze 1 | [Java](./14xxx/14804. Steed 2： Cruise Control （Large）/Steed 2： Cruise Control （Large）.java) |
 | [14825](https://boj.kr/14825) | Good News and Bad News (Small) | Gold 3 | [C++](./14xxx/14825. Good News and Bad News （Small）/Good News and Bad News （Small）.cc) |
+| [14848](https://boj.kr/14848) | 정수 게임 | Gold 3 | [C++](./14xxx/14848. 정수 게임/정수 게임.cc) |
 | [14852](https://boj.kr/14852) | 타일 채우기 3 | Gold 4 | [C++](./14xxx/14852. 타일 채우기 3/타일 채우기 3.cc) |
 | [14881](https://boj.kr/14881) | 물통 문제 | Gold 4 | [C++](./14xxx/14881. 물통 문제/물통 문제.cc) |
 | [14888](https://boj.kr/14888) | 연산자 끼워넣기 | Silver 1 | [Java](./14xxx/14888. 연산자 끼워넣기/연산자 끼워넣기.java) |
