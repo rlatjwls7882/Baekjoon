@@ -4740,7 +4740,7 @@
 | [32866](https://boj.kr/32866) | 코인의 신 건모 | Bronze 3 | [C++](./32xxx/32866. 코인의 신 건모/코인의 신 건모.cc) |
 | [32888](https://boj.kr/32888) | Consolidating Windows | Bronze 3 | [C++](./32xxx/32888. Consolidating Windows/Consolidating Windows.cc) |
 | [32894](https://boj.kr/32894) | Flowing Fountain | Gold 1 | [C++](./32xxx/32894. Flowing Fountain/Flowing Fountain.cc) |
-| [32896](https://boj.kr/32896) | Hash Collision | Platinum 3 | [C++](./32xxx/32896. Hash Collision/Hash Collision.cc) |
+| [32896](https://boj.kr/32896) | Hash Collision | Platinum 4 | [C++](./32xxx/32896. Hash Collision/Hash Collision.cc) |
 | [32902](https://boj.kr/32902) | Chips | Bronze 4 | [C++](./32xxx/32902. Chips/Chips.cc) |
 | [32905](https://boj.kr/32905) | RACI | Bronze 4 | [C++](./32xxx/32905. RACI/RACI.cc) |
 | [32916](https://boj.kr/32916) | Another Brick in the Wall | Bronze 1 | [C++](./32xxx/32916. Another Brick in the Wall/Another Brick in the Wall.cc) |
@@ -4897,6 +4897,7 @@
 | [34400](https://boj.kr/34400) | 민규의 서카디안 리듬 | Bronze 4 | [C++](./34xxx/34400. 민규의 서카디안 리듬/민규의 서카디안 리듬.cc) |
 | [34411](https://boj.kr/34411) | M-Climb | Bronze 5 | [C++](./34xxx/34411. M－Climb/M－Climb.cc) |
 | [34412](https://boj.kr/34412) | 13 Floors | Bronze 5 | [C++](./34xxx/34412. 13 Floors/13 Floors.cc) |
+| [34414](https://boj.kr/34414) | Tall Enough | Bronze 4 | [C++](./34xxx/34414. Tall Enough/Tall Enough.cc) |
 | [34424](https://boj.kr/34424) | Flatter Land | Bronze 5 | [C++](./34xxx/34424. Flatter Land/Flatter Land.cc) |
 | [34443](https://boj.kr/34443) | Hack-a-Holics | Bronze 5 | [C++](./34xxx/34443. Hack－a－Holics/Hack－a－Holics.cc) |
 | [34446](https://boj.kr/34446) | E-Days Ore Cart Pull | Bronze 5 | [C++](./34xxx/34446. E－Days Ore Cart Pull/E－Days Ore Cart Pull.cc) |
