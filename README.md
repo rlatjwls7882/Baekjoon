@@ -1205,6 +1205,7 @@
 | [05988](https://boj.kr/5988) | 홀수일까 짝수일까 | Bronze 3 | [Java](./05xxx/5988. 홀수일까 짝수일까/홀수일까 짝수일까.java) |
 | [05989](https://boj.kr/5989) | The Robot Plow | Bronze 2 | [Java](./05xxx/5989. The Robot Plow/The Robot Plow.java) |
 | [05995](https://boj.kr/5995) | Bessie's Weight Problem | Gold 5 | [C++](./05xxx/5995. Bessie's Weight Problem/Bessie's Weight Problem.cc) |
+| [05998](https://boj.kr/5998) | Lights | Platinum 5 | [C++](./05xxx/5998. Lights/Lights.cc) |
 | [06013](https://boj.kr/6013) | Lonesome Partners | Bronze 2 | [Java](./06xxx/6013. Lonesome Partners/Lonesome Partners.java) |
 | [06014](https://boj.kr/6014) | Shorter Musical Notes | Bronze 2 | [Java](./06xxx/6014. Shorter Musical Notes/Shorter Musical Notes.java) |
 | [06030](https://boj.kr/6030) | Scavenger Hunt | Bronze 3 | [Java](./06xxx/6030. Scavenger Hunt/Scavenger Hunt.java) |
