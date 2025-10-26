@@ -4895,6 +4895,7 @@
 | [34346](https://boj.kr/34346) | 대각선 | Bronze 4 | [C++](./34xxx/34346. 대각선/대각선.cc) |
 | [34348](https://boj.kr/34348) | snupc 문자열 (Easy) | Gold 1 | [C++](./34xxx/34348. snupc 문자열 （Easy）/snupc 문자열 （Easy）.cc) |
 | [34362](https://boj.kr/34362) | Above | Bronze 5 | [C++](./34xxx/34362. Above/Above.cc) |
+| [34380](https://boj.kr/34380) | Blaster's Dash | Bronze 4 | [C++](./34xxx/34380. Blaster's Dash/Blaster's Dash.cc) |
 | [34400](https://boj.kr/34400) | 민규의 서카디안 리듬 | Bronze 4 | [C++](./34xxx/34400. 민규의 서카디안 리듬/민규의 서카디안 리듬.cc) |
 | [34411](https://boj.kr/34411) | M-Climb | Bronze 5 | [C++](./34xxx/34411. M－Climb/M－Climb.cc) |
 | [34412](https://boj.kr/34412) | 13 Floors | Bronze 5 | [C++](./34xxx/34412. 13 Floors/13 Floors.cc) |
