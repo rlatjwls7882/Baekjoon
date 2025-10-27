@@ -4897,6 +4897,7 @@
 | [34306](https://boj.kr/34306) | M-Climb Road | Bronze 4 | [C++](./34xxx/34306. M－Climb Road/M－Climb Road.cc) |
 | [34308](https://boj.kr/34308) | Abby's Absolutes | Bronze 4 | [C++](./34xxx/34308. Abby's Absolutes/Abby's Absolutes.cc) |
 | [34323](https://boj.kr/34323) | 할인이 필요해 | Bronze 4 | [C++](./34xxx/34323. 할인이 필요해/할인이 필요해.cc) |
+| [34326](https://boj.kr/34326) | How to escape the maze | Silver 2 | [C++](./34xxx/34326. How to escape the maze/How to escape the maze.cc) |
 | [34346](https://boj.kr/34346) | 대각선 | Bronze 4 | [C++](./34xxx/34346. 대각선/대각선.cc) |
 | [34348](https://boj.kr/34348) | snupc 문자열 (Easy) | Gold 1 | [C++](./34xxx/34348. snupc 문자열 （Easy）/snupc 문자열 （Easy）.cc) |
 | [34362](https://boj.kr/34362) | Above | Bronze 5 | [C++](./34xxx/34362. Above/Above.cc) |
