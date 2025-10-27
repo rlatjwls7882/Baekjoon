@@ -4622,7 +4622,7 @@
 | [32029](https://boj.kr/32029) | 지금 자면 꿈을 꾸지만 | Gold 5 | [C++](./32xxx/32029. 지금 자면 꿈을 꾸지만/지금 자면 꿈을 꾸지만.cc) |
 | [32046](https://boj.kr/32046) | Snacks within 300 Yen | Bronze 3 | [C++](./32xxx/32046. Snacks within 300 Yen/Snacks within 300 Yen.cc) |
 | [32068](https://boj.kr/32068) | 보물 찾기 | Bronze 2 | [C++](./32xxx/32068. 보물 찾기/보물 찾기.cc) |
-| [32069](https://boj.kr/32069) | 가로등 | Gold 5 | [C++](./32xxx/32069. 가로등/가로등.cc) |
+| [32069](https://boj.kr/32069) | 가로등 | Gold 4 | [C++](./32xxx/32069. 가로등/가로등.cc) |
 | [32076](https://boj.kr/32076) | Easy as ABC | Silver 4 | [C++](./32xxx/32076. Easy as ABC/Easy as ABC.cc) |
 | [32089](https://boj.kr/32089) | 部員の変遷 | Bronze 4 | [C++](./32xxx/32089. 部員の変遷/部員の変遷.cc) |
 | [32090](https://boj.kr/32090) | シンプルなエディタ | Bronze 2 | [C++](./32xxx/32090. シンプルなエディタ/シンプルなエディタ.cc) |
