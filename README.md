@@ -4872,6 +4872,7 @@
 | [34064](https://boj.kr/34064) | 밤(Time For The Moon Night) | Gold 4 | [C++](./34xxx/34064. 밤（Time For The Moon Night）/밤（Time For The Moon Night）.cc) |
 | [34071](https://boj.kr/34071) | 첫 번째 문제는 정말 쉬운 문제일까? | Bronze 4 | [C++](./34xxx/34071. 첫 번째 문제는 정말 쉬운 문제일까？/첫 번째 문제는 정말 쉬운 문제일까？.cc) |
 | [34073](https://boj.kr/34073) | DORO | Bronze 4 | [C++](./34xxx/34073. DORO/DORO.cc) |
+| [34100](https://boj.kr/34100) | └┘ | Platinum 5 | [C++](./34xxx/34100. └┘/└┘.cc) |
 | [34115](https://boj.kr/34115) | 먼 카드 | Bronze 3 | [C++](./34xxx/34115. 먼 카드/먼 카드.cc) |
 | [34125](https://boj.kr/34125) | 래환이의 아이브 콘서트 이야기 | Bronze 3 | [C++](./34xxx/34125. 래환이의 아이브 콘서트 이야기/래환이의 아이브 콘서트 이야기.cc) |
 | [34126](https://boj.kr/34126) | 래환이의 초콜릿 포장 이야기 | Silver 3 | [C++](./34xxx/34126. 래환이의 초콜릿 포장 이야기/래환이의 초콜릿 포장 이야기.cc) |
