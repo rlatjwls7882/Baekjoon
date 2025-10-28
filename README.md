@@ -3912,6 +3912,7 @@
 | [26122](https://boj.kr/26122) | 가장 긴 막대 자석 | Silver 5 | [C++](./26xxx/26122. 가장 긴 막대 자석/가장 긴 막대 자석.cc) |
 | [26145](https://boj.kr/26145) | 출제비 재분배 | Bronze 3 | [Java](./26xxx/26145. 출제비 재분배/출제비 재분배.java) |
 | [26146](https://boj.kr/26146) | 즉흥 여행 (Easy) | Platinum 5 | [C++](./26xxx/26146. 즉흥 여행 （Easy）/즉흥 여행 （Easy）.cc) |
+| [26148](https://boj.kr/26148) | 세로 달력 | Bronze 1 | [C++](./26xxx/26148. 세로 달력/세로 달력.cc) |
 | [26150](https://boj.kr/26150) | Identify, Sort, Index, Solve | Silver 5 | [C++](./26xxx/26150. Identify， Sort， Index， Solve/Identify， Sort， Index， Solve.cc) |
 | [26153](https://boj.kr/26153) | 로하의 농사 | Gold 4 | [C++](./26xxx/26153. 로하의 농사/로하의 농사.cc) |
 | [26155](https://boj.kr/26155) | 배수관 미스터리 | Platinum 5 | [C++](./26xxx/26155. 배수관 미스터리/배수관 미스터리.cc) |
