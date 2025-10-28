@@ -7,10 +7,6 @@ int main() {
     while(t--) {
         int x; cin >> x;
         if(!x) cout << "1\n2\n";
-        else {
-            int cnt=1;
-            while(x) cnt<<=1, x>>=1;
-            cout << "2\n" << cnt << ' ' << cnt+1 << '\n';
-        }
+        else cout << "2\n" << (1<<30) << ' ' << (1<<30)+1 << '\n';
     }
 }
