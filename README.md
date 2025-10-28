@@ -4728,6 +4728,7 @@
 | [32728](https://boj.kr/32728) | Sõnakuulelik Tom | Bronze 3 | [C++](./32xxx/32728. Sõnakuulelik Tom/Sõnakuulelik Tom.cc) |
 | [32748](https://boj.kr/32748) | $f(A + B)$ | Silver 5 | [C++](./32xxx/32748. $f（A ＋ B）$/$f（A ＋ B）$.cc) |
 | [32751](https://boj.kr/32751) | 햄버거 | Bronze 2 | [C++](./32xxx/32751. 햄버거/햄버거.cc) |
+| [32753](https://boj.kr/32753) | 네 또 수열입니다 | Silver 4 | |
 | [32760](https://boj.kr/32760) | Nothing Everything | Silver 1 | [C++](./32xxx/32760. Nothing Everything/Nothing Everything.cc) |
 | [32762](https://boj.kr/32762) | 더치 페이 | Bronze 2 | [C++](./32xxx/32762. 더치 페이/더치 페이.cc) |
 | [32775](https://boj.kr/32775) | 가희와 4시간의 벽 1 | Bronze 5 | [C++](./32xxx/32775. 가희와 4시간의 벽 1/가희와 4시간의 벽 1.cc) |
