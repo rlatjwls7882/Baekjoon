@@ -1337,8 +1337,8 @@
 | [07124](https://boj.kr/7124) | Sarnased kolmnurgad | Bronze 1 | [C++](./07xxx/7124. Sarnased kolmnurgad/Sarnased kolmnurgad.cc) |
 | [07130](https://boj.kr/7130) | Milk and Honey | Bronze 3 | [Java](./07xxx/7130. Milk and Honey/Milk and Honey.java) |
 | [07132](https://boj.kr/7132) | Hammasrattad | Bronze 1 | [Java](./07xxx/7132. Hammasrattad/Hammasrattad.java) |
-| [07140](https://boj.kr/7140) | 데이터 만들기 1 | Gold 4 | |
-| [07147](https://boj.kr/7147) | 데이터 만들기 8 | Platinum 5 | |
+| [07140](https://boj.kr/7140) | 데이터 만들기 1 | Gold 4 | [C++](./07xxx/7140. 데이터 만들기 1/데이터 만들기 1.cc) |
+| [07147](https://boj.kr/7147) | 데이터 만들기 8 | Platinum 5 | [C++](./07xxx/7147. 데이터 만들기 8/데이터 만들기 8.cc) |
 | [07168](https://boj.kr/7168) | Nonogramm | Bronze 2 | [Java](./07xxx/7168. Nonogramm/Nonogramm.java) |
 | [07173](https://boj.kr/7173) | Klass | Bronze 1 | [Java](./07xxx/7173. Klass/Klass.java) |
 | [07181](https://boj.kr/7181) | Mõttemeister | Bronze 3 | [Java](./07xxx/7181. Mõttemeister/Mõttemeister.java) |
@@ -4728,7 +4728,7 @@
 | [32728](https://boj.kr/32728) | Sõnakuulelik Tom | Bronze 3 | [C++](./32xxx/32728. Sõnakuulelik Tom/Sõnakuulelik Tom.cc) |
 | [32748](https://boj.kr/32748) | $f(A + B)$ | Silver 5 | [C++](./32xxx/32748. $f（A ＋ B）$/$f（A ＋ B）$.cc) |
 | [32751](https://boj.kr/32751) | 햄버거 | Bronze 2 | [C++](./32xxx/32751. 햄버거/햄버거.cc) |
-| [32753](https://boj.kr/32753) | 네 또 수열입니다 | Silver 4 | |
+| [32753](https://boj.kr/32753) | 네 또 수열입니다 | Silver 4 | [C++](./32xxx/32753. 네 또 수열입니다/네 또 수열입니다.cc) |
 | [32760](https://boj.kr/32760) | Nothing Everything | Silver 1 | [C++](./32xxx/32760. Nothing Everything/Nothing Everything.cc) |
 | [32762](https://boj.kr/32762) | 더치 페이 | Bronze 2 | [C++](./32xxx/32762. 더치 페이/더치 페이.cc) |
 | [32775](https://boj.kr/32775) | 가희와 4시간의 벽 1 | Bronze 5 | [C++](./32xxx/32775. 가희와 4시간의 벽 1/가희와 4시간의 벽 1.cc) |
