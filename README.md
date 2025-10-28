@@ -1337,6 +1337,8 @@
 | [07124](https://boj.kr/7124) | Sarnased kolmnurgad | Bronze 1 | [C++](./07xxx/7124. Sarnased kolmnurgad/Sarnased kolmnurgad.cc) |
 | [07130](https://boj.kr/7130) | Milk and Honey | Bronze 3 | [Java](./07xxx/7130. Milk and Honey/Milk and Honey.java) |
 | [07132](https://boj.kr/7132) | Hammasrattad | Bronze 1 | [Java](./07xxx/7132. Hammasrattad/Hammasrattad.java) |
+| [07140](https://boj.kr/7140) | 데이터 만들기 1 | Gold 4 | |
+| [07147](https://boj.kr/7147) | 데이터 만들기 8 | Platinum 5 | |
 | [07168](https://boj.kr/7168) | Nonogramm | Bronze 2 | [Java](./07xxx/7168. Nonogramm/Nonogramm.java) |
 | [07173](https://boj.kr/7173) | Klass | Bronze 1 | [Java](./07xxx/7173. Klass/Klass.java) |
 | [07181](https://boj.kr/7181) | Mõttemeister | Bronze 3 | [Java](./07xxx/7181. Mõttemeister/Mõttemeister.java) |
