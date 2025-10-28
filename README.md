@@ -4909,6 +4909,7 @@
 | [34362](https://boj.kr/34362) | Above | Bronze 5 | [C++](./34xxx/34362. Above/Above.cc) |
 | [34380](https://boj.kr/34380) | Blaster's Dash | Bronze 4 | [C++](./34xxx/34380. Blaster's Dash/Blaster's Dash.cc) |
 | [34400](https://boj.kr/34400) | 민규의 서카디안 리듬 | Bronze 4 | [C++](./34xxx/34400. 민규의 서카디안 리듬/민규의 서카디안 리듬.cc) |
+| [34406](https://boj.kr/34406) | x와 배수와 XOR (Easy) | Gold 5 | [C++](./34xxx/34406. x와 배수와 XOR （Easy）/x와 배수와 XOR （Easy）.cc) |
 | [34411](https://boj.kr/34411) | M-Climb | Bronze 5 | [C++](./34xxx/34411. M－Climb/M－Climb.cc) |
 | [34412](https://boj.kr/34412) | 13 Floors | Bronze 5 | [C++](./34xxx/34412. 13 Floors/13 Floors.cc) |
 | [34414](https://boj.kr/34414) | Tall Enough | Bronze 4 | [C++](./34xxx/34414. Tall Enough/Tall Enough.cc) |
