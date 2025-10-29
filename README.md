@@ -4490,6 +4490,7 @@
 | [30999](https://boj.kr/30999) | 민주주의 | Bronze 4 | |
 | [31000](https://boj.kr/31000) | 교환 분배법칙 | Silver 5 | [C++](./31xxx/31000. 교환 분배법칙/교환 분배법칙.cc) |
 | [31009](https://boj.kr/31009) | 진주로 가자! (Easy) | Bronze 3 | [Java](./31xxx/31009. 진주로 가자！ （Easy）/진주로 가자！ （Easy）.java) |
+| [31027](https://boj.kr/31027) | 물고기 게임 | Platinum 5 | [C++](./31xxx/31027. 물고기 게임/물고기 게임.cc) |
 | [31040](https://boj.kr/31040) | Nine Knights | Bronze 2 | [Java](./31xxx/31040. Nine Knights/Nine Knights.java) |
 | [31048](https://boj.kr/31048) | Last Factorial Digit | Bronze 4 | [C++](./31xxx/31048. Last Factorial Digit/Last Factorial Digit.cc) |
 | [31052](https://boj.kr/31052) | Relocation | Bronze 3 | [C++](./31xxx/31052. Relocation/Relocation.cc) |
