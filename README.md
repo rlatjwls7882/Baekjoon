@@ -4757,6 +4757,7 @@
 | [32830](https://boj.kr/32830) | Cards Flipping | Platinum 5 | [C++](./32xxx/32830. Cards Flipping/Cards Flipping.cc) |
 | [32834](https://boj.kr/32834) | Pair Sorting | Platinum 3 | [C++](./32xxx/32834. Pair Sorting/Pair Sorting.cc) |
 | [32860](https://boj.kr/32860) | 수수수수퍼노바 | Bronze 2 | [C++](./32xxx/32860. 수수수수퍼노바/수수수수퍼노바.cc) |
+| [32861](https://boj.kr/32861) | 순열 복원 | Silver 3 | [C++](./32xxx/32861. 순열 복원/순열 복원.cc) |
 | [32866](https://boj.kr/32866) | 코인의 신 건모 | Bronze 3 | [C++](./32xxx/32866. 코인의 신 건모/코인의 신 건모.cc) |
 | [32888](https://boj.kr/32888) | Consolidating Windows | Bronze 3 | [C++](./32xxx/32888. Consolidating Windows/Consolidating Windows.cc) |
 | [32894](https://boj.kr/32894) | Flowing Fountain | Gold 1 | [C++](./32xxx/32894. Flowing Fountain/Flowing Fountain.cc) |
