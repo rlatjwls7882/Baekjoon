@@ -4083,7 +4083,7 @@
 | [27445](https://boj.kr/27445) | Gorani Command | Bronze 2 | [Java](./27xxx/27445. Gorani Command/Gorani Command.java) |
 | [27465](https://boj.kr/27465) | 소수가 아닌 수 | Bronze 3 | [Java](./27xxx/27465. 소수가 아닌 수/소수가 아닌 수.java) |
 | [27466](https://boj.kr/27466) | 그래서 대회 이름 뭐로 하죠 | Silver 4 | [Java](./27xxx/27466. 그래서 대회 이름 뭐로 하죠/그래서 대회 이름 뭐로 하죠.java) |
-| [27470](https://boj.kr/27470) | 멋진 부분집합 | Platinum 5 | |
+| [27470](https://boj.kr/27470) | 멋진 부분집합 | Platinum 4 | [C++](./27xxx/27470. 멋진 부분집합/멋진 부분집합.cc) |
 | [27475](https://boj.kr/27475) | Cancel the Trains | Bronze 3 | [Java](./27xxx/27475. Cancel the Trains/Cancel the Trains.java) |
 | [27481](https://boj.kr/27481) | Hotelier | Bronze 3 | [Java](./27xxx/27481. Hotelier/Hotelier.java) |
 | [27487](https://boj.kr/27487) | One and Two | Bronze 2 | [Java](./27xxx/27487. One and Two/One and Two.java) |
@@ -4940,6 +4940,7 @@
 | [34584](https://boj.kr/34584) | Take It or Double It | Bronze 4 | [C++](./34xxx/34584. Take It or Double It/Take It or Double It.cc) |
 | [34585](https://boj.kr/34585) | Twin Guardians | Silver 4 | [C++](./34xxx/34585. Twin Guardians/Twin Guardians.cc) |
 | [34587](https://boj.kr/34587) | Palindromic Distance | Gold 3 | [C++](./34xxx/34587. Palindromic Distance/Palindromic Distance.cc) |
+| [34588](https://boj.kr/34588) | Explosive Slabstones Rearrangement | Gold 1 | [C++](./34xxx/34588. Explosive Slabstones Rearrangement/Explosive Slabstones Rearrangement.cc) |
 | [34619](https://boj.kr/34619) | 소대 배정 | Bronze 2 | [C++](./34xxx/34619. 소대 배정/소대 배정.cc) |
 | [34622](https://boj.kr/34622) | 제식 훈련 1 | Gold 2 | [C++](./34xxx/34622. 제식 훈련 1/제식 훈련 1.cc) |
 </div>
