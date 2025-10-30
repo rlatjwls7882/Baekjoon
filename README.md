@@ -1148,6 +1148,7 @@
 | [05596](https://boj.kr/5596) | 시험 점수 | Bronze 4 | [C](./05xxx/5596. 시험 점수/시험 점수.c) |
 | [05597](https://boj.kr/5597) | 과제 안 내신 분..? | Bronze 3 | [C](./05xxx/5597. 과제 안 내신 분．．？/과제 안 내신 분．．？.c) |
 | [05598](https://boj.kr/5598) | 카이사르 암호 | Bronze 2 | [Java](./05xxx/5598. 카이사르 암호/카이사르 암호.java) |
+| [05600](https://boj.kr/5600) | 품질검사 | Silver 2 | [C++](./05xxx/5600. 품질검사/품질검사.cc) |
 | [05602](https://boj.kr/5602) | 問題1 | Bronze 2 | [Java](./05xxx/5602. 問題1/問題1.java) |
 | [05603](https://boj.kr/5603) | 問題2 | Bronze 2 | [Java](./05xxx/5603. 問題2/問題2.java) |
 | [05607](https://boj.kr/5607) | 問題 １ | Bronze 3 | [Java](./05xxx/5607. 問題 １/問題 １.java) |
@@ -3394,6 +3395,7 @@
 | [21778](https://boj.kr/21778) | 가희와 프로세스 2 | Platinum 5 | [C++](./21xxx/21778. 가희와 프로세스 2/가희와 프로세스 2.cc) |
 | [21866](https://boj.kr/21866) | 추첨을 통해 커피를 받자 | Bronze 3 | [Java](./21xxx/21866. 추첨을 통해 커피를 받자/추첨을 통해 커피를 받자.java) |
 | [21867](https://boj.kr/21867) | Java Bitecode | Bronze 2 | [Java](./21xxx/21867. Java Bitecode/Java Bitecode.java) |
+| [21869](https://boj.kr/21869) | Maximum Bishop | Silver 2 | [C++](./21xxx/21869. Maximum Bishop/Maximum Bishop.cc) |
 | [21870](https://boj.kr/21870) | 시철이가 사랑한 GCD | Gold 5 | [C++](./21xxx/21870. 시철이가 사랑한 GCD/시철이가 사랑한 GCD.cc) |
 | [21875](https://boj.kr/21875) | Innohorse | Bronze 4 | [C++](./21xxx/21875. Innohorse/Innohorse.cc) |
 | [21895](https://boj.kr/21895) | Rock-Paper-Scissors for three | Bronze 2 | [Python](./21xxx/21895. Rock－Paper－Scissors for three/Rock－Paper－Scissors for three.py) |
@@ -4207,6 +4209,7 @@
 | [28417](https://boj.kr/28417) | 스케이트보드 | Bronze 3 | [Java](./28xxx/28417. 스케이트보드/스케이트보드.java) |
 | [28431](https://boj.kr/28431) | 양말 짝 맞추기 | Bronze 4 | [Java](./28xxx/28431. 양말 짝 맞추기/양말 짝 맞추기.java) |
 | [28432](https://boj.kr/28432) | 끝말잇기 | Silver 5 | [C++](./28xxx/28432. 끝말잇기/끝말잇기.cc) |
+| [28438](https://boj.kr/28438) | 행렬 연산 (행렬 계산하기) | Silver 3 | [C++](./28xxx/28438. 행렬 연산 （행렬 계산하기）/행렬 연산 （행렬 계산하기）.cc) |
 | [28444](https://boj.kr/28444) | HI-ARC=? | Bronze 5 | [Java](./28xxx/28444. HI－ARC＝？/HI－ARC＝？.java) |
 | [28445](https://boj.kr/28445) | 알록달록 앵무새 | Silver 5 | [Java](./28xxx/28445. 알록달록 앵무새/알록달록 앵무새.java) |
 | [28446](https://boj.kr/28446) | 볼링공 찾아주기 | Silver 4 | [Java](./28xxx/28446. 볼링공 찾아주기/볼링공 찾아주기.java) |
