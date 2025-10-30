@@ -1716,7 +1716,7 @@
 | [10230](https://boj.kr/10230) | Maze 1 | Bronze 2 | [Text](./10xxx/10230. Maze 1/Maze 1.txt) |
 | [10246](https://boj.kr/10246) | 부동산 경매 | Silver 1 | [C++](./10xxx/10246. 부동산 경매/부동산 경매.cc) |
 | [10250](https://boj.kr/10250) | ACM 호텔 | Bronze 3 | [Java](./10xxx/10250. ACM 호텔/ACM 호텔.java) |
-| [10253](https://boj.kr/10253) | 헨리 | Gold 5 | [C++](./10xxx/10253. 헨리/헨리.cc) |
+| [10253](https://boj.kr/10253) | 헨리 | Silver 1 | [C++](./10xxx/10253. 헨리/헨리.cc) |
 | [10254](https://boj.kr/10254) | 고속도로 | Platinum 2 | [C++](./10xxx/10254. 고속도로/고속도로.cc) |
 | [10256](https://boj.kr/10256) | 돌연변이 | Platinum 2 | [C++](./10xxx/10256. 돌연변이/돌연변이.cc) |
 | [10262](https://boj.kr/10262) | 주사위 게임 | Bronze 2 | [Java](./10xxx/10262. 주사위 게임/주사위 게임.java) |
@@ -2913,6 +2913,7 @@
 | [17071](https://boj.kr/17071) | 숨바꼭질 5 | Platinum 5 | [C++](./17xxx/17071. 숨바꼭질 5/숨바꼭질 5.cc) |
 | [17072](https://boj.kr/17072) | 아스키 아트 | Bronze 1 | [Java](./17xxx/17072. 아스키 아트/아스키 아트.java) |
 | [17073](https://boj.kr/17073) | 나무 위의 빗물 | Gold 5 | [C++](./17xxx/17073. 나무 위의 빗물/나무 위의 빗물.cc) |
+| [17074](https://boj.kr/17074) | 정렬 | Silver 1 | [C++](./17xxx/17074. 정렬/정렬.cc) |
 | [17085](https://boj.kr/17085) | 십자가 2개 놓기 | Gold 4 | [C++](./17xxx/17085. 십자가 2개 놓기/십자가 2개 놓기.cc) |
 | [17086](https://boj.kr/17086) | 아기 상어 2 | Silver 2 | [C++](./17xxx/17086. 아기 상어 2/아기 상어 2.cc) |
 | [17087](https://boj.kr/17087) | 숨바꼭질 6 | Silver 2 | [C++](./17xxx/17087. 숨바꼭질 6/숨바꼭질 6.cc) |
@@ -4082,6 +4083,7 @@
 | [27445](https://boj.kr/27445) | Gorani Command | Bronze 2 | [Java](./27xxx/27445. Gorani Command/Gorani Command.java) |
 | [27465](https://boj.kr/27465) | 소수가 아닌 수 | Bronze 3 | [Java](./27xxx/27465. 소수가 아닌 수/소수가 아닌 수.java) |
 | [27466](https://boj.kr/27466) | 그래서 대회 이름 뭐로 하죠 | Silver 4 | [Java](./27xxx/27466. 그래서 대회 이름 뭐로 하죠/그래서 대회 이름 뭐로 하죠.java) |
+| [27470](https://boj.kr/27470) | 멋진 부분집합 | Platinum 5 | |
 | [27475](https://boj.kr/27475) | Cancel the Trains | Bronze 3 | [Java](./27xxx/27475. Cancel the Trains/Cancel the Trains.java) |
 | [27481](https://boj.kr/27481) | Hotelier | Bronze 3 | [Java](./27xxx/27481. Hotelier/Hotelier.java) |
 | [27487](https://boj.kr/27487) | One and Two | Bronze 2 | [Java](./27xxx/27487. One and Two/One and Two.java) |
