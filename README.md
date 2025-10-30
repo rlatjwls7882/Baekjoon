@@ -4545,6 +4545,7 @@
 | [31460](https://boj.kr/31460) | 초콜릿과 11과 팰린드롬 | Silver 4 | [C++](./31xxx/31460. 초콜릿과 11과 팰린드롬/초콜릿과 11과 팰린드롬.cc) |
 | [31472](https://boj.kr/31472) | 갈래의 색종이 자르기 | Bronze 3 | [Java](./31xxx/31472.%E2%80%85갈래의%E2%80%85색종이%E2%80%85자르기/갈래의 색종이 자르기.java) |
 | [31473](https://boj.kr/31473) | 하늘과 핑크 | Bronze 1 | [Java](./31xxx/31473. 하늘과 핑크/하늘과 핑크.java) |
+| [31491](https://boj.kr/31491) | Olympic goodies | Gold 1 | [C++](./31xxx/31491. Olympic goodies/Olympic goodies.cc) |
 | [31495](https://boj.kr/31495) | 그게 무슨 코드니.. | Bronze 4 | [Java](./31xxx/31495. 그게 무슨 코드니．．/그게 무슨 코드니．．.java) |
 | [31496](https://boj.kr/31496) | 자작나무가 없소~ | Bronze 2 | [Python](./31xxx/31496. 자작나무가 없소～/자작나무가 없소～.py) |
 | [31497](https://boj.kr/31497) | 생일 축하합니다~ | Bronze 2 | [Java](./31xxx/31497. 생일 축하합니다～/생일 축하합니다～.java) |
