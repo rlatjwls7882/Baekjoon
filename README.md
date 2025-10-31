@@ -3615,7 +3615,7 @@
 | [24091](https://boj.kr/24091) | 알고리즘 수업 - 퀵 정렬 2 | Silver 5 | [Java](./24xxx/24091. 알고리즘 수업 － 퀵 정렬 2/알고리즘 수업 － 퀵 정렬 2.java) |
 | [24116](https://boj.kr/24116) | 本選会場 (Finals) | Gold 2 | [Java](./24xxx/24116. 本選会場 （Finals）/本選会場 （Finals）.java) |
 | [24123](https://boj.kr/24123) | コンテスト (Contest) | Silver 4 | [C++](./24xxx/24123. コンテスト （Contest）/コンテスト （Contest）.cc) |
-| [24137](https://boj.kr/24137) | 塗り箸 (Chopsticks) | Platinum 1 | [C++](./24xxx/24137. 塗り箸 （Chopsticks）/塗り箸 （Chopsticks）.cc) |
+| [24137](https://boj.kr/24137) | 塗り箸 (Chopsticks) | Platinum 2 | [C++](./24xxx/24137. 塗り箸 （Chopsticks）/塗り箸 （Chopsticks）.cc) |
 | [24183](https://boj.kr/24183) | Affischutskicket | Bronze 4 | [Java](./24xxx/24183. Affischutskicket/Affischutskicket.java) |
 | [24196](https://boj.kr/24196) | Gömda ord | Bronze 4 | [Java](./24xxx/24196. Gömda ord/Gömda ord.java) |
 | [24197](https://boj.kr/24197) | Tabbtabbande | Bronze 2 | [Python](./24xxx/24197. Tabbtabbande/Tabbtabbande.py) |
@@ -4546,6 +4546,7 @@
 | [31472](https://boj.kr/31472) | 갈래의 색종이 자르기 | Bronze 3 | [Java](./31xxx/31472.%E2%80%85갈래의%E2%80%85색종이%E2%80%85자르기/갈래의 색종이 자르기.java) |
 | [31473](https://boj.kr/31473) | 하늘과 핑크 | Bronze 1 | [Java](./31xxx/31473. 하늘과 핑크/하늘과 핑크.java) |
 | [31491](https://boj.kr/31491) | Olympic goodies | Gold 1 | [C++](./31xxx/31491. Olympic goodies/Olympic goodies.cc) |
+| [31492](https://boj.kr/31492) | Team selection | Platinum 5 | [C++](./31xxx/31492. Team selection/Team selection.cc) |
 | [31495](https://boj.kr/31495) | 그게 무슨 코드니.. | Bronze 4 | [Java](./31xxx/31495. 그게 무슨 코드니．．/그게 무슨 코드니．．.java) |
 | [31496](https://boj.kr/31496) | 자작나무가 없소~ | Bronze 2 | [Python](./31xxx/31496. 자작나무가 없소～/자작나무가 없소～.py) |
 | [31497](https://boj.kr/31497) | 생일 축하합니다~ | Bronze 2 | [Java](./31xxx/31497. 생일 축하합니다～/생일 축하합니다～.java) |
