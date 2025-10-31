@@ -4230,6 +4230,7 @@
 | [28637](https://boj.kr/28637) | Смена стиля | Bronze 3 | [C++](./28xxx/28637. Смена стиля/Смена стиля.cc) |
 | [28638](https://boj.kr/28638) | Результаты контеста | Bronze 1 | [Java](./28xxx/28638. Результаты контеста/Результаты контеста.java) |
 | [28640](https://boj.kr/28640) | Домино | Bronze 3 | [Java](./28xxx/28640. Домино/Домино.java) |
+| [28642](https://boj.kr/28642) | Электронный замок | Bronze 1 | [C++](./28xxx/28642. Электронный замок/Электронный замок.cc) |
 | [28648](https://boj.kr/28648) | Торговый центр | Bronze 4 | [Java](./28xxx/28648. Торговый центр/Торговый центр.java) |
 | [28653](https://boj.kr/28653) | Минимальная строка | Bronze 1 | [Java](./28xxx/28653. Минимальная строка/Минимальная строка.java) |
 | [28682](https://boj.kr/28682) | 재우야 임관하자 | Bronze 1 | [C++](./28xxx/28682. 재우야 임관하자/재우야 임관하자.cc) |
@@ -4545,6 +4546,7 @@
 | [31460](https://boj.kr/31460) | 초콜릿과 11과 팰린드롬 | Silver 4 | [C++](./31xxx/31460. 초콜릿과 11과 팰린드롬/초콜릿과 11과 팰린드롬.cc) |
 | [31472](https://boj.kr/31472) | 갈래의 색종이 자르기 | Bronze 3 | [Java](./31xxx/31472.%E2%80%85갈래의%E2%80%85색종이%E2%80%85자르기/갈래의 색종이 자르기.java) |
 | [31473](https://boj.kr/31473) | 하늘과 핑크 | Bronze 1 | [Java](./31xxx/31473. 하늘과 핑크/하늘과 핑크.java) |
+| [31482](https://boj.kr/31482) | Card game | Platinum 5 | [C++](./31xxx/31482. Card game/Card game.cc) |
 | [31491](https://boj.kr/31491) | Olympic goodies | Gold 1 | [C++](./31xxx/31491. Olympic goodies/Olympic goodies.cc) |
 | [31492](https://boj.kr/31492) | Team selection | Platinum 5 | [C++](./31xxx/31492. Team selection/Team selection.cc) |
 | [31495](https://boj.kr/31495) | 그게 무슨 코드니.. | Bronze 4 | [Java](./31xxx/31495. 그게 무슨 코드니．．/그게 무슨 코드니．．.java) |
