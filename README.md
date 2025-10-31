@@ -4949,4 +4949,5 @@
 | [34588](https://boj.kr/34588) | Explosive Slabstones Rearrangement | Gold 1 | [C++](./34xxx/34588. Explosive Slabstones Rearrangement/Explosive Slabstones Rearrangement.cc) |
 | [34619](https://boj.kr/34619) | 소대 배정 | Bronze 2 | [C++](./34xxx/34619. 소대 배정/소대 배정.cc) |
 | [34622](https://boj.kr/34622) | 제식 훈련 1 | Gold 2 | [C++](./34xxx/34622. 제식 훈련 1/제식 훈련 1.cc) |
+| [34644](https://boj.kr/34644) | Ten Player Bingo | Bronze 3 | [C++](./34xxx/34644. Ten Player Bingo/Ten Player Bingo.cc) |
 </div>
