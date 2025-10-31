@@ -3705,7 +3705,7 @@
 | [24657](https://boj.kr/24657) | Edges, Colors and MST | Platinum 1 | [C++](./24xxx/24657. Edges， Colors and MST/Edges， Colors and MST.cc) |
 | [24661](https://boj.kr/24661) | Items and Heroes | Diamond 5 | [C++](./24xxx/24661. Items and Heroes/Items and Heroes.cc) |
 | [24723](https://boj.kr/24723) | 녹색거탑 | Bronze 4 | [Java](./24xxx/24723. 녹색거탑/녹색거탑.java) |
-| [24724](https://boj.kr/24724) | 현대모비스와 함께하는 부품 관리 | Bronze 3 | [Java](./24xxx/24724. 현대모비스와 함께하는 부품 관리/현대모비스와 함께하는 부품 관리.java) |
+| [24724](https://boj.kr/24724) | 현대모비스와 함께하는 부품 관리 | Bronze 4 | [Java](./24xxx/24724. 현대모비스와 함께하는 부품 관리/현대모비스와 함께하는 부품 관리.java) |
 | [24725](https://boj.kr/24725) | 엠비티아이 | Silver 3 | [C++](./24xxx/24725. 엠비티아이/엠비티아이.cc) |
 | [24736](https://boj.kr/24736) | Football Scoring | Bronze 5 | [C](./24xxx/24736. Football Scoring/Football Scoring.c) |
 | [24747](https://boj.kr/24747) | Letterle | Bronze 2 | [Java](./24xxx/24747. Letterle/Letterle.java) |
