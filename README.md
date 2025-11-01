@@ -4547,6 +4547,7 @@
 | [31472](https://boj.kr/31472) | 갈래의 색종이 자르기 | Bronze 3 | [Java](./31xxx/31472.%E2%80%85갈래의%E2%80%85색종이%E2%80%85자르기/갈래의 색종이 자르기.java) |
 | [31473](https://boj.kr/31473) | 하늘과 핑크 | Bronze 1 | [Java](./31xxx/31473. 하늘과 핑크/하늘과 핑크.java) |
 | [31482](https://boj.kr/31482) | Card game | Platinum 5 | [C++](./31xxx/31482. Card game/Card game.cc) |
+| [31490](https://boj.kr/31490) | Throwing dice | Silver 2 | [C++](./31xxx/31490. Throwing dice/Throwing dice.cc) |
 | [31491](https://boj.kr/31491) | Olympic goodies | Gold 1 | [C++](./31xxx/31491. Olympic goodies/Olympic goodies.cc) |
 | [31492](https://boj.kr/31492) | Team selection | Platinum 5 | [C++](./31xxx/31492. Team selection/Team selection.cc) |
 | [31495](https://boj.kr/31495) | 그게 무슨 코드니.. | Bronze 4 | [Java](./31xxx/31495. 그게 무슨 코드니．．/그게 무슨 코드니．．.java) |
