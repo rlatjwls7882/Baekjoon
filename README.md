@@ -4553,6 +4553,7 @@
 | [31490](https://boj.kr/31490) | Throwing dice | Silver 2 | [C++](./31xxx/31490. Throwing dice/Throwing dice.cc) |
 | [31491](https://boj.kr/31491) | Olympic goodies | Gold 1 | [C++](./31xxx/31491. Olympic goodies/Olympic goodies.cc) |
 | [31492](https://boj.kr/31492) | Team selection | Platinum 5 | [C++](./31xxx/31492. Team selection/Team selection.cc) |
+| [31493](https://boj.kr/31493) | Broken trophy | Platinum 4 | [C++](./31xxx/31493. Broken trophy/Broken trophy.cc) |
 | [31495](https://boj.kr/31495) | 그게 무슨 코드니.. | Bronze 4 | [Java](./31xxx/31495. 그게 무슨 코드니．．/그게 무슨 코드니．．.java) |
 | [31496](https://boj.kr/31496) | 자작나무가 없소~ | Bronze 2 | [Python](./31xxx/31496. 자작나무가 없소～/자작나무가 없소～.py) |
 | [31497](https://boj.kr/31497) | 생일 축하합니다~ | Bronze 2 | [Java](./31xxx/31497. 생일 축하합니다～/생일 축하합니다～.java) |
