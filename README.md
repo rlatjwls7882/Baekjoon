@@ -3642,6 +3642,7 @@
 | [24315](https://boj.kr/24315) | 알고리즘 수업 - 점근적 표기 3 | Silver 4 | [C++](./24xxx/24315. 알고리즘 수업 － 점근적 표기 3/알고리즘 수업 － 점근적 표기 3.cc) |
 | [24325](https://boj.kr/24325) | Making Change | Bronze 1 | [C++](./24xxx/24325. Making Change/Making Change.cc) |
 | [24333](https://boj.kr/24333) | СРЕЩА НА ПРИЯТЕЛИ | Bronze 3 | [Java](./24xxx/24333. СРЕЩА НА ПРИЯТЕЛИ/СРЕЩА НА ПРИЯТЕЛИ.java) |
+| [24346](https://boj.kr/24346) | ПАЛИНДРОМ | Bronze 1 | [C++](./24xxx/24346. ПАЛИНДРОМ/ПАЛИНДРОМ.cc) |
 | [24347](https://boj.kr/24347) | КАРТИ | Bronze 2 | [Java](./24xxx/24347. КАРТИ/КАРТИ.java) |
 | [24348](https://boj.kr/24348) | ИЗРАЗ | Bronze 3 | [Java](./24xxx/24348. ИЗРАЗ/ИЗРАЗ.java) |
 | [24349](https://boj.kr/24349) | МЕД | Bronze 3 | [Java](./24xxx/24349. МЕД/МЕД.java) |
