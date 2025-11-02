@@ -55,7 +55,7 @@ int main() {
             int c; cin >> c;
             conn[i].push_back(c+n);
             conn[c+n].push_back(i);
-            cap[i][c+n]=INF;
+            cap[i][c+n]=1;
         }
 
         // S -> 국기
