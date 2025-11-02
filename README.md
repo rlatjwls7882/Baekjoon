@@ -1343,6 +1343,7 @@
 | [07168](https://boj.kr/7168) | Nonogramm | Bronze 2 | [Java](./07xxx/7168. Nonogramm/Nonogramm.java) |
 | [07173](https://boj.kr/7173) | Klass | Bronze 1 | [Java](./07xxx/7173. Klass/Klass.java) |
 | [07181](https://boj.kr/7181) | Mõttemeister | Bronze 3 | [Java](./07xxx/7181. Mõttemeister/Mõttemeister.java) |
+| [07213](https://boj.kr/7213) | Akmuo, popierius, žirklės | Silver 5 | [C++](./07xxx/7213. Akmuo， popierius， žirklės/Akmuo， popierius， žirklės.cc) |
 | [07214](https://boj.kr/7214) | Ateivių kojinės | Bronze 1 | [C++](./07xxx/7214. Ateivių kojinės/Ateivių kojinės.cc) |
 | [07215](https://boj.kr/7215) | Ateivių kojinės | Bronze 1 | [C++](./07xxx/7215. Ateivių kojinės/Ateivių kojinės.cc) |
 | [07218](https://boj.kr/7218) | Pasislėpę romėniški skaičiai | Bronze 3 | [C](./07xxx/7218. Pasislėpę romėniški skaičiai/Pasislėpę romėniški skaičiai.c) |
