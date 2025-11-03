@@ -21,6 +21,7 @@ int main() {
         preSum[i] += preSum[i-1];
     }
 
+    int left=0;
     vector<element> stk;
     for(int i=1;i<=n;i++) {
         ll X = preSum[i];
@@ -32,13 +33,9 @@ int main() {
             stk.pop_back();
         }
         stk.push_back(cur);
+        left = min(left, (int)stk.size()-1);
 
-        int left=0, right=stk.size()-1;
-        while(left<right) {
-            int mid = left+right+1>>1;
-            if(X<=stk[mid].x) right=mid-1;
-            else left=mid;
-        }
+        while(left+1<stk.size() && X>stk[left+1].x) left++;
         dp[i] = stk[left].a*X + stk[left].b + a*X*X+b*X+c;
     }
     cout << dp[n];
