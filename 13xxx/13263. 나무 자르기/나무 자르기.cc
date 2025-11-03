@@ -21,6 +21,7 @@ int main() {
     for(int i=1;i<=n;i++) cin >> a[i];
     for(int i=1;i<=n;i++) cin >> b[i];
 
+    int left=0;
     vector<element> stk;
     for(int i=2;i<=n;i++) {
         element cur = {b[i-1], dp[i-1]};
@@ -29,14 +30,10 @@ int main() {
             if(cur.x>stk.back().x) break;
             stk.pop_back();
         }
+        left = min(left, (int)stk.size()-1);
         stk.push_back(cur);
 
-        int left=0, right=stk.size()-1;
-        while(left<right) {
-            int mid = left+right+1>>1;
-            if(a[i]<=stk[mid].x) right=mid-1;
-            else left=mid;
-        }
+        while(left+1<stk.size() && a[i]>stk[left+1].x) left++;
         dp[i] = stk[left].a*a[i] + stk[left].b;
     }
     cout << dp[n];
