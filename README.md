@@ -911,6 +911,7 @@
 | [03982](https://boj.kr/3982) | Soccer Bets | Silver 5 | [Java](./03xxx/3982. Soccer Bets/Soccer Bets.java) |
 | [03985](https://boj.kr/3985) | 롤 케이크 | Bronze 1 | [Java](./03xxx/3985. 롤 케이크/롤 케이크.java) |
 | [03986](https://boj.kr/3986) | 좋은 단어 | Silver 4 | [Java](./03xxx/3986. 좋은 단어/좋은 단어.java) |
+| [04008](https://boj.kr/4008) | 특공대 | Diamond 5 | [C++](./04xxx/4008. 특공대/특공대.cc) |
 | [04013](https://boj.kr/4013) | ATM | Platinum 2 | [C++](./04xxx/4013. ATM/ATM.cc) |
 | [04028](https://boj.kr/4028) | Chain of Fools | Silver 5 | [C++](./04xxx/4028. Chain of Fools/Chain of Fools.cc) |
 | [04055](https://boj.kr/4055) | 파티가 좋아 파티가 좋아 | Gold 5 | [C++](./04xxx/4055. 파티가 좋아 파티가 좋아/파티가 좋아 파티가 좋아.cc) |
