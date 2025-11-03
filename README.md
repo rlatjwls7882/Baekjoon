@@ -2388,6 +2388,7 @@
 | [14438](https://boj.kr/14438) | 수열과 쿼리 17 | Gold 1 | [C++](./14xxx/14438. 수열과 쿼리 17/수열과 쿼리 17.cc) |
 | [14442](https://boj.kr/14442) | 벽 부수고 이동하기 2 | Gold 3 | [C++](./14xxx/14442. 벽 부수고 이동하기 2/벽 부수고 이동하기 2.cc) |
 | [14456](https://boj.kr/14456) | Hoof, Paper, Scissors (Bronze) | Bronze 1 | [C++](./14xxx/14456. Hoof， Paper， Scissors （Bronze）/Hoof， Paper， Scissors （Bronze）.cc) |
+| [14461](https://boj.kr/14461) | 소가 길을 건너간 이유 7 | Gold 2 | [C++](./14xxx/14461. 소가 길을 건너간 이유 7/소가 길을 건너간 이유 7.cc) |
 | [14462](https://boj.kr/14462) | 소가 길을 건너간 이유 8 | Gold 3 | [C++](./14xxx/14462. 소가 길을 건너간 이유 8/소가 길을 건너간 이유 8.cc) |
 | [14463](https://boj.kr/14463) | 소가 길을 건너간 이유 9 | Platinum 4 | [C++](./14xxx/14463. 소가 길을 건너간 이유 9/소가 길을 건너간 이유 9.cc) |
 | [14464](https://boj.kr/14464) | 소가 길을 건너간 이유 4 | Gold 1 | [Java](./14xxx/14464. 소가 길을 건너간 이유 4/소가 길을 건너간 이유 4.java) |
