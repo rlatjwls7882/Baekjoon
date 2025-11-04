@@ -1714,6 +1714,7 @@
 | [10203](https://boj.kr/10203) | Count Vowels | Bronze 3 | [Java](./10xxx/10203. Count Vowels/Count Vowels.java) |
 | [10205](https://boj.kr/10205) | 헤라클레스와 히드라 | Bronze 3 | [Java](./10xxx/10205. 헤라클레스와 히드라/헤라클레스와 히드라.java) |
 | [10211](https://boj.kr/10211) | Maximum Subarray | Silver 4 | [Java](./10xxx/10211. Maximum Subarray/Maximum Subarray.java) |
+| [10213](https://boj.kr/10213) | XH Company | Platinum 2 | [C++](./10xxx/10213. XH Company/XH Company.cc) |
 | [10214](https://boj.kr/10214) | Baseball | Bronze 3 | [Java](./10xxx/10214. Baseball/Baseball.java) |
 | [10216](https://boj.kr/10216) | Count Circle Groups | Gold 4 | [Java](./10xxx/10216. Count Circle Groups/Count Circle Groups.java) |
 | [10219](https://boj.kr/10219) | Meats On The Grill | Bronze 1 | [C++](./10xxx/10219. Meats On The Grill/Meats On The Grill.cc) |
