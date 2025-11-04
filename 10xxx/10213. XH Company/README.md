@@ -1,4 +1,4 @@
-# [Platinum I] XH Company
+# [Platinum II] XH Company
 
 [문제 링크](https://www.acmicpc.net/problem/10213) 
 
