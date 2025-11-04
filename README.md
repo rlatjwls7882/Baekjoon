@@ -4213,6 +4213,7 @@
 | [28339](https://boj.kr/28339) | 이상한 드래프트 | Gold 3 | [C++](./28xxx/28339. 이상한 드래프트/이상한 드래프트.cc) |
 | [28352](https://boj.kr/28352) | 10! | Bronze 4 | [Java](./28xxx/28352. 10！/10！.java) |
 | [28353](https://boj.kr/28353) | 고양이 카페 | Silver 3 | [C++](./28xxx/28353. 고양이 카페/고양이 카페.cc) |
+| [28361](https://boj.kr/28361) | 크리스마스 | Gold 4 | [C++](./28xxx/28361. 크리스마스/크리스마스.cc) |
 | [28373](https://boj.kr/28373) | Eszett | Bronze 2 | [C++](./28xxx/28373. Eszett/Eszett.cc) |
 | [28417](https://boj.kr/28417) | 스케이트보드 | Bronze 3 | [Java](./28xxx/28417. 스케이트보드/스케이트보드.java) |
 | [28431](https://boj.kr/28431) | 양말 짝 맞추기 | Bronze 4 | [Java](./28xxx/28431. 양말 짝 맞추기/양말 짝 맞추기.java) |
