@@ -2,18 +2,17 @@
 using namespace std;
 
 typedef long long ll;
-typedef long double ld;
 const int MAX = 200'001;
 
 ll A[MAX], preSum[MAX];
 
 struct element {
     ll a, b;
-    ld x=-1e300;
+    double x=-1e150;
 };
 
-ld meetX(element a, element b) {
-    return (ld)(a.b-b.b)/(b.a-a.a);
+double meetX(element a, element b) {
+    return (double)(a.b-b.b)/(b.a-a.a);
 }
 
 int main() {
