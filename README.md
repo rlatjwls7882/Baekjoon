@@ -3171,6 +3171,7 @@
 | [19554](https://boj.kr/19554) | Guess the number | Silver 3 | [C++](./19xxx/19554. Guess the number/Guess the number.cc) |
 | [19563](https://boj.kr/19563) | 개구리 1 | Bronze 1 | [Java](./19xxx/19563. 개구리 1/개구리 1.java) |
 | [19564](https://boj.kr/19564) | 반복 | Bronze 1 | [Java](./19xxx/19564. 반복/반복.java) |
+| [19568](https://boj.kr/19568) | 직사각형 | Platinum 2 | [C++](./19xxx/19568. 직사각형/직사각형.cc) |
 | [19572](https://boj.kr/19572) | 가뭄(Small) | Bronze 3 | [Java](./19xxx/19572. 가뭄（Small）/가뭄（Small）.java) |
 | [19575](https://boj.kr/19575) | Polynomial | Bronze 1 | [Java](./19xxx/19575. Polynomial/Polynomial.java) |
 | [19580](https://boj.kr/19580) | 마스크가 필요해 | Platinum 5 | [C++](./19xxx/19580. 마스크가 필요해/마스크가 필요해.cc) |
@@ -4970,7 +4971,7 @@
 | [34622](https://boj.kr/34622) | 제식 훈련 1 | Gold 2 | [C++](./34xxx/34622. 제식 훈련 1/제식 훈련 1.cc) |
 | [34644](https://boj.kr/34644) | Ten Player Bingo | Bronze 3 | [C++](./34xxx/34644. Ten Player Bingo/Ten Player Bingo.cc) |
 | [34665](https://boj.kr/34665) | 가희와 교통 요금 | Bronze 5 | |
-| [34667](https://boj.kr/34667) | 가희와 철도역 | Unrated | |
-| [34668](https://boj.kr/34668) | 가희와 후쿠오카 공항 | Unrated | |
-| [34669](https://boj.kr/34669) | 가희와 노선 건설 놀이 2 | Unrated | |
+| [34667](https://boj.kr/34667) | 가희와 철도역 | Bronze 2 | |
+| [34668](https://boj.kr/34668) | 가희와 후쿠오카 공항 | Silver 5 | |
+| [34669](https://boj.kr/34669) | 가희와 노선 건설 놀이 2 | Silver 2 | |
 </div>
