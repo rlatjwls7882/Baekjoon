@@ -1691,6 +1691,7 @@
 | [10163](https://boj.kr/10163) | 색종이 | Bronze 1 | [Java](./10xxx/10163. 색종이/색종이.java) |
 | [10164](https://boj.kr/10164) | 격자상의 경로 | Silver 2 | [C++](./10xxx/10164. 격자상의 경로/격자상의 경로.cc) |
 | [10166](https://boj.kr/10166) | 관중석 | Silver 1 | [C++](./10xxx/10166. 관중석/관중석.cc) |
+| [10168](https://boj.kr/10168) | 파발마 | Diamond 5 | [C++](./10xxx/10168. 파발마/파발마.cc) |
 | [10170](https://boj.kr/10170) | NFC West vs North | Bronze 5 | [C](./10xxx/10170. NFC West vs North/NFC West vs North.c) |
 | [10171](https://boj.kr/10171) | 고양이 | Bronze 5 | [C](./10xxx/10171. 고양이/고양이.c) [C++](./10xxx/10171. 고양이/고양이.cc) |
 | [10172](https://boj.kr/10172) | 개 | Bronze 5 | [C](./10xxx/10172. 개/개.c) [C++](./10xxx/10172. 개/개.cc) |
@@ -3762,6 +3763,7 @@
 | [25178](https://boj.kr/25178) | 두라무리 휴지 | Silver 5 | [C++](./25xxx/25178. 두라무리 휴지/두라무리 휴지.cc) |
 | [25183](https://boj.kr/25183) | 인생은 한 방 | Bronze 1 | [Java](./25xxx/25183. 인생은 한 방/인생은 한 방.java) |
 | [25184](https://boj.kr/25184) | 동가수열 구하기 | Silver 4 | [C++](./25xxx/25184. 동가수열 구하기/동가수열 구하기.cc) |
+| [25186](https://boj.kr/25186) | INFP 두람  | Silver 2 | [C++](./25xxx/25186. INFP 두람 /INFP 두람 .cc) |
 | [25187](https://boj.kr/25187) | 고인물이 싫어요 | Gold 4 | [Java](./25xxx/25187. 고인물이 싫어요/고인물이 싫어요.java) |
 | [25191](https://boj.kr/25191) | 치킨댄스를 추는 곰곰이를 본 임스 | Bronze 4 | [C](./25xxx/25191. 치킨댄스를 추는 곰곰이를 본 임스/치킨댄스를 추는 곰곰이를 본 임스.c) |
 | [25192](https://boj.kr/25192) | 인사성 밝은 곰곰이 | Silver 4 | [Java](./25xxx/25192. 인사성 밝은 곰곰이/인사성 밝은 곰곰이.java) |
@@ -4967,4 +4969,8 @@
 | [34619](https://boj.kr/34619) | 소대 배정 | Bronze 2 | [C++](./34xxx/34619. 소대 배정/소대 배정.cc) |
 | [34622](https://boj.kr/34622) | 제식 훈련 1 | Gold 2 | [C++](./34xxx/34622. 제식 훈련 1/제식 훈련 1.cc) |
 | [34644](https://boj.kr/34644) | Ten Player Bingo | Bronze 3 | [C++](./34xxx/34644. Ten Player Bingo/Ten Player Bingo.cc) |
+| [34665](https://boj.kr/34665) | 가희와 교통 요금 | Bronze 5 | |
+| [34667](https://boj.kr/34667) | 가희와 철도역 | Unrated | |
+| [34668](https://boj.kr/34668) | 가희와 후쿠오카 공항 | Unrated | |
+| [34669](https://boj.kr/34669) | 가희와 노선 건설 놀이 2 | Unrated | |
 </div>
