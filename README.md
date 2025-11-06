@@ -1014,6 +1014,7 @@
 | [04775](https://boj.kr/4775) | Spelling Be | Silver 5 | [Java](./04xxx/4775. Spelling Be/Spelling Be.java) |
 | [04779](https://boj.kr/4779) | 칸토어 집합 | Silver 3 | [Java](./04xxx/4779. 칸토어 집합/칸토어 집합.java) |
 | [04781](https://boj.kr/4781) | 사탕 가게 | Gold 4 | [C++](./04xxx/4781. 사탕 가게/사탕 가게.cc) |
+| [04787](https://boj.kr/4787) | Covered Walkway | Platinum 1 | [C++](./04xxx/4787. Covered Walkway/Covered Walkway.cc) |
 | [04796](https://boj.kr/4796) | 캠핑 | Bronze 1 | [Java](./04xxx/4796. 캠핑/캠핑.java) |
 | [04803](https://boj.kr/4803) | 트리 | Gold 4 | [Java](./04xxx/4803. 트리/트리.java) |
 | [04806](https://boj.kr/4806) | 줄 세기 | Bronze 3 | [Java](./04xxx/4806. 줄 세기/줄 세기.java) |
@@ -2870,7 +2871,7 @@
 | [16738](https://boj.kr/16738) | 초특가 숭놀자 | Silver 3 | [C++](./16xxx/16738. 초특가 숭놀자/초특가 숭놀자.cc) |
 | [16755](https://boj.kr/16755) | Magnus | Bronze 1 | [Java](./16xxx/16755. Magnus/Magnus.java) |
 | [16769](https://boj.kr/16769) | Mixing Milk | Bronze 2 | [Java](./16xxx/16769. Mixing Milk/Mixing Milk.java) |
-| [16770](https://boj.kr/16770) | The Bucket List | Bronze 1 | [Java](./16xxx/16770. The Bucket List/The Bucket List.java) |
+| [16770](https://boj.kr/16770) | The Bucket List | Bronze 2 | [Java](./16xxx/16770. The Bucket List/The Bucket List.java) |
 | [16785](https://boj.kr/16785) | ソーシャルゲーム (Social Game) | Bronze 3 | [Java](./16xxx/16785. ソーシャルゲーム （Social Game）/ソーシャルゲーム （Social Game）.java) |
 | [16786](https://boj.kr/16786) | すごろくと駒 (Sugoroku and Pieces) | Bronze 2 | [Java](./16xxx/16786. すごろくと駒 （Sugoroku and Pieces）/すごろくと駒 （Sugoroku and Pieces）.java) |
 | [16787](https://boj.kr/16787) | マルバツスタンプ (Circle Cross Stamps) | Bronze 1 | [C++](./16xxx/16787. マルバツスタンプ （Circle Cross Stamps）/マルバツスタンプ （Circle Cross Stamps）.cc) |
