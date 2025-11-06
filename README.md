@@ -2348,6 +2348,7 @@
 | [14075](https://boj.kr/14075) | Luhn | Bronze 3 | [Java](./14xxx/14075. Luhn/Luhn.java) |
 | [14173](https://boj.kr/14173) | Square Pasture | Bronze 3 | [Java](./14xxx/14173. Square Pasture/Square Pasture.java) |
 | [14175](https://boj.kr/14175) | The Cow-Signal | Bronze 2 | [Java](./14xxx/14175. The Cow－Signal/The Cow－Signal.java) |
+| [14180](https://boj.kr/14180) | 배열의 특징 | Diamond 5 | [C++](./14xxx/14180. 배열의 특징/배열의 특징.cc) |
 | [14182](https://boj.kr/14182) | Tax | Bronze 3 | [Java](./14xxx/14182. Tax/Tax.java) |
 | [14183](https://boj.kr/14183) | Key Maker | Bronze 2 | [Java](./14xxx/14183. Key Maker/Key Maker.java) |
 | [14208](https://boj.kr/14208) | 수열 찾기 | Platinum 4 | [C++](./14xxx/14208. 수열 찾기/수열 찾기.cc) |
