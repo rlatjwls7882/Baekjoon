@@ -1437,6 +1437,7 @@
 | [08549](https://boj.kr/8549) | Autostrady | Gold 4 | [Java](./08xxx/8549. Autostrady/Autostrady.java) |
 | [08558](https://boj.kr/8558) | Silnia | Bronze 4 | [Java](./08xxx/8558. Silnia/Silnia.java) |
 | [08559](https://boj.kr/8559) | Potęga | Bronze 2 | [Java](./08xxx/8559. Potęga/Potęga.java) |
+| [08571](https://boj.kr/8571) | Apteka | Platinum 2 | [C++](./08xxx/8571. Apteka/Apteka.cc) |
 | [08574](https://boj.kr/8574) | Ratownik | Bronze 3 | [Java](./08xxx/8574. Ratownik/Ratownik.java) |
 | [08595](https://boj.kr/8595) | 히든 넘버 | Bronze 1 | [Java](./08xxx/8595. 히든 넘버/히든 넘버.java) |
 | [08610](https://boj.kr/8610) | Szyfr | Bronze 1 | [C++](./08xxx/8610. Szyfr/Szyfr.cc) |
