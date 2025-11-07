@@ -4870,6 +4870,7 @@
 | [33753](https://boj.kr/33753) | 주차 요금 정산하기 | Bronze 3 | [C++](./33xxx/33753. 주차 요금 정산하기/주차 요금 정산하기.cc) |
 | [33756](https://boj.kr/33756) | 88888 | Silver 2 | [C++](./33xxx/33756. 88888/88888.cc) |
 | [33779](https://boj.kr/33779) | Back and Forth | Bronze 3 | [C++](./33xxx/33779. Back and Forth/Back and Forth.cc) |
+| [33782](https://boj.kr/33782) | Efficient Pinning | Silver 5 | [C++](./33xxx/33782. Efficient Pinning/Efficient Pinning.cc) |
 | [33810](https://boj.kr/33810) | SciComLove (2025) | Bronze 4 | [C++](./33xxx/33810. SciComLove （2025）/SciComLove （2025）.cc) |
 | [33835](https://boj.kr/33835) | 도로 공사 | Bronze 1 | [C++](./33xxx/33835. 도로 공사/도로 공사.cc) |
 | [33836](https://boj.kr/33836) | 벌집우주와 쿼리 | Silver 4 | [C++](./33xxx/33836. 벌집우주와 쿼리/벌집우주와 쿼리.cc) |
@@ -4947,6 +4948,7 @@
 | [34346](https://boj.kr/34346) | 대각선 | Bronze 4 | [C++](./34xxx/34346. 대각선/대각선.cc) |
 | [34348](https://boj.kr/34348) | snupc 문자열 (Easy) | Gold 1 | [C++](./34xxx/34348. snupc 문자열 （Easy）/snupc 문자열 （Easy）.cc) |
 | [34362](https://boj.kr/34362) | Above | Bronze 5 | [C++](./34xxx/34362. Above/Above.cc) |
+| [34363](https://boj.kr/34363) | Driving Dilemma | Bronze 4 | [C++](./34xxx/34363. Driving Dilemma/Driving Dilemma.cc) |
 | [34380](https://boj.kr/34380) | Blaster's Dash | Bronze 4 | [C++](./34xxx/34380. Blaster's Dash/Blaster's Dash.cc) |
 | [34400](https://boj.kr/34400) | 민규의 서카디안 리듬 | Bronze 4 | [C++](./34xxx/34400. 민규의 서카디안 리듬/민규의 서카디안 리듬.cc) |
 | [34406](https://boj.kr/34406) | x와 배수와 XOR (Easy) | Gold 5 | [C++](./34xxx/34406. x와 배수와 XOR （Easy）/x와 배수와 XOR （Easy）.cc) |
