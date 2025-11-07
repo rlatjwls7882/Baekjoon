@@ -1187,6 +1187,7 @@
 | [05735](https://boj.kr/5735) | Emoticons :-) | Platinum 2 | [C++](./05xxx/5735. Emoticons ：－）/Emoticons ：－）.cc) |
 | [05751](https://boj.kr/5751) | Head or Tail | Bronze 3 | [Java](./05xxx/5751. Head or Tail/Head or Tail.java) |
 | [05753](https://boj.kr/5753) | Pascal Library | Bronze 3 | [Java](./05xxx/5753. Pascal Library/Pascal Library.java) |
+| [05756](https://boj.kr/5756) | Where Are My Genes | Silver 4 | [C++](./05xxx/5756. Where Are My Genes/Where Are My Genes.cc) |
 | [05766](https://boj.kr/5766) | 할아버지는 유명해! | Silver 4 | [Java](./05xxx/5766. 할아버지는 유명해！/할아버지는 유명해！.java) |
 | [05768](https://boj.kr/5768) | Divide and Conquer | Bronze 2 | [Java](./05xxx/5768. Divide and Conquer/Divide and Conquer.java) |
 | [05778](https://boj.kr/5778) | Fake tickets | Bronze 2 | [Java](./05xxx/5778. Fake tickets/Fake tickets.java) |
