@@ -1,4 +1,4 @@
-# [Gold II] Historia bawełny
+# [Gold I] Historia bawełny
 
 [문제 링크](https://www.acmicpc.net/problem/7935) 
 
