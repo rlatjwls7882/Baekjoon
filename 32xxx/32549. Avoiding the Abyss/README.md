@@ -1,4 +1,4 @@
-# [Gold V] Avoiding the Abyss
+# [Silver I] Avoiding the Abyss
 
 [문제 링크](https://www.acmicpc.net/problem/32549) 
 
