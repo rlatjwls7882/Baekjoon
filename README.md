@@ -1414,6 +1414,7 @@
 | [07795](https://boj.kr/7795) | 먹을 것인가 먹힐 것인가 | Silver 3 | [C++](./07xxx/7795. 먹을 것인가 먹힐 것인가/먹을 것인가 먹힐 것인가.cc) |
 | [07847](https://boj.kr/7847) | Sales Report | Silver 4 | [C++](./07xxx/7847. Sales Report/Sales Report.cc) |
 | [07891](https://boj.kr/7891) | Can you add this? | Bronze 5 | [C](./07xxx/7891. Can you add this？/Can you add this？.c) |
+| [07935](https://boj.kr/7935) | Historia bawełny | Gold 1 | [Java](./07xxx/7935. Historia bawełny/Historia bawełny.java) |
 | [07947](https://boj.kr/7947) | Koncert | Bronze 3 | [Java](./07xxx/7947. Koncert/Koncert.java) |
 | [07956](https://boj.kr/7956) | Liczby piwne | Silver 1 | [Java](./07xxx/7956. Liczby piwne/Liczby piwne.java) |
 | [07977](https://boj.kr/7977) | 크리스 마틴 | Gold 3 | [C++](./07xxx/7977. 크리스 마틴/크리스 마틴.cc) |
