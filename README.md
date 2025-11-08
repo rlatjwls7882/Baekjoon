@@ -4746,8 +4746,10 @@
 | [32500](https://boj.kr/32500) | Dishonest Lottery | Bronze 3 | [C++](./32xxx/32500. Dishonest Lottery/Dishonest Lottery.cc) |
 | [32515](https://boj.kr/32515) | BB84 | Bronze 3 | [C++](./32xxx/32515. BB84/BB84.cc) |
 | [32529](https://boj.kr/32529) | 래환이의 여자친구 사귀기 대작전 | Bronze 2 | [C++](./32xxx/32529. 래환이의 여자친구 사귀기 대작전/래환이의 여자친구 사귀기 대작전.cc) |
+| [32549](https://boj.kr/32549) | Avoiding the Abyss | Silver 1 | [C++](./32xxx/32549. Avoiding the Abyss/Avoiding the Abyss.cc) |
 | [32551](https://boj.kr/32551) | Composed Rhythms | Bronze 2 | [C++](./32xxx/32551. Composed Rhythms/Composed Rhythms.cc) |
 | [32558](https://boj.kr/32558) | Jungle Game | Platinum 3 | [C++](./32xxx/32558. Jungle Game/Jungle Game.cc) |
+| [32559](https://boj.kr/32559) | Knitting Pattern | Silver 3 | [C++](./32xxx/32559. Knitting Pattern/Knitting Pattern.cc) |
 | [32560](https://boj.kr/32560) | Amalgram | Bronze 3 | [Python](./32xxx/32560. Amalgram/Amalgram.py) |
 | [32585](https://boj.kr/32585) | Building Pyramids | Bronze 3 | [Python](./32xxx/32585. Building Pyramids/Building Pyramids.py) |
 | [32587](https://boj.kr/32587) | Dragged-out Duel | Bronze 3 | [C++](./32xxx/32587. Dragged－out Duel/Dragged－out Duel.cc) |
