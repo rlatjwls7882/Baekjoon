@@ -3539,6 +3539,7 @@
 | [23334](https://boj.kr/23334) | Olympic Ranking | Bronze 2 | [Java](./23xxx/23334. Olympic Ranking/Olympic Ranking.java) |
 | [23343](https://boj.kr/23343) | JavaScript | Bronze 3 | [Java](./23xxx/23343. JavaScript/JavaScript.java) |
 | [23348](https://boj.kr/23348) | 스트릿 코딩 파이터 | Bronze 3 | [Java](./23xxx/23348. 스트릿 코딩 파이터/스트릿 코딩 파이터.java) |
+| [23351](https://boj.kr/23351) | 물 주기 | Silver 3 | [C++](./23xxx/23351. 물 주기/물 주기.cc) |
 | [23367](https://boj.kr/23367) | Dickensian Dictionary | Bronze 2 | [Java](./23xxx/23367. Dickensian Dictionary/Dickensian Dictionary.java) |
 | [23375](https://boj.kr/23375) | Arm Coordination | Bronze 3 | [Java](./23xxx/23375. Arm Coordination/Arm Coordination.java) |
 | [23397](https://boj.kr/23397) | Kathmandu | Bronze 3 | [Java](./23xxx/23397. Katmandu/Katmandu.java) |
