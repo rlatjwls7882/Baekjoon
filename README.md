@@ -4773,7 +4773,7 @@
 | [32685](https://boj.kr/32685) | 4-LSB | Bronze 2 | [C++](./32xxx/32685. 4－LSB/4－LSB.cc) |
 | [32710](https://boj.kr/32710) | 구구단표 | Bronze 4 | [C++](./32xxx/32710. 구구단표/구구단표.cc) |
 | [32711](https://boj.kr/32711) | 홀수로 나눠라! 짝수로 나눠라! | Silver 3 | [C++](./32xxx/32711. 홀수로 나눠라！ 짝수로 나눠라！/홀수로 나눠라！ 짝수로 나눠라！.cc) |
-| [32714](https://boj.kr/32714) | 방벽 게임 | Silver 2 | |
+| [32714](https://boj.kr/32714) | 방벽 게임 | Silver 2 | [C++](./32xxx/32714. 방벽 게임/방벽 게임.cc) |
 | [32722](https://boj.kr/32722) | Juta teekond | Bronze 4 | [Python](./32xxx/32722. Juta teekond/Juta teekond.py) |
 | [32728](https://boj.kr/32728) | Sõnakuulelik Tom | Bronze 3 | [C++](./32xxx/32728. Sõnakuulelik Tom/Sõnakuulelik Tom.cc) |
 | [32748](https://boj.kr/32748) | $f(A + B)$ | Silver 5 | [C++](./32xxx/32748. $f（A ＋ B）$/$f（A ＋ B）$.cc) |
