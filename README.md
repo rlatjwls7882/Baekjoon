@@ -1874,7 +1874,7 @@
 | [10998](https://boj.kr/10998) | A×B | Bronze 5 | [C](./10xxx/10998. A×B/A×B.c) [C++](./10xxx/10998. A×B/A×B.cc) |
 | [10999](https://boj.kr/10999) | 구간 합 구하기 2 | Platinum 4 | [C++](./10xxx/10999. 구간 합 구하기 2/구간 합 구하기 2.cc) |
 | [11000](https://boj.kr/11000) | 강의실 배정 | Gold 4 | [Java](./11xxx/11000. 강의실 배정/강의실 배정.java) |
-| [11003](https://boj.kr/11003) | 최솟값 찾기 | Platinum 5 | [C++](./11xxx/11003. 최솟값 찾기/최솟값 찾기.cc) |
+| [11003](https://boj.kr/11003) | 최솟값 찾기 | Gold 1 | [C++](./11xxx/11003. 최솟값 찾기/최솟값 찾기.cc) |
 | [11004](https://boj.kr/11004) | K번째 수 | Silver 5 | [Java](./11xxx/11004. K번째 수/K번째 수.java) |
 | [11005](https://boj.kr/11005) | 진법 변환 2 | Bronze 1 | [Java](./11xxx/11005. 진법 변환 2/진법 변환 2.java) |
 | [11006](https://boj.kr/11006) | 남욱이의 닭장 | Bronze 3 | [Java](./11xxx/11006. 남욱이의 닭장/남욱이의 닭장.java) |
