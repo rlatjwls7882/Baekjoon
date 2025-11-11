@@ -4469,6 +4469,7 @@
 | [30569](https://boj.kr/30569) | Last One Standing | Bronze 3 | [Java](./30xxx/30569. Last One Standing/Last One Standing.java) |
 | [30584](https://boj.kr/30584) | Середина игры | Bronze 1 | [Java](./30xxx/30584. Середина игры/Середина игры.java) |
 | [30585](https://boj.kr/30585) | Поп-ит | Bronze 4 | [Java](./30xxx/30585. Поп－ит/Поп－ит.java) |
+| [30589](https://boj.kr/30589) | Маска для монстров | Bronze 1 | [C++](./30xxx/30589. Маска для монстров/Маска для монстров.cc) |
 | [30596](https://boj.kr/30596) | Axis-Aligned Area | Bronze 3 | [Java](./30xxx/30596. Axis－Aligned Area/Axis－Aligned Area.java) |
 | [30617](https://boj.kr/30617) | Knob | Bronze 3 | [Java](./30xxx/30617. Knob/Knob.java) |
 | [30618](https://boj.kr/30618) | donstructive | Silver 4 | [Java](./30xxx/30618. donstructive/donstructive.java) |
