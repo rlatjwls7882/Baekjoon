@@ -1846,6 +1846,7 @@
 | [10926](https://boj.kr/10926) | ??! | Bronze 5 | [C](./10xxx/10926. ？？！/？？！.c) [C++](./10xxx/10926. ？？！/？？！.cc) |
 | [10940](https://boj.kr/10940) | BASE16 인코딩 | Unrated | [Java](./10xxx/10940. BASE16 인코딩/BASE16 인코딩.java) |
 | [10942](https://boj.kr/10942) | 팰린드롬? | Gold 4 | [C++](./10xxx/10942. 팰린드롬？/팰린드롬？.cc) |
+| [10949](https://boj.kr/10949) | 숫자 야구 5 | Unrated | |
 | [10950](https://boj.kr/10950) | A+B - 3 | Bronze 5 | [C](./10xxx/10950. A＋B － 3/A＋B － 3.c) |
 | [10951](https://boj.kr/10951) | A+B - 4 | Bronze 5 | [C](./10xxx/10951. A＋B － 4/A＋B － 4.c) |
 | [10952](https://boj.kr/10952) | A+B - 5 | Bronze 5 | [C](./10xxx/10952. A＋B － 5/A＋B － 5.c) |
@@ -4991,7 +4992,7 @@
 | [34558](https://boj.kr/34558) | Prime Median | Gold 5 | [C++](./34xxx/34558. Prime Median/Prime Median.cc) |
 | [34563](https://boj.kr/34563) | 궁핍한 모그 | Bronze 2 | [C++](./34xxx/34563. 궁핍한 모그/궁핍한 모그.cc) |
 | [34584](https://boj.kr/34584) | Take It or Double It | Bronze 4 | [C++](./34xxx/34584. Take It or Double It/Take It or Double It.cc) |
-| [34585](https://boj.kr/34585) | Twin Guardians | Silver 4 | [C++](./34xxx/34585. Twin Guardians/Twin Guardians.cc) |
+| [34585](https://boj.kr/34585) | Twin Guardians | Silver 5 | [C++](./34xxx/34585. Twin Guardians/Twin Guardians.cc) |
 | [34587](https://boj.kr/34587) | Palindromic Distance | Gold 3 | [C++](./34xxx/34587. Palindromic Distance/Palindromic Distance.cc) |
 | [34588](https://boj.kr/34588) | Explosive Slabstones Rearrangement | Gold 1 | [C++](./34xxx/34588. Explosive Slabstones Rearrangement/Explosive Slabstones Rearrangement.cc) |
 | [34619](https://boj.kr/34619) | 소대 배정 | Bronze 2 | [C++](./34xxx/34619. 소대 배정/소대 배정.cc) |
