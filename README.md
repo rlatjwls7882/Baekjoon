@@ -1751,6 +1751,7 @@
 | [10434](https://boj.kr/10434) | 행복한 소수 | Silver 2 | [C++](./10xxx/10434. 행복한 소수/행복한 소수.cc) |
 | [10448](https://boj.kr/10448) | 유레카 이론 | Bronze 1 | [Java](./10xxx/10448. 유레카 이론/유레카 이론.java) |
 | [10451](https://boj.kr/10451) | 순열 사이클 | Silver 3 | [C++](./10xxx/10451. 순열 사이클/순열 사이클.cc) |
+| [10453](https://boj.kr/10453) | 문자열 변환 | Gold 5 | [C++](./10xxx/10453. 문자열 변환/문자열 변환.cc) |
 | [10471](https://boj.kr/10471) | 공간을 만들어 봅시다 | Bronze 2 | [Java](./10xxx/10471. 공간을 만들어 봅시다/공간을 만들어 봅시다.java) |
 | [10474](https://boj.kr/10474) | 분수좋아해? | Bronze 3 | [Java](./10xxx/10474. 분수좋아해？/분수좋아해？.java) |
 | [10480](https://boj.kr/10480) | Oddities | Bronze 4 | [C](./10xxx/10480. Oddities/Oddities.c) |
@@ -4442,6 +4443,7 @@
 | [30402](https://boj.kr/30402) | 감마선을 맞은 컴퓨터 | Bronze 4 | [Java](./30xxx/30402.%E2%80%85감마선을%E2%80%85맞은%E2%80%85컴퓨터/감마선을 맞은 컴퓨터.java) |
 | [30403](https://boj.kr/30403) | 무지개 만들기 | Bronze 2 | [Java](./30xxx/30403. 무지개 만들기/무지개 만들기.java) |
 | [30407](https://boj.kr/30407) | 나비의 간식을 훔쳐먹은 춘배 | Gold 4 | [C++](./30xxx/30407. 나비의 간식을 훔쳐먹은 춘배/나비의 간식을 훔쳐먹은 춘배.cc) |
+| [30410](https://boj.kr/30410) | 접시 포개기 | Gold 2 | [C++](./30xxx/30410. 접시 포개기/접시 포개기.cc) |
 | [30427](https://boj.kr/30427) | Reveals | Silver 2 | [C++](./30xxx/30427. Reveals/Reveals.cc) |
 | [30445](https://boj.kr/30445) | 행복 점수 | Silver 5 | [Java](./30xxx/30445. 행복 점수/행복 점수.java) |
 | [30446](https://boj.kr/30446) | 회문수 | Silver 2 | [Java](./30xxx/30446. 회문수/회문수.java) |
