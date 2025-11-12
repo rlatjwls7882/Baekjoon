@@ -3080,6 +3080,7 @@
 | [17927](https://boj.kr/17927) | Counting Greedily Increasing Supersequences | Gold 2 | [C++](./17xxx/17927. Counting Greedily Increasing Supersequences/Counting Greedily Increasing Supersequences.cc) |
 | [17930](https://boj.kr/17930) | Hanging Out on the Terrace | Bronze 2 | [Java](./17xxx/17930. Hanging Out on the Terrace/Hanging Out on the Terrace.java) |
 | [17931](https://boj.kr/17931) | Greedily Increasing Subsequence | Bronze 2 | [C++](./17xxx/17931. Greedily Increasing Subsequence/Greedily Increasing Subsequence.cc) |
+| [17939](https://boj.kr/17939) | Gazzzua | Silver 1 | [C++](./17xxx/17939. Gazzzua/Gazzzua.cc) |
 | [17944](https://boj.kr/17944) | 퐁당퐁당 1 | Bronze 3 | [Java](./17xxx/17944. 퐁당퐁당 1/퐁당퐁당 1.java) |
 | [17945](https://boj.kr/17945) | 통학의 신 | Bronze 3 | [Java](./17xxx/17945. 통학의 신/통학의 신.java) |
 | [17946](https://boj.kr/17946) | 피자는 나눌 수록 커지잖아요 | Bronze 2 | [Java](./17xxx/17946. 피자는 나눌 수록 커지잖아요/피자는 나눌 수록 커지잖아요.java) |
