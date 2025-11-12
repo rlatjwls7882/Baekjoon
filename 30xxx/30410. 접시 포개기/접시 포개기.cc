@@ -11,17 +11,17 @@ int main() {
     ios::sync_with_stdio(0); cin.tie(0);
     int n; cin >> n;
 
-    int res=1, last2=0, last1=0;
+    int res=0, last1=0, last2=0;
     while(n--) {
         int cur; cin >> cur;
         if(cur==1) last1++;
-        else last2++;
-        res = max(res, blockMerge(last2+last1/2));
-        if(cur==2) {
+        else {
+            last2++;
             if(last1%2) last2 = last1/2;
             else last2 += last1/2;
             last1=0;
         }
+        res = max(res, last2+last1/2);
     }
-    cout << res;
+    cout << blockMerge(res);
 }
