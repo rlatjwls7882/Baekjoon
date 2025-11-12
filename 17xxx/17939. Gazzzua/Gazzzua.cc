@@ -1,21 +1,17 @@
 #include<bits/stdc++.h>
 using namespace std;
 
-int cnt[1001];
+int a[100'000];
 
 int main() {
     ios::sync_with_stdio(0); cin.tie(0);
     int n; cin >> n;
+    for(int i=0;i<n;i++) cin >> a[i];
 
-    int sum=0;
-    while(n--) {
-        int cur; cin >> cur;
-        cnt[cur]++;
-        for(int i=1;i<cur;i++) {
-            sum += cnt[i];
-            cnt[i+1] += cnt[i];
-            cnt[i]=0;
-        }
+    int sum=0, cur=a[n-1];
+    for(int i=n-2;i>=0;i--) {
+        sum += max(0, cur-a[i]);
+        cur = max(cur, a[i]);
     }
     cout << sum;
 }
