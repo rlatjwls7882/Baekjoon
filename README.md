@@ -4809,6 +4809,7 @@
 | [32888](https://boj.kr/32888) | Consolidating Windows | Bronze 3 | [C++](./32xxx/32888. Consolidating Windows/Consolidating Windows.cc) |
 | [32894](https://boj.kr/32894) | Flowing Fountain | Gold 1 | [C++](./32xxx/32894. Flowing Fountain/Flowing Fountain.cc) |
 | [32896](https://boj.kr/32896) | Hash Collision | Platinum 4 | [C++](./32xxx/32896. Hash Collision/Hash Collision.cc) |
+| [32899](https://boj.kr/32899) | Kruidnoten | Platinum 5 | [C++](./32xxx/32899. Kruidnoten/Kruidnoten.cc) |
 | [32902](https://boj.kr/32902) | Chips | Bronze 4 | [C++](./32xxx/32902. Chips/Chips.cc) |
 | [32905](https://boj.kr/32905) | RACI | Bronze 4 | [C++](./32xxx/32905. RACI/RACI.cc) |
 | [32916](https://boj.kr/32916) | Another Brick in the Wall | Bronze 1 | [C++](./32xxx/32916. Another Brick in the Wall/Another Brick in the Wall.cc) |
