@@ -3363,6 +3363,7 @@
 | [21212](https://boj.kr/21212) | Cakes | Bronze 3 | [Java](./21xxx/21212. Cakes/Cakes.java) |
 | [21275](https://boj.kr/21275) | 폰 호석만 | Silver 2 | [C++](./21xxx/21275. 폰 호석만/폰 호석만.cc) |
 | [21280](https://boj.kr/21280) | Förvirrad föreläsare | Bronze 3 | [Java](./21xxx/21280. Förvirrad föreläsare/Förvirrad föreläsare.java) |
+| [21287](https://boj.kr/21287) | Färgrobot | Bronze 1 | [C++](./21xxx/21287. Färgrobot/Färgrobot.cc) |
 | [21300](https://boj.kr/21300) | Bottle Return | Bronze 5 | [C](./21xxx/21300. Bottle Return/Bottle Return.c) |
 | [21301](https://boj.kr/21301) | Comfy Deviations | Bronze 2 | [Java](./21xxx/21301. Comfy Deviations/Comfy Deviations.java) |
 | [21312](https://boj.kr/21312) | 홀짝 칵테일 | Bronze 3 | [Java](./21xxx/21312. 홀짝 칵테일/홀짝 칵테일.java) |
