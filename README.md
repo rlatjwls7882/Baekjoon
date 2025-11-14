@@ -2868,6 +2868,7 @@
 | [16713](https://boj.kr/16713) | Generic Queries | Silver 1 | [C++](./16xxx/16713. Generic Queries/Generic Queries.cc) |
 | [16715](https://boj.kr/16715) | Inspiration | Bronze 1 | [Java](./16xxx/16715. Inspiration/Inspiration.java) |
 | [16719](https://boj.kr/16719) | ZOAC | Gold 5 | [C++](./16xxx/16719. ZOAC/ZOAC.cc) |
+| [16720](https://boj.kr/16720) | BAZE RUNNER | Silver 1 | [C++](./16xxx/16720. BAZE RUNNER/BAZE RUNNER.cc) |
 | [16722](https://boj.kr/16722) | 결! 합! | Gold 5 | [Java](./16xxx/16722. 결！ 합！/결！ 합！.java) |
 | [16724](https://boj.kr/16724) | 피리 부는 사나이 | Gold 3 | [C++](./16xxx/16724. 피리 부는 사나이/피리 부는 사나이.cc) |
 | [16727](https://boj.kr/16727) | ICPC | Bronze 4 | [Java](./16xxx/16727. ICPC/ICPC.java) |
