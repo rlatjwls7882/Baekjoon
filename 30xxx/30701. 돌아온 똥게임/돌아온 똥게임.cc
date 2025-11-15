@@ -4,7 +4,7 @@ using namespace std;
 int main() {
     ios::sync_with_stdio(0); cin.tie(0);
     long long n, d; cin >> n >> d;
-    vector<long long> monster, armor;
+    vector<int> monster, armor;
     for(int i=0;i<n;i++) {
         int a, x; cin >> a >> x;
         if(a==1) monster.push_back(x);
