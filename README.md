@@ -4497,6 +4497,7 @@
 | [30684](https://boj.kr/30684) | 모르고리즘 회장 정하기 | Bronze 2 | [Java](./30xxx/30684. 모르고리즘 회장 정하기/모르고리즘 회장 정하기.java) |
 | [30685](https://boj.kr/30685) | 버터 녹이기 | Silver 1 | [C++](./30xxx/30685. 버터 녹이기/버터 녹이기.cc) |
 | [30700](https://boj.kr/30700) | KOREA 문자열 만들기 | Bronze 2 | [Java](./30xxx/30700.%E2%80%85KOREA%E2%80%85문자열%E2%80%85만들기/KOREA 문자열 만들기.java) |
+| [30701](https://boj.kr/30701) | 돌아온 똥게임 | Silver 3 | [C++](./30xxx/30701. 돌아온 똥게임/돌아온 똥게임.cc) |
 | [30716](https://boj.kr/30716) | Дети и буквы | Bronze 2 | [Java](./30xxx/30716. Дети и буквы/Дети и буквы.java) |
 | [30767](https://boj.kr/30767) | Dungeons & Dragons | Bronze 2 | [Java](./30xxx/30767. Dungeons ＆ Dragons/Dungeons ＆ Dragons.java) |
 | [30775](https://boj.kr/30775) | Рассадка | Bronze 3 | [Java](./30xxx/30775. Рассадка/Рассадка.java) |
@@ -4865,6 +4866,7 @@
 | [33466](https://boj.kr/33466) | 피타고라스 정리의 증명 | Gold 5 | [C++](./33xxx/33466. 피타고라스 정리의 증명/피타고라스 정리의 증명.cc) |
 | [33488](https://boj.kr/33488) | 아름다운 수열 | Bronze 2 | [C++](./33xxx/33488. 아름다운 수열/아름다운 수열.cc) |
 | [33489](https://boj.kr/33489) | 수열의 점수 | Gold 2 | [C++](./33xxx/33489. 수열의 점수/수열의 점수.cc) |
+| [33510](https://boj.kr/33510) | 이상한 나누기 | Silver 2 | [C++](./33xxx/33510. 이상한 나누기/이상한 나누기.cc) |
 | [33511](https://boj.kr/33511) | 쉐이드 커튼 위 먼지는 쌓이는 중 | Gold 3 | [C++](./33xxx/33511. 쉐이드 커튼 위 먼지는 쌓이는 중/쉐이드 커튼 위 먼지는 쌓이는 중.cc) |
 | [33515](https://boj.kr/33515) | 노트북 세 대를 가지고 왔다 | Bronze 5 | [Python](./33xxx/33515. 노트북 세 대를 가지고 왔다/노트북 세 대를 가지고 왔다.py) |
 | [33526](https://boj.kr/33526) | Anti-Fan Death | Silver 2 | [C++](./33xxx/33526. Anti－Fan Death/Anti－Fan Death.cc) |
