@@ -2337,6 +2337,7 @@
 | [13877](https://boj.kr/13877) | 이건 무슨 진법이지? | Bronze 2 | [Java](./13xxx/13877. 이건 무슨 진법이지？/이건 무슨 진법이지？.java) |
 | [13900](https://boj.kr/13900) | 순서쌍의 곱의 합 | Silver 4 | [Java](./13xxx/13900. 순서쌍의 곱의 합/순서쌍의 곱의 합.java) |
 | [13901](https://boj.kr/13901) | 로봇 | Silver 1 | [C++](./13xxx/13901. 로봇/로봇.cc) |
+| [13903](https://boj.kr/13903) | 출근 | Silver 1 | [C++](./13xxx/13903. 출근/출근.cc) |
 | [13905](https://boj.kr/13905) | 세부 | Gold 3 | [Java](./13xxx/13905. 세부/세부.java) |
 | [13908](https://boj.kr/13908) | 비밀번호 | Silver 2 | [C++](./13xxx/13908. 비밀번호/비밀번호.cc) |
 | [13909](https://boj.kr/13909) | 창문 닫기 | Silver 5 | [Java](./13xxx/13909. 창문 닫기/창문 닫기.java) |
@@ -2827,6 +2828,7 @@
 | [16446](https://boj.kr/16446) | Enigma | Bronze 2 | [Java](./16xxx/16446. Enigma/Enigma.java) |
 | [16456](https://boj.kr/16456) | 하와와 대학생쨩 하와이로 가는 거시와요~ | Silver 1 | [C++](./16xxx/16456. 하와와 대학생쨩 하와이로 가는 거시와요～/하와와 대학생쨩 하와이로 가는 거시와요～.cc) |
 | [16462](https://boj.kr/16462) | '나교수' 교수님의 악필 | Bronze 2 | [Java](./16xxx/16462. '나교수' 교수님의 악필/'나교수' 교수님의 악필.java) |
+| [16463](https://boj.kr/16463) | 13일의 금요일 | Silver 3 | [C++](./16xxx/16463. 13일의 금요일/13일의 금요일.cc) |
 | [16464](https://boj.kr/16464) | 가주아 | Silver 1 | [C++](./16xxx/16464. 가주아/가주아.cc) |
 | [16466](https://boj.kr/16466) | 콘서트 | Bronze 1 | [Java](./16xxx/16466. 콘서트/콘서트.java) |
 | [16471](https://boj.kr/16471) | 작은 수 내기 | Silver 3 | [C++](./16xxx/16471. 작은 수 내기/작은 수 내기.cc) |
@@ -3949,6 +3951,7 @@
 | [26146](https://boj.kr/26146) | 즉흥 여행 (Easy) | Platinum 5 | [C++](./26xxx/26146. 즉흥 여행 （Easy）/즉흥 여행 （Easy）.cc) |
 | [26148](https://boj.kr/26148) | 세로 달력 | Bronze 1 | [C++](./26xxx/26148. 세로 달력/세로 달력.cc) |
 | [26150](https://boj.kr/26150) | Identify, Sort, Index, Solve | Silver 5 | [C++](./26xxx/26150. Identify， Sort， Index， Solve/Identify， Sort， Index， Solve.cc) |
+| [26152](https://boj.kr/26152) | 플래피 버드 스코어링 | Silver 1 | [C++](./26xxx/26152. 플래피 버드 스코어링/플래피 버드 스코어링.cc) |
 | [26153](https://boj.kr/26153) | 로하의 농사 | Gold 4 | [C++](./26xxx/26153. 로하의 농사/로하의 농사.cc) |
 | [26155](https://boj.kr/26155) | 배수관 미스터리 | Platinum 5 | [C++](./26xxx/26155. 배수관 미스터리/배수관 미스터리.cc) |
 | [26156](https://boj.kr/26156) | 나락도 락이다 | Gold 3 | [C++](./26xxx/26156. 나락도 락이다/나락도 락이다.cc) |
