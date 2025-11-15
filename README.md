@@ -4907,6 +4907,7 @@
 | [33897](https://boj.kr/33897) | 헤키레키잇센 | Bronze 1 | [C++](./33xxx/33897. 헤키레키잇센/헤키레키잇센.cc) |
 | [33898](https://boj.kr/33898) | HEPC1 | Bronze 1 | [C++](./33xxx/33898. HEPC1/HEPC1.cc) |
 | [33900](https://boj.kr/33900) | 캠핑장 부지 평탄화 | Silver 4 | [C++](./33xxx/33900. 캠핑장 부지 평탄화/캠핑장 부지 평탄화.cc) |
+| [33901](https://boj.kr/33901) | OR이 아니면? XOR | Silver 1 | [C++](./33xxx/33901. OR이 아니면？ XOR/OR이 아니면？ XOR.cc) |
 | [33909](https://boj.kr/33909) | 알파벳 블록 | Bronze 3 | [C++](./33xxx/33909. 알파벳 블록/알파벳 블록.cc) |
 | [33918](https://boj.kr/33918) | 맛있는 스콘 만들기 | Platinum 3 | [C++](./33xxx/33918. 맛있는 스콘 만들기/맛있는 스콘 만들기.cc) |
 | [33923](https://boj.kr/33923) | 인경호 울타리 공사 | Bronze 1 | [C++](./33xxx/33923. 인경호 울타리 공사/인경호 울타리 공사.cc) |
@@ -5005,6 +5006,7 @@
 | [34643](https://boj.kr/34643) | Star Guardians | Silver 5 | [C++](./34xxx/34643. Star Guardians/Star Guardians.cc) |
 | [34644](https://boj.kr/34644) | Ten Player Bingo | Bronze 3 | [C++](./34xxx/34644. Ten Player Bingo/Ten Player Bingo.cc) |
 | [34665](https://boj.kr/34665) | 가희와 교통 요금 | Bronze 5 | [C++](./34xxx/34665. 가희와 교통 요금/가희와 교통 요금.cc) |
+| [34666](https://boj.kr/34666) | 가희와 일본 문화 | Bronze 3 | [C++](./34xxx/34666. 가희와 일본 문화/가희와 일본 문화.cc) |
 | [34667](https://boj.kr/34667) | 가희와 철도역 | Bronze 2 | [C++](./34xxx/34667. 가희와 철도역/가희와 철도역.cc) |
 | [34668](https://boj.kr/34668) | 가희와 후쿠오카 공항 | Silver 5 | [C++](./34xxx/34668. 가희와 후쿠오카 공항/가희와 후쿠오카 공항.cc) |
 | [34669](https://boj.kr/34669) | 가희와 노선 건설 놀이 2 | Silver 2 | [C++](./34xxx/34669. 가희와 노선 건설 놀이 2/가희와 노선 건설 놀이 2.cc) |
