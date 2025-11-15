@@ -44,25 +44,23 @@ int main() {
         unordered_set<int> curConned;
         for(int next:conn[e]) {
             next = find(next);
-            if(inTree.count(next) && !curConned.count(next)) {
-                sum += _size[next];
-                curConned.insert(next);
-            }
             if(find(e)==next) {
                 chk=false;
                 break;
+            }
+            if(inTree.count(next) && !curConned.count(next)) {
+                sum += _size[next];
+                curConned.insert(next);
             }
         }
         if(!chk) continue;
 
         res[e] += sum*w[e];
         for(int next:curConned) {
-            if(inTree.count(next)) {
-                dp[next] += (sum-_size[next])*w[e];
-                parent[next]=e;
-                _size[e] += _size[next];
-                child[e].push_back(next);
-            }
+            dp[next] += (sum-_size[next])*w[e];
+            parent[next]=e;
+            _size[e] += _size[next];
+            child[e].push_back(next);
         }
         inTree.insert(e);
         root=e;
