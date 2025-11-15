@@ -7,10 +7,7 @@ int main() {
 
     int cnt=0;
     for(int i=n-1;i>0;i--) {
-        if(s[i]>='1') {
-            cnt += (s[i]-'0')%2;
-            s[i-1] += (s[i]-'0'+1)/2;
-        }
+        if(!cnt && s[i]=='1' || cnt && s[i]=='0') cnt++;
     }
     cout << cnt;
 }
