@@ -1162,6 +1162,7 @@
 | [05617](https://boj.kr/5617) | 問題 1 | Bronze 2 | [Java](./05xxx/5617. 問題 1/問題 1.java) |
 | [05618](https://boj.kr/5618) | 공약수 | Bronze 2 | [Java](./05xxx/5618. 공약수/공약수.java) |
 | [05622](https://boj.kr/5622) | 다이얼 | Bronze 2 | [Java](./05xxx/5622. 다이얼/다이얼.java) |
+| [05623](https://boj.kr/5623) | 수열의 합 | Silver 4 | [C++](./05xxx/5623. 수열의 합/수열의 합.cc) |
 | [05631](https://boj.kr/5631) | 방사능 | Gold 4 | [C++](./05xxx/5631. 방사능/방사능.cc) |
 | [05635](https://boj.kr/5635) | 생일 | Silver 5 | [Java](./05xxx/5635. 생일/생일.java) |
 | [05636](https://boj.kr/5636) | 소수 부분 문자열 | Silver 2 | [C++](./05xxx/5636. 소수 부분 문자열/소수 부분 문자열.cc) |
@@ -1740,6 +1741,7 @@
 | [10384](https://boj.kr/10384) | 팬그램 | Silver 5 | [Java](./10xxx/10384. 팬그램/팬그램.java) |
 | [10395](https://boj.kr/10395) | Automated Checking Machine | Bronze 3 | [Java](./10xxx/10395. Automated Checking Machine/Automated Checking Machine.java) |
 | [10406](https://boj.kr/10406) | The fellowship of the ring | Bronze 3 | [Java](./10xxx/10406. The fellowship of the ring/The fellowship of the ring.java) |
+| [10407](https://boj.kr/10407) | 2 타워 | Silver 3 | [C++](./10xxx/10407. 2 타워/2 타워.cc) |
 | [10409](https://boj.kr/10409) | 서버 | Bronze 3 | [Java](./10xxx/10409. 서버/서버.java) |
 | [10410](https://boj.kr/10410) | Eligibility | Bronze 2 | [Java](./10xxx/10410. Eligibility/Eligibility.java) |
 | [10419](https://boj.kr/10419) | 지각 | Bronze 3 | [Java](./10xxx/10419. 지각/지각.java) |
@@ -4516,6 +4518,7 @@
 | [30889](https://boj.kr/30889) | 좌석 배치도 | Bronze 3 | [Java](./30xxx/30889. 좌석 배치도/좌석 배치도.java) |
 | [30890](https://boj.kr/30890) | 드럼 | Silver 4 | [Java](./30xxx/30890. 드럼/드럼.java) |
 | [30891](https://boj.kr/30891) | 볶음밥 지키기 | Silver 5 | [C++](./30xxx/30891. 볶음밥 지키기/볶음밥 지키기.cc) |
+| [30892](https://boj.kr/30892) | 상어 키우기 | Silver 1 | [C++](./30xxx/30892. 상어 키우기/상어 키우기.cc) |
 | [30917](https://boj.kr/30917) | A+B - 10 (제1편) | Bronze 3 | [Java](./30xxx/30917. A＋B － 10 （제1편）/A＋B － 10 （제1편）.java) |
 | [30923](https://boj.kr/30923) | 크냑과 3D 프린터 | Silver 5 | [C++](./30xxx/30923. 크냑과 3D 프린터/크냑과 3D 프린터.cc) |
 | [30924](https://boj.kr/30924) | A+B - 10 (제2편) | Silver 5 | [C++](./30xxx/30924. A＋B － 10 （제2편）/A＋B － 10 （제2편）.cc) |
