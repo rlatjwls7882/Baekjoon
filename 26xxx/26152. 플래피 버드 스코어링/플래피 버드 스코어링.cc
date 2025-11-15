@@ -22,9 +22,9 @@ int main() {
 
     int idx=0;
     vector<int> res(q);
-    for(int i=0;i<q;i++) {
-        while(idx<n && v[i].first<=a[idx]) idx++;
-        res[v[i].second]=idx;
+    for(auto &[val, i]:v) {
+        while(idx<n && val<=a[idx]) idx++;
+        res[i]=idx;
     }
     for(int i=0;i<q;i++) cout << res[i] << '\n';
 }
