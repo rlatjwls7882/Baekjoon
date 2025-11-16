@@ -4751,6 +4751,7 @@
 | [32369](https://boj.kr/32369) | 양파 실험 | Bronze 4 | [C++](./32xxx/32369. 양파 실험/양파 실험.cc) |
 | [32370](https://boj.kr/32370) | Rook | Bronze 2 | [Python](./32xxx/32370. Rook/Rook.py) |
 | [32371](https://boj.kr/32371) | 샷건 | Bronze 1 | [C++](./32xxx/32371. 샷건/샷건.cc) |
+| [32373](https://boj.kr/32373) | 장난감 자물쇠 | Silver 3 | [C++](./32xxx/32373. 장난감 자물쇠/장난감 자물쇠.cc) |
 | [32384](https://boj.kr/32384) | 사랑은 고려대입니다 | Bronze 5 | [Python](./32xxx/32384. 사랑은 고려대입니다/사랑은 고려대입니다.py) |
 | [32385](https://boj.kr/32385) | $\frac{1}{2}$(MatKor+ALPS)=AlKor | Silver 3 | [Python](./32xxx/32385. $＼frac｛1｝｛2｝$（MatKor＋ALPS）＝AlKor/$＼frac｛1｝｛2｝$（MatKor＋ALPS）＝AlKor.py) |
 | [32387](https://boj.kr/32387) | 충전하기 | Gold 4 | [C++](./32xxx/32387. 충전하기/충전하기.cc) |
