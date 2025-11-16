@@ -2626,6 +2626,7 @@
 | [15487](https://boj.kr/15487) | A[j]-A[i]+A[l]-A[k] | Gold 4 | [C++](./15xxx/15487. A［j］－A［i］＋A［l］－A［k］/A［j］－A［i］＋A［l］－A［k］.cc) |
 | [15489](https://boj.kr/15489) | 파스칼 삼각형 | Silver 4 | [Java](./15xxx/15489. 파스칼 삼각형/파스칼 삼각형.java) |
 | [15494](https://boj.kr/15494) | Davor | Bronze 2 | [Java](./15xxx/15494. Davor/Davor.java) |
+| [15501](https://boj.kr/15501) | 부당한 퍼즐 | Silver 2 | [C++](./15xxx/15501. 부당한 퍼즐/부당한 퍼즐.cc) |
 | [15508](https://boj.kr/15508) | Xayahh-Rakann at Moloco (Easy) | Gold 4 | [Java](./15xxx/15508. Xayahh－Rakann at Moloco （Easy）/Xayahh－Rakann at Moloco （Easy）.java) |
 | [15516](https://boj.kr/15516) | Array Manipulation at Moloco (Easy) | Silver 5 | [C++](./15xxx/15516. Array Manipulation at Moloco （Easy）/Array Manipulation at Moloco （Easy）.cc) |
 | [15549](https://boj.kr/15549) | if | Silver 5 | [Text](./15xxx/15549.%E2%80%85if/if.txt) |
