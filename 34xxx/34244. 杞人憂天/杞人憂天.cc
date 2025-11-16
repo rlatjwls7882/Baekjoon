@@ -4,7 +4,7 @@ using namespace std;
 typedef unsigned long long ull;
 
 bitset<100> reversed[60];
-ull w[201], basis[60], idx[60];
+ull w[201], basis[60];
 
 int main() {
     ios::sync_with_stdio(0); cin.tie(0);
@@ -35,7 +35,6 @@ int main() {
                 if(((cur>>j)&1ULL)==0) continue;
                 if(!basis[j]) {
                     basis[j] = cur;
-                    idx[j] = i;
                     reversed[j] = curReversed;
                     break;
                 }
