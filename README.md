@@ -3723,6 +3723,7 @@
 | [24511](https://boj.kr/24511) | queuestack | Silver 3 | [Java](./24xxx/24511. queuestack/queuestack.java) |
 | [24512](https://boj.kr/24512) | Bottleneck Travelling Salesman Problem (Small) | Silver 2 | [C++](./24xxx/24512. Bottleneck Travelling Salesman Problem （Small）/Bottleneck Travelling Salesman Problem （Small）.cc) |
 | [24524](https://boj.kr/24524) | 아름다운 문자열 | Gold 5 | [C++](./24xxx/24524. 아름다운 문자열/아름다운 문자열.cc) |
+| [24537](https://boj.kr/24537) | 약수 계산 | Gold 2 | [C++](./24xxx/24537. 약수 계산/약수 계산.cc) |
 | [24542](https://boj.kr/24542) | 튜터-튜티 관계의 수 | Silver 1 | [Java](./24xxx/24542. 튜터－튜티 관계의 수/튜터－튜티 관계의 수.java) |
 | [24544](https://boj.kr/24544) | 카카오뷰 큐레이팅 효용성 분석 | Bronze 2 | [Java](./24xxx/24544. 카카오뷰 큐레이팅 효용성 분석/카카오뷰 큐레이팅 효용성 분석.java) |
 | [24568](https://boj.kr/24568) | Cupcake Party | Bronze 5 | [C](./24xxx/24568. Cupcake Party/Cupcake Party.c) |
