@@ -5025,8 +5025,8 @@
 | [34667](https://boj.kr/34667) | 가희와 철도역 | Bronze 2 | [C++](./34xxx/34667. 가희와 철도역/가희와 철도역.cc) |
 | [34668](https://boj.kr/34668) | 가희와 후쿠오카 공항 | Silver 5 | [C++](./34xxx/34668. 가희와 후쿠오카 공항/가희와 후쿠오카 공항.cc) |
 | [34669](https://boj.kr/34669) | 가희와 노선 건설 놀이 2 | Silver 2 | [C++](./34xxx/34669. 가희와 노선 건설 놀이 2/가희와 노선 건설 놀이 2.cc) |
-| [34691](https://boj.kr/34691) | 대전과학고등학교를 사랑하십니까? | Bronze 5 | |
-| [34692](https://boj.kr/34692) | 아 마이마이 하고 싶다 | Bronze 1 | |
+| [34691](https://boj.kr/34691) | 대전과학고등학교를 사랑하십니까? | Bronze 5 | [C++](./34xxx/34691. 대전과학고등학교를 사랑하십니까？/대전과학고등학교를 사랑하십니까？.cc) |
+| [34692](https://boj.kr/34692) | 아 마이마이 하고 싶다 | Bronze 1 | [C++](./34xxx/34692. 아 마이마이 하고 싶다/아 마이마이 하고 싶다.cc) |
 | [34703](https://boj.kr/34703) | 공강 사수 | Bronze 3 | [C++](./34xxx/34703. 공강 사수/공강 사수.cc) |
 | [34721](https://boj.kr/34721) | 역사를 걸으면 동국이 보이고 | Bronze 5 | [C++](./34xxx/34721. 역사를 걸으면 동국이 보이고/역사를 걸으면 동국이 보이고.cc) |
 | [34722](https://boj.kr/34722) | 출제자가 몇 명 | Bronze 4 | [C++](./34xxx/34722. 출제자가 몇 명/출제자가 몇 명.cc) |
@@ -5035,4 +5035,5 @@
 | [34735](https://boj.kr/34735) | Dangerous City | Platinum 3 | [C++](./34xxx/34735. Dangerous City/Dangerous City.cc) |
 | [34738](https://boj.kr/34738) | Game of Pieces | Platinum 3 | [C++](./34xxx/34738. Game of Pieces/Game of Pieces.cc) |
 | [34743](https://boj.kr/34743) | LED Counter | Silver 3 | [C++](./34xxx/34743. LED Counter/LED Counter.cc) |
+| [34750](https://boj.kr/34750) | 추석은 언제나 좋아 | Bronze 4 | [C++](./34xxx/34750. 추석은 언제나 좋아/추석은 언제나 좋아.cc) |
 </div>
