@@ -2160,7 +2160,7 @@
 | [12788](https://boj.kr/12788) | 제 2회 IUPC는 잘 개최될 수 있을까? | Silver 4 | [C++](./12xxx/12788. 제 2회 IUPC는 잘 개최될 수 있을까？/제 2회 IUPC는 잘 개최될 수 있을까？.cc) |
 | [12789](https://boj.kr/12789) | 도키도키 간식드리미 | Silver 3 | [Java](./12xxx/12789. 도키도키 간식드리미/도키도키 간식드리미.java) |
 | [12790](https://boj.kr/12790) | Mini Fantasy War | Bronze 3 | [Java](./12xxx/12790. Mini Fantasy War/Mini Fantasy War.java) |
-| [12791](https://boj.kr/12791) | Starman | Bronze 2 | [Java](./12xxx/12791. Starman/Starman.java) |
+| [12791](https://boj.kr/12791) | Starman | Bronze 1 | [Java](./12xxx/12791. Starman/Starman.java) |
 | [12796](https://boj.kr/12796) | 나의 행렬곱셈 답사기 | Gold 5 | [C++](./12xxx/12796. 나의 행렬곱셈 답사기/나의 행렬곱셈 답사기.cc) |
 | [12813](https://boj.kr/12813) | 이진수 연산 | Bronze 2 | [Java](./12xxx/12813. 이진수 연산/이진수 연산.java) |
 | [12832](https://boj.kr/12832) | Tickets | Platinum 5 | [C++](./12xxx/12832. Tickets/Tickets.cc) |
