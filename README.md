@@ -1648,6 +1648,7 @@
 | [09782](https://boj.kr/9782) | Median | Bronze 4 | [Java](./09xxx/9782. Median/Median.java) |
 | [09783](https://boj.kr/9783) | Easy Encryption | Bronze 3 | [Java](./09xxx/9783. Easy Encryption/Easy Encryption.java) |
 | [09784](https://boj.kr/9784) | Boiled Eggs | Bronze 2 | [Java](./09xxx/9784. Boiled Eggs/Boiled Eggs.java) |
+| [09786](https://boj.kr/9786) | Common Fraction | Bronze 1 | [C++](./09xxx/9786. Common Fraction/Common Fraction.cc) |
 | [09791](https://boj.kr/9791) | Encoding Binary Numbers | Bronze 2 | [Java](./09xxx/9791. Encoding Binary Numbers/Encoding Binary Numbers.java) |
 | [09793](https://boj.kr/9793) | Length and Frequency of Sentences | Bronze 2 | [Java](./09xxx/9793. Length and Frequency of Sentences/Length and Frequency of Sentences.java) |
 | [09806](https://boj.kr/9806) | The King | Bronze 3 | [Java](./09xxx/9806. The King/The King.java) |
@@ -5027,7 +5028,7 @@
 | [34721](https://boj.kr/34721) | 역사를 걸으면 동국이 보이고 | Bronze 5 | [C++](./34xxx/34721. 역사를 걸으면 동국이 보이고/역사를 걸으면 동국이 보이고.cc) |
 | [34722](https://boj.kr/34722) | 출제자가 몇 명 | Bronze 4 | [C++](./34xxx/34722. 출제자가 몇 명/출제자가 몇 명.cc) |
 | [34723](https://boj.kr/34723) | 피막치 | Bronze 3 | [C++](./34xxx/34723. 피막치/피막치.cc) |
-| [34734](https://boj.kr/34734) | Coatless in Yakutsk | Silver 3 | [C++](./34xxx/34734. Coatless in Yakutsk/Coatless in Yakutsk.cc) |
+| [34734](https://boj.kr/34734) | Coatless in Yakutsk | Silver 2 | [C++](./34xxx/34734. Coatless in Yakutsk/Coatless in Yakutsk.cc) |
 | [34735](https://boj.kr/34735) | Dangerous City | Platinum 3 | [C++](./34xxx/34735. Dangerous City/Dangerous City.cc) |
 | [34738](https://boj.kr/34738) | Game of Pieces | Platinum 3 | [C++](./34xxx/34738. Game of Pieces/Game of Pieces.cc) |
 | [34743](https://boj.kr/34743) | LED Counter | Silver 3 | [C++](./34xxx/34743. LED Counter/LED Counter.cc) |
