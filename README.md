@@ -3860,6 +3860,7 @@
 | [25593](https://boj.kr/25593) | 근무 지옥에 빠진 푸앙이 (Small) | Bronze 1 | [Java](./25xxx/25593. 근무 지옥에 빠진 푸앙이 （Small）/근무 지옥에 빠진 푸앙이 （Small）.java) |
 | [25595](https://boj.kr/25595) | 86 ─에이티식스─ 2 | Bronze 1 | [Java](./25xxx/25595. 86 ─에이티식스─ 2/86 ─에이티식스─ 2.java) |
 | [25600](https://boj.kr/25600) | Triathlon | Bronze 4 | [C](./25xxx/25600. Triathlon/Triathlon.c) |
+| [25601](https://boj.kr/25601) | 자바의 형변환 | Silver 1 | [C++](./25xxx/25601. 자바의 형변환/자바의 형변환.cc) |
 | [25625](https://boj.kr/25625) | 샤틀버스 | Bronze 4 | [Java](./25xxx/25625. 샤틀버스/샤틀버스.java) |
 | [25628](https://boj.kr/25628) | 햄버거 만들기 | Bronze 4 | [C](./25xxx/25628. 햄버거 만들기/햄버거 만들기.c) |
 | [25629](https://boj.kr/25629) | 홀짝 수열 | Bronze 3 | [Java](./25xxx/25629. 홀짝 수열/홀짝 수열.java) |
