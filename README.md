@@ -4949,6 +4949,7 @@
 | [34021](https://boj.kr/34021) | [T] 스코어보드가 121분 남은 시점에서 프리즈되었습니다. | Bronze 3 | [C++](./34xxx/34021. ［T］ 스코어보드가 121분 남은 시점에서 프리즈되었습니다．/［T］ 스코어보드가 121분 남은 시점에서 프리즈되었습니다．.cc) |
 | [34027](https://boj.kr/34027) | 제곱 수? | Bronze 3 | [C++](./34xxx/34027. 제곱 수？/제곱 수？.cc) |
 | [34028](https://boj.kr/34028) | 우리의 다정한 계절 속에(Seasons of Memories) | Bronze 1 | [C++](./34xxx/34028. 우리의 다정한 계절 속에（Seasons of Memories）/우리의 다정한 계절 속에（Seasons of Memories）.cc) |
+| [34030](https://boj.kr/34030) | So☆Lucky | Gold 3 | [C++](./34xxx/34030. So☆Lucky/So☆Lucky.cc) |
 | [34032](https://boj.kr/34032) | /gg | Bronze 3 | [C++](./34xxx/34032. ／gg/／gg.cc) |
 | [34052](https://boj.kr/34052) | 체육은 수학과목 입니다 2 | Bronze 5 | [C++](./34xxx/34052. 체육은 수학과목 입니다 2/체육은 수학과목 입니다 2.cc) |
 | [34053](https://boj.kr/34053) | 도미노 게임 | Silver 3 | [C++](./34xxx/34053. 도미노 게임/도미노 게임.cc) |
