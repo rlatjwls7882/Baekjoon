@@ -3028,6 +3028,7 @@
 | [17396](https://boj.kr/17396) | 백도어 | Gold 5 | [Java](./17xxx/17396. 백도어/백도어.java) |
 | [17398](https://boj.kr/17398) | 통신망 분할 | Platinum 5 | [C++](./17xxx/17398. 통신망 분할/통신망 분할.cc) |
 | [17404](https://boj.kr/17404) | RGB거리 2 | Gold 4 | [C++](./17xxx/17404. RGB거리 2/RGB거리 2.cc) |
+| [17408](https://boj.kr/17408) | 수열과 쿼리 24 | Platinum 4 | [C++](./17xxx/17408. 수열과 쿼리 24/수열과 쿼리 24.cc) |
 | [17412](https://boj.kr/17412) | 도시 왕복하기 1 | Platinum 4 | [C++](./17xxx/17412. 도시 왕복하기 1/도시 왕복하기 1.cc) |
 | [17413](https://boj.kr/17413) | 단어 뒤집기 2 | Silver 3 | [Java](./17xxx/17413. 단어 뒤집기 2/단어 뒤집기 2.java) |
 | [17419](https://boj.kr/17419) | 비트가 넘쳐흘러 | Silver 4 | [C++](./17xxx/17419. 비트가 넘쳐흘러/비트가 넘쳐흘러.cc) |
@@ -3924,6 +3925,7 @@
 | [25933](https://boj.kr/25933) | Medal Ranking | Bronze 3 | [Java](./25xxx/25933. Medal Ranking/Medal Ranking.java) |
 | [25943](https://boj.kr/25943) | 양팔저울 | Silver 4 | [C++](./25xxx/25943. 양팔저울/양팔저울.cc) |
 | [25953](https://boj.kr/25953) | 템포럴 그래프 | Gold 3 | [C++](./25xxx/25953. 템포럴 그래프/템포럴 그래프.cc) |
+| [25963](https://boj.kr/25963) | 계단 만들기 (Small) | Gold 1 | [C++](./25xxx/25963. 계단 만들기 （Small）/계단 만들기 （Small）.cc) |
 | [25965](https://boj.kr/25965) | 미션 도네이션 | Bronze 3 | [Java](./25xxx/25965. 미션 도네이션/미션 도네이션.java) |
 | [25966](https://boj.kr/25966) | 배찬우는 배열을 좋아해 | Silver 5 | [C++](./25xxx/25966. 배찬우는 배열을 좋아해/배찬우는 배열을 좋아해.cc) |
 | [25985](https://boj.kr/25985) | Fastestest Function | Bronze 2 | [Java](./25xxx/25985. Fastestest Function/Fastestest Function.java) |
