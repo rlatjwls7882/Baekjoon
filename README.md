@@ -2114,6 +2114,7 @@
 | [12166](https://boj.kr/12166) | Standing Ovation (Small) | Bronze 2 | [Java](./12xxx/12166. Standing Ovation （Small）/Standing Ovation （Small）.java) |
 | [12167](https://boj.kr/12167) | Standing Ovation (Large) | Bronze 2 | [Java](./12xxx/12167. Standing Ovation （Large）/Standing Ovation （Large）.java) |
 | [12174](https://boj.kr/12174) | #include <Google I/O.h> | Bronze 2 | [Java](./12xxx/12174. #include ＜Google I／O．h＞/#include ＜Google I／O．h＞.java) |
+| [12178](https://boj.kr/12178) | Power Levels (Small) | Bronze 1 | [C++](./12xxx/12178. Power Levels （Small）/Power Levels （Small）.cc) |
 | [12184](https://boj.kr/12184) | GBus count (Small) | Bronze 2 | [Java](./12xxx/12184. GBus count （Small）/GBus count （Small）.java) |
 | [12185](https://boj.kr/12185) | GBus count (Large) | Bronze 2 | [Java](./12xxx/12185. GBus count （Large）/GBus count （Large）.java) |
 | [12250](https://boj.kr/12250) | New Lottery Game (Small) | Bronze 3 | [Java](./12xxx/12250. New Lottery Game （Small）/New Lottery Game （Small）.java) |
