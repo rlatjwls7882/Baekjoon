@@ -2775,6 +2775,7 @@
 | [16103](https://boj.kr/16103) | Drawn and Quartered | Bronze 2 | [Java](./16xxx/16103. Drawn and Quartered/Drawn and Quartered.java) |
 | [16112](https://boj.kr/16112) | 5차 전직 | Silver 2 | [Java](./16xxx/16112. 5차 전직/5차 전직.java) |
 | [16113](https://boj.kr/16113) | 시그널 | Silver 1 | [C++](./16xxx/16113. 시그널/시그널.cc) |
+| [16114](https://boj.kr/16114) | 화살표 연산자 | Silver 3 | [C++](./16xxx/16114. 화살표 연산자/화살표 연산자.cc) |
 | [16117](https://boj.kr/16117) | 실버런 | Gold 1 | [C++](./16xxx/16117. 실버런/실버런.cc) |
 | [16120](https://boj.kr/16120) | PPAP | Gold 4 | [C++](./16xxx/16120. PPAP/PPAP.cc) |
 | [16130](https://boj.kr/16130) | 벌점 (DemeritPoints) | Bronze 1 | [C++](./16xxx/16130. 벌점 （DemeritPoints）/벌점 （DemeritPoints）.cc) |
