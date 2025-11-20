@@ -4744,6 +4744,8 @@
 | [32281](https://boj.kr/32281) | 유리구슬 (Glass Bead) | Silver 5 | [C++](./32xxx/32281. 유리구슬 （Glass Bead）/유리구슬 （Glass Bead）.cc) |
 | [32288](https://boj.kr/32288) | 바코드 닉네임 | Bronze 4 | [Java](./32xxx/32288. 바코드 닉네임/바코드 닉네임.java) |
 | [32290](https://boj.kr/32290) | MEX vs OR | Bronze 1 | [C++](./32xxx/32290. MEX vs OR/MEX vs OR.cc) |
+| [32292](https://boj.kr/32292) | ABB to BA (Easy) | Silver 5 | [C++](./32xxx/32292. ABB to BA （Easy）/ABB to BA （Easy）.cc) |
+| [32293](https://boj.kr/32293) | ABB to BA (Hard) | Gold 3 | [C++](./32xxx/32293. ABB to BA （Hard）/ABB to BA （Hard）.cc) |
 | [32297](https://boj.kr/32297) | 문자열을 만들어요 | Bronze 3 | [C++](./32xxx/32297. 문자열을 만들어요/문자열을 만들어요.cc) |
 | [32305](https://boj.kr/32305) | Farmers’ Market | Bronze 3 | [C++](./32xxx/32305. Farmers’ Market/Farmers’ Market.cc) |
 | [32306](https://boj.kr/32306) | Basketball Score | Bronze 4 | [C++](./32xxx/32306. Basketball Score/Basketball Score.cc) |
