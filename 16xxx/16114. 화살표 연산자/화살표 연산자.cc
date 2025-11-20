@@ -8,10 +8,13 @@ int main() {
         x = -x;
         n=0;
     }
-    if(n%2) return !(cout << "ERROR");
-    if(n==0 && x>0) return !(cout << "INFINITE");
-
-    int cnt=0;
-    while((x-=n/2)>0) cnt++;
-    cout << cnt;
+    if(n%2) {
+        cout << "ERROR";
+    } else if(n==0 && x>0) {
+        cout << "INFINITE";
+    } else {
+        int cnt=0;
+        while((x-=n/2)>0) cnt++;
+        cout << cnt;
+    }
 }
