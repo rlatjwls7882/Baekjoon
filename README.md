@@ -2104,6 +2104,7 @@
 | [12033](https://boj.kr/12033) | 김인천씨의 식료품가게 (Small) | Silver 5 | [C++](./12xxx/12033. 김인천씨의 식료품가게 （Small）/김인천씨의 식료품가게 （Small）.cc) |
 | [12034](https://boj.kr/12034) | 김인천씨의 식료품가게 (Large) | Silver 5 | [C++](./12xxx/12034. 김인천씨의 식료품가게 （Large）/김인천씨의 식료품가게 （Large）.cc) |
 | [12044](https://boj.kr/12044) | Robot Rock Band (Small) | Bronze 2 | [Java](./12xxx/12044. Robot Rock Band （Small）/Robot Rock Band （Small）.java) |
+| [12048](https://boj.kr/12048) | Sums of Sums (Small) | Bronze 1 | [C++](./12xxx/12048. Sums of Sums （Small）/Sums of Sums （Small）.cc) |
 | [12050](https://boj.kr/12050) | Dynamic Grid (Small) | Silver 2 | [Java](./12xxx/12050. Dynamic Grid （Small）/Dynamic Grid （Small）.java) |
 | [12051](https://boj.kr/12051) | Dynamic Grid (Large) | Silver 2 | [Java](./12xxx/12051. Dynamic Grid （Large）/Dynamic Grid （Large）.java) |
 | [12074](https://boj.kr/12074) | Googol String (Small) | Bronze 2 | [Java](./12xxx/12074. Googol String （Small）/Googol String （Small）.java) |
@@ -3330,6 +3331,7 @@
 | [20714](https://boj.kr/20714) | Colored Squares | Gold 3 | [C++](./20xxx/20714. Colored Squares/Colored Squares.cc) |
 | [20733](https://boj.kr/20733) | Triple Texting | Bronze 2 | [Java](./20xxx/20733. Triple Texting/Triple Texting.java) |
 | [20735](https://boj.kr/20735) | Fifty Shades of Pink | Bronze 2 | [Java](./20xxx/20735. Fifty Shades of Pink/Fifty Shades of Pink.java) |
+| [20736](https://boj.kr/20736) | Social running | Bronze 1 | [C++](./20xxx/20736. Social running/Social running.cc) |
 | [20817](https://boj.kr/20817) | Konsonantkoll | Bronze 2 | [Java](./20xxx/20817. Konsonantkoll/Konsonantkoll.java) |
 | [20833](https://boj.kr/20833) | Kuber | Bronze 4 | [C](./20xxx/20833. Kuber/Kuber.c) |
 | [20839](https://boj.kr/20839) | Betygsättning | Bronze 4 | [Java](./20xxx/20839. Betygsättning/Betygsättning.java) |
@@ -4343,6 +4345,7 @@
 | [29546](https://boj.kr/29546) | Файлы | Bronze 4 | [Java](./29xxx/29546. Файлы/Файлы.java) |
 | [29558](https://boj.kr/29558) | Эксперимент | Bronze 1 | [Java](./29xxx/29558. Эксперимент/Эксперимент.java) |
 | [29587](https://boj.kr/29587) | Последовательность | Bronze 2 | [Java](./29xxx/29587. Последовательность/Последовательность.java) |
+| [29601](https://boj.kr/29601) | Железная дорога | Bronze 2 | [C++](./29xxx/29601. Железная дорога/Железная дорога.cc) |
 | [29602](https://boj.kr/29602) | Расписание | Bronze 2 | [Python](./29xxx/29602. Расписание/Расписание.py) |
 | [29614](https://boj.kr/29614) | 학점계산프로그램 | Bronze 2 | [Java](./29xxx/29614. 학점계산프로그램/학점계산프로그램.java) |
 | [29615](https://boj.kr/29615) | 알파빌과 베타빌 | Silver 5 | [Java](./29xxx/29615. 알파빌과 베타빌/알파빌과 베타빌.java) |
@@ -4805,6 +4808,7 @@
 | [32653](https://boj.kr/32653) | 흑백 요리사 | Silver 4 | [C++](./32xxx/32653.%E2%80%85흑백%E2%80%85요리사/흑백 요리사.cc) |
 | [32654](https://boj.kr/32654) | 게임 오브 데쓰 (Easy) | Gold 4 | [C++](./32xxx/32654.%E2%80%85게임%E2%80%85오브%E2%80%85데쓰%E2%80%85(Easy)/게임 오브 데쓰 （Easy）.cc) |
 | [32661](https://boj.kr/32661) | Airfare Grants | Bronze 3 | [Python](./32xxx/32661. Airfare Grants/Airfare Grants.py) |
+| [32680](https://boj.kr/32680) | Sauna | Bronze 1 | [C++](./32xxx/32680. Sauna/Sauna.cc) |
 | [32682](https://boj.kr/32682) | Which Number Kind Is It? | Bronze 3 | [C++](./32xxx/32682. Which Number Kind Is It？/Which Number Kind Is It？.cc) |
 | [32684](https://boj.kr/32684) | 장기 | Bronze 4 | [Python](./32xxx/32684. 장기/장기.py) |
 | [32685](https://boj.kr/32685) | 4-LSB | Bronze 2 | [C++](./32xxx/32685. 4－LSB/4－LSB.cc) |
@@ -5007,6 +5011,7 @@
 | [34411](https://boj.kr/34411) | M-Climb | Bronze 5 | [C++](./34xxx/34411. M－Climb/M－Climb.cc) |
 | [34412](https://boj.kr/34412) | 13 Floors | Bronze 5 | [C++](./34xxx/34412. 13 Floors/13 Floors.cc) |
 | [34414](https://boj.kr/34414) | Tall Enough | Bronze 4 | [C++](./34xxx/34414. Tall Enough/Tall Enough.cc) |
+| [34417](https://boj.kr/34417) | Alphabet Soup | Bronze 2 | [C++](./34xxx/34417. Alphabet Soup/Alphabet Soup.cc) |
 | [34424](https://boj.kr/34424) | Flatter Land | Bronze 5 | [C++](./34xxx/34424. Flatter Land/Flatter Land.cc) |
 | [34443](https://boj.kr/34443) | Hack-a-Holics | Bronze 5 | [C++](./34xxx/34443. Hack－a－Holics/Hack－a－Holics.cc) |
 | [34446](https://boj.kr/34446) | E-Days Ore Cart Pull | Bronze 5 | [C++](./34xxx/34446. E－Days Ore Cart Pull/E－Days Ore Cart Pull.cc) |
@@ -5052,4 +5057,5 @@
 | [34738](https://boj.kr/34738) | Game of Pieces | Platinum 3 | [C++](./34xxx/34738. Game of Pieces/Game of Pieces.cc) |
 | [34743](https://boj.kr/34743) | LED Counter | Silver 3 | [C++](./34xxx/34743. LED Counter/LED Counter.cc) |
 | [34750](https://boj.kr/34750) | 추석은 언제나 좋아 | Bronze 4 | [C++](./34xxx/34750. 추석은 언제나 좋아/추석은 언제나 좋아.cc) |
+| [34798](https://boj.kr/34798) | Missed Alarm | Bronze 4 | [C++](./34xxx/34798. Missed Alarm/Missed Alarm.cc) |
 </div>
