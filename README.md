@@ -5019,6 +5019,7 @@
 | [34449](https://boj.kr/34449) | King Arthur's Round Table | Bronze 4 | [C++](./34xxx/34449. King Arthur's Round Table/King Arthur's Round Table.cc) |
 | [34454](https://boj.kr/34454) | Roller Coaster Ride | Bronze 5 | [C++](./34xxx/34454. Roller Coaster Ride/Roller Coaster Ride.cc) |
 | [34455](https://boj.kr/34455) | Donut Shop | Bronze 4 | [C++](./34xxx/34455. Donut Shop/Donut Shop.cc) |
+| [34495](https://boj.kr/34495) | Nice Perfect Squares | Bronze 1 | [C++](./34xxx/34495. Nice Perfect Squares/Nice Perfect Squares.cc) |
 | [34501](https://boj.kr/34501) | Busy Beaver's Colorful Walk | Gold 2 | [C++](./34xxx/34501. Busy Beaver's Colorful Walk/Busy Beaver's Colorful Walk.cc) |
 | [34509](https://boj.kr/34509) | 2, 4, 6, 8 | Bronze 4 | [Text](./34xxx/34509. 2， 4， 6， 8/2， 4， 6， 8.txt) |
 | [34510](https://boj.kr/34510) | 초콜릿 우유가 좋아 | Bronze 2 | [C++](./34xxx/34510. 초콜릿 우유가 좋아/초콜릿 우유가 좋아.cc) |
