@@ -6,7 +6,12 @@ int main() {
     int t; cin >> t;
     while(t--) {
         int n; cin >> n;
+        if(n%2) {
+            cout << 4;
+            n--;
+        }
+        cout << "2025";
         while(n-->4) cout << 0;
-        cout << "2025\n";
+        cout << '\n';
     }
 }
