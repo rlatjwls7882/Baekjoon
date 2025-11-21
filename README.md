@@ -2287,7 +2287,7 @@
 | [13469](https://boj.kr/13469) | Older Brother | Silver 3 | [C++](./13xxx/13469. Older Brother/Older Brother.cc) |
 | [13484](https://boj.kr/13484) | Tarifa | Bronze 3 | [Java](./13xxx/13484. Tarifa/Tarifa.java) |
 | [13496](https://boj.kr/13496) | The Merchant of Venice | Bronze 4 | [Java](./13xxx/13496. The Merchant of Venice/The Merchant of Venice.java) |
-| [13502](https://boj.kr/13502) | 단어퍼즐 2 | Gold 2 | [C++](./13xxx/13502. 단어퍼즐 2/단어퍼즐 2.cc) |
+| [13502](https://boj.kr/13502) | 단어퍼즐 2 | Gold 1 | [C++](./13xxx/13502. 단어퍼즐 2/단어퍼즐 2.cc) |
 | [13504](https://boj.kr/13504) | XOR 합 | Platinum 3 | [C++](./13xxx/13504. XOR 합/XOR 합.cc) |
 | [13505](https://boj.kr/13505) | 두 수 XOR | Platinum 3 | [C++](./13xxx/13505. 두 수 XOR/두 수 XOR.cc) |
 | [13507](https://boj.kr/13507) | 좋은 부분 문자열의 개수 | Gold 1 | [Java](./13xxx/13507. 좋은 부분 문자열의 개수/좋은 부분 문자열의 개수.java) |
