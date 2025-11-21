@@ -17,20 +17,15 @@ int main() {
 
     int cnt=1;
     while(true) {
-        for(int i=0;i<n;i++) {
+        for(int i=0;i<n;i++) {  
             b[i]=0;
             for(int j=i+1;j<n;j++) {
                 if(a[i]<a[j]) b[i]++;
             }
         }
         if(equal()) break;
-
         memcpy(a, b, sizeof a);
         cnt++;
-        if(cnt>=10000) {
-            cout << -1;
-            return 0;
-        }
     }
     cout << cnt;
 }
