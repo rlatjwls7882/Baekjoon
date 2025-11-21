@@ -3541,6 +3541,7 @@
 | [23251](https://boj.kr/23251) | 스물셋 | Bronze 2 | [Java](./23xxx/23251. 스물셋/스물셋.java) |
 | [23253](https://boj.kr/23253) | 자료구조는 정말 최고야 | Silver 5 | [Java](./23xxx/23253. 자료구조는 정말 최고야/자료구조는 정말 최고야.java) |
 | [23254](https://boj.kr/23254) | 나는 기말고사형 인간이야 | Gold 5 | [C++](./23xxx/23254. 나는 기말고사형 인간이야/나는 기말고사형 인간이야.cc) |
+| [23255](https://boj.kr/23255) | 구름다리 2 | Gold 4 | [C++](./23xxx/23255. 구름다리 2/구름다리 2.cc) |
 | [23275](https://boj.kr/23275) | Knot Knowledge | Bronze 2 | [Java](./23xxx/23275. Knot Knowledge/Knot Knowledge.java) |
 | [23278](https://boj.kr/23278) | 영화 평가 | Bronze 1 | [Java](./23xxx/23278. 영화 평가/영화 평가.java) |
 | [23279](https://boj.kr/23279) | 서열 사회 | Silver 1 | [C++](./23xxx/23279. 서열 사회/서열 사회.cc) |
