@@ -4720,7 +4720,7 @@
 | [32126](https://boj.kr/32126) | 돌고래 사진 | Platinum 1 | [C++](./32xxx/32126. 돌고래 사진/돌고래 사진.cc) |
 | [32132](https://boj.kr/32132) | PlayStation이 아니에요 | Bronze 1 | [C++](./32xxx/32132. PlayStation이 아니에요/PlayStation이 아니에요.cc) |
 | [32141](https://boj.kr/32141) | 카드 게임 (Easy) | Bronze 2 | [C++](./32xxx/32141. 카드 게임 （Easy）/카드 게임 （Easy）.cc) |
-| [32142](https://boj.kr/32142) | 서바이벌 | Silver 3 | |
+| [32142](https://boj.kr/32142) | 서바이벌 | Silver 3 | [C++](./32xxx/32142. 서바이벌/서바이벌.cc) |
 | [32154](https://boj.kr/32154) | SUAPC 2024 Winter | Bronze 5 | [Java](./32xxx/32154. SUAPC 2024 Winter/SUAPC 2024 Winter.java) |
 | [32158](https://boj.kr/32158) | SWAPC | Bronze 1 | [C++](./32xxx/32158. SWAPC/SWAPC.cc) |
 | [32171](https://boj.kr/32171) | 울타리 공사 | Bronze 2 | [C++](./32xxx/32171. 울타리 공사/울타리 공사.cc) |
@@ -5063,5 +5063,6 @@
 | [34738](https://boj.kr/34738) | Game of Pieces | Platinum 3 | [C++](./34xxx/34738. Game of Pieces/Game of Pieces.cc) |
 | [34743](https://boj.kr/34743) | LED Counter | Silver 3 | [C++](./34xxx/34743. LED Counter/LED Counter.cc) |
 | [34750](https://boj.kr/34750) | 추석은 언제나 좋아 | Bronze 4 | [C++](./34xxx/34750. 추석은 언제나 좋아/추석은 언제나 좋아.cc) |
+| [34795](https://boj.kr/34795) | An Elephant Problem | Bronze 4 | [C++](./34xxx/34795. An Elephant Problem/An Elephant Problem.cc) |
 | [34798](https://boj.kr/34798) | Missed Alarm | Bronze 4 | [C++](./34xxx/34798. Missed Alarm/Missed Alarm.cc) |
 </div>
