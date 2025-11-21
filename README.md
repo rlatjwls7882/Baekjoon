@@ -4720,6 +4720,7 @@
 | [32126](https://boj.kr/32126) | 돌고래 사진 | Platinum 1 | [C++](./32xxx/32126. 돌고래 사진/돌고래 사진.cc) |
 | [32132](https://boj.kr/32132) | PlayStation이 아니에요 | Bronze 1 | [C++](./32xxx/32132. PlayStation이 아니에요/PlayStation이 아니에요.cc) |
 | [32141](https://boj.kr/32141) | 카드 게임 (Easy) | Bronze 2 | [C++](./32xxx/32141. 카드 게임 （Easy）/카드 게임 （Easy）.cc) |
+| [32142](https://boj.kr/32142) | 서바이벌 | Silver 3 | |
 | [32154](https://boj.kr/32154) | SUAPC 2024 Winter | Bronze 5 | [Java](./32xxx/32154. SUAPC 2024 Winter/SUAPC 2024 Winter.java) |
 | [32158](https://boj.kr/32158) | SWAPC | Bronze 1 | [C++](./32xxx/32158. SWAPC/SWAPC.cc) |
 | [32171](https://boj.kr/32171) | 울타리 공사 | Bronze 2 | [C++](./32xxx/32171. 울타리 공사/울타리 공사.cc) |
@@ -4737,6 +4738,7 @@
 | [32215](https://boj.kr/32215) | 코드마스터 2024 | Bronze 4 | [C++](./32xxx/32215. 코드마스터 2024/코드마스터 2024.cc) |
 | [32216](https://boj.kr/32216) | 찬물 샤워 | Bronze 3 | [C++](./32xxx/32216. 찬물 샤워/찬물 샤워.cc) |
 | [32217](https://boj.kr/32217) | 광선 다각형 만들기 | Bronze 1 | [C++](./32xxx/32217. 광선 다각형 만들기/광선 다각형 만들기.cc) |
+| [32218](https://boj.kr/32218) | 반려동물 준세 | Silver 4 | [C++](./32xxx/32218. 반려동물 준세/반려동물 준세.cc) |
 | [32227](https://boj.kr/32227) | MatKor Cup 예비소집 자리 배치 | Silver 1 | [C++](./32xxx/32227. MatKor Cup 예비소집 자리 배치/MatKor Cup 예비소집 자리 배치.cc) |
 | [32228](https://boj.kr/32228) | 등차수열 만들기 | Gold 1 | [C++](./32xxx/32228. 등차수열 만들기/등차수열 만들기.cc) |
 | [32230](https://boj.kr/32230) | 현대모비스 첨단 운전자 보조 시스템 | Platinum 2 | [C++](./32xxx/32230. 현대모비스 첨단 운전자 보조 시스템/현대모비스 첨단 운전자 보조 시스템.cc) |
@@ -4904,6 +4906,7 @@
 | [33572](https://boj.kr/33572) | 자세히 보아야 예쁘다 | Bronze 2 | [C++](./33xxx/33572. 자세히 보아야 예쁘다/자세히 보아야 예쁘다.cc) |
 | [33575](https://boj.kr/33575) | 시간표 | Silver 4 | [C++](./33xxx/33575. 시간표/시간표.cc) |
 | [33612](https://boj.kr/33612) | 피갤컵 | Bronze 5 | [C++](./33xxx/33612. 피갤컵/피갤컵.cc) |
+| [33622](https://boj.kr/33622) | 새치기하지 마!!! | Silver 5 | [C++](./33xxx/33622. 새치기하지 마！！！/새치기하지 마！！！.cc) |
 | [33631](https://boj.kr/33631) | 1교시: 가정 | Bronze 3 | [C++](./33xxx/33631. 1교시： 가정/1교시： 가정.cc) |
 | [33651](https://boj.kr/33651) | Vandalism | Bronze 4 | [C++](./33xxx/33651. Vandalism/Vandalism.cc) |
 | [33652](https://boj.kr/33652) | Testing LEDs | Bronze 3 | [C++](./33xxx/33652. Testing LEDs/Testing LEDs.cc) |
@@ -5024,6 +5027,7 @@
 | [34509](https://boj.kr/34509) | 2, 4, 6, 8 | Bronze 4 | [Text](./34xxx/34509. 2， 4， 6， 8/2， 4， 6， 8.txt) |
 | [34510](https://boj.kr/34510) | 초콜릿 우유가 좋아 | Bronze 2 | [C++](./34xxx/34510. 초콜릿 우유가 좋아/초콜릿 우유가 좋아.cc) |
 | [34511](https://boj.kr/34511) | Polyominonal Puzzle | Bronze 1 | [C++](./34xxx/34511. Polyominonal Puzzle/Polyominonal Puzzle.cc) |
+| [34522](https://boj.kr/34522) | NYPC <CODE BATTLE/>: Leaf Hack | Silver 2 | [C++](./34xxx/34522. NYPC ＜CODE BATTLE／＞： Leaf Hack/NYPC ＜CODE BATTLE／＞： Leaf Hack.cc) |
 | [34529](https://boj.kr/34529) | Acquiring SW-IT Corn | Bronze 4 | [C++](./34xxx/34529. Acquiring SW－IT Corn/Acquiring SW－IT Corn.cc) |
 | [34530](https://boj.kr/34530) | Back to Origin | Bronze 1 | [C++](./34xxx/34530. Back to Origin/Back to Origin.cc) |
 | [34534](https://boj.kr/34534) | Form a Straight! | Bronze 1 | [C++](./34xxx/34534. Form a Straight！/Form a Straight！.cc) |
