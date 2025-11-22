@@ -4389,6 +4389,7 @@
 | [29753](https://boj.kr/29753) | 최소 성적 | Silver 4 | [C++](./29xxx/29753. 최소 성적/최소 성적.cc) |
 | [29754](https://boj.kr/29754) | 세상에는 많은 유튜버가 있고, 그중에서 버츄얼 유튜버도 존재한다 | Silver 1 | [C++](./29xxx/29754. 세상에는 많은 유튜버가 있고， 그중에서 버츄얼 유튜버도 존재한다/세상에는 많은 유튜버가 있고， 그중에서 버츄얼 유튜버도 존재한다.cc) |
 | [29756](https://boj.kr/29756) | DDR 체력 관리 | Gold 4 | [C++](./29xxx/29756. DDR 체력 관리/DDR 체력 관리.cc) |
+| [29757](https://boj.kr/29757) | 트리 긋기 | Silver 2 | [C++](./29xxx/29757. 트리 긋기/트리 긋기.cc) |
 | [29766](https://boj.kr/29766) | DKSH 찾기 | Bronze 4 | [Java](./29xxx/29766. DKSH 찾기/DKSH 찾기.java) |
 | [29767](https://boj.kr/29767) | 점수를 최대로 | Silver 4 | [C++](./29xxx/29767. 점수를 최대로/점수를 최대로.cc) |
 | [29768](https://boj.kr/29768) | 팰린드롬 이름 | Gold 4 | [C++](./29xxx/29768. 팰린드롬 이름/팰린드롬 이름.cc) |
@@ -5006,6 +5007,7 @@
 | [34323](https://boj.kr/34323) | 할인이 필요해 | Bronze 4 | [C++](./34xxx/34323. 할인이 필요해/할인이 필요해.cc) |
 | [34326](https://boj.kr/34326) | How to escape the maze | Silver 2 | [C++](./34xxx/34326. How to escape the maze/How to escape the maze.cc) |
 | [34346](https://boj.kr/34346) | 대각선 | Bronze 4 | [C++](./34xxx/34346. 대각선/대각선.cc) |
+| [34347](https://boj.kr/34347) | 제곱수 순열$^2$ | Silver 2 | [C++](./34xxx/34347. 제곱수 순열$＾2$/제곱수 순열$＾2$.cc) |
 | [34348](https://boj.kr/34348) | snupc 문자열 (Easy) | Gold 1 | [C++](./34xxx/34348. snupc 문자열 （Easy）/snupc 문자열 （Easy）.cc) |
 | [34362](https://boj.kr/34362) | Above | Bronze 5 | [C++](./34xxx/34362. Above/Above.cc) |
 | [34363](https://boj.kr/34363) | Driving Dilemma | Bronze 4 | [C++](./34xxx/34363. Driving Dilemma/Driving Dilemma.cc) |
