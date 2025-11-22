@@ -1123,6 +1123,7 @@
 | [05427](https://boj.kr/5427) | 불 | Gold 4 | [C++](./05xxx/5427. 불/불.cc) |
 | [05430](https://boj.kr/5430) | AC | Gold 5 | [Java](./05xxx/5430. AC/AC.java) |
 | [05462](https://boj.kr/5462) | POI | Silver 5 | [Java](./05xxx/5462. POI/POI.java) |
+| [05485](https://boj.kr/5485) | 평균값 수열 | Gold 2 | [C++](./05xxx/5485. 평균값 수열/평균값 수열.cc) |
 | [05489](https://boj.kr/5489) | Numbers | Bronze 2 | [Java](./05xxx/5489. Numbers/Numbers.java) |
 | [05497](https://boj.kr/5497) | XOR 1 | Bronze 3 | [Text](./05xxx/5497. XOR 1/XOR 1.txt) |
 | [05522](https://boj.kr/5522) | 카드 게임 | Bronze 5 | [C](./05xxx/5522. 카드 게임/카드 게임.c) |
@@ -4840,6 +4841,7 @@
 | [32810](https://boj.kr/32810) | Leapfrog Encryption | Silver 3 | [C++](./32xxx/32810. Leapfrog Encryption/Leapfrog Encryption.cc) |
 | [32811](https://boj.kr/32811) | Letter Balloons | Silver 2 | [C++](./32xxx/32811. Letter Balloons/Letter Balloons.cc) |
 | [32813](https://boj.kr/32813) | Oooh I See | Silver 5 | [C++](./32xxx/32813. Oooh I See/Oooh I See.cc) |
+| [32822](https://boj.kr/32822) | 행렬 게임 | Silver 4 | [C++](./32xxx/32822. 행렬 게임/행렬 게임.cc) |
 | [32830](https://boj.kr/32830) | Cards Flipping | Platinum 5 | [C++](./32xxx/32830. Cards Flipping/Cards Flipping.cc) |
 | [32834](https://boj.kr/32834) | Pair Sorting | Platinum 3 | [C++](./32xxx/32834. Pair Sorting/Pair Sorting.cc) |
 | [32860](https://boj.kr/32860) | 수수수수퍼노바 | Bronze 2 | [C++](./32xxx/32860. 수수수수퍼노바/수수수수퍼노바.cc) |
