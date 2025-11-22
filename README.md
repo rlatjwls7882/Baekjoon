@@ -1883,7 +1883,7 @@
 | [10998](https://boj.kr/10998) | A×B | Bronze 5 | [C](./10xxx/10998. A×B/A×B.c) [C++](./10xxx/10998. A×B/A×B.cc) |
 | [10999](https://boj.kr/10999) | 구간 합 구하기 2 | Platinum 4 | [C++](./10xxx/10999. 구간 합 구하기 2/구간 합 구하기 2.cc) |
 | [11000](https://boj.kr/11000) | 강의실 배정 | Gold 4 | [Java](./11xxx/11000. 강의실 배정/강의실 배정.java) |
-| [11003](https://boj.kr/11003) | 최솟값 찾기 | Platinum 5 | [C++](./11xxx/11003. 최솟값 찾기/최솟값 찾기.cc) |
+| [11003](https://boj.kr/11003) | 최솟값 찾기 | Gold 1 | [C++](./11xxx/11003. 최솟값 찾기/최솟값 찾기.cc) |
 | [11004](https://boj.kr/11004) | K번째 수 | Silver 5 | [Java](./11xxx/11004. K번째 수/K번째 수.java) |
 | [11005](https://boj.kr/11005) | 진법 변환 2 | Bronze 1 | [Java](./11xxx/11005. 진법 변환 2/진법 변환 2.java) |
 | [11006](https://boj.kr/11006) | 남욱이의 닭장 | Bronze 3 | [Java](./11xxx/11006. 남욱이의 닭장/남욱이의 닭장.java) |
@@ -5003,6 +5003,7 @@
 | [34242](https://boj.kr/34242) | 힝스티비 | Gold 5 | [C++](./34xxx/34242. 힝스티비/힝스티비.cc) |
 | [34244](https://boj.kr/34244) | 杞人憂天 | Platinum 1 | [C++](./34xxx/34244. 杞人憂天/杞人憂天.cc) |
 | [34281](https://boj.kr/34281) | Class Photo | Bronze 5 | [C++](./34xxx/34281. Class Photo/Class Photo.cc) |
+| [34282](https://boj.kr/34282) | Fair Grading | Bronze 3 | [C++](./34xxx/34282. Fair Grading/Fair Grading.cc) |
 | [34297](https://boj.kr/34297) | Parking Pandemonium | Bronze 5 | [C++](./34xxx/34297. Parking Pandemonium/Parking Pandemonium.cc) |
 | [34306](https://boj.kr/34306) | M-Climb Road | Bronze 4 | [C++](./34xxx/34306. M－Climb Road/M－Climb Road.cc) |
 | [34308](https://boj.kr/34308) | Abby's Absolutes | Bronze 4 | [C++](./34xxx/34308. Abby's Absolutes/Abby's Absolutes.cc) |
@@ -5026,6 +5027,8 @@
 | [34449](https://boj.kr/34449) | King Arthur's Round Table | Bronze 4 | [C++](./34xxx/34449. King Arthur's Round Table/King Arthur's Round Table.cc) |
 | [34454](https://boj.kr/34454) | Roller Coaster Ride | Bronze 5 | [C++](./34xxx/34454. Roller Coaster Ride/Roller Coaster Ride.cc) |
 | [34455](https://boj.kr/34455) | Donut Shop | Bronze 4 | [C++](./34xxx/34455. Donut Shop/Donut Shop.cc) |
+| [34459](https://boj.kr/34459) | MIT Time | Bronze 3 | [C++](./34xxx/34459. MIT Time/MIT Time.cc) |
+| [34466](https://boj.kr/34466) | Positioning Peter’s Paintings | Bronze 3 | [C++](./34xxx/34466. Positioning Peter’s Paintings/Positioning Peter’s Paintings.cc) |
 | [34495](https://boj.kr/34495) | Nice Perfect Squares | Bronze 1 | [C++](./34xxx/34495. Nice Perfect Squares/Nice Perfect Squares.cc) |
 | [34501](https://boj.kr/34501) | Busy Beaver's Colorful Walk | Gold 2 | [C++](./34xxx/34501. Busy Beaver's Colorful Walk/Busy Beaver's Colorful Walk.cc) |
 | [34509](https://boj.kr/34509) | 2, 4, 6, 8 | Bronze 4 | [Text](./34xxx/34509. 2， 4， 6， 8/2， 4， 6， 8.txt) |
@@ -5067,6 +5070,7 @@
 | [34738](https://boj.kr/34738) | Game of Pieces | Platinum 3 | [C++](./34xxx/34738. Game of Pieces/Game of Pieces.cc) |
 | [34743](https://boj.kr/34743) | LED Counter | Silver 3 | [C++](./34xxx/34743. LED Counter/LED Counter.cc) |
 | [34750](https://boj.kr/34750) | 추석은 언제나 좋아 | Bronze 4 | [C++](./34xxx/34750. 추석은 언제나 좋아/추석은 언제나 좋아.cc) |
+| [34778](https://boj.kr/34778) | João João | Bronze 3 | [C++](./34xxx/34778. João João/João João.cc) |
 | [34795](https://boj.kr/34795) | An Elephant Problem | Bronze 4 | [C++](./34xxx/34795. An Elephant Problem/An Elephant Problem.cc) |
 | [34798](https://boj.kr/34798) | Missed Alarm | Bronze 4 | [C++](./34xxx/34798. Missed Alarm/Missed Alarm.cc) |
 </div>
