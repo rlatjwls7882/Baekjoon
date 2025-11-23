@@ -2935,6 +2935,7 @@
 | [16974](https://boj.kr/16974) | 레벨 햄버거 | Gold 5 | [C++](./16xxx/16974. 레벨 햄버거/레벨 햄버거.cc) |
 | [16975](https://boj.kr/16975) | 수열과 쿼리 21 | Platinum 4 | [C++](./16xxx/16975. 수열과 쿼리 21/수열과 쿼리 21.cc) |
 | [16978](https://boj.kr/16978) | 수열과 쿼리 22 | Platinum 4 | [C++](./16xxx/16978. 수열과 쿼리 22/수열과 쿼리 22.cc) |
+| [16979](https://boj.kr/16979) | 수열과 쿼리 23 | Platinum 1 | [C++](./16xxx/16979. 수열과 쿼리 23/수열과 쿼리 23.cc) |
 | [16986](https://boj.kr/16986) | 인싸들의 가위바위보 | Gold 2 | [C++](./16xxx/16986. 인싸들의 가위바위보/인싸들의 가위바위보.cc) |
 | [17009](https://boj.kr/17009) | Winning Score | Bronze 4 | [C](./17xxx/17009. Winning Score/Winning Score.c) |
 | [17010](https://boj.kr/17010) | Time to Decompress | Bronze 4 | [Java](./17xxx/17010. Time to Decompress/Time to Decompress.java) |
