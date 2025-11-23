@@ -22,7 +22,7 @@ void sub(int i) {
     exist[cur[p[i]]]--;
     cur[p[i]]--;
     exist[cur[p[i]]]++;
-    if(!exist[cnt]) cnt = max(cnt-1, 0);
+    if(!exist[cnt]) cnt--;
 }
 
 int main() {
