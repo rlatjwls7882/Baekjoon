@@ -2,48 +2,39 @@
 using namespace std;
 
 typedef long long ll;
-const int MAX = 3'000'001;
-int _size=1;
-ll arr[MAX];
 
-ll sum(int L, int R, int nodeNum, int nodeL, int nodeR) {
-    if(R<nodeL || nodeR<L) return 0;
-    if(L<=nodeL && nodeR<=R) return arr[nodeNum];
-    int mid = (nodeL+nodeR)/2;
-    return sum(L, R, nodeNum*2, nodeL, mid) + sum(L, R, nodeNum*2+1, mid+1, nodeR);
-}
+const int MAX = 1'000'001;
 
-void update(int nodeNum, ll val) {
-    nodeNum += _size/2;
-    arr[nodeNum]=val;
-    while(nodeNum>1) {
-        nodeNum/=2;
-        arr[nodeNum]=arr[nodeNum*2]+arr[nodeNum*2+1];
+ll _size=1, arr[MAX*4];
+
+void update(int i, ll val) {
+    i+=_size;
+    arr[i]=val;
+    while(i>1) {
+        i>>=1;
+        arr[i] = arr[i*2]+arr[i*2+1];
     }
 }
 
-void init(int N) {
-    while(_size<N) _size<<=1;
-    _size<<=1;
-    
-    for(int i=_size/2;i<_size/2+N;i++) cin >> arr[i];
-    
-    for(int nodeNum=_size/2-1;nodeNum>0;nodeNum--) {
-        arr[nodeNum]=arr[nodeNum*2]+arr[nodeNum*2+1];
+ll query(int L, int R) {
+    ll ret=0;
+    for(L+=_size, R+=_size;L<=R;L>>=1, R>>=1) {
+        if(L&1) ret += arr[L++];
+        if(!(R&1)) ret += arr[R--];
     }
+    return ret;
 }
 
-int main(void) {
-    ios::sync_with_stdio(0); cin.tie(0); cout.tie(0);
-    int N, M, K; cin >> N >> M >> K;
-    init(N);
+int main() {
+    ios::sync_with_stdio(0); cin.tie(0);
+    int n, m, k; cin >> n >> m >> k;
+    while(_size<n) _size<<=1;
+    for(int i=_size+1;i<=_size+n;i++) cin >> arr[i];
+    for(int i=_size-1;i>=1;i--) arr[i] = arr[i*2]+arr[i*2+1];
 
-    for(int i=0;i<M+K;i++) {
+    for(int i=0;i<m+k;i++) {
         ll a, b, c; cin >> a >> b >> c;
-        if(a==1) {
-            update(b-1, c);
-        } else {
-            cout << sum(b-1, c-1, 1, 0, _size/2-1) << endl;
-        }
+        if(a==1) update(b, c);
+        else cout << query(b, c) << '\n';
     }
 }
