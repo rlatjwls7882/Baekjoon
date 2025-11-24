@@ -590,6 +590,7 @@
 | [02508](https://boj.kr/2508) | 사탕 박사 고창영 | Silver 5 | [Java](./02xxx/2508. 사탕 박사 고창영/사탕 박사 고창영.java) |
 | [02511](https://boj.kr/2511) | 카드놀이 | Bronze 2 | [Java](./02xxx/2511. 카드놀이/카드놀이.java) |
 | [02512](https://boj.kr/2512) | 예산 | Silver 2 | [C++](./02xxx/2512. 예산/예산.cc) |
+| [02517](https://boj.kr/2517) | 달리기 | Platinum 4 | [C++](./02xxx/2517. 달리기/달리기.cc) |
 | [02520](https://boj.kr/2520) | 팬케이크 사랑 | Bronze 2 | [Java](./02xxx/2520. 팬케이크 사랑/팬케이크 사랑.java) |
 | [02522](https://boj.kr/2522) | 별 찍기 - 12 | Bronze 3 | [Java](./02xxx/2522. 별 찍기 － 12/별 찍기 － 12.java) |
 | [02523](https://boj.kr/2523) | 별 찍기 - 13 | Bronze 3 | [Java](./02xxx/2523. 별 찍기 － 13/별 찍기 － 13.java) |
