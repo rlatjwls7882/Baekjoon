@@ -4764,6 +4764,7 @@
 | [32326](https://boj.kr/32326) | Conveyor Belt Sushi | Bronze 5 | [C++](./32xxx/32326. Conveyor Belt Sushi/Conveyor Belt Sushi.cc) |
 | [32327](https://boj.kr/32327) | Dusa And The Yobis | Bronze 3 | [C++](./32xxx/32327. Dusa And The Yobis/Dusa And The Yobis.cc) |
 | [32331](https://boj.kr/32331) | 원교수님 A+ 주세요 | Silver 4 | [C++](./32xxx/32331. 원교수님 A＋ 주세요/원교수님 A＋ 주세요.cc) |
+| [32332](https://boj.kr/32332) | 세종이의 시간 여행 | Bronze 1 | [C++](./32xxx/32332. 세종이의 시간 여행/세종이의 시간 여행.cc) |
 | [32333](https://boj.kr/32333) | 한양이의 새로운 시계 | Silver 1 | [C++](./32xxx/32333. 한양이의 새로운 시계/한양이의 새로운 시계.cc) |
 | [32334](https://boj.kr/32334) | 자석 체스 | Silver 1 | [C++](./32xxx/32334. 자석 체스/자석 체스.cc) |
 | [32335](https://boj.kr/32335) | 부자가 될 거야! | Silver 3 | [C++](./32xxx/32335. 부자가 될 거야！/부자가 될 거야！.cc) |
