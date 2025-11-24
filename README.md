@@ -2170,6 +2170,7 @@
 | [12813](https://boj.kr/12813) | 이진수 연산 | Bronze 2 | [Java](./12xxx/12813. 이진수 연산/이진수 연산.java) |
 | [12832](https://boj.kr/12832) | Tickets | Platinum 5 | [C++](./12xxx/12832. Tickets/Tickets.cc) |
 | [12833](https://boj.kr/12833) | XORXORXOR | Bronze 1 | [Java](./12xxx/12833. XORXORXOR/XORXORXOR.java) |
+| [12834](https://boj.kr/12834) | 주간 미팅 | Gold 4 | [C++](./12xxx/12834. 주간 미팅/주간 미팅.cc) |
 | [12836](https://boj.kr/12836) | 가계부 (Easy) | Bronze 2 | [Java](./12xxx/12836. 가계부 （Easy）/가계부 （Easy）.java) |
 | [12840](https://boj.kr/12840) | 창용이의 시계 | Bronze 3 | [Java](./12xxx/12840. 창용이의 시계/창용이의 시계.java) |
 | [12844](https://boj.kr/12844) | XOR | Platinum 3 | [C++](./12xxx/12844. XOR/XOR.cc) |
