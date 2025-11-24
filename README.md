@@ -5052,7 +5052,7 @@
 | [34587](https://boj.kr/34587) | Palindromic Distance | Gold 3 | [C++](./34xxx/34587. Palindromic Distance/Palindromic Distance.cc) |
 | [34588](https://boj.kr/34588) | Explosive Slabstones Rearrangement | Gold 1 | [C++](./34xxx/34588. Explosive Slabstones Rearrangement/Explosive Slabstones Rearrangement.cc) |
 | [34619](https://boj.kr/34619) | 소대 배정 | Bronze 2 | [C++](./34xxx/34619. 소대 배정/소대 배정.cc) |
-| [34622](https://boj.kr/34622) | 제식 훈련 1 | Gold 2 | [C++](./34xxx/34622. 제식 훈련 1/제식 훈련 1.cc) |
+| [34622](https://boj.kr/34622) | 제식 훈련 1 | Gold 1 | [C++](./34xxx/34622. 제식 훈련 1/제식 훈련 1.cc) |
 | [34643](https://boj.kr/34643) | Star Guardians | Silver 5 | [C++](./34xxx/34643. Star Guardians/Star Guardians.cc) |
 | [34644](https://boj.kr/34644) | Ten Player Bingo | Bronze 3 | [C++](./34xxx/34644. Ten Player Bingo/Ten Player Bingo.cc) |
 | [34665](https://boj.kr/34665) | 가희와 교통 요금 | Bronze 5 | [C++](./34xxx/34665. 가희와 교통 요금/가희와 교통 요금.cc) |
