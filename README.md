@@ -3322,6 +3322,7 @@
 | [20540](https://boj.kr/20540) | 연길이의 이상형 | Bronze 3 | [Java](./20xxx/20540. 연길이의 이상형/연길이의 이상형.java) |
 | [20544](https://boj.kr/20544) | 공룡게임 | Gold 4 | [C++](./20xxx/20544. 공룡게임/공룡게임.cc) |
 | [20546](https://boj.kr/20546) | 🐜 기적의 매매법 🐜 | Silver 5 | [C++](./20xxx/20546. 🐜 기적의 매매법 🐜/🐜 기적의 매매법 🐜.cc) |
+| [20548](https://boj.kr/20548) | 칠리소스 | Unrated | [C++](./20xxx/20548. 칠리소스/칠리소스.cc) |
 | [20551](https://boj.kr/20551) | Sort 마스터 배지훈의 후계자 | Silver 4 | [Java](./20xxx/20551. Sort 마스터 배지훈의 후계자/Sort 마스터 배지훈의 후계자.java) |
 | [20571](https://boj.kr/20571) | Elevators | Bronze 3 | [Java](./20xxx/20571. Elevators/Elevators.java) |
 | [20575](https://boj.kr/20575) | Buffon's Needle | Bronze 1 | [C++](./20xxx/20575. Buffon's Needle/Buffon's Needle.cc) |
