@@ -4946,6 +4946,7 @@
 | [33869](https://boj.kr/33869) | 일기 암호화하기 | Bronze 2 | [C++](./33xxx/33869. 일기 암호화하기/일기 암호화하기.cc) |
 | [33883](https://boj.kr/33883) | Acentuación del idioma español | Bronze 3 | [C++](./33xxx/33883. Acentuación del idioma español/Acentuación del idioma español.cc) |
 | [33884](https://boj.kr/33884) | 클리크 조절 | Bronze 1 | [C++](./33xxx/33884. 클리크 조절/클리크 조절.cc) |
+| [33887](https://boj.kr/33887) | Was It a Cat I Saw | Gold 5 | [C++](./33xxx/33887. Was It a Cat I Saw/Was It a Cat I Saw.cc) |
 | [33897](https://boj.kr/33897) | 헤키레키잇센 | Bronze 1 | [C++](./33xxx/33897. 헤키레키잇센/헤키레키잇센.cc) |
 | [33898](https://boj.kr/33898) | HEPC1 | Bronze 1 | [C++](./33xxx/33898. HEPC1/HEPC1.cc) |
 | [33900](https://boj.kr/33900) | 캠핑장 부지 평탄화 | Silver 4 | [C++](./33xxx/33900. 캠핑장 부지 평탄화/캠핑장 부지 평탄화.cc) |
