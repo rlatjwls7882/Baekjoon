@@ -1,4 +1,4 @@
-# [Silver I] Was It a Cat I Saw
+# [Gold V] Was It a Cat I Saw
 
 [문제 링크](https://www.acmicpc.net/problem/33887) 
 
