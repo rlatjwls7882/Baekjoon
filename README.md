@@ -1241,6 +1241,7 @@
 | [06171](https://boj.kr/6171) | 땅따먹기 | Diamond 5 | [C++](./06xxx/6171. 땅따먹기/땅따먹기.cc) |
 | [06190](https://boj.kr/6190) | Another Cow Number Game | Bronze 3 | [Java](./06xxx/6190. Another Cow Number Game/Another Cow Number Game.java) |
 | [06198](https://boj.kr/6198) | 옥상 정원 꾸미기 | Gold 5 | [C++](./06xxx/6198. 옥상 정원 꾸미기/옥상 정원 꾸미기.cc) |
+| [06213](https://boj.kr/6213) | Balanced Lineup | Gold 1 | [C++](./06xxx/6213. Balanced Lineup/Balanced Lineup.cc) |
 | [06219](https://boj.kr/6219) | 소수의 자격 | Silver 3 | [C++](./06xxx/6219. 소수의 자격/소수의 자격.cc) |
 | [06236](https://boj.kr/6236) | 용돈 관리 | Silver 1 | [C++](./06xxx/6236. 용돈 관리/용돈 관리.cc) |
 | [06241](https://boj.kr/6241) | Dining | Platinum 1 | [C++](./06xxx/6241. Dining/Dining.cc) |
@@ -2173,6 +2174,7 @@
 | [12833](https://boj.kr/12833) | XORXORXOR | Bronze 1 | [Java](./12xxx/12833. XORXORXOR/XORXORXOR.java) |
 | [12834](https://boj.kr/12834) | 주간 미팅 | Gold 4 | [C++](./12xxx/12834. 주간 미팅/주간 미팅.cc) |
 | [12836](https://boj.kr/12836) | 가계부 (Easy) | Bronze 2 | [Java](./12xxx/12836. 가계부 （Easy）/가계부 （Easy）.java) |
+| [12837](https://boj.kr/12837) | 가계부 (Hard) | Gold 1 | [C++](./12xxx/12837. 가계부 （Hard）/가계부 （Hard）.cc) |
 | [12840](https://boj.kr/12840) | 창용이의 시계 | Bronze 3 | [Java](./12xxx/12840. 창용이의 시계/창용이의 시계.java) |
 | [12844](https://boj.kr/12844) | XOR | Platinum 3 | [C++](./12xxx/12844. XOR/XOR.cc) |
 | [12845](https://boj.kr/12845) | 모두의 마블 | Silver 3 | [C++](./12xxx/12845. 모두의 마블/모두의 마블.cc) |
