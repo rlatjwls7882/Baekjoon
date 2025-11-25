@@ -1351,6 +1351,7 @@
 | [07130](https://boj.kr/7130) | Milk and Honey | Bronze 3 | [Java](./07xxx/7130. Milk and Honey/Milk and Honey.java) |
 | [07132](https://boj.kr/7132) | Hammasrattad | Bronze 1 | [Java](./07xxx/7132. Hammasrattad/Hammasrattad.java) |
 | [07140](https://boj.kr/7140) | 데이터 만들기 1 | Gold 4 | [C++](./07xxx/7140. 데이터 만들기 1/데이터 만들기 1.cc) |
+| [07142](https://boj.kr/7142) | 데이터 만들기 3 | Gold 4 | [C++](./07xxx/7142. 데이터 만들기 3/데이터 만들기 3.cc) |
 | [07147](https://boj.kr/7147) | 데이터 만들기 8 | Platinum 5 | [C++](./07xxx/7147. 데이터 만들기 8/데이터 만들기 8.cc) |
 | [07168](https://boj.kr/7168) | Nonogramm | Bronze 2 | [Java](./07xxx/7168. Nonogramm/Nonogramm.java) |
 | [07173](https://boj.kr/7173) | Klass | Bronze 1 | [Java](./07xxx/7173. Klass/Klass.java) |
@@ -4949,6 +4950,7 @@
 | [33839](https://boj.kr/33839) | 분탕의 신 아이보리 3 | Platinum 4 | [C++](./33xxx/33839. 분탕의 신 아이보리 3/분탕의 신 아이보리 3.cc) |
 | [33845](https://boj.kr/33845) | PNUPC에 한 번도 빠지지 않고 출연한 산지니가 새삼 대단하다고 느껴지네 | Bronze 3 | [C++](./33xxx/33845. PNUPC에 한 번도 빠지지 않고 출연한 산지니가 새삼 대단하다고 느껴지네/PNUPC에 한 번도 빠지지 않고 출연한 산지니가 새삼 대단하다고 느껴지네.cc) |
 | [33846](https://boj.kr/33846) | 삽입 정렬을 해볼까 | Silver 5 | [C++](./33xxx/33846. 삽입 정렬을 해볼까/삽입 정렬을 해볼까.cc) |
+| [33850](https://boj.kr/33850) | Chill...은 내가 가장 좋아하는 소수 | Silver 1 | [C++](./33xxx/33850. Chill．．．은 내가 가장 좋아하는 소수/Chill．．．은 내가 가장 좋아하는 소수.cc) |
 | [33868](https://boj.kr/33868) | 스티커 나눠주기 | Bronze 3 | [C++](./33xxx/33868. 스티커 나눠주기/스티커 나눠주기.cc) |
 | [33869](https://boj.kr/33869) | 일기 암호화하기 | Bronze 2 | [C++](./33xxx/33869. 일기 암호화하기/일기 암호화하기.cc) |
 | [33883](https://boj.kr/33883) | Acentuación del idioma español | Bronze 3 | [C++](./33xxx/33883. Acentuación del idioma español/Acentuación del idioma español.cc) |
@@ -5081,6 +5083,12 @@
 | [34738](https://boj.kr/34738) | Game of Pieces | Platinum 3 | [C++](./34xxx/34738. Game of Pieces/Game of Pieces.cc) |
 | [34743](https://boj.kr/34743) | LED Counter | Silver 3 | [C++](./34xxx/34743. LED Counter/LED Counter.cc) |
 | [34750](https://boj.kr/34750) | 추석은 언제나 좋아 | Bronze 4 | [C++](./34xxx/34750. 추석은 언제나 좋아/추석은 언제나 좋아.cc) |
+| [34758](https://boj.kr/34758) | KUPC에 어서 오세요 | Bronze 3 | [C++](./34xxx/34758. KUPC에 어서 오세요/KUPC에 어서 오세요.cc) [Java](./34xxx/34758. KUPC에 어서 오세요/KUPC에 어서 오세요.java) |
+| [34759](https://boj.kr/34759) | 얼룩말과 사자 | Bronze 3 | [C++](./34xxx/34759. 얼룩말과 사자/얼룩말과 사자.cc) [Java](./34xxx/34759. 얼룩말과 사자/얼룩말과 사자.java) |
+| [34760](https://boj.kr/34760) | 코끼리 15마리가 앞으로 돌진하면 어떻게 막을 건데 | Bronze 1 | [C++](./34xxx/34760. 코끼리 15마리가 앞으로 돌진하면 어떻게 막을 건데/코끼리 15마리가 앞으로 돌진하면 어떻게 막을 건데.cc) [Java](./34xxx/34760. 코끼리 15마리가 앞으로 돌진하면 어떻게 막을 건데/코끼리 15마리가 앞으로 돌진하면 어떻게 막을 건데.java) |
+| [34761](https://boj.kr/34761) | 같은 배열 | Silver 5 | [C++](./34xxx/34761. 같은 배열/같은 배열.cc) [Java](./34xxx/34761. 같은 배열/같은 배열.java) |
+| [34762](https://boj.kr/34762) | 꿈 | Silver 3 | [C++](./34xxx/34762. 꿈/꿈.cc) [Java](./34xxx/34762. 꿈/꿈.java) |
+| [34763](https://boj.kr/34763) | 땅따먹기 | Gold 4 | [C++](./34xxx/34763. 땅따먹기/땅따먹기.cc) |
 | [34778](https://boj.kr/34778) | João João | Bronze 3 | [C++](./34xxx/34778. João João/João João.cc) |
 | [34795](https://boj.kr/34795) | An Elephant Problem | Bronze 4 | [C++](./34xxx/34795. An Elephant Problem/An Elephant Problem.cc) |
 | [34798](https://boj.kr/34798) | Missed Alarm | Bronze 4 | [C++](./34xxx/34798. Missed Alarm/Missed Alarm.cc) |
