@@ -5,7 +5,7 @@
  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rlatjwls3333)](https://solved.ac/rlatjwls3333/)
  ![mazandi profile](http://mazandi.herokuapp.com/api?handle=rlatjwls3333&theme=dark)
 #### [여기](https://github.com/Hiyabye/Baekjoon/blob/main/scripts/update_readme.py)에 있는 코드를 변경하여 자동으로 생성하였습니다.
-#### 500KB까지 렌더링되기에 중간에 짤립니다. 전체 목록은 [여기에](./README.md)
+#### 500KB까지 렌더링되기에 중간에 짤립니다. 전체 목록은 [여기에](./README.md)서 확인해주세요.
 
 | No. | Title | Difficulty | Solution |
 |:---|:---|:----:|:---:|
@@ -5088,7 +5088,7 @@
 | [34760](https://boj.kr/34760) | 코끼리 15마리가 앞으로 돌진하면 어떻게 막을 건데 | Bronze 1 | [C++](./34xxx/34760. 코끼리 15마리가 앞으로 돌진하면 어떻게 막을 건데/코끼리 15마리가 앞으로 돌진하면 어떻게 막을 건데.cc) [Java](./34xxx/34760. 코끼리 15마리가 앞으로 돌진하면 어떻게 막을 건데/코끼리 15마리가 앞으로 돌진하면 어떻게 막을 건데.java) |
 | [34761](https://boj.kr/34761) | 같은 배열 | Silver 5 | [C++](./34xxx/34761. 같은 배열/같은 배열.cc) [Java](./34xxx/34761. 같은 배열/같은 배열.java) |
 | [34762](https://boj.kr/34762) | 꿈 | Silver 3 | [C++](./34xxx/34762. 꿈/꿈.cc) [Java](./34xxx/34762. 꿈/꿈.java) |
-| [34763](https://boj.kr/34763) | 땅따먹기 | Gold 4 | [C++](./34xxx/34763. 땅따먹기/땅따먹기.cc) |
+| [34763](https://boj.kr/34763) | 땅따먹기 | Gold 4 | [C++](./34xxx/34763. 땅따먹기/땅따먹기.cc) [Java](./34xxx/34763. 땅따먹기/땅따먹기.java) |
 | [34778](https://boj.kr/34778) | João João | Bronze 3 | [C++](./34xxx/34778. João João/João João.cc) |
 | [34795](https://boj.kr/34795) | An Elephant Problem | Bronze 4 | [C++](./34xxx/34795. An Elephant Problem/An Elephant Problem.cc) |
 | [34798](https://boj.kr/34798) | Missed Alarm | Bronze 4 | [C++](./34xxx/34798. Missed Alarm/Missed Alarm.cc) |
