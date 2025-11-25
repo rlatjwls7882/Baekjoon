@@ -2444,7 +2444,7 @@
 | [14501](https://boj.kr/14501) | 퇴사 | Silver 3 | [Java](./14xxx/14501. 퇴사/퇴사.java) |
 | [14502](https://boj.kr/14502) | 연구소 | Gold 4 | [C++](./14xxx/14502. 연구소/연구소.cc) |
 | [14503](https://boj.kr/14503) | 로봇 청소기 | Gold 5 | [C++](./14xxx/14503. 로봇 청소기/로봇 청소기.cc) |
-| [14530](https://boj.kr/14530) | The Lost Cow | Bronze 1 | [Java](./14xxx/14530. The Lost Cow/The Lost Cow.java) |
+| [14530](https://boj.kr/14530) | The Lost Cow | Bronze 2 | [Java](./14xxx/14530. The Lost Cow/The Lost Cow.java) |
 | [14534](https://boj.kr/14534) | String Permutation | Silver 4 | [Java](./14xxx/14534. String Permutation/String Permutation.java) |
 | [14535](https://boj.kr/14535) | Birthday Graph | Bronze 3 | [Java](./14xxx/14535. Birthday Graph/Birthday Graph.java) |
 | [14539](https://boj.kr/14539) | Grid Pattern | Bronze 2 | [Java](./14xxx/14539. Grid Pattern/Grid Pattern.java) |
@@ -3579,7 +3579,7 @@
 | [23435](https://boj.kr/23435) | Cloud computing | Gold 1 | [C++](./23xxx/23435. Cloud computing/Cloud computing.cc) |
 | [23530](https://boj.kr/23530) | Not A + B | Bronze 3 | [Java](./23xxx/23530. Not A ＋ B/Not A ＋ B.java) |
 | [23538](https://boj.kr/23538) | Easy Equation | Gold 4 | [C++](./23xxx/23538. Easy Equation/Easy Equation.cc) |
-| [23544](https://boj.kr/23544) | Kinder Surprise | Bronze 1 | [Java](./23xxx/23544. Kinder Surprise/Kinder Surprise.java) |
+| [23544](https://boj.kr/23544) | Kinder Surprise | Bronze 2 | [Java](./23xxx/23544. Kinder Surprise/Kinder Surprise.java) |
 | [23560](https://boj.kr/23560) | 약 | Silver 2 | [C++](./23xxx/23560. 약/약.cc) |
 | [23563](https://boj.kr/23563) | 벽 타기 | Gold 3 | [Java](./23xxx/23563. 벽 타기/벽 타기.java) |
 | [23627](https://boj.kr/23627) | driip | Bronze 3 | [Java](./23xxx/23627. driip/driip.java) |
