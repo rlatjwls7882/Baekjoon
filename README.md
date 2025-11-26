@@ -5072,6 +5072,8 @@
 | [34667](https://boj.kr/34667) | 가희와 철도역 | Bronze 2 | [C++](./34xxx/34667. 가희와 철도역/가희와 철도역.cc) |
 | [34668](https://boj.kr/34668) | 가희와 후쿠오카 공항 | Silver 5 | [C++](./34xxx/34668. 가희와 후쿠오카 공항/가희와 후쿠오카 공항.cc) |
 | [34669](https://boj.kr/34669) | 가희와 노선 건설 놀이 2 | Silver 2 | [C++](./34xxx/34669. 가희와 노선 건설 놀이 2/가희와 노선 건설 놀이 2.cc) |
+| [34677](https://boj.kr/34677) | 최적의 분할 | Gold 5 | [C++](./34xxx/34677. 최적의 분할/최적의 분할.cc) |
+| [34682](https://boj.kr/34682) | Inverse Look-and-Say | Silver 4 | [C++](./34xxx/34682. Inverse Look－and－Say/Inverse Look－and－Say.cc) |
 | [34687](https://boj.kr/34687) | 라면 끓여 먹자 야호 | Bronze 3 | [C++](./34xxx/34687. 라면 끓여 먹자 야호/라면 끓여 먹자 야호.cc) |
 | [34691](https://boj.kr/34691) | 대전과학고등학교를 사랑하십니까? | Bronze 5 | [C++](./34xxx/34691. 대전과학고등학교를 사랑하십니까？/대전과학고등학교를 사랑하십니까？.cc) |
 | [34692](https://boj.kr/34692) | 아 마이마이 하고 싶다 | Bronze 1 | [C++](./34xxx/34692. 아 마이마이 하고 싶다/아 마이마이 하고 싶다.cc) |
@@ -5094,5 +5096,5 @@
 | [34795](https://boj.kr/34795) | An Elephant Problem | Bronze 4 | [C++](./34xxx/34795. An Elephant Problem/An Elephant Problem.cc) |
 | [34798](https://boj.kr/34798) | Missed Alarm | Bronze 4 | [C++](./34xxx/34798. Missed Alarm/Missed Alarm.cc) |
 | [34802](https://boj.kr/34802) | 강의실 들어가기 | Bronze 3 | [C++](./34xxx/34802. 강의실 들어가기/강의실 들어가기.cc) |
-| [34803](https://boj.kr/34803) | 문자열 로또 | Silver 5 | [C++](./34xxx/34803. 문자열 로또/문자열 로또.cc) |
+| [34803](https://boj.kr/34803) | 문자열 로또 | Silver 4 | [C++](./34xxx/34803. 문자열 로또/문자열 로또.cc) |
 </div>
