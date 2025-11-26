@@ -17,11 +17,10 @@ void update(int i, int val) {
 int query(int k) {
     int i=1;
     while(i<_size) {
-        if(arr[i*2]<k) {
-            k-=arr[i*2];
-            i=i*2+1;
-        } else {
-            i*=2;
+        i<<=1;
+        if(arr[i]<k) {
+            k-=arr[i];
+            i++;
         }
     }
     return i-_size;
