@@ -5092,6 +5092,8 @@
 | [34761](https://boj.kr/34761) | 같은 배열 | Silver 5 | [C++](./34xxx/34761. 같은 배열/같은 배열.cc) [Java](./34xxx/34761. 같은 배열/같은 배열.java) |
 | [34762](https://boj.kr/34762) | 꿈 | Silver 3 | [C++](./34xxx/34762. 꿈/꿈.cc) [Java](./34xxx/34762. 꿈/꿈.java) |
 | [34763](https://boj.kr/34763) | 땅따먹기 | Gold 4 | [C++](./34xxx/34763. 땅따먹기/땅따먹기.cc) [Java](./34xxx/34763. 땅따먹기/땅따먹기.java) |
+| [34764](https://boj.kr/34764) | 고양이 게임 | Gold 4 | [C++](./34xxx/34764. 고양이 게임/고양이 게임.cc) [Java](./34xxx/34764. 고양이 게임/고양이 게임.java) |
+| [34765](https://boj.kr/34765) | 배열 점수 최대화 | Gold 4 | [C++](./34xxx/34765. 배열 점수 최대화/배열 점수 최대화.cc) [Java](./34xxx/34765. 배열 점수 최대화/배열 점수 최대화.java) |
 | [34778](https://boj.kr/34778) | João João | Bronze 3 | [C++](./34xxx/34778. João João/João João.cc) |
 | [34795](https://boj.kr/34795) | An Elephant Problem | Bronze 4 | [C++](./34xxx/34795. An Elephant Problem/An Elephant Problem.cc) |
 | [34798](https://boj.kr/34798) | Missed Alarm | Bronze 4 | [C++](./34xxx/34798. Missed Alarm/Missed Alarm.cc) |
