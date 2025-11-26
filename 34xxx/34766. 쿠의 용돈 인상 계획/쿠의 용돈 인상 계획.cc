@@ -15,16 +15,13 @@ int main() {
         int cur = s[idx]-'0';
         int remain=0; // 81
         while(k--) {
-            if(cur==1) cur=9;
-            else {
-                cur*=9;
-                if(cur==81) {
-                    remain++;
-                    cur=8;
-                } else {
-                    cout << cur/10;
-                    cur%=10;
-                }
+            cur*=9;
+            if(cur==81) {
+                remain++;
+                cur=8;
+            } else if(cur>=10) {
+                cout << cur/10;
+                cur%=10;
             }
         }
         cout << cur;
