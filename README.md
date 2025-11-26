@@ -5093,4 +5093,6 @@
 | [34778](https://boj.kr/34778) | João João | Bronze 3 | [C++](./34xxx/34778. João João/João João.cc) |
 | [34795](https://boj.kr/34795) | An Elephant Problem | Bronze 4 | [C++](./34xxx/34795. An Elephant Problem/An Elephant Problem.cc) |
 | [34798](https://boj.kr/34798) | Missed Alarm | Bronze 4 | [C++](./34xxx/34798. Missed Alarm/Missed Alarm.cc) |
+| [34802](https://boj.kr/34802) | 강의실 들어가기 | Bronze 3 | [C++](./34xxx/34802. 강의실 들어가기/강의실 들어가기.cc) |
+| [34803](https://boj.kr/34803) | 문자열 로또 | Silver 5 | [C++](./34xxx/34803. 문자열 로또/문자열 로또.cc) |
 </div>
