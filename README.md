@@ -5,7 +5,7 @@
  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rlatjwls3333)](https://solved.ac/rlatjwls3333/)
  ![mazandi profile](http://mazandi.herokuapp.com/api?handle=rlatjwls3333&theme=dark)
 #### [여기](https://github.com/Hiyabye/Baekjoon/blob/main/scripts/update_readme.py)에 있는 코드를 변경하여 자동으로 생성하였습니다.
-#### 500KB까지 렌더링되기에 중간에 짤립니다. 전체 목록은 [여기에](./README.md)서 확인해주세요.
+#### 500KB까지 렌더링되기에 중간에 짤립니다. 전체 목록은 [여기](./README.md)에서 확인해주세요.
 
 | No. | Title | Difficulty | Solution |
 |:---|:---|:----:|:---:|
@@ -5095,6 +5095,7 @@
 | [34764](https://boj.kr/34764) | 고양이 게임 | Gold 4 | [C++](./34xxx/34764. 고양이 게임/고양이 게임.cc) [Java](./34xxx/34764. 고양이 게임/고양이 게임.java) |
 | [34765](https://boj.kr/34765) | 배열 점수 최대화 | Gold 4 | [C++](./34xxx/34765. 배열 점수 최대화/배열 점수 최대화.cc) [Java](./34xxx/34765. 배열 점수 최대화/배열 점수 최대화.java) |
 | [34766](https://boj.kr/34766) | 쿠의 용돈 인상 계획 | Gold 2 | [C++](./34xxx/34766. 쿠의 용돈 인상 계획/쿠의 용돈 인상 계획.cc) [Java](./34xxx/34766. 쿠의 용돈 인상 계획/쿠의 용돈 인상 계획.java) |
+| [34767](https://boj.kr/34767) | 뭐야 내 수열 돌려줘요 | Gold 2 | [C++](./34xxx/34767. 뭐야 내 수열 돌려줘요/뭐야 내 수열 돌려줘요.cc) [Java](./34xxx/34767. 뭐야 내 수열 돌려줘요/뭐야 내 수열 돌려줘요.java) |
 | [34768](https://boj.kr/34768) | 숫자 배치하기 | Platinum 4 | [C++](./34xxx/34768. 숫자 배치하기/숫자 배치하기.cc) [Java](./34xxx/34768. 숫자 배치하기/숫자 배치하기.java) |
 | [34778](https://boj.kr/34778) | João João | Bronze 3 | [C++](./34xxx/34778. João João/João João.cc) |
 | [34795](https://boj.kr/34795) | An Elephant Problem | Bronze 4 | [C++](./34xxx/34795. An Elephant Problem/An Elephant Problem.cc) |
