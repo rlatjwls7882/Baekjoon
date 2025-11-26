@@ -3,11 +3,11 @@ using namespace std;
 
 typedef long long ll;
 
-ll a[200'000];
+int a[200'000];
 
 int main() {
     ios::sync_with_stdio(0); cin.tie(0);
-    ll n; cin >> n;
+    int n; cin >> n;
 
     ll sum=0;
     for(int i=0;i<2*n;i++) {
@@ -18,10 +18,10 @@ int main() {
 
     sort(a, a+2*n);
     int l=0, r=2*n-1;
-    vector<ll> preSum = {0};
+    vector<int> preSum = {0};
     while(l<r) {
         if(a[l]+a[r]==sum) preSum.push_back(a[l]), l++, r--;
-        else if(a[l]==sum) l++;
+        else if(a[l]+a[r]<sum) l++;
         else r--;
     }
     preSum.push_back(sum);
