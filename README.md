@@ -5094,6 +5094,8 @@
 | [34763](https://boj.kr/34763) | 땅따먹기 | Gold 4 | [C++](./34xxx/34763. 땅따먹기/땅따먹기.cc) [Java](./34xxx/34763. 땅따먹기/땅따먹기.java) |
 | [34764](https://boj.kr/34764) | 고양이 게임 | Gold 4 | [C++](./34xxx/34764. 고양이 게임/고양이 게임.cc) [Java](./34xxx/34764. 고양이 게임/고양이 게임.java) |
 | [34765](https://boj.kr/34765) | 배열 점수 최대화 | Gold 4 | [C++](./34xxx/34765. 배열 점수 최대화/배열 점수 최대화.cc) [Java](./34xxx/34765. 배열 점수 최대화/배열 점수 최대화.java) |
+| [34766](https://boj.kr/34766) | 쿠의 용돈 인상 계획 | Gold 2 | [C++](./34xxx/34766. 쿠의 용돈 인상 계획/쿠의 용돈 인상 계획.cc) [Java](./34xxx/34766. 쿠의 용돈 인상 계획/쿠의 용돈 인상 계획.java) |
+| [34768](https://boj.kr/34768) | 숫자 배치하기 | Platinum 4 | [C++](./34xxx/34768. 숫자 배치하기/숫자 배치하기.cc) [Java](./34xxx/34768. 숫자 배치하기/숫자 배치하기.java) |
 | [34778](https://boj.kr/34778) | João João | Bronze 3 | [C++](./34xxx/34778. João João/João João.cc) |
 | [34795](https://boj.kr/34795) | An Elephant Problem | Bronze 4 | [C++](./34xxx/34795. An Elephant Problem/An Elephant Problem.cc) |
 | [34798](https://boj.kr/34798) | Missed Alarm | Bronze 4 | [C++](./34xxx/34798. Missed Alarm/Missed Alarm.cc) |
