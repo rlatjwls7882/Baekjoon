@@ -243,6 +243,7 @@
 | [01562](https://boj.kr/1562) | 계단 수 | Gold 1 | [C++](./01xxx/1562. 계단 수/계단 수.cc) |
 | [01564](https://boj.kr/1564) | 팩토리얼5 | Silver 1 | [C++](./01xxx/1564. 팩토리얼5/팩토리얼5.cc) |
 | [01568](https://boj.kr/1568) | 새 | Bronze 2 | [Java](./01xxx/1568. 새/새.java) |
+| [01572](https://boj.kr/1572) | 중앙값 | Platinum 5 | [C++](./01xxx/1572. 중앙값/중앙값.cc) |
 | [01574](https://boj.kr/1574) | 룩 어택 | Platinum 3 | [C++](./01xxx/1574. 룩 어택/룩 어택.cc) |
 | [01577](https://boj.kr/1577) | 도로의 개수 | Gold 5 | [C++](./01xxx/1577. 도로의 개수/도로의 개수.cc) |
 | [01584](https://boj.kr/1584) | 게임 | Gold 5 | [Java](./01xxx/1584. 게임/게임.java) |
