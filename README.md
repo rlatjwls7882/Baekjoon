@@ -5021,6 +5021,7 @@
 | [34281](https://boj.kr/34281) | Class Photo | Bronze 5 | [C++](./34xxx/34281. Class Photo/Class Photo.cc) |
 | [34282](https://boj.kr/34282) | Fair Grading | Bronze 3 | [C++](./34xxx/34282. Fair Grading/Fair Grading.cc) |
 | [34297](https://boj.kr/34297) | Parking Pandemonium | Bronze 5 | [C++](./34xxx/34297. Parking Pandemonium/Parking Pandemonium.cc) |
+| [34301](https://boj.kr/34301) | Exact Change | Bronze 2 | [C++](./34xxx/34301. Exact Change/Exact Change.cc) |
 | [34306](https://boj.kr/34306) | M-Climb Road | Bronze 4 | [C++](./34xxx/34306. M－Climb Road/M－Climb Road.cc) |
 | [34308](https://boj.kr/34308) | Abby's Absolutes | Bronze 4 | [C++](./34xxx/34308. Abby's Absolutes/Abby's Absolutes.cc) |
 | [34323](https://boj.kr/34323) | 할인이 필요해 | Bronze 4 | [C++](./34xxx/34323. 할인이 필요해/할인이 필요해.cc) |
