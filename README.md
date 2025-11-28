@@ -5039,6 +5039,7 @@
 | [34414](https://boj.kr/34414) | Tall Enough | Bronze 4 | [C++](./34xxx/34414. Tall Enough/Tall Enough.cc) |
 | [34417](https://boj.kr/34417) | Alphabet Soup | Bronze 2 | [C++](./34xxx/34417. Alphabet Soup/Alphabet Soup.cc) |
 | [34424](https://boj.kr/34424) | Flatter Land | Bronze 5 | [C++](./34xxx/34424. Flatter Land/Flatter Land.cc) |
+| [34441](https://boj.kr/34441) | Ski Traffic | Bronze 3 | [C++](./34xxx/34441. Ski Traffic/Ski Traffic.cc) |
 | [34443](https://boj.kr/34443) | Hack-a-Holics | Bronze 5 | [C++](./34xxx/34443. Hack－a－Holics/Hack－a－Holics.cc) |
 | [34446](https://boj.kr/34446) | E-Days Ore Cart Pull | Bronze 5 | [C++](./34xxx/34446. E－Days Ore Cart Pull/E－Days Ore Cart Pull.cc) |
 | [34449](https://boj.kr/34449) | King Arthur's Round Table | Bronze 4 | [C++](./34xxx/34449. King Arthur's Round Table/King Arthur's Round Table.cc) |
