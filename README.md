@@ -1585,6 +1585,7 @@
 | [09398](https://boj.kr/9398) | A Password Policy Requirement | Bronze 2 | [Java](./09xxx/9398. A Password Policy Requirement/A Password Policy Requirement.java) |
 | [09417](https://boj.kr/9417) | 최대 GCD | Silver 4 | [C++](./09xxx/9417. 최대 GCD/최대 GCD.cc) |
 | [09421](https://boj.kr/9421) | 소수상근수 | Silver 1 | [Java](./09xxx/9421. 소수상근수/소수상근수.java) |
+| [09426](https://boj.kr/9426) | 중앙값 측정 | Platinum 5 | [C++](./09xxx/9426. 중앙값 측정/중앙값 측정.cc) |
 | [09428](https://boj.kr/9428) | Effective Infection Time | Bronze 2 | [Java](./09xxx/9428. Effective Infection Time/Effective Infection Time.java) |
 | [09433](https://boj.kr/9433) | Zombie Invasion | Bronze 2 | [Java](./09xxx/9433. Zombie Invasion/Zombie Invasion.java) |
 | [09437](https://boj.kr/9437) | 사라진 페이지 찾기 | Bronze 2 | [Java](./09xxx/9437. 사라진 페이지 찾기/사라진 페이지 찾기.java) |
@@ -2766,7 +2767,7 @@
 | [15963](https://boj.kr/15963) | CASIO | Bronze 5 | [C](./15xxx/15963. CASIO/CASIO.c) |
 | [15964](https://boj.kr/15964) | 이상한 기호 | Bronze 5 | [C](./15xxx/15964. 이상한 기호/이상한 기호.c) |
 | [15965](https://boj.kr/15965) | K번째 소수 | Silver 2 | [Java](./15xxx/15965. K번째 소수/K번째 소수.java) |
-| [15969](https://boj.kr/15969) | 행복 | Bronze 2 | [Java](./15xxx/15969. 행복/행복.java) |
+| [15969](https://boj.kr/15969) | 행복 | Bronze 3 | [Java](./15xxx/15969. 행복/행복.java) |
 | [15970](https://boj.kr/15970) | 화살표 그리기 | Silver 4 | [C++](./15xxx/15970. 화살표 그리기/화살표 그리기.cc) |
 | [15973](https://boj.kr/15973) | 두 박스 | Silver 1 | [C++](./15xxx/15973. 두 박스/두 박스.cc) |
 | [15975](https://boj.kr/15975) | 화살표 그리기 | Silver 3 | [C++](./15xxx/15975. 화살표 그리기/화살표 그리기.cc) |
