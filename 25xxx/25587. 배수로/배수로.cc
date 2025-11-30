@@ -1,7 +1,7 @@
 #include<bits/stdc++.h>
 using namespace std;
 
-int cnt, a[100'000], b[100'000], parent[100'000], sz[100'000];
+int cnt, a[100'000], parent[100'000], sz[100'000];
 
 int find(int x) {
     if(x==parent[x]) return x;
@@ -12,20 +12,18 @@ void _union(int x, int y) {
     x = find(x);
     y = find(y);
     if(x==y) return;
-    if(a[x]<b[x]) cnt-=sz[x];
-    if(a[y]<b[y]) cnt-=sz[y];
+    if(a[x]<0) cnt-=sz[x];
+    if(a[y]<0) cnt-=sz[y];
     if(x<y) {
         parent[y]=x;
         a[x]+=a[y];
-        b[x]+=b[y];
         sz[x]+=sz[y];
-        if(a[x]<b[x]) cnt+=sz[x];
+        if(a[x]<0) cnt+=sz[x];
     } else {
         parent[x]=y;
         a[y]+=a[x];
-        b[y]+=b[x];
         sz[y]+=sz[x];
-        if(a[y]<b[y]) cnt+=sz[y];
+        if(a[y]<0) cnt+=sz[y];
     }
 }
 
@@ -34,17 +32,18 @@ int main() {
     int n, m; cin >> n >> m;
     for(int i=0;i<n;i++) cin >> a[i];
     for(int i=0;i<n;i++) {
-        cin >> b[i];
+        int b; cin >> b;
+        a[i]-=b;
         parent[i]=i;
         sz[i]=1;
-        if(a[i]<b[i]) cnt++;
+        if(a[i]<0) cnt++;
     }
 
     while(m--) {
-        int a; cin >> a;
-        if(a==1) {
-            int b, c; cin >> b >> c;
-            _union(b-1, c-1);
+        int x; cin >> x;
+        if(x==1) {
+            int y, z; cin >> y >> z;
+            _union(y-1, z-1);
         } else {
             cout << cnt << '\n';
         }
