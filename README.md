@@ -3882,6 +3882,7 @@
 | [25577](https://boj.kr/25577) | 열 정렬정렬 정 | Gold 4 | [C++](./25xxx/25577. 열 정렬정렬 정/열 정렬정렬 정.cc) |
 | [25584](https://boj.kr/25584) | 근무 지옥에 빠진 푸앙이 (Large) | Silver 5 | [Java](./25xxx/25584. 근무 지옥에 빠진 푸앙이 （Large）/근무 지옥에 빠진 푸앙이 （Large）.java) |
 | [25585](https://boj.kr/25585) | 86 ─에이티식스─ 1 | Gold 5 | [C++](./25xxx/25585. 86 ─에이티식스─ 1/86 ─에이티식스─ 1.cc) |
+| [25587](https://boj.kr/25587) | 배수로 | Gold 3 | [C++](./25xxx/25587. 배수로/배수로.cc) |
 | [25591](https://boj.kr/25591) | 푸앙이와 종윤이 | Bronze 4 | [Java](./25xxx/25591. 푸앙이와 종윤이/푸앙이와 종윤이.java) |
 | [25592](https://boj.kr/25592) | 바둑돌 게임 | Bronze 1 | [Java](./25xxx/25592. 바둑돌 게임/바둑돌 게임.java) |
 | [25593](https://boj.kr/25593) | 근무 지옥에 빠진 푸앙이 (Small) | Bronze 1 | [Java](./25xxx/25593. 근무 지옥에 빠진 푸앙이 （Small）/근무 지옥에 빠진 푸앙이 （Small）.java) |
@@ -4590,6 +4591,7 @@
 | [31169](https://boj.kr/31169) | Hidden Password | Bronze 2 | [Java](./31xxx/31169. Hidden Password/Hidden Password.java) |
 | [31215](https://boj.kr/31215) | 이상한 섞기 연산 | Bronze 2 | [Java](./31xxx/31215. 이상한 섞기 연산/이상한 섞기 연산.java) |
 | [31216](https://boj.kr/31216) | 슈퍼 소수 | Silver 5 | [C++](./31xxx/31216. 슈퍼 소수/슈퍼 소수.cc) |
+| [31218](https://boj.kr/31218) | 자료 구조의 왕 | Silver 2 | [C++](./31xxx/31218. 자료 구조의 왕/자료 구조의 왕.cc) |
 | [31229](https://boj.kr/31229) | 또 수열 문제야 | Silver 5 | [Java](./31xxx/31229. 또 수열 문제야/또 수열 문제야.java) |
 | [31234](https://boj.kr/31234) | 대역폭 관리 | Platinum 1 | [C++](./31xxx/31234. 대역폭 관리/대역폭 관리.cc) |
 | [31235](https://boj.kr/31235) | 올라올라 | Gold 4 | [Java](./31xxx/31235. 올라올라/올라올라.java) |
@@ -5113,4 +5115,5 @@
 | [34798](https://boj.kr/34798) | Missed Alarm | Bronze 4 | [C++](./34xxx/34798. Missed Alarm/Missed Alarm.cc) |
 | [34802](https://boj.kr/34802) | 강의실 들어가기 | Bronze 3 | [C++](./34xxx/34802. 강의실 들어가기/강의실 들어가기.cc) |
 | [34803](https://boj.kr/34803) | 문자열 로또 | Silver 4 | [C++](./34xxx/34803. 문자열 로또/문자열 로또.cc) |
+| [34849](https://boj.kr/34849) | 이중 반복문 | Bronze 5 | [C++](./34xxx/34849. 이중 반복문/이중 반복문.cc) |
 </div>
