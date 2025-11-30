@@ -1695,6 +1695,7 @@
 | [10040](https://boj.kr/10040) | 투표 | Bronze 2 | [Java](./10xxx/10040. 투표/투표.java) |
 | [10041](https://boj.kr/10041) | 관광 | Bronze 1 | [C++](./10xxx/10041. 관광/관광.cc) |
 | [10067](https://boj.kr/10067) | 수열 나누기 | Diamond 4 | [C++](./10xxx/10067. 수열 나누기/수열 나누기.cc) |
+| [10090](https://boj.kr/10090) | Counting Inversions | Platinum 5 | [C++](./10xxx/10090. Counting Inversions/Counting Inversions.cc) |
 | [10093](https://boj.kr/10093) | 숫자 | Bronze 2 | [Java](./10xxx/10093. 숫자/숫자.java) |
 | [10096](https://boj.kr/10096) | 세 친구 | Gold 3 | [C++](./10xxx/10096. 세 친구/세 친구.cc) |
 | [10101](https://boj.kr/10101) | 삼각형 외우기 | Bronze 4 | [C](./10xxx/10101. 삼각형 외우기/삼각형 외우기.c) |
@@ -4840,6 +4841,7 @@
 | [32685](https://boj.kr/32685) | 4-LSB | Bronze 2 | [C++](./32xxx/32685. 4－LSB/4－LSB.cc) |
 | [32710](https://boj.kr/32710) | 구구단표 | Bronze 4 | [C++](./32xxx/32710. 구구단표/구구단표.cc) |
 | [32711](https://boj.kr/32711) | 홀수로 나눠라! 짝수로 나눠라! | Silver 3 | [C++](./32xxx/32711. 홀수로 나눠라！ 짝수로 나눠라！/홀수로 나눠라！ 짝수로 나눠라！.cc) |
+| [32712](https://boj.kr/32712) | 다이얼 룰렛 | Silver 2 | [C++](./32xxx/32712. 다이얼 룰렛/다이얼 룰렛.cc) |
 | [32714](https://boj.kr/32714) | 방벽 게임 | Silver 2 | [C++](./32xxx/32714. 방벽 게임/방벽 게임.cc) |
 | [32722](https://boj.kr/32722) | Juta teekond | Bronze 4 | [Python](./32xxx/32722. Juta teekond/Juta teekond.py) |
 | [32728](https://boj.kr/32728) | Sõnakuulelik Tom | Bronze 3 | [C++](./32xxx/32728. Sõnakuulelik Tom/Sõnakuulelik Tom.cc) |
@@ -5116,4 +5118,6 @@
 | [34802](https://boj.kr/34802) | 강의실 들어가기 | Bronze 3 | [C++](./34xxx/34802. 강의실 들어가기/강의실 들어가기.cc) |
 | [34803](https://boj.kr/34803) | 문자열 로또 | Silver 4 | [C++](./34xxx/34803. 문자열 로또/문자열 로또.cc) |
 | [34849](https://boj.kr/34849) | 이중 반복문 | Bronze 5 | [C++](./34xxx/34849. 이중 반복문/이중 반복문.cc) |
+| [34850](https://boj.kr/34850) | 포도주 상인 | Bronze 1 | [C++](./34xxx/34850. 포도주 상인/포도주 상인.cc) |
+| [34872](https://boj.kr/34872) | Triple Fairness | Bronze 1 | [C++](./34xxx/34872. Triple Fairness/Triple Fairness.cc) |
 </div>
