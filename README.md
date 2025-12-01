@@ -4506,6 +4506,7 @@
 | [30460](https://boj.kr/30460) | 스위치 | Gold 5 | [C++](./30xxx/30460. 스위치/스위치.cc) |
 | [30461](https://boj.kr/30461) | 낚시 | Gold 4 | [C++](./30xxx/30461. 낚시/낚시.cc) |
 | [30462](https://boj.kr/30462) | MEXchange | Gold 1 | [C++](./30xxx/30462. MEXchange/MEXchange.cc) |
+| [30464](https://boj.kr/30464) | 시간낭비 | Gold 2 | [C++](./30xxx/30464. 시간낭비/시간낭비.cc) |
 | [30468](https://boj.kr/30468) | 호반우가 학교에 지각한 이유 1 | Bronze 4 | [Java](./30xxx/30468. 호반우가 학교에 지각한 이유 1/호반우가 학교에 지각한 이유 1.java) |
 | [30469](https://boj.kr/30469) | 호반우가 학교에 지각한 이유 2 | Silver 1 | [C++](./30xxx/30469. 호반우가 학교에 지각한 이유 2/호반우가 학교에 지각한 이유 2.cc) |
 | [30471](https://boj.kr/30471) | 호반우가 학교에 지각한 이유 4 | Gold 2 | [C++](./30xxx/30471. 호반우가 학교에 지각한 이유 4/호반우가 학교에 지각한 이유 4.cc) |
@@ -5117,7 +5118,9 @@
 | [34798](https://boj.kr/34798) | Missed Alarm | Bronze 4 | [C++](./34xxx/34798. Missed Alarm/Missed Alarm.cc) |
 | [34802](https://boj.kr/34802) | 강의실 들어가기 | Bronze 3 | [C++](./34xxx/34802. 강의실 들어가기/강의실 들어가기.cc) |
 | [34803](https://boj.kr/34803) | 문자열 로또 | Silver 4 | [C++](./34xxx/34803. 문자열 로또/문자열 로또.cc) |
+| [34813](https://boj.kr/34813) | 공통교육과정 | Bronze 5 | [C++](./34xxx/34813. 공통교육과정/공통교육과정.cc) |
 | [34849](https://boj.kr/34849) | 이중 반복문 | Bronze 5 | [C++](./34xxx/34849. 이중 반복문/이중 반복문.cc) |
 | [34850](https://boj.kr/34850) | 포도주 상인 | Bronze 1 | [C++](./34xxx/34850. 포도주 상인/포도주 상인.cc) |
+| [34871](https://boj.kr/34871) | Segments | Silver 5 | [C++](./34xxx/34871. Segments/Segments.cc) |
 | [34872](https://boj.kr/34872) | Triple Fairness | Bronze 1 | [C++](./34xxx/34872. Triple Fairness/Triple Fairness.cc) |
 </div>
