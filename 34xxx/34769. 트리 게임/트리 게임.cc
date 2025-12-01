@@ -35,7 +35,7 @@ int main() {
         } else {
             for(int e:dist1[i]) {
                 if(dist2Cnt[i]==dist1[e].size()-1) {
-                    cnt += dist1[e].size()-1;
+                    cnt += dist2Cnt[i];
                     break;
                 }
             }
