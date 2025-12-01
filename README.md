@@ -3376,7 +3376,7 @@
 | [21047](https://boj.kr/21047) | Array of Discord | Silver 4 | [C++](./21xxx/21047. Array of Discord/Array of Discord.cc) |
 | [21049](https://boj.kr/21049) | Coin Stacks | Silver 2 | [C++](./21xxx/21049. Coin Stacks/Coin Stacks.cc) |
 | [21050](https://boj.kr/21050) | Dams in Distress | Gold 2 | [C++](./21xxx/21050. Dams in Distress/Dams in Distress.cc) |
-| [21052](https://boj.kr/21052) | Film Critics | Platinum 4 | [C++](./21xxx/21052. Film Critics/Film Critics.cc) |
+| [21052](https://boj.kr/21052) | Film Critics | Platinum 3 | [C++](./21xxx/21052. Film Critics/Film Critics.cc) |
 | [21053](https://boj.kr/21053) | Gig Combinatorics | Gold 5 | [C++](./21xxx/21053. Gig Combinatorics/Gig Combinatorics.cc) |
 | [21056](https://boj.kr/21056) | Joining Flows | Gold 2 | [C++](./21xxx/21056. Joining Flows/Joining Flows.cc) |
 | [21057](https://boj.kr/21057) | Keep Calm And Carry Off | Gold 1 | [C++](./21xxx/21057. Keep Calm And Carry Off/Keep Calm And Carry Off.cc) |
@@ -5030,6 +5030,7 @@
 | [34238](https://boj.kr/34238) | Find the Fox | Silver 5 | [C++](./34xxx/34238. Find the Fox/Find the Fox.cc) |
 | [34242](https://boj.kr/34242) | 힝스티비 | Gold 5 | [C++](./34xxx/34242. 힝스티비/힝스티비.cc) |
 | [34244](https://boj.kr/34244) | 杞人憂天 | Platinum 1 | [C++](./34xxx/34244. 杞人憂天/杞人憂天.cc) |
+| [34248](https://boj.kr/34248) | 레몬 게임 | Silver 5 | |
 | [34281](https://boj.kr/34281) | Class Photo | Bronze 5 | [C++](./34xxx/34281. Class Photo/Class Photo.cc) |
 | [34282](https://boj.kr/34282) | Fair Grading | Bronze 3 | [C++](./34xxx/34282. Fair Grading/Fair Grading.cc) |
 | [34297](https://boj.kr/34297) | Parking Pandemonium | Bronze 5 | [C++](./34xxx/34297. Parking Pandemonium/Parking Pandemonium.cc) |
@@ -5113,6 +5114,7 @@
 | [34766](https://boj.kr/34766) | 쿠의 용돈 인상 계획 | Gold 2 | [C++](./34xxx/34766. 쿠의 용돈 인상 계획/쿠의 용돈 인상 계획.cc) [Java](./34xxx/34766. 쿠의 용돈 인상 계획/쿠의 용돈 인상 계획.java) |
 | [34767](https://boj.kr/34767) | 뭐야 내 수열 돌려줘요 | Gold 2 | [C++](./34xxx/34767. 뭐야 내 수열 돌려줘요/뭐야 내 수열 돌려줘요.cc) [Java](./34xxx/34767. 뭐야 내 수열 돌려줘요/뭐야 내 수열 돌려줘요.java) |
 | [34768](https://boj.kr/34768) | 숫자 배치하기 | Platinum 4 | [C++](./34xxx/34768. 숫자 배치하기/숫자 배치하기.cc) [Java](./34xxx/34768. 숫자 배치하기/숫자 배치하기.java) |
+| [34769](https://boj.kr/34769) | 트리 게임 | Platinum 3 | [C++](./34xxx/34769. 트리 게임/트리 게임.cc) |
 | [34778](https://boj.kr/34778) | João João | Bronze 3 | [C++](./34xxx/34778. João João/João João.cc) |
 | [34795](https://boj.kr/34795) | An Elephant Problem | Bronze 4 | [C++](./34xxx/34795. An Elephant Problem/An Elephant Problem.cc) |
 | [34798](https://boj.kr/34798) | Missed Alarm | Bronze 4 | [C++](./34xxx/34798. Missed Alarm/Missed Alarm.cc) |
@@ -5123,4 +5125,5 @@
 | [34850](https://boj.kr/34850) | 포도주 상인 | Bronze 1 | [C++](./34xxx/34850. 포도주 상인/포도주 상인.cc) |
 | [34871](https://boj.kr/34871) | Segments | Silver 5 | [C++](./34xxx/34871. Segments/Segments.cc) |
 | [34872](https://boj.kr/34872) | Triple Fairness | Bronze 1 | [C++](./34xxx/34872. Triple Fairness/Triple Fairness.cc) |
+| [34873](https://boj.kr/34873) | 사탕 나눠주기 | Bronze 2 | [C++](./34xxx/34873. 사탕 나눠주기/사탕 나눠주기.cc) |
 </div>
