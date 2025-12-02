@@ -2221,6 +2221,7 @@
 | [13018](https://boj.kr/13018) | 특이한 수열 | Gold 4 | [C++](./13xxx/13018. 특이한 수열/특이한 수열.cc) |
 | [13022](https://boj.kr/13022) | 늑대와 올바른 단어 | Silver 2 | [C++](./13xxx/13022. 늑대와 올바른 단어/늑대와 올바른 단어.cc) |
 | [13023](https://boj.kr/13023) | ABCDE | Gold 5 | [Java](./13xxx/13023. ABCDE/ABCDE.java) |
+| [13028](https://boj.kr/13028) | 민호의 소원 | Platinum 2 | [C++](./13xxx/13028. 민호의 소원/민호의 소원.cc) |
 | [13034](https://boj.kr/13034) | 다각형 게임 | Platinum 3 | [C++](./13xxx/13034. 다각형 게임/다각형 게임.cc) |
 | [13063](https://boj.kr/13063) | Lobby | Bronze 3 | [Java](./13xxx/13063. Lobby/Lobby.java) |
 | [13064](https://boj.kr/13064) | Cameras | Bronze 2 | [Java](./13xxx/13064. Cameras/Cameras.java) |
@@ -3245,6 +3246,7 @@
 | [19940](https://boj.kr/19940) | 피자 오븐 | Gold 5 | [C++](./19xxx/19940. 피자 오븐/피자 오븐.cc) |
 | [19941](https://boj.kr/19941) | 햄버거 분배 | Silver 3 | [C++](./19xxx/19941. 햄버거 분배/햄버거 분배.cc) |
 | [19942](https://boj.kr/19942) | 다이어트 | Gold 4 | [C++](./19xxx/19942. 다이어트/다이어트.cc) |
+| [19943](https://boj.kr/19943) | 조명등 | Diamond 4 | [C++](./19xxx/19943. 조명등/조명등.cc) |
 | [19944](https://boj.kr/19944) | 뉴비의 기준은 뭘까? | Bronze 4 | [C](./19xxx/19944. 뉴비의 기준은 뭘까？/뉴비의 기준은 뭘까？.c) |
 | [19945](https://boj.kr/19945) | 새로운 언어 CC | Bronze 1 | [Java](./19xxx/19945. 새로운 언어 CC/새로운 언어 CC.java) |
 | [19946](https://boj.kr/19946) | 2의 제곱수 계산하기 | Bronze 2 | [Java](./19xxx/19946. 2의 제곱수 계산하기/2의 제곱수 계산하기.java) |
