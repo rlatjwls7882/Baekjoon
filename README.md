@@ -1036,7 +1036,7 @@
 | [04890](https://boj.kr/4890) | Tiles of Tetris, NOT! | Bronze 2 | [Java](./04xxx/4890. Tiles of Tetris， NOT！/Tiles of Tetris， NOT！.java) |
 | [04892](https://boj.kr/4892) | 숫자 맞추기 게임 | Bronze 3 | [Java](./04xxx/4892. 숫자 맞추기 게임/숫자 맞추기 게임.java) |
 | [04909](https://boj.kr/4909) | Judging Olympia | Bronze 3 | [Java](./04xxx/4909. Judging Olympia/Judging Olympia.java) |
-| [04920](https://boj.kr/4920) | 테트리스 게임 | Gold 5 | [C++](./04xxx/4920. 테트리스 게임/테트리스 게임.cc) |
+| [04920](https://boj.kr/4920) | 테트리스 게임 | Gold 4 | [C++](./04xxx/4920. 테트리스 게임/테트리스 게임.cc) |
 | [04921](https://boj.kr/4921) | 나무 블록 | Silver 4 | [Python](./04xxx/4921. 나무 블록/나무 블록.py) |
 | [04922](https://boj.kr/4922) | Walk Like an Egyptian | Bronze 3 | [Java](./04xxx/4922. Walk Like an Egyptian/Walk Like an Egyptian.java) |
 | [04927](https://boj.kr/4927) | Casting Out Nines | Bronze 1 | [Java](./04xxx/4927. Casting Out Nines/Casting Out Nines.java) |
@@ -3479,6 +3479,7 @@
 | [22093](https://boj.kr/22093) | Соцопрос | Bronze 3 | [Java](./22xxx/22093. Соцопрос/Соцопрос.java) |
 | [22098](https://boj.kr/22098) | Треугольники | Bronze 2 | [Java](./22xxx/22098. Треугольники/Треугольники.java) |
 | [22113](https://boj.kr/22113) | 창영이와 버스 | Bronze 2 | [Java](./22xxx/22113. 창영이와 버스/창영이와 버스.java) |
+| [22114](https://boj.kr/22114) | 창영이와 점프 | Silver 2 | [C++](./22xxx/22114. 창영이와 점프/창영이와 점프.cc) |
 | [22115](https://boj.kr/22115) | 창영이와 커피 | Gold 5 | [C++](./22xxx/22115. 창영이와 커피/창영이와 커피.cc) |
 | [22123](https://boj.kr/22123) | Экзамен | Bronze 3 | [Java](./22xxx/22123. Экзамен/Экзамен.java) |
 | [22150](https://boj.kr/22150) | Шоколадка | Bronze 3 | [Java](./22xxx/22150. Шоколадка/Шоколадка.java) |
@@ -5032,7 +5033,7 @@
 | [34238](https://boj.kr/34238) | Find the Fox | Silver 5 | [C++](./34xxx/34238. Find the Fox/Find the Fox.cc) |
 | [34242](https://boj.kr/34242) | 힝스티비 | Gold 5 | [C++](./34xxx/34242. 힝스티비/힝스티비.cc) |
 | [34244](https://boj.kr/34244) | 杞人憂天 | Platinum 1 | [C++](./34xxx/34244. 杞人憂天/杞人憂天.cc) |
-| [34248](https://boj.kr/34248) | 레몬 게임 | Silver 5 | |
+| [34248](https://boj.kr/34248) | 레몬 게임 | Silver 5 | [C++](./34xxx/34248. 레몬 게임/레몬 게임.cc) |
 | [34281](https://boj.kr/34281) | Class Photo | Bronze 5 | [C++](./34xxx/34281. Class Photo/Class Photo.cc) |
 | [34282](https://boj.kr/34282) | Fair Grading | Bronze 3 | [C++](./34xxx/34282. Fair Grading/Fair Grading.cc) |
 | [34297](https://boj.kr/34297) | Parking Pandemonium | Bronze 5 | [C++](./34xxx/34297. Parking Pandemonium/Parking Pandemonium.cc) |
