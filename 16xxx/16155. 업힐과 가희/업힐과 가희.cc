@@ -19,7 +19,7 @@ int main() {
     for(int i=0;i<=n;i++) {
         int a, b; cin >> a >> b;
         if(i>=1) {
-            for(int i=lastX;i<=a;i++) {
+            for(int i=lastX;i<a;i++) {
                 x[i]=a-lastX;
                 y[i]=b-lastY;
             }
