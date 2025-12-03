@@ -1203,6 +1203,7 @@
 | [05800](https://boj.kr/5800) | 성적 통계 | Silver 5 | [Java](./05xxx/5800. 성적 통계/성적 통계.java) |
 | [05867](https://boj.kr/5867) | Scrambled Letters | Gold 4 | [C++](./05xxx/5867. Scrambled Letters/Scrambled Letters.cc) |
 | [05874](https://boj.kr/5874) | 소를 찾아라 | Silver 4 | [C++](./05xxx/5874. 소를 찾아라/소를 찾아라.cc) |
+| [05883](https://boj.kr/5883) | 아이폰 9S | Silver 4 | [C++](./05xxx/5883. 아이폰 9S/아이폰 9S.cc) |
 | [05893](https://boj.kr/5893) | 17배 | Bronze 3 | [Java](./05xxx/5893. 17배/17배.java) |
 | [05904](https://boj.kr/5904) | Moo 게임 | Gold 5 | [C++](./05xxx/5904. Moo 게임/Moo 게임.cc) |
 | [05916](https://boj.kr/5916) | 농장 관리 | Platinum 1 | [C++](./05xxx/5916. 농장 관리/농장 관리.cc) |
@@ -3221,6 +3222,7 @@
 | [19575](https://boj.kr/19575) | Polynomial | Bronze 1 | [Java](./19xxx/19575. Polynomial/Polynomial.java) |
 | [19580](https://boj.kr/19580) | 마스크가 필요해 | Platinum 5 | [C++](./19xxx/19580. 마스크가 필요해/마스크가 필요해.cc) |
 | [19583](https://boj.kr/19583) | 싸이버개강총회 | Silver 2 | [C++](./19xxx/19583. 싸이버개강총회/싸이버개강총회.cc) |
+| [19584](https://boj.kr/19584) | 난개발 | Gold 3 | [C++](./19xxx/19584. 난개발/난개발.cc) |
 | [19592](https://boj.kr/19592) | 장난감 경주 | Silver 5 | [C++](./19xxx/19592. 장난감 경주/장난감 경주.cc) |
 | [19595](https://boj.kr/19595) | 소수 게임 | Gold 2 | [C++](./19xxx/19595. 소수 게임/소수 게임.cc) |
 | [19598](https://boj.kr/19598) | 최소 회의실 개수 | Gold 5 | [C++](./19xxx/19598. 최소 회의실 개수/최소 회의실 개수.cc) |
