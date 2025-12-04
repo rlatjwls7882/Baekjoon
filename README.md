@@ -9,7 +9,7 @@
 
 | No. | Title | Difficulty | Solution |
 |:---|:---|:----:|:---:|
-| [01000](https://boj.kr/1000) | A+B | Bronze 5 | [C++](./01xxx/1000. A＋B/A＋B.cc) [Java](./01xxx/1000. A＋B/A＋B.java) [Python](./01xxx/1000. A＋B/A＋B.py) |
+| [01000](https://boj.kr/1000) | A+B | Bronze 5 | [C++](./01xxx/1000. A＋B/A＋B.cc) [Golfscript](./01xxx/1000. A＋B/A＋B.gs) [Java](./01xxx/1000. A＋B/A＋B.java) [Python](./01xxx/1000. A＋B/A＋B.py) |
 | [01001](https://boj.kr/1001) | A-B | Bronze 5 | [C++](./01xxx/1001. A－B/A－B.cc) [Java](./01xxx/1001. A－B/A－B.java) |
 | [01002](https://boj.kr/1002) | 터렛 | Silver 3 | [C++](./01xxx/1002. 터렛/터렛.cc) |
 | [01003](https://boj.kr/1003) | 피보나치 함수 | Silver 3 | [Java](./01xxx/1003. 피보나치 함수/피보나치 함수.java) |
@@ -925,7 +925,7 @@
 | [04055](https://boj.kr/4055) | 파티가 좋아 파티가 좋아 | Gold 5 | [C++](./04xxx/4055. 파티가 좋아 파티가 좋아/파티가 좋아 파티가 좋아.cc) |
 | [04072](https://boj.kr/4072) | Words | Bronze 2 | [Java](./04xxx/4072. Words/Words.java) |
 | [04084](https://boj.kr/4084) | Viva la Diferencia | Bronze 3 | [Java](./04xxx/4084. Viva la Diferencia/Viva la Diferencia.java) |
-| [04096](https://boj.kr/4096) | 팰린드로미터 | Silver 4 | [C++](./04xxx/4096. 팰린드로미터/팰린드로미터.cc) |
+| [04096](https://boj.kr/4096) | 팰린드로미터 | Silver 3 | [C++](./04xxx/4096. 팰린드로미터/팰린드로미터.cc) |
 | [04097](https://boj.kr/4097) | 수익 | Silver 2 | [Java](./04xxx/4097. 수익/수익.java) |
 | [04101](https://boj.kr/4101) | 크냐? | Bronze 5 | [C](./04xxx/4101. 크냐？/크냐？.c) |
 | [04107](https://boj.kr/4107) | Knitting | Bronze 2 | [Java](./04xxx/4107. Knitting/Knitting.java) |
@@ -2467,7 +2467,7 @@
 | [14547](https://boj.kr/14547) | X X glued | Bronze 2 | [Java](./14xxx/14547. X X glued/X X glued.java) |
 | [14551](https://boj.kr/14551) | Card Game Contest | Bronze 2 | [Java](./14xxx/14551. Card Game Contest/Card Game Contest.java) |
 | [14557](https://boj.kr/14557) | Memory | Silver 3 | [C++](./14xxx/14557. Memory/Memory.cc) |
-| [14561](https://boj.kr/14561) | 회문 | Bronze 2 | [Java](./14xxx/14561. 회문/회문.java) |
+| [14561](https://boj.kr/14561) | 회문 | Bronze 1 | [Java](./14xxx/14561. 회문/회문.java) |
 | [14563](https://boj.kr/14563) | 완전수 | Bronze 2 | [Java](./14xxx/14563. 완전수/완전수.java) |
 | [14564](https://boj.kr/14564) | 두부 게임 (Tofu Game) | Bronze 1 | [C++](./14xxx/14564. 두부 게임 （Tofu Game）/두부 게임 （Tofu Game）.cc) |
 | [14566](https://boj.kr/14566) | Dongjak N1 | Bronze 1 | [C++](./14xxx/14566. Dongjak N1/Dongjak N1.cc) |
@@ -3271,7 +3271,7 @@
 | [20044](https://boj.kr/20044) | Project Teams | Silver 4 | [C++](./20xxx/20044. Project Teams/Project Teams.cc) |
 | [20053](https://boj.kr/20053) | 최소, 최대 2 | Bronze 3 | [Java](./20xxx/20053. 최소， 최대 2/최소， 최대 2.java) |
 | [20055](https://boj.kr/20055) | 컨베이어 벨트 위의 로봇 | Gold 5 | [C++](./20xxx/20055. 컨베이어 벨트 위의 로봇/컨베이어 벨트 위의 로봇.cc) |
-| [20093](https://boj.kr/20093) | Coins | Platinum 3 | [C++](./20xxx/20093. Coins/Coins.cc) |
+| [20093](https://boj.kr/20093) | Coins | Platinum 4 | [C++](./20xxx/20093. Coins/Coins.cc) |
 | [20094](https://boj.kr/20094) | Sudoku 1 | Bronze 2 | [Text](./20xxx/20094. Sudoku 1/Sudoku 1.txt) |
 | [20095](https://boj.kr/20095) | Sudoku 2 | Silver 4 | [Text](./20xxx/20095. Sudoku 2/Sudoku 2.txt) |
 | [20096](https://boj.kr/20096) | Sudoku 3 | Silver 3 | [Text](./20xxx/20096. Sudoku 3/Sudoku 3.txt) |
@@ -5066,6 +5066,7 @@
 | [34441](https://boj.kr/34441) | Ski Traffic | Bronze 3 | [C++](./34xxx/34441. Ski Traffic/Ski Traffic.cc) |
 | [34443](https://boj.kr/34443) | Hack-a-Holics | Bronze 5 | [C++](./34xxx/34443. Hack－a－Holics/Hack－a－Holics.cc) |
 | [34446](https://boj.kr/34446) | E-Days Ore Cart Pull | Bronze 5 | [C++](./34xxx/34446. E－Days Ore Cart Pull/E－Days Ore Cart Pull.cc) |
+| [34447](https://boj.kr/34447) | Bad Directions | Bronze 3 | [C++](./34xxx/34447. Bad Directions/Bad Directions.cc) |
 | [34449](https://boj.kr/34449) | King Arthur's Round Table | Bronze 4 | [C++](./34xxx/34449. King Arthur's Round Table/King Arthur's Round Table.cc) |
 | [34454](https://boj.kr/34454) | Roller Coaster Ride | Bronze 5 | [C++](./34xxx/34454. Roller Coaster Ride/Roller Coaster Ride.cc) |
 | [34455](https://boj.kr/34455) | Donut Shop | Bronze 4 | [C++](./34xxx/34455. Donut Shop/Donut Shop.cc) |
@@ -5137,6 +5138,7 @@
 | [34848](https://boj.kr/34848) | 저녁 메뉴 월드컵 | Bronze 2 | [C++](./34xxx/34848. 저녁 메뉴 월드컵/저녁 메뉴 월드컵.cc) |
 | [34849](https://boj.kr/34849) | 이중 반복문 | Bronze 5 | [C++](./34xxx/34849. 이중 반복문/이중 반복문.cc) |
 | [34850](https://boj.kr/34850) | 포도주 상인 | Bronze 1 | [C++](./34xxx/34850. 포도주 상인/포도주 상인.cc) |
+| [34863](https://boj.kr/34863) | Bookshelf | Platinum 4 | [C++](./34xxx/34863. Bookshelf/Bookshelf.cc) |
 | [34871](https://boj.kr/34871) | Segments | Silver 5 | [C++](./34xxx/34871. Segments/Segments.cc) |
 | [34872](https://boj.kr/34872) | Triple Fairness | Bronze 1 | [C++](./34xxx/34872. Triple Fairness/Triple Fairness.cc) |
 | [34873](https://boj.kr/34873) | 사탕 나눠주기 | Bronze 2 | [C++](./34xxx/34873. 사탕 나눠주기/사탕 나눠주기.cc) |
