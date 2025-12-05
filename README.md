@@ -1382,6 +1382,7 @@
 | [07286](https://boj.kr/7286) | Ancient Keyboard | Bronze 2 | [Java](./07xxx/7286. Ancient Keyboard/Ancient Keyboard.java) |
 | [07287](https://boj.kr/7287) | 등록 | Bronze 5 | [C](./07xxx/7287. 등록/등록.c) |
 | [07326](https://boj.kr/7326) | Number Steps | Bronze 1 | [Java](./07xxx/7326. Number Steps/Number Steps.java) |
+| [07347](https://boj.kr/7347) | 플립과 시프트 | Silver 2 | [C++](./07xxx/7347. 플립과 시프트/플립과 시프트.cc) |
 | [07360](https://boj.kr/7360) | Undercut | Bronze 2 | [Java](./07xxx/7360. Undercut/Undercut.java) |
 | [07366](https://boj.kr/7366) | Counting Sheep | Bronze 3 | [Java](./07xxx/7366. Counting Sheep/Counting Sheep.java) |
 | [07420](https://boj.kr/7420) | 맹독 방벽 | Platinum 4 | [C++](./07xxx/7420. 맹독 방벽/맹독 방벽.cc) |
@@ -2541,6 +2542,7 @@
 | [14724](https://boj.kr/14724) | 관리자는 누구? | Bronze 2 | [Java](./14xxx/14724. 관리자는 누구？/관리자는 누구？.java) |
 | [14725](https://boj.kr/14725) | 개미굴 | Gold 3 | [C++](./14xxx/14725. 개미굴/개미굴.cc) |
 | [14726](https://boj.kr/14726) | 신용카드 판별 | Bronze 2 | [Java](./14xxx/14726. 신용카드 판별/신용카드 판별.java) |
+| [14727](https://boj.kr/14727) | 퍼즐 자르기 | Platinum 5 | [C++](./14xxx/14727. 퍼즐 자르기/퍼즐 자르기.cc) |
 | [14728](https://boj.kr/14728) | 벼락치기 | Gold 5 | [C++](./14xxx/14728. 벼락치기/벼락치기.cc) |
 | [14729](https://boj.kr/14729) | 칠무해 | Silver 5 | [Java](./14xxx/14729. 칠무해/칠무해.java) |
 | [14730](https://boj.kr/14730) | 謎紛芥索紀 (Small) | Silver 5 | [Java](./14xxx/14730. 謎紛芥索紀 （Small）/謎紛芥索紀 （Small）.java) |
