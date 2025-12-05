@@ -3532,6 +3532,7 @@
 | [22656](https://boj.kr/22656) | Princess' Gamble | Bronze 2 | [C++](./22xxx/22656. Princess' Gamble/Princess' Gamble.cc) |
 | [22815](https://boj.kr/22815) | Exploring Caves | Bronze 2 | [Python](./22xxx/22815. Exploring Caves/Exploring Caves.py) |
 | [22825](https://boj.kr/22825) | Fermat's Last Theorem | Bronze 2 | [Java](./22xxx/22825. Fermat's Last Theorem/Fermat's Last Theorem.java) |
+| [22846](https://boj.kr/22846) | 인증된 쉬운 게임 | Gold 3 | [C++](./22xxx/22846. 인증된 쉬운 게임/인증된 쉬운 게임.cc) |
 | [22857](https://boj.kr/22857) | 가장 긴 짝수 연속한 부분 수열 (small) | Silver 2 | [C++](./22xxx/22857. 가장 긴 짝수 연속한 부분 수열 （small）/가장 긴 짝수 연속한 부분 수열 （small）.cc) |
 | [22858](https://boj.kr/22858) | 원상 복구 (small) | Silver 3 | [Java](./22xxx/22858. 원상 복구 （small）/원상 복구 （small）.java) |
 | [22859](https://boj.kr/22859) | HTML 파싱 | Gold 3 | [C++](./22xxx/22859. HTML 파싱/HTML 파싱.cc) |
@@ -3869,6 +3870,7 @@
 | [25330](https://boj.kr/25330) | SHOW ME THE DUNGEON | Gold 4 | [C++](./25xxx/25330. SHOW ME THE DUNGEON/SHOW ME THE DUNGEON.cc) |
 | [25335](https://boj.kr/25335) | Gravity Hackenbush | Silver 5 | [Java](./25xxx/25335. Gravity Hackenbush/Gravity Hackenbush.java) |
 | [25339](https://boj.kr/25339) | 반전 수와 쿼리 | Gold 3 | [C++](./25xxx/25339. 반전 수와 쿼리/반전 수와 쿼리.cc) |
+| [25342](https://boj.kr/25342) | 최대 최소공배수 | Gold 3 | [C++](./25xxx/25342. 최대 최소공배수/최대 최소공배수.cc) |
 | [25344](https://boj.kr/25344) | 행성 정렬 | Silver 4 | [C++](./25xxx/25344. 행성 정렬/행성 정렬.cc) |
 | [25367](https://boj.kr/25367) | 너무 시시했다 | Gold 2 | [C++](./25xxx/25367. 너무 시시했다/너무 시시했다.cc) |
 | [25369](https://boj.kr/25369) | 카드 숫자 곱을 최소로 만들기 | Silver 1 | [C++](./25xxx/25369. 카드 숫자 곱을 최소로 만들기/카드 숫자 곱을 최소로 만들기.cc) |
@@ -5146,6 +5148,7 @@
 | [34814](https://boj.kr/34814) | SCSC 동아리방 방문 | Bronze 2 | [C++](./34xxx/34814. SCSC 동아리방 방문/SCSC 동아리방 방문.cc) |
 | [34823](https://boj.kr/34823) | YCPC 점수 | Bronze 4 | [C++](./34xxx/34823. YCPC 점수/YCPC 점수.cc) |
 | [34824](https://boj.kr/34824) | 연대 다음 고대 | Bronze 4 | [C++](./34xxx/34824. 연대 다음 고대/연대 다음 고대.cc) |
+| [34845](https://boj.kr/34845) | 강의평 | Bronze 2 | [C++](./34xxx/34845. 강의평/강의평.cc) |
 | [34848](https://boj.kr/34848) | 저녁 메뉴 월드컵 | Bronze 2 | [C++](./34xxx/34848. 저녁 메뉴 월드컵/저녁 메뉴 월드컵.cc) |
 | [34849](https://boj.kr/34849) | 이중 반복문 | Bronze 5 | [C++](./34xxx/34849. 이중 반복문/이중 반복문.cc) |
 | [34850](https://boj.kr/34850) | 포도주 상인 | Bronze 1 | [C++](./34xxx/34850. 포도주 상인/포도주 상인.cc) |
