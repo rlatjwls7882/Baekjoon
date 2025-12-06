@@ -2448,6 +2448,7 @@
 | [14469](https://boj.kr/14469) | 소가 길을 건너간 이유 3 | Silver 4 | [C++](./14xxx/14469. 소가 길을 건너간 이유 3/소가 길을 건너간 이유 3.cc) |
 | [14470](https://boj.kr/14470) | 전자레인지 | Bronze 4 | [C](./14xxx/14470. 전자레인지/전자레인지.c) |
 | [14471](https://boj.kr/14471) | 포인트 카드 | Bronze 2 | [Java](./14xxx/14471. 포인트 카드/포인트 카드.java) |
+| [14476](https://boj.kr/14476) | 최대공약수 하나 빼기 | Gold 2 | [C++](./14xxx/14476. 최대공약수 하나 빼기/최대공약수 하나 빼기.cc) |
 | [14487](https://boj.kr/14487) | 욱제는 효도쟁이야!! | Bronze 2 | [Java](./14xxx/14487. 욱제는 효도쟁이야！！/욱제는 효도쟁이야！！.java) |
 | [14489](https://boj.kr/14489) | 치킨 두 마리 (...) | Bronze 4 | [C](./14xxx/14489. 치킨 두 마리 （．．．）/치킨 두 마리 （．．．）.c) |
 | [14490](https://boj.kr/14490) | 백대열 | Silver 5 | [Java](./14xxx/14490. 백대열/백대열.java) |
@@ -2848,6 +2849,7 @@
 | [16395](https://boj.kr/16395) | 파스칼의 삼각형 | Silver 5 | [Java](./16xxx/16395. 파스칼의 삼각형/파스칼의 삼각형.java) |
 | [16396](https://boj.kr/16396) | 선 그리기 | Bronze 1 | [C++](./16xxx/16396. 선 그리기/선 그리기.cc) |
 | [16398](https://boj.kr/16398) | 행성 연결 | Gold 4 | [Java](./16xxx/16398. 행성 연결/행성 연결.java) |
+| [16400](https://boj.kr/16400) | 소수 화폐 | Gold 5 | [C++](./16xxx/16400. 소수 화폐/소수 화폐.cc) |
 | [16401](https://boj.kr/16401) | 과자 나눠주기 | Silver 2 | [C++](./16xxx/16401. 과자 나눠주기/과자 나눠주기.cc) |
 | [16402](https://boj.kr/16402) | 제국 | Gold 2 | [Java](./16xxx/16402. 제국/제국.java) |
 | [16406](https://boj.kr/16406) | Exam | Bronze 1 | [Java](./16xxx/16406. Exam/Exam.java) |
@@ -3821,6 +3823,7 @@
 | [24923](https://boj.kr/24923) | Canadians, eh? | Bronze 3 | [Java](./24xxx/24923. Canadians， eh？/Canadians， eh？.java) |
 | [24927](https://boj.kr/24927) | Is It Even? | Bronze 2 | [Java](./24xxx/24927. Is It Even？/Is It Even？.java) |
 | [24937](https://boj.kr/24937) | SciComLove (2022) | Bronze 2 | [Java](./24xxx/24937. SciComLove （2022）/SciComLove （2022）.java) |
+| [24938](https://boj.kr/24938) | 키트 분배하기 | Silver 2 | [C++](./24xxx/24938. 키트 분배하기/키트 분배하기.cc) |
 | [25024](https://boj.kr/25024) | 시간과 날짜 | Bronze 3 | [Java](./25xxx/25024. 시간과 날짜/시간과 날짜.java) |
 | [25044](https://boj.kr/25044) | 에어컨 | Silver 4 | [C++](./25xxx/25044. 에어컨/에어컨.cc) |
 | [25046](https://boj.kr/25046) | 사각형 게임 (Small) | Gold 5 | [C++](./25xxx/25046. 사각형 게임 （Small）/사각형 게임 （Small）.cc) |
