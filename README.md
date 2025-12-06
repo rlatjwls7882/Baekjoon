@@ -5065,6 +5065,7 @@
 | [34308](https://boj.kr/34308) | Abby's Absolutes | Bronze 4 | [C++](./34xxx/34308. Abby's Absolutes/Abby's Absolutes.cc) |
 | [34323](https://boj.kr/34323) | 할인이 필요해 | Bronze 4 | [C++](./34xxx/34323. 할인이 필요해/할인이 필요해.cc) |
 | [34326](https://boj.kr/34326) | How to escape the maze | Silver 2 | [C++](./34xxx/34326. How to escape the maze/How to escape the maze.cc) |
+| [34330](https://boj.kr/34330) | 금오리 🦆 | Gold 3 | [C++](./34xxx/34330. 금오리 🦆/금오리 🦆.cc) |
 | [34346](https://boj.kr/34346) | 대각선 | Bronze 4 | [C++](./34xxx/34346. 대각선/대각선.cc) |
 | [34347](https://boj.kr/34347) | 제곱수 순열$^2$ | Silver 2 | [C++](./34xxx/34347. 제곱수 순열$＾2$/제곱수 순열$＾2$.cc) |
 | [34348](https://boj.kr/34348) | snupc 문자열 (Easy) | Gold 1 | [C++](./34xxx/34348. snupc 문자열 （Easy）/snupc 문자열 （Easy）.cc) |
