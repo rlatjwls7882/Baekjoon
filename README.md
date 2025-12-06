@@ -1899,7 +1899,7 @@
 | [10998](https://boj.kr/10998) | A×B | Bronze 5 | [C](./10xxx/10998. A×B/A×B.c) [C++](./10xxx/10998. A×B/A×B.cc) |
 | [10999](https://boj.kr/10999) | 구간 합 구하기 2 | Platinum 4 | [C++](./10xxx/10999. 구간 합 구하기 2/구간 합 구하기 2.cc) |
 | [11000](https://boj.kr/11000) | 강의실 배정 | Gold 4 | [Java](./11xxx/11000. 강의실 배정/강의실 배정.java) |
-| [11003](https://boj.kr/11003) | 최솟값 찾기 | Platinum 5 | [C++](./11xxx/11003. 최솟값 찾기/최솟값 찾기.cc) |
+| [11003](https://boj.kr/11003) | 최솟값 찾기 | Gold 1 | [C++](./11xxx/11003. 최솟값 찾기/최솟값 찾기.cc) |
 | [11004](https://boj.kr/11004) | K번째 수 | Silver 5 | [Java](./11xxx/11004. K번째 수/K번째 수.java) |
 | [11005](https://boj.kr/11005) | 진법 변환 2 | Bronze 1 | [Java](./11xxx/11005. 진법 변환 2/진법 변환 2.java) |
 | [11006](https://boj.kr/11006) | 남욱이의 닭장 | Bronze 3 | [Java](./11xxx/11006. 남욱이의 닭장/남욱이의 닭장.java) |
@@ -2366,6 +2366,7 @@
 | [13866](https://boj.kr/13866) | 팀 나누기 | Bronze 4 | [C](./13xxx/13866. 팀 나누기/팀 나누기.c) |
 | [13871](https://boj.kr/13871) | Farm robot | Bronze 3 | [Java](./13xxx/13871. Farm robot/Farm robot.java) |
 | [13877](https://boj.kr/13877) | 이건 무슨 진법이지? | Bronze 2 | [Java](./13xxx/13877. 이건 무슨 진법이지？/이건 무슨 진법이지？.java) |
+| [13884](https://boj.kr/13884) | 삭삽 정렬 | Gold 5 | [C++](./13xxx/13884. 삭삽 정렬/삭삽 정렬.cc) |
 | [13900](https://boj.kr/13900) | 순서쌍의 곱의 합 | Silver 4 | [Java](./13xxx/13900. 순서쌍의 곱의 합/순서쌍의 곱의 합.java) |
 | [13901](https://boj.kr/13901) | 로봇 | Silver 1 | [C++](./13xxx/13901. 로봇/로봇.cc) |
 | [13903](https://boj.kr/13903) | 출근 | Silver 1 | [C++](./13xxx/13903. 출근/출근.cc) |
@@ -3131,6 +3132,7 @@
 | [17930](https://boj.kr/17930) | Hanging Out on the Terrace | Bronze 2 | [Java](./17xxx/17930. Hanging Out on the Terrace/Hanging Out on the Terrace.java) |
 | [17931](https://boj.kr/17931) | Greedily Increasing Subsequence | Bronze 2 | [C++](./17xxx/17931. Greedily Increasing Subsequence/Greedily Increasing Subsequence.cc) |
 | [17939](https://boj.kr/17939) | Gazzzua | Silver 1 | [C++](./17xxx/17939. Gazzzua/Gazzzua.cc) |
+| [17943](https://boj.kr/17943) | 도미노 예측 | Gold 4 | [C++](./17xxx/17943. 도미노 예측/도미노 예측.cc) |
 | [17944](https://boj.kr/17944) | 퐁당퐁당 1 | Bronze 3 | [Java](./17xxx/17944. 퐁당퐁당 1/퐁당퐁당 1.java) |
 | [17945](https://boj.kr/17945) | 통학의 신 | Bronze 3 | [Java](./17xxx/17945. 통학의 신/통학의 신.java) |
 | [17946](https://boj.kr/17946) | 피자는 나눌 수록 커지잖아요 | Bronze 2 | [Java](./17xxx/17946. 피자는 나눌 수록 커지잖아요/피자는 나눌 수록 커지잖아요.java) |
@@ -4169,6 +4171,7 @@
 | [27370](https://boj.kr/27370) | 친구와 배달하기 | Silver 3 | [C++](./27xxx/27370. 친구와 배달하기/친구와 배달하기.cc) |
 | [27372](https://boj.kr/27372) | 미니 빙고 | Gold 4 | [Python](./27xxx/27372. 미니 빙고/미니 빙고.py) |
 | [27375](https://boj.kr/27375) | 금공강 사수 | Silver 1 | [C++](./27xxx/27375. 금공강 사수/금공강 사수.cc) |
+| [27377](https://boj.kr/27377) | 읽씹 멈춰! | Gold 3 | [C++](./27xxx/27377. 읽씹 멈춰！/읽씹 멈춰！.cc) |
 | [27384](https://boj.kr/27384) | Beast Bullies | Gold 1 | [C++](./27xxx/27384. Beast Bullies/Beast Bullies.cc) |
 | [27386](https://boj.kr/27386) | Class Field Trip | Bronze 2 | [Java](./27xxx/27386. Class Field Trip/Class Field Trip.java) |
 | [27389](https://boj.kr/27389) | Metronome | Bronze 5 | [Java](./27xxx/27389. Metronome/Metronome.java) |
