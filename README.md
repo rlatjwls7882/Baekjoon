@@ -2332,6 +2332,7 @@
 | [13549](https://boj.kr/13549) | 숨바꼭질 3 | Gold 5 | [Java](./13xxx/13549. 숨바꼭질 3/숨바꼭질 3.java) |
 | [13550](https://boj.kr/13550) | 수열과 쿼리 7 | Diamond 4 | [C++](./13xxx/13550. 수열과 쿼리 7/수열과 쿼리 7.cc) |
 | [13552](https://boj.kr/13552) | 구와 쿼리 | Bronze 1 | [C++](./13xxx/13552. 구와 쿼리/구와 쿼리.cc) |
+| [13553](https://boj.kr/13553) | 수열과 쿼리 8 | Platinum 1 | [C++](./13xxx/13553. 수열과 쿼리 8/수열과 쿼리 8.cc) |
 | [13565](https://boj.kr/13565) | 침투 | Silver 2 | [C++](./13xxx/13565. 침투/침투.cc) |
 | [13567](https://boj.kr/13567) | 로봇 | Silver 4 | [C++](./13xxx/13567. 로봇/로봇.cc) |
 | [13580](https://boj.kr/13580) | Andando no tempo | Bronze 4 | [Java](./13xxx/13580. Andando no tempo/Andando no tempo.java) |
@@ -3007,6 +3008,7 @@
 | [17175](https://boj.kr/17175) | 피보나치는 지겨웡~ | Silver 3 | [C++](./17xxx/17175. 피보나치는 지겨웡～/피보나치는 지겨웡～.cc) |
 | [17176](https://boj.kr/17176) | 암호해독기 | Bronze 1 | [Java](./17xxx/17176. 암호해독기/암호해독기.java) |
 | [17177](https://boj.kr/17177) | 내접사각형 만들기 | Bronze 1 | [C++](./17xxx/17177. 내접사각형 만들기/내접사각형 만들기.cc) |
+| [17179](https://boj.kr/17179) | 케이크 자르기 | Gold 4 | [C++](./17xxx/17179. 케이크 자르기/케이크 자르기.cc) |
 | [17201](https://boj.kr/17201) | 자석 체인 | Bronze 3 | [Java](./17xxx/17201. 자석 체인/자석 체인.java) |
 | [17202](https://boj.kr/17202) | 핸드폰 번호 궁합 | Bronze 1 | [Java](./17xxx/17202. 핸드폰 번호 궁합/핸드폰 번호 궁합.java) |
 | [17204](https://boj.kr/17204) | 죽음의 게임 | Silver 3 | [C++](./17xxx/17204. 죽음의 게임/죽음의 게임.cc) |
@@ -5162,7 +5164,7 @@
 | [34849](https://boj.kr/34849) | 이중 반복문 | Bronze 5 | [C++](./34xxx/34849. 이중 반복문/이중 반복문.cc) |
 | [34850](https://boj.kr/34850) | 포도주 상인 | Bronze 1 | [C++](./34xxx/34850. 포도주 상인/포도주 상인.cc) |
 | [34863](https://boj.kr/34863) | Bookshelf | Platinum 4 | [C++](./34xxx/34863. Bookshelf/Bookshelf.cc) |
-| [34871](https://boj.kr/34871) | Segments | Silver 5 | [C++](./34xxx/34871. Segments/Segments.cc) |
+| [34871](https://boj.kr/34871) | Segments | Silver 4 | [C++](./34xxx/34871. Segments/Segments.cc) |
 | [34872](https://boj.kr/34872) | Triple Fairness | Bronze 1 | [C++](./34xxx/34872. Triple Fairness/Triple Fairness.cc) |
 | [34873](https://boj.kr/34873) | 사탕 나눠주기 | Bronze 2 | [C++](./34xxx/34873. 사탕 나눠주기/사탕 나눠주기.cc) |
 | [34891](https://boj.kr/34891) | MT 준비 | Bronze 4 | [C++](./34xxx/34891. MT 준비/MT 준비.cc) |
