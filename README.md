@@ -3701,7 +3701,7 @@
 | [24091](https://boj.kr/24091) | 알고리즘 수업 - 퀵 정렬 2 | Silver 5 | [Java](./24xxx/24091. 알고리즘 수업 － 퀵 정렬 2/알고리즘 수업 － 퀵 정렬 2.java) |
 | [24116](https://boj.kr/24116) | 本選会場 (Finals) | Gold 2 | [Java](./24xxx/24116. 本選会場 （Finals）/本選会場 （Finals）.java) |
 | [24123](https://boj.kr/24123) | コンテスト (Contest) | Silver 4 | [C++](./24xxx/24123. コンテスト （Contest）/コンテスト （Contest）.cc) |
-| [24137](https://boj.kr/24137) | 塗り箸 (Chopsticks) | Platinum 1 | [C++](./24xxx/24137. 塗り箸 （Chopsticks）/塗り箸 （Chopsticks）.cc) |
+| [24137](https://boj.kr/24137) | 塗り箸 (Chopsticks) | Platinum 2 | [C++](./24xxx/24137. 塗り箸 （Chopsticks）/塗り箸 （Chopsticks）.cc) |
 | [24183](https://boj.kr/24183) | Affischutskicket | Bronze 4 | [Java](./24xxx/24183. Affischutskicket/Affischutskicket.java) |
 | [24196](https://boj.kr/24196) | Gömda ord | Bronze 4 | [Java](./24xxx/24196. Gömda ord/Gömda ord.java) |
 | [24197](https://boj.kr/24197) | Tabbtabbande | Bronze 2 | [Python](./24xxx/24197. Tabbtabbande/Tabbtabbande.py) |
@@ -4304,6 +4304,7 @@
 | [28339](https://boj.kr/28339) | 이상한 드래프트 | Gold 3 | [C++](./28xxx/28339. 이상한 드래프트/이상한 드래프트.cc) |
 | [28352](https://boj.kr/28352) | 10! | Bronze 4 | [Java](./28xxx/28352. 10！/10！.java) |
 | [28353](https://boj.kr/28353) | 고양이 카페 | Silver 3 | [C++](./28xxx/28353. 고양이 카페/고양이 카페.cc) |
+| [28360](https://boj.kr/28360) | 양동이 게임 | Silver 1 | [C++](./28xxx/28360. 양동이 게임/양동이 게임.cc) |
 | [28361](https://boj.kr/28361) | 크리스마스 | Gold 4 | [C++](./28xxx/28361. 크리스마스/크리스마스.cc) |
 | [28373](https://boj.kr/28373) | Eszett | Bronze 2 | [C++](./28xxx/28373. Eszett/Eszett.cc) |
 | [28417](https://boj.kr/28417) | 스케이트보드 | Bronze 3 | [Java](./28xxx/28417. 스케이트보드/스케이트보드.java) |
@@ -5164,4 +5165,5 @@
 | [34871](https://boj.kr/34871) | Segments | Silver 5 | [C++](./34xxx/34871. Segments/Segments.cc) |
 | [34872](https://boj.kr/34872) | Triple Fairness | Bronze 1 | [C++](./34xxx/34872. Triple Fairness/Triple Fairness.cc) |
 | [34873](https://boj.kr/34873) | 사탕 나눠주기 | Bronze 2 | [C++](./34xxx/34873. 사탕 나눠주기/사탕 나눠주기.cc) |
+| [34891](https://boj.kr/34891) | MT 준비 | Bronze 5 | [C++](./34xxx/34891. MT 준비/MT 준비.cc) |
 </div>
