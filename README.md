@@ -347,7 +347,7 @@
 | [01835](https://boj.kr/1835) | 카드 | Silver 4 | [Java](./01xxx/1835. 카드/카드.java) |
 | [01837](https://boj.kr/1837) | 암호제작 | Bronze 3 | [Java](./01xxx/1837. 암호제작/암호제작.java) |
 | [01846](https://boj.kr/1846) | 장기 | Gold 4 | [C++](./01xxx/1846. 장기/장기.cc) |
-| [01849](https://boj.kr/1849) | 순열 | Platinum 4 | |
+| [01849](https://boj.kr/1849) | 순열 | Platinum 4 | [C++](./01xxx/1849. 순열/순열.cc) |
 | [01850](https://boj.kr/1850) | 최대공약수 | Silver 1 | [Java](./01xxx/1850. 최대공약수/최대공약수.java) |
 | [01855](https://boj.kr/1855) | 암호 | Bronze 1 | [Java](./01xxx/1855. 암호/암호.java) |
 | [01863](https://boj.kr/1863) | 스카이라인 쉬운거 | Gold 4 | [C++](./01xxx/1863. 스카이라인 쉬운거/스카이라인 쉬운거.cc) |
@@ -895,6 +895,7 @@
 | [03640](https://boj.kr/3640) | 제독 | Platinum 2 | [C++](./03xxx/3640. 제독/제독.cc) |
 | [03648](https://boj.kr/3648) | 아이돌 | Platinum 3 | [C++](./03xxx/3648. 아이돌/아이돌.cc) |
 | [03649](https://boj.kr/3649) | 로봇 프로젝트 | Gold 5 | [C++](./03xxx/3649. 로봇 프로젝트/로봇 프로젝트.cc) |
+| [03653](https://boj.kr/3653) | 영화 수집 | Platinum 4 | [C++](./03xxx/3653. 영화 수집/영화 수집.cc) |
 | [03665](https://boj.kr/3665) | 최종 순위 | Gold 1 | [C++](./03xxx/3665. 최종 순위/최종 순위.cc) |
 | [03679](https://boj.kr/3679) | 단순 다각형 | Platinum 4 | [C++](./03xxx/3679. 단순 다각형/단순 다각형.cc) |
 | [03683](https://boj.kr/3683) | 고양이와 개 | Platinum 2 | [C++](./03xxx/3683. 고양이와 개/고양이와 개.cc) |
@@ -5170,4 +5171,5 @@
 | [34872](https://boj.kr/34872) | Triple Fairness | Bronze 1 | [C++](./34xxx/34872. Triple Fairness/Triple Fairness.cc) |
 | [34873](https://boj.kr/34873) | 사탕 나눠주기 | Bronze 2 | [C++](./34xxx/34873. 사탕 나눠주기/사탕 나눠주기.cc) |
 | [34891](https://boj.kr/34891) | MT 준비 | Bronze 4 | [C++](./34xxx/34891. MT 준비/MT 준비.cc) |
+| [34892](https://boj.kr/34892) | 헌혈 대전 | Bronze 1 | [C++](./34xxx/34892. 헌혈 대전/헌혈 대전.cc) |
 </div>
