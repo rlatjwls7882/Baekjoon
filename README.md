@@ -321,6 +321,7 @@
 | [01769](https://boj.kr/1769) | 3의 배수 | Silver 5 | [Java](./01xxx/1769. 3의 배수/3의 배수.java) |
 | [01773](https://boj.kr/1773) | 폭죽쇼 | Bronze 2 | [Java](./01xxx/1773. 폭죽쇼/폭죽쇼.java) |
 | [01774](https://boj.kr/1774) | 우주신과의 교감 | Gold 3 | [Java](./01xxx/1774. 우주신과의 교감/우주신과의 교감.java) |
+| [01777](https://boj.kr/1777) | 순열복원 | Platinum 5 | [C++](./01xxx/1777. 순열복원/순열복원.cc) |
 | [01778](https://boj.kr/1778) | Ubiquitous Religions | Silver 1 | [C++](./01xxx/1778. Ubiquitous Religions/Ubiquitous Religions.cc) |
 | [01780](https://boj.kr/1780) | 종이의 개수 | Silver 2 | [Java](./01xxx/1780. 종이의 개수/종이의 개수.java) |
 | [01781](https://boj.kr/1781) | 컵라면 | Gold 2 | [C++](./01xxx/1781. 컵라면/컵라면.cc) |
@@ -346,6 +347,7 @@
 | [01835](https://boj.kr/1835) | 카드 | Silver 4 | [Java](./01xxx/1835. 카드/카드.java) |
 | [01837](https://boj.kr/1837) | 암호제작 | Bronze 3 | [Java](./01xxx/1837. 암호제작/암호제작.java) |
 | [01846](https://boj.kr/1846) | 장기 | Gold 4 | [C++](./01xxx/1846. 장기/장기.cc) |
+| [01849](https://boj.kr/1849) | 순열 | Platinum 4 | |
 | [01850](https://boj.kr/1850) | 최대공약수 | Silver 1 | [Java](./01xxx/1850. 최대공약수/최대공약수.java) |
 | [01855](https://boj.kr/1855) | 암호 | Bronze 1 | [Java](./01xxx/1855. 암호/암호.java) |
 | [01863](https://boj.kr/1863) | 스카이라인 쉬운거 | Gold 4 | [C++](./01xxx/1863. 스카이라인 쉬운거/스카이라인 쉬운거.cc) |
