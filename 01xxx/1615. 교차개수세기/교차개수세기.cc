@@ -1,7 +1,7 @@
 #include<bits/stdc++.h>
 using namespace std;
 
-const int MAX = 2002;
+const int MAX = 2001;
 
 int arr[MAX];
 
