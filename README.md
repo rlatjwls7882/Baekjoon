@@ -256,6 +256,7 @@
 | [01598](https://boj.kr/1598) | 꼬리를 무는 숫자 나열 | Bronze 3 | [Java](./01xxx/1598. 꼬리를 무는 숫자 나열/꼬리를 무는 숫자 나열.java) |
 | [01600](https://boj.kr/1600) | 말이 되고픈 원숭이 | Gold 3 | [C++](./01xxx/1600. 말이 되고픈 원숭이/말이 되고픈 원숭이.cc) |
 | [01614](https://boj.kr/1614) | 영식이의 손가락 | Silver 3 | [C++](./01xxx/1614. 영식이의 손가락/영식이의 손가락.cc) |
+| [01615](https://boj.kr/1615) | 교차개수세기 | Platinum 5 | [C++](./01xxx/1615. 교차개수세기/교차개수세기.cc) |
 | [01620](https://boj.kr/1620) | 나는야 포켓몬 마스터 이다솜 | Silver 4 | [Java](./01xxx/1620. 나는야 포켓몬 마스터 이다솜/나는야 포켓몬 마스터 이다솜.java) |
 | [01629](https://boj.kr/1629) | 곱셈 | Silver 1 | [C++](./01xxx/1629. 곱셈/곱셈.cc) [Java](./01xxx/1629. 곱셈/곱셈.java) |
 | [01631](https://boj.kr/1631) | 오영식의 보물 | Gold 3 | [C++](./01xxx/1631. 오영식의 보물/오영식의 보물.cc) |
@@ -906,6 +907,7 @@
 | [03747](https://boj.kr/3747) | 완벽한 선거! | Platinum 4 | [C++](./03xxx/3747. 완벽한 선거！/완벽한 선거！.cc) |
 | [03758](https://boj.kr/3758) | KCPC | Silver 2 | [C++](./03xxx/3758. KCPC/KCPC.cc) |
 | [03765](https://boj.kr/3765) | Celebrity jeopardy | Bronze 4 | [Java](./03xxx/3765. Celebrity jeopardy/Celebrity jeopardy.java) |
+| [03770](https://boj.kr/3770) | 대한민국 | Platinum 5 | [C++](./03xxx/3770. 대한민국/대한민국.cc) |
 | [03778](https://boj.kr/3778) | 애너그램 거리 | Bronze 2 | [Java](./03xxx/3778. 애너그램 거리/애너그램 거리.java) |
 | [03783](https://boj.kr/3783) | 세제곱근 | Gold 1 | [Java](./03xxx/3783. 세제곱근/세제곱근.java) |
 | [03787](https://boj.kr/3787) | Count on Canton | Silver 5 | [Java](./03xxx/3787. Count on Canton/Count on Canton.java) |
