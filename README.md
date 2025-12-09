@@ -10,7 +10,7 @@
 | No. | Title | Difficulty | Solution |
 |:---|:---|:----:|:---:|
 | [01000](https://boj.kr/1000) | A+B | Bronze 5 | [C++](./01xxx/1000. A＋B/A＋B.cc) [Golfscript](./01xxx/1000. A＋B/A＋B.gs) [Java](./01xxx/1000. A＋B/A＋B.java) [Python](./01xxx/1000. A＋B/A＋B.py) |
-| [01001](https://boj.kr/1001) | A-B | Bronze 5 | [C++](./01xxx/1001. A－B/A－B.cc) [Java](./01xxx/1001. A－B/A－B.java) |
+| [01001](https://boj.kr/1001) | A-B | Bronze 5 | [C++](./01xxx/1001. A－B/A－B.cc) [Golfscript](./01xxx/1001. A－B/A－B.gs) [Java](./01xxx/1001. A－B/A－B.java) |
 | [01002](https://boj.kr/1002) | 터렛 | Silver 3 | [C++](./01xxx/1002. 터렛/터렛.cc) |
 | [01003](https://boj.kr/1003) | 피보나치 함수 | Silver 3 | [Java](./01xxx/1003. 피보나치 함수/피보나치 함수.java) |
 | [01004](https://boj.kr/1004) | 어린 왕자 | Silver 3 | [C++](./01xxx/1004. 어린 왕자/어린 왕자.cc) |
@@ -1035,6 +1035,7 @@
 | [04806](https://boj.kr/4806) | 줄 세기 | Bronze 3 | [Java](./04xxx/4806. 줄 세기/줄 세기.java) |
 | [04807](https://boj.kr/4807) | Iterated Difference | Bronze 2 | [Java](./04xxx/4807. Iterated Difference/Iterated Difference.java) |
 | [04811](https://boj.kr/4811) | 알약 | Gold 5 | [C++](./04xxx/4811. 알약/알약.cc) |
+| [04839](https://boj.kr/4839) | 소진법 | Silver 3 | [C++](./04xxx/4839. 소진법/소진법.cc) |
 | [04841](https://boj.kr/4841) | Look and Say | Bronze 2 | [Java](./04xxx/4841. Look and Say/Look and Say.java) |
 | [04850](https://boj.kr/4850) | Baskets of Gold Coins | Bronze 2 | [Java](./04xxx/4850. Baskets of Gold Coins/Baskets of Gold Coins.java) |
 | [04864](https://boj.kr/4864) | Gold Coins | Bronze 2 | [Java](./04xxx/4864. Gold Coins/Gold Coins.java) |
@@ -1094,6 +1095,7 @@
 | [05211](https://boj.kr/5211) | 가단조와 다장조 | Bronze 2 | [C++](./05xxx/5211. 가단조와 다장조/가단조와 다장조.cc) |
 | [05212](https://boj.kr/5212) | 지구 온난화 | Silver 2 | [C++](./05xxx/5212. 지구 온난화/지구 온난화.cc) |
 | [05213](https://boj.kr/5213) | 과외맨 | Gold 2 | [C++](./05xxx/5213. 과외맨/과외맨.cc) |
+| [05214](https://boj.kr/5214) | 환승 | Gold 2 | [C++](./05xxx/5214. 환승/환승.cc) |
 | [05217](https://boj.kr/5217) | 쌍의 합 | Bronze 3 | [Java](./05xxx/5217. 쌍의 합/쌍의 합.java) |
 | [05218](https://boj.kr/5218) | 알파벳 거리 | Bronze 2 | [Java](./05xxx/5218. 알파벳 거리/알파벳 거리.java) |
 | [05220](https://boj.kr/5220) | Error Detection | Bronze 3 | [Java](./05xxx/5220. Error Detection/Error Detection.java) |
@@ -1899,7 +1901,7 @@
 | [10995](https://boj.kr/10995) | 별 찍기 - 20 | Bronze 3 | [Java](./10xxx/10995. 별 찍기 － 20/별 찍기 － 20.java) |
 | [10996](https://boj.kr/10996) | 별 찍기 - 21 | Bronze 2 | [Java](./10xxx/10996. 별 찍기 － 21/별 찍기 － 21.java) |
 | [10997](https://boj.kr/10997) | 별 찍기 - 22 | Silver 2 | [Java](./10xxx/10997. 별 찍기 － 22/별 찍기 － 22.java) |
-| [10998](https://boj.kr/10998) | A×B | Bronze 5 | [C](./10xxx/10998. A×B/A×B.c) [C++](./10xxx/10998. A×B/A×B.cc) |
+| [10998](https://boj.kr/10998) | A×B | Bronze 5 | [C](./10xxx/10998. A×B/A×B.c) [C++](./10xxx/10998. A×B/A×B.cc) [Golfscript](./10xxx/10998. A×B/A×B.gs) |
 | [10999](https://boj.kr/10999) | 구간 합 구하기 2 | Platinum 4 | [C++](./10xxx/10999. 구간 합 구하기 2/구간 합 구하기 2.cc) |
 | [11000](https://boj.kr/11000) | 강의실 배정 | Gold 4 | [Java](./11xxx/11000. 강의실 배정/강의실 배정.java) |
 | [11003](https://boj.kr/11003) | 최솟값 찾기 | Gold 1 | [C++](./11xxx/11003. 최솟값 찾기/최솟값 찾기.cc) |
@@ -4918,6 +4920,7 @@
 | [32932](https://boj.kr/32932) | 드론 조작 | Bronze 1 | [C++](./32xxx/32932. 드론 조작/드론 조작.cc) |
 | [32941](https://boj.kr/32941) | 왜 맘대로 예약하냐고 | Bronze 4 | [C++](./32xxx/32941. 왜 맘대로 예약하냐고/왜 맘대로 예약하냐고.cc) |
 | [32942](https://boj.kr/32942) | 그래프와 그래프 | Silver 5 | [C++](./32xxx/32942. 그래프와 그래프/그래프와 그래프.cc) |
+| [32944](https://boj.kr/32944) | 잘못된 LIS 알고리즘 | Silver 1 | [C++](./32xxx/32944. 잘못된 LIS 알고리즘/잘못된 LIS 알고리즘.cc) |
 | [32951](https://boj.kr/32951) | AI 선도대학 | Bronze 5 | [C++](./32xxx/32951. AI 선도대학/AI 선도대학.cc) |
 | [32952](https://boj.kr/32952) | 비트코인 반감기 | Bronze 2 | [C++](./32xxx/32952. 비트코인 반감기/비트코인 반감기.cc) |
 | [32953](https://boj.kr/32953) | 회상 | Bronze 1 | [C++](./32xxx/32953. 회상/회상.cc) |
@@ -5069,6 +5072,7 @@
 | [34248](https://boj.kr/34248) | 레몬 게임 | Silver 5 | [C++](./34xxx/34248. 레몬 게임/레몬 게임.cc) |
 | [34281](https://boj.kr/34281) | Class Photo | Bronze 5 | [C++](./34xxx/34281. Class Photo/Class Photo.cc) |
 | [34282](https://boj.kr/34282) | Fair Grading | Bronze 3 | [C++](./34xxx/34282. Fair Grading/Fair Grading.cc) |
+| [34288](https://boj.kr/34288) | Hill Climb Racing | Bronze 3 | [C++](./34xxx/34288. Hill Climb Racing/Hill Climb Racing.cc) |
 | [34297](https://boj.kr/34297) | Parking Pandemonium | Bronze 5 | [C++](./34xxx/34297. Parking Pandemonium/Parking Pandemonium.cc) |
 | [34301](https://boj.kr/34301) | Exact Change | Bronze 2 | [C++](./34xxx/34301. Exact Change/Exact Change.cc) |
 | [34306](https://boj.kr/34306) | M-Climb Road | Bronze 4 | [C++](./34xxx/34306. M－Climb Road/M－Climb Road.cc) |
