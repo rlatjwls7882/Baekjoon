@@ -5101,6 +5101,7 @@
 | [34446](https://boj.kr/34446) | E-Days Ore Cart Pull | Bronze 5 | [C++](./34xxx/34446. E－Days Ore Cart Pull/E－Days Ore Cart Pull.cc) |
 | [34447](https://boj.kr/34447) | Bad Directions | Bronze 3 | [C++](./34xxx/34447. Bad Directions/Bad Directions.cc) |
 | [34449](https://boj.kr/34449) | King Arthur's Round Table | Bronze 4 | [C++](./34xxx/34449. King Arthur's Round Table/King Arthur's Round Table.cc) |
+| [34450](https://boj.kr/34450) | Partial Transmission | Bronze 3 | [C++](./34xxx/34450. Partial Transmission/Partial Transmission.cc) |
 | [34454](https://boj.kr/34454) | Roller Coaster Ride | Bronze 5 | [C++](./34xxx/34454. Roller Coaster Ride/Roller Coaster Ride.cc) |
 | [34455](https://boj.kr/34455) | Donut Shop | Bronze 4 | [C++](./34xxx/34455. Donut Shop/Donut Shop.cc) |
 | [34459](https://boj.kr/34459) | MIT Time | Bronze 3 | [C++](./34xxx/34459. MIT Time/MIT Time.cc) |
