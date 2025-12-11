@@ -5177,7 +5177,7 @@
 | [34849](https://boj.kr/34849) | 이중 반복문 | Bronze 5 | [C++](./34xxx/34849. 이중 반복문/이중 반복문.cc) |
 | [34850](https://boj.kr/34850) | 포도주 상인 | Bronze 1 | [C++](./34xxx/34850. 포도주 상인/포도주 상인.cc) |
 | [34863](https://boj.kr/34863) | Bookshelf | Platinum 4 | [C++](./34xxx/34863. Bookshelf/Bookshelf.cc) |
-| [34871](https://boj.kr/34871) | Segments | Silver 4 | [C++](./34xxx/34871. Segments/Segments.cc) |
+| [34871](https://boj.kr/34871) | Segments | Silver 5 | [C++](./34xxx/34871. Segments/Segments.cc) |
 | [34872](https://boj.kr/34872) | Triple Fairness | Bronze 1 | [C++](./34xxx/34872. Triple Fairness/Triple Fairness.cc) |
 | [34873](https://boj.kr/34873) | 사탕 나눠주기 | Bronze 2 | [C++](./34xxx/34873. 사탕 나눠주기/사탕 나눠주기.cc) |
 | [34891](https://boj.kr/34891) | MT 준비 | Bronze 4 | [C++](./34xxx/34891. MT 준비/MT 준비.cc) |
