@@ -1920,6 +1920,7 @@
 | [11022](https://boj.kr/11022) | A+B - 8 | Bronze 5 | [C](./11xxx/11022. A＋B － 8/A＋B － 8.c) |
 | [11023](https://boj.kr/11023) | 더하기 3 | Bronze 3 | [Java](./11xxx/11023. 더하기 3/더하기 3.java) |
 | [11024](https://boj.kr/11024) | 더하기 4 | Bronze 3 | [Java](./11xxx/11024. 더하기 4/더하기 4.java) |
+| [11025](https://boj.kr/11025) | 요세푸스 문제 3 | Platinum 5 | [C++](./11xxx/11025. 요세푸스 문제 3/요세푸스 문제 3.cc) |
 | [11034](https://boj.kr/11034) | 캥거루 세마리2 | Bronze 3 | [Java](./11xxx/11034. 캥거루 세마리2/캥거루 세마리2.java) |
 | [11037](https://boj.kr/11037) | 중복 없는 수 | Gold 4 | [C++](./11xxx/11037. 중복 없는 수/중복 없는 수.cc) |
 | [11047](https://boj.kr/11047) | 동전 0 | Silver 4 | [Java](./11xxx/11047. 동전 0/동전 0.java) |
