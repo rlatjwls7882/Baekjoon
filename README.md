@@ -2342,6 +2342,7 @@
 | [13550](https://boj.kr/13550) | 수열과 쿼리 7 | Diamond 4 | [C++](./13xxx/13550. 수열과 쿼리 7/수열과 쿼리 7.cc) |
 | [13552](https://boj.kr/13552) | 구와 쿼리 | Bronze 1 | [C++](./13xxx/13552. 구와 쿼리/구와 쿼리.cc) |
 | [13553](https://boj.kr/13553) | 수열과 쿼리 8 | Platinum 1 | [C++](./13xxx/13553. 수열과 쿼리 8/수열과 쿼리 8.cc) |
+| [13555](https://boj.kr/13555) | 증가하는 부분 수열 | Platinum 4 | [C++](./13xxx/13555. 증가하는 부분 수열/증가하는 부분 수열.cc) |
 | [13565](https://boj.kr/13565) | 침투 | Silver 2 | [C++](./13xxx/13565. 침투/침투.cc) |
 | [13567](https://boj.kr/13567) | 로봇 | Silver 4 | [C++](./13xxx/13567. 로봇/로봇.cc) |
 | [13580](https://boj.kr/13580) | Andando no tempo | Bronze 4 | [Java](./13xxx/13580. Andando no tempo/Andando no tempo.java) |
