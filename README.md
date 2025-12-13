@@ -3782,6 +3782,7 @@
 | [24484](https://boj.kr/24484) | 알고리즘 수업 - 깊이 우선 탐색 6 | Silver 2 | [Java](./24xxx/24484. 알고리즘 수업 － 깊이 우선 탐색 6/알고리즘 수업 － 깊이 우선 탐색 6.java) |
 | [24499](https://boj.kr/24499) | blobyum | Silver 4 | [C++](./24xxx/24499. blobyum/blobyum.cc) |
 | [24500](https://boj.kr/24500) | blobblush | Silver 2 | [C++](./24xxx/24500. blobblush/blobblush.cc) |
+| [24505](https://boj.kr/24505) | blobhyperthink | Platinum 4 | [C++](./24xxx/24505. blobhyperthink/blobhyperthink.cc) |
 | [24508](https://boj.kr/24508) | 나도리팡 | Gold 5 | [C++](./24xxx/24508. 나도리팡/나도리팡.cc) |
 | [24509](https://boj.kr/24509) | 상품의 주인은? | Silver 5 | [C++](./24xxx/24509. 상품의 주인은？/상품의 주인은？.cc) |
 | [24510](https://boj.kr/24510) | 시간복잡도를 배운 도도 | Bronze 2 | [Java](./24xxx/24510. 시간복잡도를 배운 도도/시간복잡도를 배운 도도.java) |
