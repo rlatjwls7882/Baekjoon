@@ -3,7 +3,7 @@ using namespace std;
 
 typedef long long ll;
 
-ll a[100'002], preSum[100'002];
+ll a[100'001], preSum[100'001];
 
 int main() {
     cin.tie(0)->sync_with_stdio(0);
