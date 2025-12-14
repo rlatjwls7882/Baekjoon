@@ -12,7 +12,6 @@ int main() {
         cin >> a[i];
         preSum[i] = preSum[i-1]+a[i];
     }
-    preSum[n+1]=preSum[n];
 
     ll res=0;
     vector<int> stk; stk.push_back(0);
