@@ -617,7 +617,7 @@
 | [02548](https://boj.kr/2548) | 대표 자연수 | Silver 3 | [C++](./02xxx/2548. 대표 자연수/대표 자연수.cc) |
 | [02553](https://boj.kr/2553) | 마지막 팩토리얼 수 | Silver 2 | [Java](./02xxx/2553. 마지막 팩토리얼 수/마지막 팩토리얼 수.java) |
 | [02556](https://boj.kr/2556) | 별 찍기 - 14 | Unrated | [Java](./02xxx/2556. 별 찍기 － 14/별 찍기 － 14.java) |
-| [02557](https://boj.kr/2557) | Hello World | Bronze 5 | [C](./02xxx/2557. Hello World/Hello World.c) [C++](./02xxx/2557. Hello World/Hello World.cc) [Java](./02xxx/2557. Hello World/Hello World.java) [Python](./02xxx/2557. Hello World/Hello World.py) [Text](./02xxx/2557. Hello World/Hello World.txt) |
+| [02557](https://boj.kr/2557) | Hello World | Bronze 5 | [C](./02xxx/2557. Hello World/Hello World.c) [C++](./02xxx/2557. Hello World/Hello World.cc) [Java](./02xxx/2557. Hello World/Hello World.java) [Python](./02xxx/2557. Hello World/Hello World.py) [Swift](./02xxx/2557. Hello World/Hello World.swift) [Text](./02xxx/2557. Hello World/Hello World.txt) |
 | [02558](https://boj.kr/2558) | A+B - 2 | Bronze 5 | [C](./02xxx/2558. A＋B － 2/A＋B － 2.c) |
 | [02559](https://boj.kr/2559) | 수열 | Silver 3 | [Java](./02xxx/2559. 수열/수열.java) |
 | [02562](https://boj.kr/2562) | 최댓값 | Bronze 3 | [C](./02xxx/2562. 최댓값/최댓값.c) |
@@ -4582,7 +4582,7 @@
 | [30664](https://boj.kr/30664) | Loteria Falha | Bronze 5 | [Java](./30xxx/30664. Loteria Falha/Loteria Falha.java) |
 | [30676](https://boj.kr/30676) | 이 별은 무슨 색일까 | Bronze 5 | [Java](./30xxx/30676. 이 별은 무슨 색일까/이 별은 무슨 색일까.java) |
 | [30684](https://boj.kr/30684) | 모르고리즘 회장 정하기 | Bronze 2 | [Java](./30xxx/30684. 모르고리즘 회장 정하기/모르고리즘 회장 정하기.java) |
-| [30685](https://boj.kr/30685) | 버터 녹이기 | Silver 1 | [C++](./30xxx/30685. 버터 녹이기/버터 녹이기.cc) |
+| [30685](https://boj.kr/30685) | 버터 녹이기 | Silver 2 | [C++](./30xxx/30685. 버터 녹이기/버터 녹이기.cc) |
 | [30700](https://boj.kr/30700) | KOREA 문자열 만들기 | Bronze 2 | [Java](./30xxx/30700.%E2%80%85KOREA%E2%80%85문자열%E2%80%85만들기/KOREA 문자열 만들기.java) |
 | [30701](https://boj.kr/30701) | 돌아온 똥게임 | Silver 3 | [C++](./30xxx/30701. 돌아온 똥게임/돌아온 똥게임.cc) |
 | [30716](https://boj.kr/30716) | Дети и буквы | Bronze 2 | [Java](./30xxx/30716. Дети и буквы/Дети и буквы.java) |
@@ -5100,6 +5100,7 @@
 | [34414](https://boj.kr/34414) | Tall Enough | Bronze 4 | [C++](./34xxx/34414. Tall Enough/Tall Enough.cc) |
 | [34417](https://boj.kr/34417) | Alphabet Soup | Bronze 2 | [C++](./34xxx/34417. Alphabet Soup/Alphabet Soup.cc) |
 | [34424](https://boj.kr/34424) | Flatter Land | Bronze 5 | [C++](./34xxx/34424. Flatter Land/Flatter Land.cc) |
+| [34437](https://boj.kr/34437) | Number Reduction | Bronze 3 | [Swift](./34xxx/34437. Number Reduction/Number Reduction.swift) |
 | [34441](https://boj.kr/34441) | Ski Traffic | Bronze 3 | [C++](./34xxx/34441. Ski Traffic/Ski Traffic.cc) |
 | [34443](https://boj.kr/34443) | Hack-a-Holics | Bronze 5 | [C++](./34xxx/34443. Hack－a－Holics/Hack－a－Holics.cc) |
 | [34446](https://boj.kr/34446) | E-Days Ore Cart Pull | Bronze 5 | [C++](./34xxx/34446. E－Days Ore Cart Pull/E－Days Ore Cart Pull.cc) |
@@ -5167,6 +5168,7 @@
 | [34769](https://boj.kr/34769) | 트리 게임 | Platinum 3 | [C++](./34xxx/34769. 트리 게임/트리 게임.cc) |
 | [34778](https://boj.kr/34778) | João João | Bronze 3 | [C++](./34xxx/34778. João João/João João.cc) |
 | [34795](https://boj.kr/34795) | An Elephant Problem | Bronze 4 | [C++](./34xxx/34795. An Elephant Problem/An Elephant Problem.cc) |
+| [34797](https://boj.kr/34797) | GPA Computation | Bronze 3 | [Swift](./34xxx/34797. GPA Computation/GPA Computation.swift) |
 | [34798](https://boj.kr/34798) | Missed Alarm | Bronze 4 | [C++](./34xxx/34798. Missed Alarm/Missed Alarm.cc) |
 | [34802](https://boj.kr/34802) | 강의실 들어가기 | Bronze 3 | [C++](./34xxx/34802. 강의실 들어가기/강의실 들어가기.cc) |
 | [34803](https://boj.kr/34803) | 문자열 로또 | Silver 4 | [C++](./34xxx/34803. 문자열 로또/문자열 로또.cc) |
