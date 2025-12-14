@@ -61,7 +61,8 @@ def get_solution_path(id):
     ".java" : "Java",
     ".py" : "Python",
     ".txt": "Text",
-    ".vb" : "Visual Basic"
+    ".vb" : "Visual Basic",
+    ".swift" : "Swift"
   }
 
   # 파일 찾기
