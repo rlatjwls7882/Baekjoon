@@ -1611,6 +1611,7 @@
 | [09443](https://boj.kr/9443) | Arrangement of Contest | Bronze 3 | [Java](./09xxx/9443. Arrangement of Contest/Arrangement of Contest.java) |
 | [09455](https://boj.kr/9455) | 박스 | Bronze 1 | [Java](./09xxx/9455. 박스/박스.java) |
 | [09461](https://boj.kr/9461) | 파도반 수열 | Silver 3 | [Java](./09xxx/9461. 파도반 수열/파도반 수열.java) |
+| [09463](https://boj.kr/9463) | 순열 그래프 | Platinum 5 | [C++](./09xxx/9463. 순열 그래프/순열 그래프.cc) |
 | [09465](https://boj.kr/9465) | 스티커 | Silver 1 | [C++](./09xxx/9465. 스티커/스티커.cc) |
 | [09466](https://boj.kr/9466) | 텀 프로젝트 | Gold 3 | [C++](./09xxx/9466. 텀 프로젝트/텀 프로젝트.cc) |
 | [09469](https://boj.kr/9469) | 폰 노이만 | Bronze 3 | [Java](./09xxx/9469. 폰 노이만/폰 노이만.java) |
