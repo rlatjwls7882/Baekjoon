@@ -5146,7 +5146,10 @@
 | [34668](https://boj.kr/34668) | 가희와 후쿠오카 공항 | Silver 5 | [C++](./34xxx/34668. 가희와 후쿠오카 공항/가희와 후쿠오카 공항.cc) |
 | [34669](https://boj.kr/34669) | 가희와 노선 건설 놀이 2 | Silver 2 | [C++](./34xxx/34669. 가희와 노선 건설 놀이 2/가희와 노선 건설 놀이 2.cc) |
 | [34677](https://boj.kr/34677) | 최적의 분할 | Gold 5 | [C++](./34xxx/34677. 최적의 분할/최적의 분할.cc) |
+| [34679](https://boj.kr/34679) | Docking Day | Platinum 5 | [C++](./34xxx/34679. Docking Day/Docking Day.cc) |
 | [34682](https://boj.kr/34682) | Inverse Look-and-Say | Silver 3 | [C++](./34xxx/34682. Inverse Look－and－Say/Inverse Look－and－Say.cc) |
+| [34684](https://boj.kr/34684) | Mountain | Platinum 4 | [C++](./34xxx/34684. Mountain/Mountain.cc) |
+| [34685](https://boj.kr/34685) | 이차 방정식 | Gold 2 | [C++](./34xxx/34685. 이차 방정식/이차 방정식.cc) |
 | [34687](https://boj.kr/34687) | 라면 끓여 먹자 야호 | Bronze 3 | [C++](./34xxx/34687. 라면 끓여 먹자 야호/라면 끓여 먹자 야호.cc) |
 | [34691](https://boj.kr/34691) | 대전과학고등학교를 사랑하십니까? | Bronze 5 | [C++](./34xxx/34691. 대전과학고등학교를 사랑하십니까？/대전과학고등학교를 사랑하십니까？.cc) |
 | [34692](https://boj.kr/34692) | 아 마이마이 하고 싶다 | Bronze 1 | [C++](./34xxx/34692. 아 마이마이 하고 싶다/아 마이마이 하고 싶다.cc) |
