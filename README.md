@@ -5150,6 +5150,7 @@
 | [34682](https://boj.kr/34682) | Inverse Look-and-Say | Silver 3 | [C++](./34xxx/34682. Inverse Look－and－Say/Inverse Look－and－Say.cc) |
 | [34684](https://boj.kr/34684) | Mountain | Platinum 4 | [C++](./34xxx/34684. Mountain/Mountain.cc) |
 | [34685](https://boj.kr/34685) | 이차 방정식 | Gold 2 | [C++](./34xxx/34685. 이차 방정식/이차 방정식.cc) |
+| [34686](https://boj.kr/34686) | Rescue Squad | Platinum 5 | [C++](./34xxx/34686. Rescue Squad/Rescue Squad.cc) |
 | [34687](https://boj.kr/34687) | 라면 끓여 먹자 야호 | Bronze 3 | [C++](./34xxx/34687. 라면 끓여 먹자 야호/라면 끓여 먹자 야호.cc) |
 | [34691](https://boj.kr/34691) | 대전과학고등학교를 사랑하십니까? | Bronze 5 | [C++](./34xxx/34691. 대전과학고등학교를 사랑하십니까？/대전과학고등학교를 사랑하십니까？.cc) |
 | [34692](https://boj.kr/34692) | 아 마이마이 하고 싶다 | Bronze 1 | [C++](./34xxx/34692. 아 마이마이 하고 싶다/아 마이마이 하고 싶다.cc) |
@@ -5188,6 +5189,7 @@
 | [34848](https://boj.kr/34848) | 저녁 메뉴 월드컵 | Bronze 2 | [C++](./34xxx/34848. 저녁 메뉴 월드컵/저녁 메뉴 월드컵.cc) |
 | [34849](https://boj.kr/34849) | 이중 반복문 | Bronze 5 | [C++](./34xxx/34849. 이중 반복문/이중 반복문.cc) |
 | [34850](https://boj.kr/34850) | 포도주 상인 | Bronze 1 | [C++](./34xxx/34850. 포도주 상인/포도주 상인.cc) |
+| [34862](https://boj.kr/34862) | Bay | Platinum 5 | [C++](./34xxx/34862. Bay/Bay.cc) |
 | [34863](https://boj.kr/34863) | Bookshelf | Platinum 4 | [C++](./34xxx/34863. Bookshelf/Bookshelf.cc) |
 | [34871](https://boj.kr/34871) | Segments | Silver 5 | [C++](./34xxx/34871. Segments/Segments.cc) |
 | [34872](https://boj.kr/34872) | Triple Fairness | Bronze 1 | [C++](./34xxx/34872. Triple Fairness/Triple Fairness.cc) |
