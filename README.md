@@ -2158,7 +2158,7 @@
 | [12400](https://boj.kr/12400) | Speaking in Tongues (Small) | Bronze 1 | [Java](./12xxx/12400. Speaking in Tongues （Small）/Speaking in Tongues （Small）.java) |
 | [12437](https://boj.kr/12437) | 새로운 달력 (Small) | Silver 4 | [C++](./12xxx/12437. 새로운 달력 （Small）/새로운 달력 （Small）.cc) |
 | [12438](https://boj.kr/12438) | 새로운 달력 (Large) | Gold 5 | [C++](./12xxx/12438. 새로운 달력 （Large）/새로운 달력 （Large）.cc) |
-| [12503](https://boj.kr/12503) | FreeCell Statistics (Small) | Silver 4 | [C++](./12xxx/12503. FreeCell Statistics （Small）/FreeCell Statistics （Small）.cc) |
+| [12503](https://boj.kr/12503) | FreeCell Statistics (Small) | Silver 3 | [C++](./12xxx/12503. FreeCell Statistics （Small）/FreeCell Statistics （Small）.cc) |
 | [12517](https://boj.kr/12517) | Centauri Prime (Small1) | Bronze 2 | [Java](./12xxx/12517. Centauri Prime （Small1）/Centauri Prime （Small1）.java) |
 | [12518](https://boj.kr/12518) | Centauri Prime (Small2) | Bronze 2 | [Java](./12xxx/12518. Centauri Prime （Small2）/Centauri Prime （Small2）.java) |
 | [12523](https://boj.kr/12523) | Twibet (Small) | Silver 2 | [Java](./12xxx/12523. Twibet （Small）/Twibet （Small）.java) |
