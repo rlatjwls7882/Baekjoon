@@ -3268,6 +3268,7 @@
 | [19638](https://boj.kr/19638) | 센티와 마법의 뿅망치 | Silver 1 | [C++](./19xxx/19638. 센티와 마법의 뿅망치/센티와 마법의 뿅망치.cc) |
 | [19640](https://boj.kr/19640) | 화장실의 규칙 | Gold 4 | [C++](./19xxx/19640. 화장실의 규칙/화장실의 규칙.cc) |
 | [19644](https://boj.kr/19644) | 좀비 떼가 기관총 진지에도 오다니 | Gold 3 | [C++](./19xxx/19644. 좀비 떼가 기관총 진지에도 오다니/좀비 떼가 기관총 진지에도 오다니.cc) |
+| [19646](https://boj.kr/19646) | Random Generator | Platinum 5 | [C++](./19xxx/19646. Random Generator/Random Generator.cc) |
 | [19685](https://boj.kr/19685) | Palindromic FizzBuzz | Bronze 2 | [Java](./19xxx/19685. Palindromic FizzBuzz/Palindromic FizzBuzz.java) |
 | [19698](https://boj.kr/19698) | 헛간 청약 | Bronze 4 | [C](./19xxx/19698. 헛간 청약/헛간 청약.c) |
 | [19699](https://boj.kr/19699) | 소-난다! | Silver 2 | [C++](./19xxx/19699. 소－난다！/소－난다！.cc) |
