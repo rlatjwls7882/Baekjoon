@@ -5149,6 +5149,7 @@
 | [34669](https://boj.kr/34669) | 가희와 노선 건설 놀이 2 | Silver 2 | [C++](./34xxx/34669. 가희와 노선 건설 놀이 2/가희와 노선 건설 놀이 2.cc) |
 | [34677](https://boj.kr/34677) | 최적의 분할 | Gold 5 | [C++](./34xxx/34677. 최적의 분할/최적의 분할.cc) |
 | [34679](https://boj.kr/34679) | Docking Day | Platinum 5 | [C++](./34xxx/34679. Docking Day/Docking Day.cc) |
+| [34681](https://boj.kr/34681) | Image Analysis | Diamond 4 | [C++](./34xxx/34681. Image Analysis/Image Analysis.cc) |
 | [34682](https://boj.kr/34682) | Inverse Look-and-Say | Silver 3 | [C++](./34xxx/34682. Inverse Look－and－Say/Inverse Look－and－Say.cc) |
 | [34684](https://boj.kr/34684) | Mountain | Platinum 4 | [C++](./34xxx/34684. Mountain/Mountain.cc) |
 | [34685](https://boj.kr/34685) | 이차 방정식 | Gold 2 | [C++](./34xxx/34685. 이차 방정식/이차 방정식.cc) |
