@@ -2179,6 +2179,7 @@
 | [12657](https://boj.kr/12657) | Watersheds (Small) | Silver 2 | [C++](./12xxx/12657. Watersheds （Small）/Watersheds （Small）.cc) |
 | [12727](https://boj.kr/12727) | Numbers (Small) | Gold 3 | [C++](./12xxx/12727. Numbers （Small）/Numbers （Small）.cc) |
 | [12738](https://boj.kr/12738) | 가장 긴 증가하는 부분 수열 3 | Gold 2 | [C++](./12xxx/12738. 가장 긴 증가하는 부분 수열 3/가장 긴 증가하는 부분 수열 3.cc) |
+| [12742](https://boj.kr/12742) | 혼합물 (Small) | Platinum 5 | [C++](./12xxx/12742. 혼합물 （Small）/혼합물 （Small）.cc) |
 | [12746](https://boj.kr/12746) | Traffic (Large) | Platinum 2 | [C++](./12xxx/12746. Traffic （Large）/Traffic （Large）.cc) |
 | [12755](https://boj.kr/12755) | 수면 장애 | Silver 4 | [C++](./12xxx/12755. 수면 장애/수면 장애.cc) |
 | [12756](https://boj.kr/12756) | 고급 여관 | Bronze 3 | [Java](./12xxx/12756. 고급 여관/고급 여관.java) |
