@@ -9,10 +9,7 @@ ld GA[MAX], GB[MAX], W[MAX];
 
 pair<ld, ld> getCost(ld a) {
     ld b=1'000'000;
-    for(int i=0;i<n;i++) {
-        b = min(b, (W[i]-a*GA[i])/GB[i]);
-        if(b<0) return {-1, -1};
-    }
+    for(int i=0;i<n;i++) b = min(b, (W[i]-a*GA[i])/GB[i]);
     return {a*x+b*y, b};
 }
 
