@@ -1525,6 +1525,7 @@
 | [08973](https://boj.kr/8973) | 수학 공책 | Gold 4 | [C++](./08xxx/8973. 수학 공책/수학 공책.cc) |
 | [08974](https://boj.kr/8974) | 희주의 수학시험 | Bronze 1 | [Java](./08xxx/8974. 희주의 수학시험/희주의 수학시험.java) |
 | [08979](https://boj.kr/8979) | 올림픽 | Silver 5 | [Java](./08xxx/8979. 올림픽/올림픽.java) |
+| [08986](https://boj.kr/8986) | 전봇대 | Platinum 5 | [C++](./08xxx/8986. 전봇대/전봇대.cc) |
 | [09009](https://boj.kr/9009) | 피보나치 | Silver 1 | [C++](./09xxx/9009. 피보나치/피보나치.cc) |
 | [09012](https://boj.kr/9012) | 괄호 | Silver 4 | [Java](./09xxx/9012. 괄호/괄호.java) |
 | [09017](https://boj.kr/9017) | 크로스 컨트리 | Silver 3 | [C++](./09xxx/9017. 크로스 컨트리/크로스 컨트리.cc) |
@@ -2071,6 +2072,7 @@
 | [11657](https://boj.kr/11657) | 타임머신 | Gold 4 | [C++](./11xxx/11657. 타임머신/타임머신.cc) [Java](./11xxx/11657. 타임머신/타임머신.java) |
 | [11659](https://boj.kr/11659) | 구간 합 구하기 4 | Silver 3 | [C++](./11xxx/11659. 구간 합 구하기 4/구간 합 구하기 4.cc) [Java](./11xxx/11659. 구간 합 구하기 4/구간 합 구하기 4.java) |
 | [11660](https://boj.kr/11660) | 구간 합 구하기 5 | Silver 1 | [Java](./11xxx/11660. 구간 합 구하기 5/구간 합 구하기 5.java) |
+| [11662](https://boj.kr/11662) | 민호와 강호 | Gold 4 | [C++](./11xxx/11662. 민호와 강호/민호와 강호.cc) |
 | [11663](https://boj.kr/11663) | 선분 위의 점 | Silver 3 | [C++](./11xxx/11663. 선분 위의 점/선분 위의 점.cc) |
 | [11665](https://boj.kr/11665) | 직육면체 교집합 | Silver 5 | [Java](./11xxx/11665. 직육면체 교집합/직육면체 교집합.java) |
 | [11680](https://boj.kr/11680) | Dice Cup | Bronze 2 | [Java](./11xxx/11680. Dice Cup/Dice Cup.java) |
@@ -4203,7 +4205,7 @@
 | [27445](https://boj.kr/27445) | Gorani Command | Bronze 2 | [Java](./27xxx/27445. Gorani Command/Gorani Command.java) |
 | [27465](https://boj.kr/27465) | 소수가 아닌 수 | Bronze 3 | [Java](./27xxx/27465. 소수가 아닌 수/소수가 아닌 수.java) |
 | [27466](https://boj.kr/27466) | 그래서 대회 이름 뭐로 하죠 | Silver 4 | [Java](./27xxx/27466. 그래서 대회 이름 뭐로 하죠/그래서 대회 이름 뭐로 하죠.java) |
-| [27470](https://boj.kr/27470) | 멋진 부분집합 | Platinum 4 | [C++](./27xxx/27470. 멋진 부분집합/멋진 부분집합.cc) |
+| [27470](https://boj.kr/27470) | 멋진 부분집합 | Platinum 5 | [C++](./27xxx/27470. 멋진 부분집합/멋진 부분집합.cc) |
 | [27475](https://boj.kr/27475) | Cancel the Trains | Bronze 3 | [Java](./27xxx/27475. Cancel the Trains/Cancel the Trains.java) |
 | [27481](https://boj.kr/27481) | Hotelier | Bronze 3 | [Java](./27xxx/27481. Hotelier/Hotelier.java) |
 | [27487](https://boj.kr/27487) | One and Two | Bronze 2 | [Java](./27xxx/27487. One and Two/One and Two.java) |
