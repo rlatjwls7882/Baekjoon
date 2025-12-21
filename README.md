@@ -910,7 +910,7 @@
 | [03747](https://boj.kr/3747) | 완벽한 선거! | Platinum 4 | [C++](./03xxx/3747. 완벽한 선거！/완벽한 선거！.cc) |
 | [03758](https://boj.kr/3758) | KCPC | Silver 2 | [C++](./03xxx/3758. KCPC/KCPC.cc) |
 | [03765](https://boj.kr/3765) | Celebrity jeopardy | Bronze 4 | [Java](./03xxx/3765. Celebrity jeopardy/Celebrity jeopardy.java) |
-| [03770](https://boj.kr/3770) | 대한민국 | Platinum 5 | [C++](./03xxx/3770. 대한민국/대한민국.cc) |
+| [03770](https://boj.kr/3770) | 대한민국 | Gold 1 | [C++](./03xxx/3770. 대한민국/대한민국.cc) |
 | [03778](https://boj.kr/3778) | 애너그램 거리 | Bronze 2 | [Java](./03xxx/3778. 애너그램 거리/애너그램 거리.java) |
 | [03783](https://boj.kr/3783) | 세제곱근 | Gold 1 | [Java](./03xxx/3783. 세제곱근/세제곱근.java) |
 | [03787](https://boj.kr/3787) | Count on Canton | Silver 5 | [Java](./03xxx/3787. Count on Canton/Count on Canton.java) |
@@ -4841,7 +4841,7 @@
 | [32332](https://boj.kr/32332) | 세종이의 시간 여행 | Bronze 1 | [C++](./32xxx/32332. 세종이의 시간 여행/세종이의 시간 여행.cc) |
 | [32333](https://boj.kr/32333) | 한양이의 새로운 시계 | Silver 1 | [C++](./32xxx/32333. 한양이의 새로운 시계/한양이의 새로운 시계.cc) |
 | [32334](https://boj.kr/32334) | 자석 체스 | Silver 1 | [C++](./32xxx/32334. 자석 체스/자석 체스.cc) |
-| [32335](https://boj.kr/32335) | 부자가 될 거야! | Silver 3 | [C++](./32xxx/32335. 부자가 될 거야！/부자가 될 거야！.cc) |
+| [32335](https://boj.kr/32335) | 부자가 될 거야! | Silver 2 | [C++](./32xxx/32335. 부자가 될 거야！/부자가 될 거야！.cc) |
 | [32337](https://boj.kr/32337) | 제비 통신 | Silver 1 | [C++](./32xxx/32337. 제비 통신/제비 통신.cc) |
 | [32342](https://boj.kr/32342) | 와우와 쿼리 | Bronze 3 | [C++](./32xxx/32342. 와우와 쿼리/와우와 쿼리.cc) |
 | [32343](https://boj.kr/32343) | 드랍 더 비트 | Bronze 1 | [C++](./32xxx/32343. 드랍 더 비트/드랍 더 비트.cc) |
