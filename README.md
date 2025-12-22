@@ -3699,6 +3699,7 @@
 | [23971](https://boj.kr/23971) | ZOAC 4 | Bronze 3 | [Java](./23xxx/23971. ZOAC 4/ZOAC 4.java) |
 | [23972](https://boj.kr/23972) | 악마의 제안 | Bronze 2 | [Java](./23xxx/23972. 악마의 제안/악마의 제안.java) |
 | [23977](https://boj.kr/23977) | To Find Password | Silver 2 | [C++](./23xxx/23977. To Find Password/To Find Password.cc) |
+| [24024](https://boj.kr/24024) | 삼색 그래프 | Platinum 3 | [C++](./24xxx/24024. 삼색 그래프/삼색 그래프.cc) |
 | [24039](https://boj.kr/24039) | 2021은 무엇이 특별할까? | Silver 5 | [Java](./24xxx/24039. 2021은 무엇이 특별할까？/2021은 무엇이 특별할까？.java) |
 | [24049](https://boj.kr/24049) | 정원 (Easy) | Bronze 1 | [Java](./24xxx/24049. 정원 （Easy）/정원 （Easy）.java) |
 | [24051](https://boj.kr/24051) | 알고리즘 수업 - 삽입 정렬 1 | Bronze 1 | [Java](./24xxx/24051. 알고리즘 수업 － 삽입 정렬 1/알고리즘 수업 － 삽입 정렬 1.java) |
