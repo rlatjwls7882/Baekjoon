@@ -32,6 +32,7 @@
 | [01026](https://boj.kr/1026) | 보물 | Silver 4 | [C++](./01xxx/1026. 보물/보물.cc) |
 | [01027](https://boj.kr/1027) | 고층 건물 | Gold 4 | [C++](./01xxx/1027. 고층 건물/고층 건물.cc) |
 | [01032](https://boj.kr/1032) | 명령 프롬프트 | Bronze 1 | [Java](./01xxx/1032. 명령 프롬프트/명령 프롬프트.java) |
+| [01034](https://boj.kr/1034) | 램프 | Gold 4 | [C++](./01xxx/1034. 램프/램프.cc) |
 | [01036](https://boj.kr/1036) | 36진수 | Gold 2 | [C++](./01xxx/1036. 36진수/36진수.cc) |
 | [01037](https://boj.kr/1037) | 약수 | Bronze 1 | [Java](./01xxx/1037. 약수/약수.java) |
 | [01038](https://boj.kr/1038) | 감소하는 수 | Gold 5 | [C++](./01xxx/1038. 감소하는 수/감소하는 수.cc) |
@@ -56,6 +57,7 @@
 | [01080](https://boj.kr/1080) | 행렬 | Silver 1 | [C++](./01xxx/1080. 행렬/행렬.cc) |
 | [01085](https://boj.kr/1085) | 직사각형에서 탈출 | Bronze 3 | [Java](./01xxx/1085. 직사각형에서 탈출/직사각형에서 탈출.java) |
 | [01086](https://boj.kr/1086) | 박성원 | Platinum 5 | [C++](./01xxx/1086. 박성원/박성원.cc) |
+| [01087](https://boj.kr/1087) | 쥐 잡기 | Platinum 4 | [C++](./01xxx/1087. 쥐 잡기/쥐 잡기.cc) |
 | [01089](https://boj.kr/1089) | 스타트링크 타워 | Gold 4 | [C++](./01xxx/1089. 스타트링크 타워/스타트링크 타워.cc) |
 | [01092](https://boj.kr/1092) | 배 | Gold 5 | [C++](./01xxx/1092. 배/배.cc) |
 | [01093](https://boj.kr/1093) | 스티커 수집 | Platinum 3 | [C++](./01xxx/1093. 스티커 수집/스티커 수집.cc) |
@@ -2180,6 +2182,7 @@
 | [12727](https://boj.kr/12727) | Numbers (Small) | Gold 3 | [C++](./12xxx/12727. Numbers （Small）/Numbers （Small）.cc) |
 | [12738](https://boj.kr/12738) | 가장 긴 증가하는 부분 수열 3 | Gold 2 | [C++](./12xxx/12738. 가장 긴 증가하는 부분 수열 3/가장 긴 증가하는 부분 수열 3.cc) |
 | [12742](https://boj.kr/12742) | 혼합물 (Small) | Platinum 5 | [C++](./12xxx/12742. 혼합물 （Small）/혼합물 （Small）.cc) |
+| [12743](https://boj.kr/12743) | 혼합물 (Large) | Platinum 4 | [C++](./12xxx/12743. 혼합물 （Large）/혼합물 （Large）.cc) |
 | [12746](https://boj.kr/12746) | Traffic (Large) | Platinum 2 | [C++](./12xxx/12746. Traffic （Large）/Traffic （Large）.cc) |
 | [12755](https://boj.kr/12755) | 수면 장애 | Silver 4 | [C++](./12xxx/12755. 수면 장애/수면 장애.cc) |
 | [12756](https://boj.kr/12756) | 고급 여관 | Bronze 3 | [Java](./12xxx/12756. 고급 여관/고급 여관.java) |
@@ -5204,4 +5207,6 @@
 | [34892](https://boj.kr/34892) | 헌혈 대전 | Bronze 1 | [C++](./34xxx/34892. 헌혈 대전/헌혈 대전.cc) |
 | [34895](https://boj.kr/34895) | 이진수 MEX | Gold 4 | [Java](./34xxx/34895. 이진수 MEX/이진수 MEX.java) |
 | [34917](https://boj.kr/34917) | M | Bronze 3 | [C++](./34xxx/34917. M/M.cc) |
+| [34934](https://boj.kr/34934) | 신규 학과 | Bronze 5 | [C++](./34xxx/34934. 신규 학과/신규 학과.cc) |
+| [34935](https://boj.kr/34935) | 오름차순과 비내림차순 | Bronze 4 | [C++](./34xxx/34935. 오름차순과 비내림차순/오름차순과 비내림차순.cc) |
 </div>
