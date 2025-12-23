@@ -1,0 +1,11 @@
+#include<bits/stdc++.h>
+using namespace std;
+
+int main() {
+    cin.tie(0)->sync_with_stdio(0);
+    int a, b, c, d; cin >> a >> b >> c >> d;
+    if(a+b<=d && c<=d) cout << "~.~";
+    else if(a+b<=d) cout << "Shuttle";
+    else if(c<=d) cout << "Walk";
+    else cout << "T.T";
+}
