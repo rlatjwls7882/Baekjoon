@@ -6,12 +6,12 @@ typedef long long ll;
 int main() {
     cin.tie(0)->sync_with_stdio(0);
     ll k; cin >> k;
-    ll boundary=abs(k)*2;
+    ll boundary=abs(k);
 
     unordered_set<ll> p;
-    for(ll a=-boundary;a<=boundary;a++) {
-        if(!(a+k)) continue;
-        if(k*k%(a+k)==0) p.insert(-(a+k*k/(a+k)-k));
+    for(ll A=-boundary;A<=boundary;A++) {
+        if(!A) continue;
+        if(k*k%A==0) p.insert(2*k-A-k*k/A);
     }
     cout << p.size() << ' ' << accumulate(p.begin(), p.end(), 0LL);
 }
