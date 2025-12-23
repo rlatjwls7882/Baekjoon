@@ -1772,6 +1772,7 @@
 | [10275](https://boj.kr/10275) | 골드 러시 | Bronze 1 | [C++](./10xxx/10275. 골드 러시/골드 러시.cc) |
 | [10282](https://boj.kr/10282) | 해킹 | Gold 4 | [Java](./10xxx/10282. 해킹/해킹.java) |
 | [10312](https://boj.kr/10312) | Lodê | Bronze 2 | [Java](./10xxx/10312. Lodê/Lodê.java) |
+| [10321](https://boj.kr/10321) | 요새 건설 | Platinum 1 | [C++](./10xxx/10321. 요새 건설/요새 건설.cc) |
 | [10347](https://boj.kr/10347) | Reverse Rot | Bronze 2 | [Java](./10xxx/10347. Reverse Rot/Reverse Rot.java) |
 | [10384](https://boj.kr/10384) | 팬그램 | Silver 5 | [Java](./10xxx/10384. 팬그램/팬그램.java) |
 | [10395](https://boj.kr/10395) | Automated Checking Machine | Bronze 3 | [Java](./10xxx/10395. Automated Checking Machine/Automated Checking Machine.java) |
@@ -5208,7 +5209,11 @@
 | [34892](https://boj.kr/34892) | 헌혈 대전 | Bronze 1 | [C++](./34xxx/34892. 헌혈 대전/헌혈 대전.cc) |
 | [34895](https://boj.kr/34895) | 이진수 MEX | Gold 4 | [Java](./34xxx/34895. 이진수 MEX/이진수 MEX.java) |
 | [34917](https://boj.kr/34917) | M | Bronze 3 | [C++](./34xxx/34917. M/M.cc) |
+| [34921](https://boj.kr/34921) | 덕후 | Bronze 5 | [C++](./34xxx/34921. 덕후/덕후.cc) |
 | [34934](https://boj.kr/34934) | 신규 학과 | Bronze 4 | [C++](./34xxx/34934. 신규 학과/신규 학과.cc) |
 | [34935](https://boj.kr/34935) | 오름차순과 비내림차순 | Bronze 4 | [C++](./34xxx/34935. 오름차순과 비내림차순/오름차순과 비내림차순.cc) |
-| [34991](https://boj.kr/34991) | toycppartoon | Silver 2 | |
+| [34945](https://boj.kr/34945) | 채플이 너무해 | Bronze 5 | [C++](./34xxx/34945. 채플이 너무해/채플이 너무해.cc) |
+| [34946](https://boj.kr/34946) | 셔틀 탈래 말래 탈래 말래 애매하긴 해 | Bronze 4 | [C++](./34xxx/34946. 셔틀 탈래 말래 탈래 말래 애매하긴 해/셔틀 탈래 말래 탈래 말래 애매하긴 해.cc) |
+| [34991](https://boj.kr/34991) | toycppartoon | Silver 2 | [C++](./34xxx/34991. toycppartoon/toycppartoon.cc) |
+| [34998](https://boj.kr/34998) | 1, 2, 3, 많다! | Bronze 3 | |
 </div>
