@@ -5210,4 +5210,5 @@
 | [34917](https://boj.kr/34917) | M | Bronze 3 | [C++](./34xxx/34917. M/M.cc) |
 | [34934](https://boj.kr/34934) | 신규 학과 | Bronze 4 | [C++](./34xxx/34934. 신규 학과/신규 학과.cc) |
 | [34935](https://boj.kr/34935) | 오름차순과 비내림차순 | Bronze 4 | [C++](./34xxx/34935. 오름차순과 비내림차순/오름차순과 비내림차순.cc) |
+| [34991](https://boj.kr/34991) | toycppartoon | Silver 3 | |
 </div>
