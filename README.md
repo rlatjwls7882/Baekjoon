@@ -5215,5 +5215,5 @@
 | [34945](https://boj.kr/34945) | 채플이 너무해 | Bronze 5 | [C++](./34xxx/34945. 채플이 너무해/채플이 너무해.cc) |
 | [34946](https://boj.kr/34946) | 셔틀 탈래 말래 탈래 말래 애매하긴 해 | Bronze 4 | [C++](./34xxx/34946. 셔틀 탈래 말래 탈래 말래 애매하긴 해/셔틀 탈래 말래 탈래 말래 애매하긴 해.cc) |
 | [34991](https://boj.kr/34991) | toycppartoon | Silver 2 | [C++](./34xxx/34991. toycppartoon/toycppartoon.cc) |
-| [34998](https://boj.kr/34998) | 1, 2, 3, 많다! | Bronze 3 | |
+| [34998](https://boj.kr/34998) | 1, 2, 3, 많다! | Bronze 3 | [Python](./34xxx/34998. 1， 2， 3， 많다！/1， 2， 3， 많다！.py) |
 </div>
