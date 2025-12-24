@@ -4651,7 +4651,7 @@
 | [31169](https://boj.kr/31169) | Hidden Password | Bronze 2 | [Java](./31xxx/31169. Hidden Password/Hidden Password.java) |
 | [31215](https://boj.kr/31215) | 이상한 섞기 연산 | Bronze 2 | [Java](./31xxx/31215. 이상한 섞기 연산/이상한 섞기 연산.java) |
 | [31216](https://boj.kr/31216) | 슈퍼 소수 | Silver 5 | [C++](./31xxx/31216. 슈퍼 소수/슈퍼 소수.cc) |
-| [31218](https://boj.kr/31218) | 자료 구조의 왕 | Silver 2 | [C++](./31xxx/31218. 자료 구조의 왕/자료 구조의 왕.cc) |
+| [31218](https://boj.kr/31218) | 자료 구조의 왕 | Silver 3 | [C++](./31xxx/31218. 자료 구조의 왕/자료 구조의 왕.cc) |
 | [31222](https://boj.kr/31222) | 수열과 어렵지 않은 쿼리 | Platinum 5 | [C++](./31xxx/31222. 수열과 어렵지 않은 쿼리/수열과 어렵지 않은 쿼리.cc) |
 | [31229](https://boj.kr/31229) | 또 수열 문제야 | Silver 5 | [Java](./31xxx/31229. 또 수열 문제야/또 수열 문제야.java) |
 | [31234](https://boj.kr/31234) | 대역폭 관리 | Platinum 1 | [C++](./31xxx/31234. 대역폭 관리/대역폭 관리.cc) |
