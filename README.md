@@ -896,7 +896,7 @@
 | [03596](https://boj.kr/3596) | 크로스와 크로스 | Platinum 2 | [C++](./03xxx/3596. 크로스와 크로스/크로스와 크로스.cc) |
 | [03602](https://boj.kr/3602) | iChess | Bronze 2 | [Java](./03xxx/3602. iChess/iChess.java) |
 | [03613](https://boj.kr/3613) | Java vs C++ | Silver 3 | [C++](./03xxx/3613. Java vs C＋＋/Java vs C＋＋.cc) |
-| [03621](https://boj.kr/3621) | 족보 | Silver 1 | [C++](./03xxx/3621. 족보/족보.cc) |
+| [03621](https://boj.kr/3621) | 족보 | Gold 5 | [C++](./03xxx/3621. 족보/족보.cc) |
 | [03622](https://boj.kr/3622) | 어떤 호박의 할로윈 여행 | Bronze 2 | [Java](./03xxx/3622. 어떤 호박의 할로윈 여행/어떤 호박의 할로윈 여행.java) |
 | [03640](https://boj.kr/3640) | 제독 | Platinum 2 | [C++](./03xxx/3640. 제독/제독.cc) |
 | [03648](https://boj.kr/3648) | 아이돌 | Platinum 3 | [C++](./03xxx/3648. 아이돌/아이돌.cc) |
