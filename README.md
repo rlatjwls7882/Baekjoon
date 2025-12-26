@@ -76,6 +76,7 @@
 | [01145](https://boj.kr/1145) | 적어도 대부분의 배수 | Bronze 1 | [Java](./01xxx/1145. 적어도 대부분의 배수/적어도 대부분의 배수.java) |
 | [01149](https://boj.kr/1149) | RGB거리 | Silver 1 | [Java](./01xxx/1149. RGB거리/RGB거리.java) |
 | [01152](https://boj.kr/1152) | 단어의 개수 | Bronze 2 | [C](./01xxx/1152. 단어의 개수/단어의 개수.c) |
+| [01156](https://boj.kr/1156) | 장난감 | Diamond 5 | [C++](./01xxx/1156. 장난감/장난감.cc) |
 | [01157](https://boj.kr/1157) | 단어 공부 | Bronze 1 | [C](./01xxx/1157. 단어 공부/단어 공부.c) |
 | [01158](https://boj.kr/1158) | 요세푸스 문제 | Silver 4 | [Java](./01xxx/1158. 요세푸스 문제/요세푸스 문제.java) |
 | [01159](https://boj.kr/1159) | 농구 경기 | Bronze 2 | [Java](./01xxx/1159. 농구 경기/농구 경기.java) |
