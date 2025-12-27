@@ -2,6 +2,7 @@
 using namespace std;
 
 typedef long long ll;
+typedef long double ld;
 
 struct point {
     ll x, y, p=0, q=0;
@@ -71,15 +72,6 @@ ll ternary_search(int i, int j) {
     }
     ll ret2=0;
     while(l<=r) ret2 = max(ret2, getArea(hull[i], hull[j], hull[l++]));
-
-    l=0, r=i-1;
-    while(l+2<r) {
-        int p = (l*2+r)/3;
-        int q = (l+r*2)/3;
-        if(getArea(hull[i], hull[j], hull[p])>=getArea(hull[i], hull[j], hull[q])) r=q;
-        else l=p;
-    }
-    while(l<=r) ret2 = max(ret2, getArea(hull[i], hull[j], hull[l++]));
     return ret1+ret2;
 }
 
@@ -93,5 +85,5 @@ int main() {
             res = max(res, ternary_search(i, j));
         }
     }
-    cout << setprecision(6) << fixed << (long double)res*res/16;
+    cout << setprecision(6) << fixed << (ld)res*res/16;
 }
