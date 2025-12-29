@@ -1863,7 +1863,7 @@
 | [10833](https://boj.kr/10833) | 사과 | Bronze 3 | [Java](./10xxx/10833. 사과/사과.java) |
 | [10834](https://boj.kr/10834) | 벨트 | Bronze 2 | [Java](./10xxx/10834. 벨트/벨트.java) |
 | [10836](https://boj.kr/10836) | 여왕벌 | Gold 3 | [C++](./10xxx/10836. 여왕벌/여왕벌.cc) |
-| [10837](https://boj.kr/10837) | 동전 게임 | Silver 3 | [C++](./10xxx/10837. 동전 게임/동전 게임.cc) |
+| [10837](https://boj.kr/10837) | 동전 게임 | Silver 2 | [C++](./10xxx/10837. 동전 게임/동전 게임.cc) |
 | [10840](https://boj.kr/10840) | 구간 성분 | Gold 1 | [C++](./10xxx/10840. 구간 성분/구간 성분.cc) |
 | [10844](https://boj.kr/10844) | 쉬운 계단 수 | Silver 1 | [Java](./10xxx/10844. 쉬운 계단 수/쉬운 계단 수.java) |
 | [10845](https://boj.kr/10845) | 큐 | Silver 4 | [C++](./10xxx/10845. 큐/큐.cc) [Java](./10xxx/10845. 큐/큐.java) |
