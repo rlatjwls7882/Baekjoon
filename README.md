@@ -435,6 +435,7 @@
 | [02037](https://boj.kr/2037) | 문자메시지 | Bronze 1 | [C++](./02xxx/2037. 문자메시지/문자메시지.cc) |
 | [02038](https://boj.kr/2038) | 골롱 수열 | Gold 1 | [C++](./02xxx/2038. 골롱 수열/골롱 수열.cc) |
 | [02042](https://boj.kr/2042) | 구간 합 구하기 | Gold 1 | [C++](./02xxx/2042. 구간 합 구하기/구간 합 구하기.cc) |
+| [02049](https://boj.kr/2049) | 가장 먼 두 점 | Platinum 3 | [C++](./02xxx/2049. 가장 먼 두 점/가장 먼 두 점.cc) |
 | [02052](https://boj.kr/2052) | 지수연산 | Bronze 1 | [Java](./02xxx/2052. 지수연산/지수연산.java) |
 | [02056](https://boj.kr/2056) | 작업 | Gold 4 | [Java](./02xxx/2056. 작업/작업.java) |
 | [02057](https://boj.kr/2057) | 팩토리얼 분해 | Silver 5 | [C++](./02xxx/2057. 팩토리얼 분해/팩토리얼 분해.cc) |
@@ -3547,7 +3548,7 @@
 | [22334](https://boj.kr/22334) | XOR 4 | Silver 5 | [Text](./22xxx/22334. XOR 4/XOR 4.txt) |
 | [22335](https://boj.kr/22335) | XOR 5 | Silver 2 | [Text](./22xxx/22335. XOR 5/XOR 5.txt) |
 | [22336](https://boj.kr/22336) | XOR 6 | Silver 5 | [Text](./22xxx/22336. XOR 6/XOR 6.txt) |
-| [22338](https://boj.kr/22338) | XOR 8 | Silver 3 | [Text](./22xxx/22338. XOR 8/XOR 8.txt) |
+| [22338](https://boj.kr/22338) | XOR 8 | Silver 2 | [Text](./22xxx/22338. XOR 8/XOR 8.txt) |
 | [22341](https://boj.kr/22341) | 사각형 면적 | Bronze 2 | [Java](./22xxx/22341. 사각형 면적/사각형 면적.java) |
 | [22342](https://boj.kr/22342) | 계산 로봇 | Silver 1 | [C++](./22xxx/22342. 계산 로봇/계산 로봇.cc) |
 | [22345](https://boj.kr/22345) | 누적 거리 | Gold 2 | [C++](./22xxx/22345. 누적 거리/누적 거리.cc) |
@@ -5222,7 +5223,7 @@
 | [34935](https://boj.kr/34935) | 오름차순과 비내림차순 | Bronze 4 | [C++](./34xxx/34935. 오름차순과 비내림차순/오름차순과 비내림차순.cc) |
 | [34945](https://boj.kr/34945) | 채플이 너무해 | Bronze 5 | [C++](./34xxx/34945. 채플이 너무해/채플이 너무해.cc) |
 | [34946](https://boj.kr/34946) | 셔틀 탈래 말래 탈래 말래 애매하긴 해 | Bronze 4 | [C++](./34xxx/34946. 셔틀 탈래 말래 탈래 말래 애매하긴 해/셔틀 탈래 말래 탈래 말래 애매하긴 해.cc) |
-| [34953](https://boj.kr/34953) | SSHS 문자열 | Bronze 1 | |
+| [34953](https://boj.kr/34953) | SSHS 문자열 | Silver 5 | |
 | [34977](https://boj.kr/34977) | 수미수열 | Bronze 1 | |
 | [34980](https://boj.kr/34980) | 생수병 놓기 | Bronze 3 | |
 | [34991](https://boj.kr/34991) | toycppartoon | Silver 2 | [C++](./34xxx/34991. toycppartoon/toycppartoon.cc) |
