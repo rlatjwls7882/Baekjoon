@@ -143,6 +143,7 @@
 | [01306](https://boj.kr/1306) | 달려라 홍준 | Platinum 5 | [C++](./01xxx/1306. 달려라 홍준/달려라 홍준.cc) |
 | [01308](https://boj.kr/1308) | D-Day | Silver 5 | [C++](./01xxx/1308. D－Day/D－Day.cc) |
 | [01309](https://boj.kr/1309) | 동물원 | Silver 1 | [C++](./01xxx/1309. 동물원/동물원.cc) |
+| [01310](https://boj.kr/1310) | 달리기 코스 | Platinum 3 | [C++](./01xxx/1310. 달리기 코스/달리기 코스.cc) |
 | [01311](https://boj.kr/1311) | 할 일 정하기 1 | Gold 1 | [C++](./01xxx/1311. 할 일 정하기 1/할 일 정하기 1.cc) |
 | [01312](https://boj.kr/1312) | 소수 | Silver 5 | [Java](./01xxx/1312. 소수/소수.java) |
 | [01316](https://boj.kr/1316) | 그룹 단어 체커 | Silver 5 | [Java](./01xxx/1316. 그룹 단어 체커/그룹 단어 체커.java) |
