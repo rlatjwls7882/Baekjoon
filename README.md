@@ -4148,6 +4148,7 @@
 | [26941](https://boj.kr/26941) | Pyramidbygge | Bronze 3 | [Java](./26xxx/26941. Pyramidbygge/Pyramidbygge.java) |
 | [26943](https://boj.kr/26943) | Turnering | Bronze 2 | [C++](./26xxx/26943. Turnering/Turnering.cc) |
 | [26949](https://boj.kr/26949) | Kylskåpstransport | Bronze 2 | [Java](./26xxx/26949. Kylskåpstransport/Kylskåpstransport.java) |
+| [27046](https://boj.kr/27046) | Beauty Contest | Platinum 3 | [C++](./27xxx/27046. Beauty Contest/Beauty Contest.cc) |
 | [27058](https://boj.kr/27058) | Message Decowding | Bronze 2 | [Java](./27xxx/27058. Message Decowding/Message Decowding.java) |
 | [27065](https://boj.kr/27065) | 2022년이 아름다웠던 이유 | Bronze 1 | [Java](./27xxx/27065. 2022년이 아름다웠던 이유/2022년이 아름다웠던 이유.java) |
 | [27087](https://boj.kr/27087) | 직육면체 | Gold 5 | [C++](./27xxx/27087. 직육면체/직육면체.cc) |
