@@ -1572,7 +1572,7 @@
 | [09243](https://boj.kr/9243) | 파일 완전 삭제 | Bronze 2 | [Java](./09xxx/9243. 파일 완전 삭제/파일 완전 삭제.java) |
 | [09250](https://boj.kr/9250) | 문자열 집합 판별 | Platinum 2 | [C++](./09xxx/9250. 문자열 집합 판별/문자열 집합 판별.cc) |
 | [09251](https://boj.kr/9251) | LCS | Gold 5 | [C++](./09xxx/9251. LCS/LCS.cc) |
-| [09252](https://boj.kr/9252) | LCS 2 | Gold 4 | [C++](./09xxx/9252. LCS 2/LCS 2.cc) |
+| [09252](https://boj.kr/9252) | LCS 2 | Gold 3 | [C++](./09xxx/9252. LCS 2/LCS 2.cc) |
 | [09253](https://boj.kr/9253) | 스페셜 저지 | Bronze 2 | [Java](./09xxx/9253. 스페셜 저지/스페셜 저지.java) |
 | [09285](https://boj.kr/9285) | Watering - 1 | Bronze 1 | [C++](./09xxx/9285. Watering － 1/Watering － 1.cc) |
 | [09286](https://boj.kr/9286) | Gradabase | Bronze 3 | [Java](./09xxx/9286. Gradabase/Gradabase.java) |
