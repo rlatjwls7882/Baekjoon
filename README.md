@@ -691,6 +691,7 @@
 | [02694](https://boj.kr/2694) | 합이 같은 구간 | Gold 3 | [C++](./02xxx/2694. 합이 같은 구간/합이 같은 구간.cc) |
 | [02696](https://boj.kr/2696) | 중앙값 구하기 | Gold 2 | [C++](./02xxx/2696. 중앙값 구하기/중앙값 구하기.cc) |
 | [02697](https://boj.kr/2697) | 다음수 구하기 | Silver 2 | [C++](./02xxx/2697. 다음수 구하기/다음수 구하기.cc) |
+| [02699](https://boj.kr/2699) | 격자점 컨벡스헐 | Platinum 5 | [C++](./02xxx/2699. 격자점 컨벡스헐/격자점 컨벡스헐.cc) |
 | [02702](https://boj.kr/2702) | 초6 수학 | Bronze 2 | [Java](./02xxx/2702. 초6 수학/초6 수학.java) |
 | [02703](https://boj.kr/2703) | Cryptoquote | Bronze 2 | [Java](./02xxx/2703. Cryptoquote/Cryptoquote.java) |
 | [02704](https://boj.kr/2704) | 이진법 시계 | Bronze 2 | [Java](./02xxx/2704. 이진법 시계/이진법 시계.java) |
