@@ -1266,6 +1266,7 @@
 | [06162](https://boj.kr/6162) | Superlatives | Bronze 3 | [Java](./06xxx/6162. Superlatives/Superlatives.java) |
 | [06171](https://boj.kr/6171) | 땅따먹기 | Diamond 5 | [C++](./06xxx/6171. 땅따먹기/땅따먹기.cc) |
 | [06190](https://boj.kr/6190) | Another Cow Number Game | Bronze 3 | [Java](./06xxx/6190. Another Cow Number Game/Another Cow Number Game.java) |
+| [06194](https://boj.kr/6194) | Building the Moat | Platinum 5 | [C++](./06xxx/6194. Building the Moat/Building the Moat.cc) |
 | [06198](https://boj.kr/6198) | 옥상 정원 꾸미기 | Gold 5 | [C++](./06xxx/6198. 옥상 정원 꾸미기/옥상 정원 꾸미기.cc) |
 | [06213](https://boj.kr/6213) | Balanced Lineup | Gold 1 | [C++](./06xxx/6213. Balanced Lineup/Balanced Lineup.cc) |
 | [06219](https://boj.kr/6219) | 소수의 자격 | Silver 3 | [C++](./06xxx/6219. 소수의 자격/소수의 자격.cc) |
