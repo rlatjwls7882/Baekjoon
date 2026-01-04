@@ -1886,6 +1886,7 @@
 | [10891](https://boj.kr/10891) | Cactus? Not cactus? | Platinum 3 | [C++](./10xxx/10891. Cactus？ Not cactus？/Cactus？ Not cactus？.cc) |
 | [10892](https://boj.kr/10892) | Divide into triangle | Silver 3 | [C++](./10xxx/10892. Divide into triangle/Divide into triangle.cc) |
 | [10902](https://boj.kr/10902) | Penalty calculation | Bronze 3 | [Java](./10xxx/10902. Penalty calculation/Penalty calculation.java) |
+| [10903](https://boj.kr/10903) | Wall construction | Platinum 4 | [C++](./10xxx/10903. Wall construction/Wall construction.cc) |
 | [10914](https://boj.kr/10914) | Veni, vidi, vici | Bronze 1 | [Java](./10xxx/10914. Veni， vidi， vici/Veni， vidi， vici.java) |
 | [10926](https://boj.kr/10926) | ??! | Bronze 5 | [C](./10xxx/10926. ？？！/？？！.c) [C++](./10xxx/10926. ？？！/？？！.cc) |
 | [10940](https://boj.kr/10940) | BASE16 인코딩 | Unrated | [Java](./10xxx/10940. BASE16 인코딩/BASE16 인코딩.java) |
