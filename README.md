@@ -2925,7 +2925,7 @@
 | [16562](https://boj.kr/16562) | 친구비 | Gold 4 | [Java](./16xxx/16562. 친구비/친구비.java) |
 | [16564](https://boj.kr/16564) | 히오스 프로게이머 | Silver 1 | [C++](./16xxx/16564. 히오스 프로게이머/히오스 프로게이머.cc) |
 | [16565](https://boj.kr/16565) | N포커 | Gold 2 | [C++](./16xxx/16565. N포커/N포커.cc) |
-| [16566](https://boj.kr/16566) | 카드 게임 | Platinum 5 | [C++](./16xxx/16566. 카드 게임/카드 게임.cc) |
+| [16566](https://boj.kr/16566) | 카드 게임 | Gold 1 | [C++](./16xxx/16566. 카드 게임/카드 게임.cc) |
 | [16572](https://boj.kr/16572) | Pixel Triangles | Platinum 5 | [C++](./16xxx/16572. Pixel Triangles/Pixel Triangles.cc) |
 | [16581](https://boj.kr/16581) | Lie Detector | Bronze 1 | [Java](./16xxx/16581. Lie Detector/Lie Detector.java) |
 | [16585](https://boj.kr/16585) | Tour de BINUS | Bronze 2 | [Java](./16xxx/16585. Tour de BINUS/Tour de BINUS.java) |
