@@ -4022,7 +4022,7 @@
 | [25993](https://boj.kr/25993) | Bellevue | Silver 1 | [C++](./25xxx/25993. Bellevue/Bellevue.cc) |
 | [25995](https://boj.kr/25995) | Dividing DNA | Gold 2 | [C++](./25xxx/25995. Dividing DNA/Dividing DNA.cc) |
 | [25996](https://boj.kr/25996) | Equalising Audio | Silver 3 | [C++](./25xxx/25996. Equalising Audio/Equalising Audio.cc) |
-| [25997](https://boj.kr/25997) | Failing Flagship | Silver 2 | [C++](./25xxx/25997. Failing Flagship/Failing Flagship.cc) |
+| [25997](https://boj.kr/25997) | Failing Flagship | Silver 1 | [C++](./25xxx/25997. Failing Flagship/Failing Flagship.cc) |
 | [26000](https://boj.kr/26000) | Imperfect Imperial Units | Gold 3 | [C++](./26xxx/26000. Imperfect Imperial Units/Imperfect Imperial Units.cc) |
 | [26001](https://boj.kr/26001) | Jagged Skyline | Platinum 3 | [C++](./26xxx/26001. Jagged Skyline/Jagged Skyline.cc) |
 | [26003](https://boj.kr/26003) | Lowest Latency | Platinum 4 | [C++](./26xxx/26003. Lowest Latency/Lowest Latency.cc) |
