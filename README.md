@@ -2452,6 +2452,7 @@
 | [14254](https://boj.kr/14254) | 비밀번호 변경 | Gold 4 | [C++](./14xxx/14254. 비밀번호 변경/비밀번호 변경.cc) |
 | [14264](https://boj.kr/14264) | 정육각형과 삼각형 | Bronze 3 | [Java](./14xxx/14264. 정육각형과 삼각형/정육각형과 삼각형.java) |
 | [14269](https://boj.kr/14269) | 전설의 쌍검 용사 | Gold 2 | [C++](./14xxx/14269. 전설의 쌍검 용사/전설의 쌍검 용사.cc) |
+| [14271](https://boj.kr/14271) | 그리드 게임 | Gold 5 | [C++](./14xxx/14271. 그리드 게임/그리드 게임.cc) |
 | [14284](https://boj.kr/14284) | 간선 이어가기 2 | Gold 5 | [Java](./14xxx/14284. 간선 이어가기 2/간선 이어가기 2.java) |
 | [14290](https://boj.kr/14290) | Diwali lightings (Small) | Bronze 2 | [Java](./14xxx/14290. Diwali lightings （Small）/Diwali lightings （Small）.java) |
 | [14291](https://boj.kr/14291) | Diwali lightings (Large) | Silver 4 | [Java](./14xxx/14291. Diwali lightings （Large）/Diwali lightings （Large）.java) |
@@ -4898,7 +4899,7 @@
 | [32549](https://boj.kr/32549) | Avoiding the Abyss | Silver 1 | [C++](./32xxx/32549. Avoiding the Abyss/Avoiding the Abyss.cc) |
 | [32551](https://boj.kr/32551) | Composed Rhythms | Bronze 2 | [C++](./32xxx/32551. Composed Rhythms/Composed Rhythms.cc) |
 | [32552](https://boj.kr/32552) | Double Deck | Platinum 4 | [C++](./32xxx/32552. Double Deck/Double Deck.cc) |
-| [32558](https://boj.kr/32558) | Jungle Game | Platinum 3 | [C++](./32xxx/32558. Jungle Game/Jungle Game.cc) |
+| [32558](https://boj.kr/32558) | Jungle Game | Platinum 2 | [C++](./32xxx/32558. Jungle Game/Jungle Game.cc) |
 | [32559](https://boj.kr/32559) | Knitting Pattern | Silver 3 | [C++](./32xxx/32559. Knitting Pattern/Knitting Pattern.cc) |
 | [32560](https://boj.kr/32560) | Amalgram | Bronze 3 | [Python](./32xxx/32560. Amalgram/Amalgram.py) |
 | [32585](https://boj.kr/32585) | Building Pyramids | Bronze 3 | [Python](./32xxx/32585. Building Pyramids/Building Pyramids.py) |
