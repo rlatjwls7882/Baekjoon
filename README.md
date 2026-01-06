@@ -356,6 +356,7 @@
 | [01849](https://boj.kr/1849) | 순열 | Platinum 4 | [C++](./01xxx/1849. 순열/순열.cc) |
 | [01850](https://boj.kr/1850) | 최대공약수 | Silver 1 | [Java](./01xxx/1850. 최대공약수/최대공약수.java) |
 | [01855](https://boj.kr/1855) | 암호 | Bronze 1 | [Java](./01xxx/1855. 암호/암호.java) |
+| [01862](https://boj.kr/1862) | 미터계 | Silver 4 | [C++](./01xxx/1862. 미터계/미터계.cc) |
 | [01863](https://boj.kr/1863) | 스카이라인 쉬운거 | Gold 4 | [C++](./01xxx/1863. 스카이라인 쉬운거/스카이라인 쉬운거.cc) |
 | [01864](https://boj.kr/1864) | 문어 숫자 | Bronze 2 | [Java](./01xxx/1864. 문어 숫자/문어 숫자.java) |
 | [01865](https://boj.kr/1865) | 웜홀 | Gold 3 | [Java](./01xxx/1865. 웜홀/웜홀.java) |
@@ -3209,6 +3210,7 @@
 | [18228](https://boj.kr/18228) | 펭귄추락대책위원회 | Bronze 2 | [Java](./18xxx/18228. 펭귄추락대책위원회/펭귄추락대책위원회.java) |
 | [18229](https://boj.kr/18229) | 내가 살게, 아냐 내가 살게 | Bronze 1 | [Java](./18xxx/18229. 내가 살게， 아냐 내가 살게/내가 살게， 아냐 내가 살게.java) |
 | [18231](https://boj.kr/18231) | 파괴된 도시 | Gold 5 | [C++](./18xxx/18231. 파괴된 도시/파괴된 도시.cc) |
+| [18232](https://boj.kr/18232) | 텔레포트 정거장 | Silver 2 | [C++](./18xxx/18232. 텔레포트 정거장/텔레포트 정거장.cc) |
 | [18238](https://boj.kr/18238) | ZOAC 2 | Bronze 2 | [Java](./18xxx/18238. ZOAC 2/ZOAC 2.java) |
 | [18242](https://boj.kr/18242) | 네모네모 시력검사 | Silver 4 | [C++](./18xxx/18242. 네모네모 시력검사/네모네모 시력검사.cc) |
 | [18245](https://boj.kr/18245) | 이상한 나라의 암호 | Bronze 2 | [Java](./18xxx/18245. 이상한 나라의 암호/이상한 나라의 암호.java) |
@@ -4015,6 +4017,7 @@
 | [25932](https://boj.kr/25932) | Find the Twins | Bronze 4 | [Java](./25xxx/25932. Find the Twins/Find the Twins.java) |
 | [25933](https://boj.kr/25933) | Medal Ranking | Bronze 3 | [Java](./25xxx/25933. Medal Ranking/Medal Ranking.java) |
 | [25943](https://boj.kr/25943) | 양팔저울 | Silver 4 | [C++](./25xxx/25943. 양팔저울/양팔저울.cc) |
+| [25947](https://boj.kr/25947) | 선물할인 | Silver 1 | [C++](./25xxx/25947. 선물할인/선물할인.cc) |
 | [25953](https://boj.kr/25953) | 템포럴 그래프 | Gold 3 | [C++](./25xxx/25953. 템포럴 그래프/템포럴 그래프.cc) |
 | [25963](https://boj.kr/25963) | 계단 만들기 (Small) | Gold 1 | [C++](./25xxx/25963. 계단 만들기 （Small）/계단 만들기 （Small）.cc) |
 | [25965](https://boj.kr/25965) | 미션 도네이션 | Bronze 3 | [Java](./25xxx/25965. 미션 도네이션/미션 도네이션.java) |
@@ -4848,6 +4851,7 @@
 | [32281](https://boj.kr/32281) | 유리구슬 (Glass Bead) | Silver 5 | [C++](./32xxx/32281. 유리구슬 （Glass Bead）/유리구슬 （Glass Bead）.cc) |
 | [32288](https://boj.kr/32288) | 바코드 닉네임 | Bronze 4 | [Java](./32xxx/32288. 바코드 닉네임/바코드 닉네임.java) |
 | [32290](https://boj.kr/32290) | MEX vs OR | Bronze 1 | [C++](./32xxx/32290. MEX vs OR/MEX vs OR.cc) |
+| [32291](https://boj.kr/32291) | $x$와 $x+1$의 차이 | Silver 1 | [C++](./32xxx/32291. $x$와 $x＋1$의 차이/$x$와 $x＋1$의 차이.cc) |
 | [32292](https://boj.kr/32292) | ABB to BA (Easy) | Silver 5 | [C++](./32xxx/32292. ABB to BA （Easy）/ABB to BA （Easy）.cc) |
 | [32293](https://boj.kr/32293) | ABB to BA (Hard) | Gold 3 | [C++](./32xxx/32293. ABB to BA （Hard）/ABB to BA （Hard）.cc) |
 | [32297](https://boj.kr/32297) | 문자열을 만들어요 | Bronze 3 | [C++](./32xxx/32297. 문자열을 만들어요/문자열을 만들어요.cc) |
