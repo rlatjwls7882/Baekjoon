@@ -4020,7 +4020,7 @@
 | [25943](https://boj.kr/25943) | 양팔저울 | Silver 4 | [C++](./25xxx/25943. 양팔저울/양팔저울.cc) |
 | [25947](https://boj.kr/25947) | 선물할인 | Silver 1 | [C++](./25xxx/25947. 선물할인/선물할인.cc) |
 | [25953](https://boj.kr/25953) | 템포럴 그래프 | Gold 3 | [C++](./25xxx/25953. 템포럴 그래프/템포럴 그래프.cc) |
-| [25963](https://boj.kr/25963) | 계단 만들기 (Small) | Gold 1 | [C++](./25xxx/25963. 계단 만들기 （Small）/계단 만들기 （Small）.cc) |
+| [25963](https://boj.kr/25963) | 계단 만들기 (Small) | Platinum 5 | [C++](./25xxx/25963. 계단 만들기 （Small）/계단 만들기 （Small）.cc) |
 | [25965](https://boj.kr/25965) | 미션 도네이션 | Bronze 3 | [Java](./25xxx/25965. 미션 도네이션/미션 도네이션.java) |
 | [25966](https://boj.kr/25966) | 배찬우는 배열을 좋아해 | Silver 5 | [C++](./25xxx/25966. 배찬우는 배열을 좋아해/배찬우는 배열을 좋아해.cc) |
 | [25985](https://boj.kr/25985) | Fastestest Function | Bronze 2 | [Java](./25xxx/25985. Fastestest Function/Fastestest Function.java) |
