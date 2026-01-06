@@ -962,6 +962,7 @@
 | [04181](https://boj.kr/4181) | Convex Hull | Platinum 4 | [C++](./04xxx/4181. Convex Hull/Convex Hull.cc) |
 | [04195](https://boj.kr/4195) | 친구 네트워크 | Gold 2 | [Java](./04xxx/4195. 친구 네트워크/친구 네트워크.java) |
 | [04196](https://boj.kr/4196) | 도미노 | Platinum 4 | [C++](./04xxx/4196. 도미노/도미노.cc) |
+| [04225](https://boj.kr/4225) | 쓰레기 슈트 | Platinum 3 | [C++](./04xxx/4225. 쓰레기 슈트/쓰레기 슈트.cc) |
 | [04233](https://boj.kr/4233) | 가짜소수 | Gold 5 | [C++](./04xxx/4233. 가짜소수/가짜소수.cc) |
 | [04237](https://boj.kr/4237) | 비 단조성 | Gold 3 | [C++](./04xxx/4237. 비 단조성/비 단조성.cc) |
 | [04246](https://boj.kr/4246) | To and Fro | Bronze 1 | [Java](./04xxx/4246. To and Fro/To and Fro.java) |
@@ -5230,9 +5231,9 @@
 | [34935](https://boj.kr/34935) | 오름차순과 비내림차순 | Bronze 4 | [C++](./34xxx/34935. 오름차순과 비내림차순/오름차순과 비내림차순.cc) |
 | [34945](https://boj.kr/34945) | 채플이 너무해 | Bronze 5 | [C++](./34xxx/34945. 채플이 너무해/채플이 너무해.cc) |
 | [34946](https://boj.kr/34946) | 셔틀 탈래 말래 탈래 말래 애매하긴 해 | Bronze 4 | [C++](./34xxx/34946. 셔틀 탈래 말래 탈래 말래 애매하긴 해/셔틀 탈래 말래 탈래 말래 애매하긴 해.cc) |
-| [34953](https://boj.kr/34953) | SSHS 문자열 | Silver 5 | |
-| [34977](https://boj.kr/34977) | 수미수열 | Bronze 1 | |
-| [34980](https://boj.kr/34980) | 생수병 놓기 | Bronze 3 | |
+| [34953](https://boj.kr/34953) | SSHS 문자열 | Silver 5 | [C++](./34xxx/34953. SSHS 문자열/SSHS 문자열.cc) |
+| [34977](https://boj.kr/34977) | 수미수열 | Bronze 1 | [C++](./34xxx/34977. 수미수열/수미수열.cc) |
+| [34980](https://boj.kr/34980) | 생수병 놓기 | Bronze 3 | [C++](./34xxx/34980. 생수병 놓기/생수병 놓기.cc) |
 | [34991](https://boj.kr/34991) | toycppartoon | Silver 2 | [C++](./34xxx/34991. toycppartoon/toycppartoon.cc) |
 | [34998](https://boj.kr/34998) | 1, 2, 3, 많다! | Bronze 3 | [Python](./34xxx/34998. 1， 2， 3， 많다！/1， 2， 3， 많다！.py) |
 | [35030](https://boj.kr/35030) | 2026년이 기대되는 이유 | Silver 1 | [C++](./35xxx/35030. 2026년이 기대되는 이유/2026년이 기대되는 이유.cc) |
