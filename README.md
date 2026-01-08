@@ -4764,6 +4764,7 @@
 | [31719](https://boj.kr/31719) | UDP 스택 | Gold 4 | [C++](./31xxx/31719. UDP 스택/UDP 스택.cc) |
 | [31738](https://boj.kr/31738) | 매우 어려운 문제 | Silver 5 | [C++](./31xxx/31738. 매우 어려운 문제/매우 어려운 문제.cc) |
 | [31746](https://boj.kr/31746) | SciComLove (2024) | Bronze 4 | [C++](./31xxx/31746. SciComLove （2024）/SciComLove （2024）.cc) |
+| [31747](https://boj.kr/31747) | 점호 | Silver 3 | [C++](./31xxx/31747. 점호/점호.cc) |
 | [31775](https://boj.kr/31775) | 글로벌 포닉스 | Bronze 4 | [C++](./31xxx/31775.%E2%80%85글로벌%E2%80%85포닉스/글로벌%E2%80%85포닉스.cc) |
 | [31776](https://boj.kr/31776) | 예비 소집 결과 보고서 | Bronze 3 | [C++](./31xxx/31776.%E2%80%85예비%E2%80%85소집%E2%80%85결과%E2%80%85보고서/예비%E2%80%85소집%E2%80%85결과%E2%80%85보고서.cc) |
 | [31780](https://boj.kr/31780) | 불사조 | Silver 5 | [C++](./31xxx/31780. 불사조/불사조.cc) |
@@ -4930,9 +4931,15 @@
 | [32722](https://boj.kr/32722) | Juta teekond | Bronze 4 | [Python](./32xxx/32722. Juta teekond/Juta teekond.py) |
 | [32728](https://boj.kr/32728) | Sõnakuulelik Tom | Bronze 3 | [C++](./32xxx/32728. Sõnakuulelik Tom/Sõnakuulelik Tom.cc) |
 | [32748](https://boj.kr/32748) | $f(A + B)$ | Silver 5 | [C++](./32xxx/32748. $f（A ＋ B）$/$f（A ＋ B）$.cc) |
+| [32749](https://boj.kr/32749) | 타노수 | Silver 5 | [C++](./32xxx/32749. 타노수/타노수.cc) |
+| [32750](https://boj.kr/32750) | 익명M과 콜 사인 | Silver 1 | [C++](./32xxx/32750. 익명M과 콜 사인/익명M과 콜 사인.cc) |
 | [32751](https://boj.kr/32751) | 햄버거 | Bronze 2 | [C++](./32xxx/32751. 햄버거/햄버거.cc) |
+| [32752](https://boj.kr/32752) | 수열이에요? | Silver 5 | [C++](./32xxx/32752. 수열이에요？/수열이에요？.cc) |
 | [32753](https://boj.kr/32753) | 네 또 수열입니다 | Silver 4 | [C++](./32xxx/32753. 네 또 수열입니다/네 또 수열입니다.cc) |
+| [32754](https://boj.kr/32754) | 손이 닿는 범위 | Silver 2 | [C++](./32xxx/32754. 손이 닿는 범위/손이 닿는 범위.cc) |
+| [32755](https://boj.kr/32755) | 차원의 나무 여행 | Gold 4 | [C++](./32xxx/32755. 차원의 나무 여행/차원의 나무 여행.cc) |
 | [32760](https://boj.kr/32760) | Nothing Everything | Silver 1 | [C++](./32xxx/32760. Nothing Everything/Nothing Everything.cc) |
+| [32761](https://boj.kr/32761) | 가위바위보 타일 | Silver 2 | [C++](./32xxx/32761. 가위바위보 타일/가위바위보 타일.cc) |
 | [32762](https://boj.kr/32762) | 더치 페이 | Bronze 2 | [C++](./32xxx/32762. 더치 페이/더치 페이.cc) |
 | [32775](https://boj.kr/32775) | 가희와 4시간의 벽 1 | Bronze 5 | [C++](./32xxx/32775. 가희와 4시간의 벽 1/가희와 4시간의 벽 1.cc) |
 | [32776](https://boj.kr/32776) | 가희와 4시간의 벽 2 | Bronze 4 | [C++](./32xxx/32776. 가희와 4시간의 벽 2/가희와 4시간의 벽 2.cc) |
