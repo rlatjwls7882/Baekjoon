@@ -1629,7 +1629,7 @@
 | [09466](https://boj.kr/9466) | 텀 프로젝트 | Gold 3 | [C++](./09xxx/9466. 텀 프로젝트/텀 프로젝트.cc) |
 | [09469](https://boj.kr/9469) | 폰 노이만 | Bronze 3 | [Java](./09xxx/9469. 폰 노이만/폰 노이만.java) |
 | [09471](https://boj.kr/9471) | 피사노 주기 | Silver 4 | [C++](./09xxx/9471. 피사노 주기/피사노 주기.cc) |
-| [09488](https://boj.kr/9488) | The n Days of Christmas | Bronze 1 | [Java](./09xxx/9488. The n Days of Christmas/The n Days of Christmas.java) |
+| [09488](https://boj.kr/9488) | The n Days of Christmas | Silver 5 | [Java](./09xxx/9488. The n Days of Christmas/The n Days of Christmas.java) |
 | [09493](https://boj.kr/9493) | 길면 기차, 기차는 빨라, 빠른 것은 비행기 | Bronze 3 | [Java](./09xxx/9493. 길면 기차， 기차는 빨라， 빠른 것은 비행기/길면 기차， 기차는 빨라， 빠른 것은 비행기.java) |
 | [09494](https://boj.kr/9494) | Text Roll | Bronze 1 | [Java](./09xxx/9494. Text Roll/Text Roll.java) |
 | [09498](https://boj.kr/9498) | 시험 성적 | Bronze 5 | [C](./09xxx/9498. 시험 성적/시험 성적.c) |
