@@ -1797,7 +1797,7 @@
 | [10427](https://boj.kr/10427) | 빚 | Gold 5 | [C++](./10xxx/10427. 빚/빚.cc) |
 | [10430](https://boj.kr/10430) | 나머지 | Bronze 5 | [C](./10xxx/10430. 나머지/나머지.c) |
 | [10431](https://boj.kr/10431) | 줄세우기 | Silver 5 | [C++](./10xxx/10431. 줄세우기/줄세우기.cc) |
-| [10434](https://boj.kr/10434) | 행복한 소수 | Silver 3 | [C++](./10xxx/10434. 행복한 소수/행복한 소수.cc) |
+| [10434](https://boj.kr/10434) | 행복한 소수 | Silver 2 | [C++](./10xxx/10434. 행복한 소수/행복한 소수.cc) |
 | [10448](https://boj.kr/10448) | 유레카 이론 | Bronze 1 | [Java](./10xxx/10448. 유레카 이론/유레카 이론.java) |
 | [10451](https://boj.kr/10451) | 순열 사이클 | Silver 3 | [C++](./10xxx/10451. 순열 사이클/순열 사이클.cc) |
 | [10453](https://boj.kr/10453) | 문자열 변환 | Gold 5 | [C++](./10xxx/10453. 문자열 변환/문자열 변환.cc) |
@@ -2212,7 +2212,7 @@
 | [12788](https://boj.kr/12788) | 제 2회 IUPC는 잘 개최될 수 있을까? | Silver 4 | [C++](./12xxx/12788. 제 2회 IUPC는 잘 개최될 수 있을까？/제 2회 IUPC는 잘 개최될 수 있을까？.cc) |
 | [12789](https://boj.kr/12789) | 도키도키 간식드리미 | Silver 3 | [Java](./12xxx/12789. 도키도키 간식드리미/도키도키 간식드리미.java) |
 | [12790](https://boj.kr/12790) | Mini Fantasy War | Bronze 3 | [Java](./12xxx/12790. Mini Fantasy War/Mini Fantasy War.java) |
-| [12791](https://boj.kr/12791) | Starman | Bronze 1 | [Java](./12xxx/12791. Starman/Starman.java) |
+| [12791](https://boj.kr/12791) | Starman | Bronze 2 | [Java](./12xxx/12791. Starman/Starman.java) |
 | [12796](https://boj.kr/12796) | 나의 행렬곱셈 답사기 | Gold 5 | [C++](./12xxx/12796. 나의 행렬곱셈 답사기/나의 행렬곱셈 답사기.cc) |
 | [12813](https://boj.kr/12813) | 이진수 연산 | Bronze 2 | [Java](./12xxx/12813. 이진수 연산/이진수 연산.java) |
 | [12832](https://boj.kr/12832) | Tickets | Platinum 5 | [C++](./12xxx/12832. Tickets/Tickets.cc) |
@@ -4257,6 +4257,7 @@
 | [27648](https://boj.kr/27648) | 증가 배열 만들기 | Silver 5 | [C++](./27xxx/27648. 증가 배열 만들기/증가 배열 만들기.cc) |
 | [27649](https://boj.kr/27649) | 토크나이저 | Silver 3 | [Java](./27xxx/27649. 토크나이저/토크나이저.java) |
 | [27652](https://boj.kr/27652) | AB | Platinum 5 | [C++](./27xxx/27652. AB/AB.cc) |
+| [27656](https://boj.kr/27656) | 양궁 | Platinum 3 | [C++](./27xxx/27656. 양궁/양궁.cc) |
 | [27659](https://boj.kr/27659) | Queue skipping (Easy) | Bronze 2 | [Java](./27xxx/27659. Queue skipping （Easy）/Queue skipping （Easy）.java) |
 | [27736](https://boj.kr/27736) | 찬반투표 | Bronze 3 | [Java](./27xxx/27736. 찬반투표/찬반투표.java) |
 | [27855](https://boj.kr/27855) | Cornhole | Bronze 4 | [Java](./27xxx/27855. Cornhole/Cornhole.java) |
@@ -4938,6 +4939,8 @@
 | [32753](https://boj.kr/32753) | 네 또 수열입니다 | Silver 4 | [C++](./32xxx/32753. 네 또 수열입니다/네 또 수열입니다.cc) |
 | [32754](https://boj.kr/32754) | 손이 닿는 범위 | Silver 2 | [C++](./32xxx/32754. 손이 닿는 범위/손이 닿는 범위.cc) |
 | [32755](https://boj.kr/32755) | 차원의 나무 여행 | Gold 4 | [C++](./32xxx/32755. 차원의 나무 여행/차원의 나무 여행.cc) |
+| [32756](https://boj.kr/32756) | 분수 경로 | Gold 3 | [C++](./32xxx/32756. 분수 경로/분수 경로.cc) |
+| [32757](https://boj.kr/32757) | 문어 | Gold 4 | [C++](./32xxx/32757. 문어/문어.cc) |
 | [32758](https://boj.kr/32758) | N+1 행사 | Gold 4 | [C++](./32xxx/32758. N＋1 행사/N＋1 행사.cc) |
 | [32759](https://boj.kr/32759) | 준근이와 마법 공방 | Gold 4 | [C++](./32xxx/32759. 준근이와 마법 공방/준근이와 마법 공방.cc) |
 | [32760](https://boj.kr/32760) | Nothing Everything | Silver 1 | [C++](./32xxx/32760. Nothing Everything/Nothing Everything.cc) |
