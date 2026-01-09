@@ -1765,7 +1765,7 @@
 | [10189](https://boj.kr/10189) | Hook | Bronze 5 | [C](./10xxx/10189. Hook/Hook.c) |
 | [10193](https://boj.kr/10193) | Word Swap | Bronze 2 | [Java](./10xxx/10193. Word Swap/Word Swap.java) |
 | [10202](https://boj.kr/10202) | Longest Subsequence | Bronze 2 | [Java](./10xxx/10202. Longest Subsequence/Longest Subsequence.java) |
-| [10203](https://boj.kr/10203) | Count Vowels | Bronze 3 | [Java](./10xxx/10203. Count Vowels/Count Vowels.java) |
+| [10203](https://boj.kr/10203) | Count Vowels | Bronze 4 | [Java](./10xxx/10203. Count Vowels/Count Vowels.java) |
 | [10205](https://boj.kr/10205) | 헤라클레스와 히드라 | Bronze 3 | [Java](./10xxx/10205. 헤라클레스와 히드라/헤라클레스와 히드라.java) |
 | [10211](https://boj.kr/10211) | Maximum Subarray | Silver 4 | [Java](./10xxx/10211. Maximum Subarray/Maximum Subarray.java) |
 | [10213](https://boj.kr/10213) | XH Company | Platinum 2 | [C++](./10xxx/10213. XH Company/XH Company.cc) |
