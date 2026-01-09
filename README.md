@@ -4938,6 +4938,8 @@
 | [32753](https://boj.kr/32753) | 네 또 수열입니다 | Silver 4 | [C++](./32xxx/32753. 네 또 수열입니다/네 또 수열입니다.cc) |
 | [32754](https://boj.kr/32754) | 손이 닿는 범위 | Silver 2 | [C++](./32xxx/32754. 손이 닿는 범위/손이 닿는 범위.cc) |
 | [32755](https://boj.kr/32755) | 차원의 나무 여행 | Gold 4 | [C++](./32xxx/32755. 차원의 나무 여행/차원의 나무 여행.cc) |
+| [32758](https://boj.kr/32758) | N+1 행사 | Gold 4 | [C++](./32xxx/32758. N＋1 행사/N＋1 행사.cc) |
+| [32759](https://boj.kr/32759) | 준근이와 마법 공방 | Gold 4 | [C++](./32xxx/32759. 준근이와 마법 공방/준근이와 마법 공방.cc) |
 | [32760](https://boj.kr/32760) | Nothing Everything | Silver 1 | [C++](./32xxx/32760. Nothing Everything/Nothing Everything.cc) |
 | [32761](https://boj.kr/32761) | 가위바위보 타일 | Silver 2 | [C++](./32xxx/32761. 가위바위보 타일/가위바위보 타일.cc) |
 | [32762](https://boj.kr/32762) | 더치 페이 | Bronze 2 | [C++](./32xxx/32762. 더치 페이/더치 페이.cc) |
