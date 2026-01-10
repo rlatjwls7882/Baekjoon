@@ -545,6 +545,7 @@
 | [02357](https://boj.kr/2357) | 최솟값과 최댓값 | Gold 1 | [C++](./02xxx/2357. 최솟값과 최댓값/최솟값과 최댓값.cc) |
 | [02358](https://boj.kr/2358) | 평행선 | Silver 4 | [Java](./02xxx/2358. 평행선/평행선.java) |
 | [02365](https://boj.kr/2365) | 숫자판 만들기 | Platinum 2 | [C++](./02xxx/2365. 숫자판 만들기/숫자판 만들기.cc) |
+| [02367](https://boj.kr/2367) | 파티 | Platinum 4 | [C++](./02xxx/2367. 파티/파티.cc) |
 | [02371](https://boj.kr/2371) | 파일 구별하기 | Silver 3 | [C++](./02xxx/2371. 파일 구별하기/파일 구별하기.cc) |
 | [02372](https://boj.kr/2372) | Livestock Count | Unrated | [Ada](./02xxx/2372. Livestock Count/Livestock Count.ada) |
 | [02377](https://boj.kr/2377) | Pottery | Unrated | [FreeBASIC](./02xxx/2377. Pottery/Pottery.bas) |
@@ -2028,6 +2029,7 @@
 | [11403](https://boj.kr/11403) | 경로 찾기 | Silver 1 | [Java](./11xxx/11403. 경로 찾기/경로 찾기.java) |
 | [11404](https://boj.kr/11404) | 플로이드 | Gold 4 | [C++](./11xxx/11404. 플로이드/플로이드.cc) [Java](./11xxx/11404. 플로이드/플로이드.java) |
 | [11405](https://boj.kr/11405) | 책 구매하기 | Platinum 3 | [C++](./11xxx/11405. 책 구매하기/책 구매하기.cc) |
+| [11406](https://boj.kr/11406) | 책 구매하기 2 | Platinum 4 | [C++](./11xxx/11406. 책 구매하기 2/책 구매하기 2.cc) |
 | [11407](https://boj.kr/11407) | 책 구매하기 3 | Platinum 3 | [C++](./11xxx/11407. 책 구매하기 3/책 구매하기 3.cc) |
 | [11408](https://boj.kr/11408) | 열혈강호 5 | Platinum 3 | [C++](./11xxx/11408. 열혈강호 5/열혈강호 5.cc) |
 | [11409](https://boj.kr/11409) | 열혈강호 6 | Platinum 3 | [C++](./11xxx/11409. 열혈강호 6/열혈강호 6.cc) |
@@ -4312,7 +4314,7 @@
 | [28088](https://boj.kr/28088) | 응애(EASY) | Silver 4 | [C++](./28xxx/28088. 응애（EASY）/응애（EASY）.cc) |
 | [28091](https://boj.kr/28091) | 사각형 분할 | Diamond 5 | [C++](./28xxx/28091. 사각형 분할/사각형 분할.cc) |
 | [28097](https://boj.kr/28097) | 모범생 포닉스 | Bronze 4 | [Java](./28xxx/28097. 모범생 포닉스/모범생 포닉스.java) |
-| [28098](https://boj.kr/28098) | 폭발 속에서 살아남기 | Platinum 3 | |
+| [28098](https://boj.kr/28098) | 폭발 속에서 살아남기 | Platinum 3 | [C++](./28xxx/28098. 폭발 속에서 살아남기/폭발 속에서 살아남기.cc) |
 | [28113](https://boj.kr/28113) | 정보섬의 대중교통 | Bronze 5 | [C](./28xxx/28113. 정보섬의 대중교통/정보섬의 대중교통.c) |
 | [28114](https://boj.kr/28114) | 팀명 정하기 | Bronze 2 | [Java](./28xxx/28114. 팀명 정하기/팀명 정하기.java) |
 | [28115](https://boj.kr/28115) | 등차수열의 합 | Bronze 1 | [Java](./28xxx/28115. 등차수열의 합/등차수열의 합.java) |
