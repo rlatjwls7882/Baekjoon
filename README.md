@@ -2773,7 +2773,7 @@
 | [15803](https://boj.kr/15803) | PLAYERJINAH’S BOTTLEGROUNDS | Silver 5 | [C++](./15xxx/15803. PLAYERJINAH’S BOTTLEGROUNDS/PLAYERJINAH’S BOTTLEGROUNDS.cc) |
 | [15809](https://boj.kr/15809) | 전국시대 | Gold 3 | [Java](./15xxx/15809. 전국시대/전국시대.java) |
 | [15810](https://boj.kr/15810) | 풍선 공장 | Silver 2 | [C++](./15xxx/15810. 풍선 공장/풍선 공장.cc) |
-| [15813](https://boj.kr/15813) | 너의 이름은 몇 점이니? | Bronze 2 | [Java](./15xxx/15813. 너의 이름은 몇 점이니？/너의 이름은 몇 점이니？.java) |
+| [15813](https://boj.kr/15813) | 너의 이름은 몇 점이니? | Bronze 3 | [Java](./15xxx/15813. 너의 이름은 몇 점이니？/너의 이름은 몇 점이니？.java) |
 | [15814](https://boj.kr/15814) | 야바위 대장 | Bronze 2 | [Java](./15xxx/15814. 야바위 대장/야바위 대장.java) |
 | [15815](https://boj.kr/15815) | 천재 수학자 성필 | Silver 3 | [C++](./15xxx/15815. 천재 수학자 성필/천재 수학자 성필.cc) |
 | [15818](https://boj.kr/15818) | 오버플로우와 모듈러 | Bronze 3 | [Java](./15xxx/15818. 오버플로우와 모듈러/오버플로우와 모듈러.java) |
@@ -4281,6 +4281,7 @@
 | [27939](https://boj.kr/27939) | 가지 교배 | Bronze 1 | [Java](./27xxx/27939. 가지 교배/가지 교배.java) |
 | [27940](https://boj.kr/27940) | 가지 산사태 | Silver 5 | [C++](./27xxx/27940. 가지 산사태/가지 산사태.cc) |
 | [27945](https://boj.kr/27945) | 슬슬 가지를 먹지 않으면 죽는다 | Gold 3 | [Java](./27xxx/27945. 슬슬 가지를 먹지 않으면 죽는다/슬슬 가지를 먹지 않으면 죽는다.java) |
+| [27947](https://boj.kr/27947) | 가지 밭 게임 | Platinum 3 | [C++](./27xxx/27947. 가지 밭 게임/가지 밭 게임.cc) |
 | [27951](https://boj.kr/27951) | 옷걸이 | Bronze 1 | [Java](./27xxx/27951. 옷걸이/옷걸이.java) |
 | [27958](https://boj.kr/27958) | 사격 연습 | Gold 4 | [C++](./27xxx/27958. 사격 연습/사격 연습.cc) |
 | [27959](https://boj.kr/27959) | 초코바 | Bronze 5 | [C](./27xxx/27959. 초코바/초코바.c) |
@@ -4311,6 +4312,7 @@
 | [28088](https://boj.kr/28088) | 응애(EASY) | Silver 4 | [C++](./28xxx/28088. 응애（EASY）/응애（EASY）.cc) |
 | [28091](https://boj.kr/28091) | 사각형 분할 | Diamond 5 | [C++](./28xxx/28091. 사각형 분할/사각형 분할.cc) |
 | [28097](https://boj.kr/28097) | 모범생 포닉스 | Bronze 4 | [Java](./28xxx/28097. 모범생 포닉스/모범생 포닉스.java) |
+| [28098](https://boj.kr/28098) | 폭발 속에서 살아남기 | Platinum 3 | |
 | [28113](https://boj.kr/28113) | 정보섬의 대중교통 | Bronze 5 | [C](./28xxx/28113. 정보섬의 대중교통/정보섬의 대중교통.c) |
 | [28114](https://boj.kr/28114) | 팀명 정하기 | Bronze 2 | [Java](./28xxx/28114. 팀명 정하기/팀명 정하기.java) |
 | [28115](https://boj.kr/28115) | 등차수열의 합 | Bronze 1 | [Java](./28xxx/28115. 등차수열의 합/등차수열의 합.java) |
