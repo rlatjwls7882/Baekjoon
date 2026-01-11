@@ -113,6 +113,7 @@
 | [01252](https://boj.kr/1252) | 이진수 덧셈 | Bronze 2 | [Java](./01xxx/1252. 이진수 덧셈/이진수 덧셈.java) |
 | [01253](https://boj.kr/1253) | 좋다 | Gold 4 | [C++](./01xxx/1253. 좋다/좋다.cc) |
 | [01254](https://boj.kr/1254) | 팰린드롬 만들기 | Silver 2 | [C++](./01xxx/1254. 팰린드롬 만들기/팰린드롬 만들기.cc) |
+| [01258](https://boj.kr/1258) | 문제 할당 | Platinum 3 | [C++](./01xxx/1258. 문제 할당/문제 할당.cc) |
 | [01259](https://boj.kr/1259) | 팰린드롬수 | Bronze 1 | [Java](./01xxx/1259. 팰린드롬수/팰린드롬수.java) |
 | [01260](https://boj.kr/1260) | DFS와 BFS | Silver 2 | [Java](./01xxx/1260. DFS와 BFS/DFS와 BFS.java) |
 | [01261](https://boj.kr/1261) | 알고스팟 | Gold 4 | [Java](./01xxx/1261. 알고스팟/알고스팟.java) |
@@ -256,6 +257,7 @@
 | [01574](https://boj.kr/1574) | 룩 어택 | Platinum 3 | [C++](./01xxx/1574. 룩 어택/룩 어택.cc) |
 | [01577](https://boj.kr/1577) | 도로의 개수 | Gold 5 | [C++](./01xxx/1577. 도로의 개수/도로의 개수.cc) |
 | [01584](https://boj.kr/1584) | 게임 | Gold 5 | [Java](./01xxx/1584. 게임/게임.java) |
+| [01585](https://boj.kr/1585) | 경찰 | Platinum 3 | [C++](./01xxx/1585. 경찰/경찰.cc) |
 | [01590](https://boj.kr/1590) | 캠프가는 영식 | Silver 4 | [C++](./01xxx/1590. 캠프가는 영식/캠프가는 영식.cc) |
 | [01592](https://boj.kr/1592) | 영식이와 친구들 | Bronze 2 | [Java](./01xxx/1592. 영식이와 친구들/영식이와 친구들.java) |
 | [01593](https://boj.kr/1593) | 문자 해독 | Gold 5 | [C++](./01xxx/1593. 문자 해독/문자 해독.cc) |
@@ -2175,6 +2177,8 @@
 | [12352](https://boj.kr/12352) | Hedgemony (Large) | Bronze 3 | [Java](./12xxx/12352. Hedgemony （Large）/Hedgemony （Large）.java) |
 | [12353](https://boj.kr/12353) | Dr. Spaceman의 특별한 알고리즘 | Bronze 2 | [Java](./12xxx/12353. Dr． Spaceman의 특별한 알고리즘/Dr． Spaceman의 특별한 알고리즘.java) |
 | [12400](https://boj.kr/12400) | Speaking in Tongues (Small) | Bronze 1 | [Java](./12xxx/12400. Speaking in Tongues （Small）/Speaking in Tongues （Small）.java) |
+| [12423](https://boj.kr/12423) | 전장 (Small) | Platinum 3 | [C++](./12xxx/12423. 전장 （Small）/전장 （Small）.cc) |
+| [12424](https://boj.kr/12424) | 전장 (Large) | Platinum 3 | [C++](./12xxx/12424. 전장 （Large）/전장 （Large）.cc) |
 | [12437](https://boj.kr/12437) | 새로운 달력 (Small) | Silver 4 | [C++](./12xxx/12437. 새로운 달력 （Small）/새로운 달력 （Small）.cc) |
 | [12438](https://boj.kr/12438) | 새로운 달력 (Large) | Gold 5 | [C++](./12xxx/12438. 새로운 달력 （Large）/새로운 달력 （Large）.cc) |
 | [12503](https://boj.kr/12503) | FreeCell Statistics (Small) | Silver 3 | [C++](./12xxx/12503. FreeCell Statistics （Small）/FreeCell Statistics （Small）.cc) |
@@ -2459,6 +2463,7 @@
 | [14269](https://boj.kr/14269) | 전설의 쌍검 용사 | Gold 2 | [C++](./14xxx/14269. 전설의 쌍검 용사/전설의 쌍검 용사.cc) |
 | [14271](https://boj.kr/14271) | 그리드 게임 | Gold 5 | [C++](./14xxx/14271. 그리드 게임/그리드 게임.cc) |
 | [14284](https://boj.kr/14284) | 간선 이어가기 2 | Gold 5 | [Java](./14xxx/14284. 간선 이어가기 2/간선 이어가기 2.java) |
+| [14286](https://boj.kr/14286) | 간선 끊어가기 2 | Platinum 3 | [C++](./14xxx/14286. 간선 끊어가기 2/간선 끊어가기 2.cc) |
 | [14290](https://boj.kr/14290) | Diwali lightings (Small) | Bronze 2 | [Java](./14xxx/14290. Diwali lightings （Small）/Diwali lightings （Small）.java) |
 | [14291](https://boj.kr/14291) | Diwali lightings (Large) | Silver 4 | [Java](./14xxx/14291. Diwali lightings （Large）/Diwali lightings （Large）.java) |
 | [14322](https://boj.kr/14322) | Country Leader (Small) | Bronze 2 | [Java](./14xxx/14322. Country Leader （Small）/Country Leader （Small）.java) |
