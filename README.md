@@ -3055,6 +3055,7 @@
 | [17216](https://boj.kr/17216) | 가장 큰 감소 부분 수열 | Silver 2 | [Java](./17xxx/17216. 가장 큰 감소 부분 수열/가장 큰 감소 부분 수열.java) |
 | [17218](https://boj.kr/17218) | 비밀번호 만들기 | Gold 4 | [C++](./17xxx/17218. 비밀번호 만들기/비밀번호 만들기.cc) |
 | [17219](https://boj.kr/17219) | 비밀번호 찾기 | Silver 4 | [C++](./17xxx/17219. 비밀번호 찾기/비밀번호 찾기.cc) [Java](./17xxx/17219. 비밀번호 찾기/비밀번호 찾기.java) |
+| [17222](https://boj.kr/17222) | 위스키 거래 | Platinum 4 | [C++](./17xxx/17222. 위스키 거래/위스키 거래.cc) |
 | [17224](https://boj.kr/17224) | APC는 왜 서브태스크 대회가 되었을까? | Bronze 1 | [Java](./17xxx/17224. APC는 왜 서브태스크 대회가 되었을까？/APC는 왜 서브태스크 대회가 되었을까？.java) |
 | [17225](https://boj.kr/17225) | 세훈이의 선물가게 | Gold 5 | [C++](./17xxx/17225. 세훈이의 선물가게/세훈이의 선물가게.cc) |
 | [17241](https://boj.kr/17241) | Pineapple Advertising | Silver 1 | [C++](./17xxx/17241. Pineapple Advertising/Pineapple Advertising.cc) |
