@@ -1482,6 +1482,7 @@
 | [08538](https://boj.kr/8538) | Bałagan i Stonki | Bronze 1 | [Java](./08xxx/8538. Bałagan i Stonki/Bałagan i Stonki.java) |
 | [08545](https://boj.kr/8545) | Zadanie próbne | Bronze 5 | [Java](./08xxx/8545. Zadanie próbne/Zadanie próbne.java) |
 | [08549](https://boj.kr/8549) | Autostrady | Gold 4 | [Java](./08xxx/8549. Autostrady/Autostrady.java) |
+| [08551](https://boj.kr/8551) | Blokada | Platinum 2 | [C++](./08xxx/8551. Blokada/Blokada.cc) |
 | [08558](https://boj.kr/8558) | Silnia | Bronze 4 | [Java](./08xxx/8558. Silnia/Silnia.java) |
 | [08559](https://boj.kr/8559) | Potęga | Bronze 2 | [Java](./08xxx/8559. Potęga/Potęga.java) |
 | [08571](https://boj.kr/8571) | Apteka | Platinum 2 | [C++](./08xxx/8571. Apteka/Apteka.cc) |
