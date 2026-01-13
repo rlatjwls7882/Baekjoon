@@ -546,6 +546,7 @@
 | [02355](https://boj.kr/2355) | 시그마 | Bronze 2 | [Java](./02xxx/2355. 시그마/시그마.java) |
 | [02357](https://boj.kr/2357) | 최솟값과 최댓값 | Gold 1 | [C++](./02xxx/2357. 최솟값과 최댓값/최솟값과 최댓값.cc) |
 | [02358](https://boj.kr/2358) | 평행선 | Silver 4 | [Java](./02xxx/2358. 평행선/평행선.java) |
+| [02362](https://boj.kr/2362) | 탈출 | Platinum 2 | [C++](./02xxx/2362. 탈출/탈출.cc) |
 | [02365](https://boj.kr/2365) | 숫자판 만들기 | Platinum 2 | [C++](./02xxx/2365. 숫자판 만들기/숫자판 만들기.cc) |
 | [02367](https://boj.kr/2367) | 파티 | Platinum 4 | [C++](./02xxx/2367. 파티/파티.cc) |
 | [02371](https://boj.kr/2371) | 파일 구별하기 | Silver 3 | [C++](./02xxx/2371. 파일 구별하기/파일 구별하기.cc) |
@@ -1568,6 +1569,7 @@
 | [09130](https://boj.kr/9130) | Herbert | Silver 1 | [C++](./09xxx/9130. Herbert/Herbert.cc) |
 | [09151](https://boj.kr/9151) | Starship Hakodate-maru | Bronze 2 | [Java](./09xxx/9151. Starship Hakodate－maru/Starship Hakodate－maru.java) |
 | [09161](https://boj.kr/9161) | Sir Bedavere’s Bogus Division Solutions | Bronze 3 | [Java](./09xxx/9161. Sir Bedavere’s Bogus Division Solutions/Sir Bedavere’s Bogus Division Solutions.java) |
+| [09169](https://boj.kr/9169) | 나는 9999번 문제를 풀 수 있다 | Platinum 2 | [C++](./09xxx/9169. 나는 9999번 문제를 풀 수 있다/나는 9999번 문제를 풀 수 있다.cc) |
 | [09176](https://boj.kr/9176) | 메르센 합성수 | Gold 4 | [C++](./09xxx/9176. 메르센 합성수/메르센 합성수.cc) |
 | [09182](https://boj.kr/9182) | Biorhythms | Bronze 2 | [C++](./09xxx/9182. Biorhythms/Biorhythms.cc) |
 | [09184](https://boj.kr/9184) | 신나는 함수 실행 | Silver 2 | [C++](./09xxx/9184. 신나는 함수 실행/신나는 함수 실행.cc) |
