@@ -4572,6 +4572,7 @@
 | [30236](https://boj.kr/30236) | 증가 수열 | Bronze 1 | [Java](./30xxx/30236. 증가 수열/증가 수열.java) |
 | [30260](https://boj.kr/30260) | Finding Your Roots | Bronze 2 | [Java](./30xxx/30260. Finding Your Roots/Finding Your Roots.java) |
 | [30266](https://boj.kr/30266) | Hurricane Warning | Bronze 3 | [Java](./30xxx/30266. Hurricane Warning/Hurricane Warning.java) |
+| [30270](https://boj.kr/30270) | Water Contamination | Platinum 3 | [C++](./30xxx/30270. Water Contamination/Water Contamination.cc) |
 | [30272](https://boj.kr/30272) | Atsitiktinių skaičių generatorius | Bronze 2 | [Java](./30xxx/30272. Atsitiktinių skaičių generatorius/Atsitiktinių skaičių generatorius.java) |
 | [30281](https://boj.kr/30281) | Saldainiai | Bronze 2 | [Java](./30xxx/30281. Saldainiai/Saldainiai.java) |
 | [30306](https://boj.kr/30306) | Better Dice | Bronze 3 | [Java](./30xxx/30306. Better Dice/Better Dice.java) |
