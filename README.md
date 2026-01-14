@@ -2473,6 +2473,7 @@
 | [14322](https://boj.kr/14322) | Country Leader (Small) | Bronze 2 | [Java](./14xxx/14322. Country Leader （Small）/Country Leader （Small）.java) |
 | [14323](https://boj.kr/14323) | Country Leader (Large) | Bronze 1 | [Java](./14xxx/14323. Country Leader （Large）/Country Leader （Large）.java) |
 | [14337](https://boj.kr/14337) | Helicopter | Unrated | [Visual Basic](./14xxx/14337. Helicopter/Helicopter.vb) |
+| [14394](https://boj.kr/14394) | 9-퍼즐 | Silver 4 | [C++](./14xxx/14394. 9－퍼즐/9－퍼즐.cc) |
 | [14405](https://boj.kr/14405) | 피카츄 | Silver 5 | [Java](./14xxx/14405. 피카츄/피카츄.java) |
 | [14409](https://boj.kr/14409) | Tuna | Bronze 2 | [Java](./14xxx/14409. Tuna/Tuna.java) |
 | [14413](https://boj.kr/14413) | Poklon | Platinum 2 | [C++](./14xxx/14413. Poklon/Poklon.cc) |
@@ -5055,6 +5056,7 @@
 | [33675](https://boj.kr/33675) | L-트로미노 타일링 | Bronze 1 | [C++](./33xxx/33675. L－트로미노 타일링/L－트로미노 타일링.cc) |
 | [33677](https://boj.kr/33677) | 푸앙이와 콩나무 | Silver 1 | [C++](./33xxx/33677. 푸앙이와 콩나무/푸앙이와 콩나무.cc) |
 | [33689](https://boj.kr/33689) | CPDU | Bronze 4 | [C++](./33xxx/33689. CPDU/CPDU.cc) |
+| [33690](https://boj.kr/33690) | 포린드롬 | Silver 5 | [C++](./33xxx/33690. 포린드롬/포린드롬.cc) |
 | [33701](https://boj.kr/33701) | 새천년관 | Bronze 4 | [Text](./33xxx/33701. 새천년관/새천년관.txt) |
 | [33702](https://boj.kr/33702) | 비밀번호 | Bronze 2 | [C++](./33xxx/33702. 비밀번호/비밀번호.cc) |
 | [33703](https://boj.kr/33703) | 건덕이의 돌탑 | Silver 5 | [C++](./33xxx/33703. 건덕이의 돌탑/건덕이의 돌탑.cc) |
@@ -5150,6 +5152,7 @@
 | [34288](https://boj.kr/34288) | Hill Climb Racing | Bronze 3 | [C++](./34xxx/34288. Hill Climb Racing/Hill Climb Racing.cc) |
 | [34297](https://boj.kr/34297) | Parking Pandemonium | Bronze 5 | [C++](./34xxx/34297. Parking Pandemonium/Parking Pandemonium.cc) |
 | [34301](https://boj.kr/34301) | Exact Change | Bronze 2 | [C++](./34xxx/34301. Exact Change/Exact Change.cc) |
+| [34302](https://boj.kr/34302) | Win Streak | Bronze 3 | [C++](./34xxx/34302. Win Streak/Win Streak.cc) |
 | [34306](https://boj.kr/34306) | M-Climb Road | Bronze 4 | [C++](./34xxx/34306. M－Climb Road/M－Climb Road.cc) |
 | [34308](https://boj.kr/34308) | Abby's Absolutes | Bronze 4 | [C++](./34xxx/34308. Abby's Absolutes/Abby's Absolutes.cc) |
 | [34323](https://boj.kr/34323) | 할인이 필요해 | Bronze 4 | [C++](./34xxx/34323. 할인이 필요해/할인이 필요해.cc) |
@@ -5163,6 +5166,7 @@
 | [34380](https://boj.kr/34380) | Blaster's Dash | Bronze 4 | [C++](./34xxx/34380. Blaster's Dash/Blaster's Dash.cc) |
 | [34400](https://boj.kr/34400) | 민규의 서카디안 리듬 | Bronze 4 | [C++](./34xxx/34400. 민규의 서카디안 리듬/민규의 서카디안 리듬.cc) |
 | [34406](https://boj.kr/34406) | x와 배수와 XOR (Easy) | Gold 5 | [C++](./34xxx/34406. x와 배수와 XOR （Easy）/x와 배수와 XOR （Easy）.cc) |
+| [34408](https://boj.kr/34408) | 문자열 분해기 | Silver 5 | [C++](./34xxx/34408. 문자열 분해기/문자열 분해기.cc) |
 | [34411](https://boj.kr/34411) | M-Climb | Bronze 5 | [C++](./34xxx/34411. M－Climb/M－Climb.cc) |
 | [34412](https://boj.kr/34412) | 13 Floors | Bronze 5 | [C++](./34xxx/34412. 13 Floors/13 Floors.cc) |
 | [34414](https://boj.kr/34414) | Tall Enough | Bronze 4 | [C++](./34xxx/34414. Tall Enough/Tall Enough.cc) |
@@ -5222,6 +5226,7 @@
 | [34721](https://boj.kr/34721) | 역사를 걸으면 동국이 보이고 | Bronze 5 | [C++](./34xxx/34721. 역사를 걸으면 동국이 보이고/역사를 걸으면 동국이 보이고.cc) |
 | [34722](https://boj.kr/34722) | 출제자가 몇 명 | Bronze 4 | [C++](./34xxx/34722. 출제자가 몇 명/출제자가 몇 명.cc) |
 | [34723](https://boj.kr/34723) | 피막치 | Bronze 3 | [C++](./34xxx/34723. 피막치/피막치.cc) |
+| [34724](https://boj.kr/34724) | 종양 찾기 | Silver 5 | [C++](./34xxx/34724. 종양 찾기/종양 찾기.cc) |
 | [34734](https://boj.kr/34734) | Coatless in Yakutsk | Silver 2 | [C++](./34xxx/34734. Coatless in Yakutsk/Coatless in Yakutsk.cc) |
 | [34735](https://boj.kr/34735) | Dangerous City | Platinum 3 | [C++](./34xxx/34735. Dangerous City/Dangerous City.cc) |
 | [34738](https://boj.kr/34738) | Game of Pieces | Platinum 3 | [C++](./34xxx/34738. Game of Pieces/Game of Pieces.cc) |
@@ -5260,10 +5265,12 @@
 | [34873](https://boj.kr/34873) | 사탕 나눠주기 | Bronze 2 | [C++](./34xxx/34873. 사탕 나눠주기/사탕 나눠주기.cc) |
 | [34891](https://boj.kr/34891) | MT 준비 | Bronze 4 | [C++](./34xxx/34891. MT 준비/MT 준비.cc) |
 | [34892](https://boj.kr/34892) | 헌혈 대전 | Bronze 1 | [C++](./34xxx/34892. 헌혈 대전/헌혈 대전.cc) |
+| [34893](https://boj.kr/34893) | 억지부리기 | Bronze 1 | [C++](./34xxx/34893. 억지부리기/억지부리기.cc) |
 | [34895](https://boj.kr/34895) | 이진수 MEX | Gold 4 | [Java](./34xxx/34895. 이진수 MEX/이진수 MEX.java) |
 | [34917](https://boj.kr/34917) | M | Bronze 3 | [C++](./34xxx/34917. M/M.cc) |
 | [34921](https://boj.kr/34921) | 덕후 | Bronze 5 | [C++](./34xxx/34921. 덕후/덕후.cc) |
 | [34922](https://boj.kr/34922) | 사각지대 | Bronze 3 | [C++](./34xxx/34922. 사각지대/사각지대.cc) |
+| [34923](https://boj.kr/34923) | 꼬마 미타 | Bronze 1 | [C++](./34xxx/34923. 꼬마 미타/꼬마 미타.cc) |
 | [34934](https://boj.kr/34934) | 신규 학과 | Bronze 4 | [C++](./34xxx/34934. 신규 학과/신규 학과.cc) |
 | [34935](https://boj.kr/34935) | 오름차순과 비내림차순 | Bronze 4 | [C++](./34xxx/34935. 오름차순과 비내림차순/오름차순과 비내림차순.cc) |
 | [34945](https://boj.kr/34945) | 채플이 너무해 | Bronze 5 | [C++](./34xxx/34945. 채플이 너무해/채플이 너무해.cc) |
@@ -5274,4 +5281,6 @@
 | [34991](https://boj.kr/34991) | toycppartoon | Silver 2 | [C++](./34xxx/34991. toycppartoon/toycppartoon.cc) |
 | [34998](https://boj.kr/34998) | 1, 2, 3, 많다! | Bronze 3 | [Python](./34xxx/34998. 1， 2， 3， 많다！/1， 2， 3， 많다！.py) |
 | [35030](https://boj.kr/35030) | 2026년이 기대되는 이유 | Silver 1 | [C++](./35xxx/35030. 2026년이 기대되는 이유/2026년이 기대되는 이유.cc) |
+| [35097](https://boj.kr/35097) | 2025 | Bronze 4 | [C++](./35xxx/35097. 2025/2025.cc) |
+| [35106](https://boj.kr/35106) | 릴레이 가위바위보 게임 | Bronze 3 | [C++](./35xxx/35106. 릴레이 가위바위보 게임/릴레이 가위바위보 게임.cc) |
 </div>
