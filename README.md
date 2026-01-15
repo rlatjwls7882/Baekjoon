@@ -95,6 +95,7 @@
 | [01202](https://boj.kr/1202) | 보석 도둑 | Gold 2 | [C++](./01xxx/1202. 보석 도둑/보석 도둑.cc) |
 | [01205](https://boj.kr/1205) | 등수 구하기 | Silver 4 | [Java](./01xxx/1205. 등수 구하기/등수 구하기.java) |
 | [01208](https://boj.kr/1208) | 부분수열의 합 2 | Gold 1 | [C++](./01xxx/1208. 부분수열의 합 2/부분수열의 합 2.cc) |
+| [01210](https://boj.kr/1210) | 마피아 | Platinum 1 | [C++](./01xxx/1210. 마피아/마피아.cc) |
 | [01212](https://boj.kr/1212) | 8진수 2진수 | Bronze 2 | [Java](./01xxx/1212. 8진수 2진수/8진수 2진수.java) |
 | [01213](https://boj.kr/1213) | 팰린드롬 만들기 | Silver 3 | [Java](./01xxx/1213. 팰린드롬 만들기/팰린드롬 만들기.java) |
 | [01217](https://boj.kr/1217) | 하우스 M.D. | Platinum 4 | [C++](./01xxx/1217. 하우스 M．D．/하우스 M．D．.cc) |
@@ -1689,6 +1690,7 @@
 | [09742](https://boj.kr/9742) | 순열 | Silver 3 | [C++](./09xxx/9742. 순열/순열.cc) |
 | [09756](https://boj.kr/9756) | Goldbach (Extension of Goldbach’s Conjecture) | Bronze 2 | [C++](./09xxx/9756. Goldbach （Extension of Goldbach’s Conjecture）/Goldbach （Extension of Goldbach’s Conjecture）.cc) |
 | [09765](https://boj.kr/9765) | 여섯 방정식 | Silver 2 | [C++](./09xxx/9765. 여섯 방정식/여섯 방정식.cc) |
+| [09770](https://boj.kr/9770) | GCD | Silver 4 | [C++](./09xxx/9770. GCD/GCD.cc) |
 | [09771](https://boj.kr/9771) | Word Searching | Bronze 3 | [Java](./09xxx/9771. Word Searching/Word Searching.java) |
 | [09772](https://boj.kr/9772) | Quadrants | Bronze 4 | [Java](./09xxx/9772. Quadrants/Quadrants.java) |
 | [09773](https://boj.kr/9773) | ID Key | Bronze 3 | [Java](./09xxx/9773. ID Key/ID Key.java) |
