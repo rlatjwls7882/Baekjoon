@@ -2784,6 +2784,7 @@
 | [15787](https://boj.kr/15787) | 기차가 어둠을 헤치고 은하수를 | Silver 2 | [C++](./15xxx/15787. 기차가 어둠을 헤치고 은하수를/기차가 어둠을 헤치고 은하수를.cc) |
 | [15788](https://boj.kr/15788) | 밸런스 스톤 | Silver 4 | [C++](./15xxx/15788. 밸런스 스톤/밸런스 스톤.cc) |
 | [15789](https://boj.kr/15789) | CTP 왕국은 한솔 왕국을 이길 수 있을까? | Gold 4 | [Java](./15xxx/15789. CTP 왕국은 한솔 왕국을 이길 수 있을까？/CTP 왕국은 한솔 왕국을 이길 수 있을까？.java) |
+| [15791](https://boj.kr/15791) | 세진이의 미팅 | Gold 1 | [C++](./15xxx/15791. 세진이의 미팅/세진이의 미팅.cc) |
 | [15792](https://boj.kr/15792) | A/B - 2 | Bronze 1 | [Java](./15xxx/15792. A／B － 2/A／B － 2.java) |
 | [15803](https://boj.kr/15803) | PLAYERJINAH’S BOTTLEGROUNDS | Silver 5 | [C++](./15xxx/15803. PLAYERJINAH’S BOTTLEGROUNDS/PLAYERJINAH’S BOTTLEGROUNDS.cc) |
 | [15809](https://boj.kr/15809) | 전국시대 | Gold 3 | [Java](./15xxx/15809. 전국시대/전국시대.java) |
@@ -3091,7 +3092,7 @@
 | [17284](https://boj.kr/17284) | Vending Machine | Bronze 3 | [Java](./17xxx/17284. Vending Machine/Vending Machine.java) |
 | [17285](https://boj.kr/17285) | XORChic | Bronze 2 | [Java](./17xxx/17285. XORChic/XORChic.java) |
 | [17286](https://boj.kr/17286) | 유미 | Silver 5 | [Java](./17xxx/17286. 유미/유미.java) |
-| [17287](https://boj.kr/17287) | The Deeper, The Better | Silver 4 | [Java](./17xxx/17287. The Deeper， The Better/The Deeper， The Better.java) |
+| [17287](https://boj.kr/17287) | The Deeper, The Better | Silver 5 | [Java](./17xxx/17287. The Deeper， The Better/The Deeper， The Better.java) |
 | [17288](https://boj.kr/17288) | 3개만! | Bronze 1 | [Java](./17xxx/17288. 3개만！/3개만！.java) |
 | [17290](https://boj.kr/17290) | Crazy_aRcade_Good | Silver 5 | [C++](./17xxx/17290. Crazy＿aRcade＿Good/Crazy＿aRcade＿Good.cc) |
 | [17292](https://boj.kr/17292) | 바둑이 포커 | Gold 5 | [C++](./17xxx/17292. 바둑이 포커/바둑이 포커.cc) |
@@ -5234,7 +5235,7 @@
 | [34735](https://boj.kr/34735) | Dangerous City | Platinum 3 | [C++](./34xxx/34735. Dangerous City/Dangerous City.cc) |
 | [34738](https://boj.kr/34738) | Game of Pieces | Platinum 3 | [C++](./34xxx/34738. Game of Pieces/Game of Pieces.cc) |
 | [34743](https://boj.kr/34743) | LED Counter | Silver 3 | [C++](./34xxx/34743. LED Counter/LED Counter.cc) |
-| [34749](https://boj.kr/34749) | A healthy menu | Bronze 3 | |
+| [34749](https://boj.kr/34749) | A healthy menu | Bronze 3 | [C++](./34xxx/34749. A healthy menu/A healthy menu.cc) |
 | [34750](https://boj.kr/34750) | 추석은 언제나 좋아 | Bronze 4 | [C++](./34xxx/34750. 추석은 언제나 좋아/추석은 언제나 좋아.cc) |
 | [34758](https://boj.kr/34758) | KUPC에 어서 오세요 | Bronze 3 | [C++](./34xxx/34758. KUPC에 어서 오세요/KUPC에 어서 오세요.cc) [Java](./34xxx/34758. KUPC에 어서 오세요/KUPC에 어서 오세요.java) |
 | [34759](https://boj.kr/34759) | 얼룩말과 사자 | Bronze 3 | [C++](./34xxx/34759. 얼룩말과 사자/얼룩말과 사자.cc) [Java](./34xxx/34759. 얼룩말과 사자/얼룩말과 사자.java) |
