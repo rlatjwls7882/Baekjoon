@@ -5234,6 +5234,7 @@
 | [34735](https://boj.kr/34735) | Dangerous City | Platinum 3 | [C++](./34xxx/34735. Dangerous City/Dangerous City.cc) |
 | [34738](https://boj.kr/34738) | Game of Pieces | Platinum 3 | [C++](./34xxx/34738. Game of Pieces/Game of Pieces.cc) |
 | [34743](https://boj.kr/34743) | LED Counter | Silver 3 | [C++](./34xxx/34743. LED Counter/LED Counter.cc) |
+| [34749](https://boj.kr/34749) | A healthy menu | Bronze 3 | |
 | [34750](https://boj.kr/34750) | 추석은 언제나 좋아 | Bronze 4 | [C++](./34xxx/34750. 추석은 언제나 좋아/추석은 언제나 좋아.cc) |
 | [34758](https://boj.kr/34758) | KUPC에 어서 오세요 | Bronze 3 | [C++](./34xxx/34758. KUPC에 어서 오세요/KUPC에 어서 오세요.cc) [Java](./34xxx/34758. KUPC에 어서 오세요/KUPC에 어서 오세요.java) |
 | [34759](https://boj.kr/34759) | 얼룩말과 사자 | Bronze 3 | [C++](./34xxx/34759. 얼룩말과 사자/얼룩말과 사자.cc) [Java](./34xxx/34759. 얼룩말과 사자/얼룩말과 사자.java) |
