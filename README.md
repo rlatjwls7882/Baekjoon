@@ -5168,6 +5168,7 @@
 | [34348](https://boj.kr/34348) | snupc 문자열 (Easy) | Gold 1 | [C++](./34xxx/34348. snupc 문자열 （Easy）/snupc 문자열 （Easy）.cc) |
 | [34362](https://boj.kr/34362) | Above | Bronze 5 | [C++](./34xxx/34362. Above/Above.cc) |
 | [34363](https://boj.kr/34363) | Driving Dilemma | Bronze 4 | [C++](./34xxx/34363. Driving Dilemma/Driving Dilemma.cc) |
+| [34366](https://boj.kr/34366) | Mines Football | Bronze 3 | [C++](./34xxx/34366. Mines Football/Mines Football.cc) |
 | [34380](https://boj.kr/34380) | Blaster's Dash | Bronze 4 | [C++](./34xxx/34380. Blaster's Dash/Blaster's Dash.cc) |
 | [34400](https://boj.kr/34400) | 민규의 서카디안 리듬 | Bronze 4 | [C++](./34xxx/34400. 민규의 서카디안 리듬/민규의 서카디안 리듬.cc) |
 | [34406](https://boj.kr/34406) | x와 배수와 XOR (Easy) | Gold 5 | [C++](./34xxx/34406. x와 배수와 XOR （Easy）/x와 배수와 XOR （Easy）.cc) |
