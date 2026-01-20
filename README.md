@@ -3466,6 +3466,7 @@
 | [21057](https://boj.kr/21057) | Keep Calm And Carry Off | Gold 1 | [C++](./21xxx/21057. Keep Calm And Carry Off/Keep Calm And Carry Off.cc) |
 | [21059](https://boj.kr/21059) | Methodic Multiplication | Bronze 1 | [Java](./21xxx/21059. Methodic Multiplication/Methodic Multiplication.java) |
 | [21105](https://boj.kr/21105) | New Financial Year | Bronze 3 | [Java](./21xxx/21105. New Financial Year/New Financial Year.java) |
+| [21112](https://boj.kr/21112) | Easter Gift | Gold 3 | [C++](./21xxx/21112. Easter Gift/Easter Gift.cc) |
 | [21127](https://boj.kr/21127) | Binary Supersonic Utahraptors | Silver 2 | [C++](./21xxx/21127. Binary Supersonic Utahraptors/Binary Supersonic Utahraptors.cc) |
 | [21138](https://boj.kr/21138) | Dominating Duos | Gold 2 | [C++](./21xxx/21138. Dominating Duos/Dominating Duos.cc) |
 | [21143](https://boj.kr/21143) | Magic Trick | Bronze 2 | [Java](./21xxx/21143. Magic Trick/Magic Trick.java) |
@@ -5295,5 +5296,6 @@
 | [35097](https://boj.kr/35097) | 2025 | Bronze 4 | [C++](./35xxx/35097. 2025/2025.cc) |
 | [35106](https://boj.kr/35106) | 릴레이 가위바위보 게임 | Bronze 3 | [C++](./35xxx/35106. 릴레이 가위바위보 게임/릴레이 가위바위보 게임.cc) |
 | [35143](https://boj.kr/35143) | $2026$ | Silver 5 | [C++](./35xxx/35143. $2026$/$2026$.cc) |
+| [35149](https://boj.kr/35149) | NEMODEMIC | Bronze 2 | [C++](./35xxx/35149. NEMODEMIC/NEMODEMIC.cc) |
 | [35162](https://boj.kr/35162) | KCPC 스티커 만들기 | Gold 4 | [C++](./35xxx/35162. KCPC 스티커 만들기/KCPC 스티커 만들기.cc) |
 </div>
