@@ -2203,6 +2203,7 @@
 | [12606](https://boj.kr/12606) | Reverse Words (Large) | Bronze 2 | [Java](./12xxx/12606. Reverse Words （Large）/Reverse Words （Large）.java) |
 | [12607](https://boj.kr/12607) | T9 Spelling (Small) | Bronze 1 | [Java](./12xxx/12607. T9 Spelling （Small）/T9 Spelling （Small）.java) |
 | [12608](https://boj.kr/12608) | T9 Spelling (Large) | Bronze 1 | [Java](./12xxx/12608. T9 Spelling （Large）/T9 Spelling （Large）.java) |
+| [12634](https://boj.kr/12634) | Stock Charts (Large) | Platinum 2 | [C++](./12xxx/12634. Stock Charts （Large）/Stock Charts （Large）.cc) |
 | [12657](https://boj.kr/12657) | Watersheds (Small) | Silver 2 | [C++](./12xxx/12657. Watersheds （Small）/Watersheds （Small）.cc) |
 | [12727](https://boj.kr/12727) | Numbers (Small) | Gold 3 | [C++](./12xxx/12727. Numbers （Small）/Numbers （Small）.cc) |
 | [12738](https://boj.kr/12738) | 가장 긴 증가하는 부분 수열 3 | Gold 2 | [C++](./12xxx/12738. 가장 긴 증가하는 부분 수열 3/가장 긴 증가하는 부분 수열 3.cc) |
@@ -2267,6 +2268,7 @@
 | [12966](https://boj.kr/12966) | 턴 게임 2 | Gold 2 | [C++](./12xxx/12966. 턴 게임 2/턴 게임 2.cc) |
 | [12970](https://boj.kr/12970) | AB | Gold 4 | [C++](./12xxx/12970. AB/AB.cc) |
 | [12986](https://boj.kr/12986) | 화려한 마을2 | Platinum 2 | [C++](./12xxx/12986. 화려한 마을2/화려한 마을2.cc) |
+| [12988](https://boj.kr/12988) | 주식 차트 | Platinum 2 | [C++](./12xxx/12988. 주식 차트/주식 차트.cc) |
 | [12990](https://boj.kr/12990) | A Heap of Heaps | Platinum 2 | [C++](./12xxx/12990. A Heap of Heaps/A Heap of Heaps.cc) |
 | [12999](https://boj.kr/12999) | 화려한 마을3 | Platinum 1 | [C++](./12xxx/12999. 화려한 마을3/화려한 마을3.cc) |
 | [13003](https://boj.kr/13003) | 배수열 | Gold 3 | [C++](./13xxx/13003. 배수열/배수열.cc) |
@@ -5293,5 +5295,5 @@
 | [35097](https://boj.kr/35097) | 2025 | Bronze 4 | [C++](./35xxx/35097. 2025/2025.cc) |
 | [35106](https://boj.kr/35106) | 릴레이 가위바위보 게임 | Bronze 3 | [C++](./35xxx/35106. 릴레이 가위바위보 게임/릴레이 가위바위보 게임.cc) |
 | [35143](https://boj.kr/35143) | $2026$ | Silver 5 | [C++](./35xxx/35143. $2026$/$2026$.cc) |
-| [35162](https://boj.kr/35162) | KCPC 스티커 만들기 | Gold 5 | [C++](./35xxx/35162. KCPC 스티커 만들기/KCPC 스티커 만들기.cc) |
+| [35162](https://boj.kr/35162) | KCPC 스티커 만들기 | Gold 4 | [C++](./35xxx/35162. KCPC 스티커 만들기/KCPC 스티커 만들기.cc) |
 </div>
