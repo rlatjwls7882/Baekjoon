@@ -2011,6 +2011,7 @@
 | [11282](https://boj.kr/11282) | 한글 | Bronze 4 | [Java](./11xxx/11282. 한글/한글.java) |
 | [11283](https://boj.kr/11283) | 한글 2 | Bronze 4 | [Java](./11xxx/11283. 한글 2/한글 2.java) |
 | [11286](https://boj.kr/11286) | 절댓값 힙 | Silver 1 | [Java](./11xxx/11286. 절댓값 힙/절댓값 힙.java) |
+| [11288](https://boj.kr/11288) | Ethel’s Encryption | Bronze 1 | [C++](./11xxx/11288. Ethel’s Encryption/Ethel’s Encryption.cc) |
 | [11292](https://boj.kr/11292) | 키 큰 사람 | Silver 5 | [Java](./11xxx/11292. 키 큰 사람/키 큰 사람.java) |
 | [11295](https://boj.kr/11295) | Exercising | Bronze 3 | [Java](./11xxx/11295. Exercising/Exercising.java) |
 | [11296](https://boj.kr/11296) | 가격 | Bronze 2 | [Java](./11xxx/11296. 가격/가격.java) |
