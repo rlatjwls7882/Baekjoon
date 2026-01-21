@@ -5296,6 +5296,7 @@
 | [35097](https://boj.kr/35097) | 2025 | Bronze 4 | [C++](./35xxx/35097. 2025/2025.cc) |
 | [35106](https://boj.kr/35106) | 릴레이 가위바위보 게임 | Bronze 3 | [C++](./35xxx/35106. 릴레이 가위바위보 게임/릴레이 가위바위보 게임.cc) |
 | [35143](https://boj.kr/35143) | $2026$ | Silver 5 | [C++](./35xxx/35143. $2026$/$2026$.cc) |
+| [35146](https://boj.kr/35146) | $02493$ | Silver 5 | [C++](./35xxx/35146. $02493$/$02493$.cc) |
 | [35149](https://boj.kr/35149) | NEMODEMIC | Bronze 2 | [C++](./35xxx/35149. NEMODEMIC/NEMODEMIC.cc) |
 | [35162](https://boj.kr/35162) | KCPC 스티커 만들기 | Gold 4 | [C++](./35xxx/35162. KCPC 스티커 만들기/KCPC 스티커 만들기.cc) |
 </div>
