@@ -343,7 +343,7 @@
 | [01790](https://boj.kr/1790) | 수 이어 쓰기 2 | Gold 5 | [C++](./01xxx/1790. 수 이어 쓰기 2/수 이어 쓰기 2.cc) |
 | [01793](https://boj.kr/1793) | 타일링 | Silver 2 | [Java](./01xxx/1793. 타일링/타일링.java) |
 | [01799](https://boj.kr/1799) | 비숍 | Platinum 5 | [C++](./01xxx/1799. 비숍/비숍.cc) |
-| [01802](https://boj.kr/1802) | 종이 접기 | Silver 1 | [C++](./01xxx/1802. 종이 접기/종이 접기.cc) |
+| [01802](https://boj.kr/1802) | 종이 접기 | Gold 5 | [C++](./01xxx/1802. 종이 접기/종이 접기.cc) |
 | [01806](https://boj.kr/1806) | 부분합 | Gold 4 | [Java](./01xxx/1806. 부분합/부분합.java) |
 | [01809](https://boj.kr/1809) | Moo | Bronze 5 | [Golfscript](./01xxx/1809. Moo/Moo.gs) |
 | [01810](https://boj.kr/1810) | 징검다리 달리기 2 | Gold 2 | [C++](./01xxx/1810. 징검다리 달리기 2/징검다리 달리기 2.cc) |
@@ -443,6 +443,7 @@
 | [02038](https://boj.kr/2038) | 골롱 수열 | Gold 1 | [C++](./02xxx/2038. 골롱 수열/골롱 수열.cc) |
 | [02042](https://boj.kr/2042) | 구간 합 구하기 | Gold 1 | [C++](./02xxx/2042. 구간 합 구하기/구간 합 구하기.cc) |
 | [02049](https://boj.kr/2049) | 가장 먼 두 점 | Platinum 3 | [C++](./02xxx/2049. 가장 먼 두 점/가장 먼 두 점.cc) |
+| [02051](https://boj.kr/2051) | 최소 버텍스 커버 | Platinum 2 | [C++](./02xxx/2051. 최소 버텍스 커버/최소 버텍스 커버.cc) |
 | [02052](https://boj.kr/2052) | 지수연산 | Bronze 1 | [Java](./02xxx/2052. 지수연산/지수연산.java) |
 | [02056](https://boj.kr/2056) | 작업 | Gold 4 | [Java](./02xxx/2056. 작업/작업.java) |
 | [02057](https://boj.kr/2057) | 팩토리얼 분해 | Silver 5 | [C++](./02xxx/2057. 팩토리얼 분해/팩토리얼 분해.cc) |
@@ -1536,6 +1537,7 @@
 | [08871](https://boj.kr/8871) | Zadanie próbne 2 | Bronze 5 | [C](./08xxx/8871. Zadanie próbne 2/Zadanie próbne 2.c) |
 | [08891](https://boj.kr/8891) | 점 숫자 | Silver 4 | [C++](./08xxx/8891. 점 숫자/점 숫자.cc) |
 | [08892](https://boj.kr/8892) | 팰린드롬 | Silver 5 | [Java](./08xxx/8892. 팰린드롬/팰린드롬.java) |
+| [08898](https://boj.kr/8898) | 스포츠 전문 채널 GSK | Diamond 3 | [C++](./08xxx/8898. 스포츠 전문 채널 GSK/스포츠 전문 채널 GSK.cc) |
 | [08911](https://boj.kr/8911) | 거북이 | Silver 3 | [C++](./08xxx/8911. 거북이/거북이.cc) |
 | [08912](https://boj.kr/8912) | Sales | Bronze 2 | [Java](./08xxx/8912. Sales/Sales.java) |
 | [08932](https://boj.kr/8932) | 7종 경기 | Bronze 3 | [Java](./08xxx/8932. 7종 경기/7종 경기.java) |
@@ -1962,7 +1964,7 @@
 | [11054](https://boj.kr/11054) | 가장 긴 바이토닉 부분 수열 | Gold 4 | [C++](./11xxx/11054. 가장 긴 바이토닉 부분 수열/가장 긴 바이토닉 부분 수열.cc) |
 | [11055](https://boj.kr/11055) | 가장 큰 증가하는 부분 수열 | Silver 2 | [Java](./11xxx/11055. 가장 큰 증가하는 부분 수열/가장 큰 증가하는 부분 수열.java) |
 | [11057](https://boj.kr/11057) | 오르막 수 | Silver 1 | [C++](./11xxx/11057. 오르막 수/오르막 수.cc) |
-| [11058](https://boj.kr/11058) | 크리보드 | Gold 5 | [C++](./11xxx/11058. 크리보드/크리보드.cc) |
+| [11058](https://boj.kr/11058) | 크리보드 | Gold 4 | [C++](./11xxx/11058. 크리보드/크리보드.cc) |
 | [11059](https://boj.kr/11059) | 크리 문자열 | Silver 5 | [C++](./11xxx/11059. 크리 문자열/크리 문자열.cc) |
 | [11060](https://boj.kr/11060) | 점프 점프 | Silver 2 | [Java](./11xxx/11060. 점프 점프/점프 점프.java) |
 | [11062](https://boj.kr/11062) | 카드 게임 | Gold 3 | [C++](./11xxx/11062. 카드 게임/카드 게임.cc) |
@@ -3601,6 +3603,7 @@
 | [22477](https://boj.kr/22477) | Kagisys | Bronze 1 | [Java](./22xxx/22477. Kagisys/Kagisys.java) |
 | [22524](https://boj.kr/22524) | koukyoukoukokukikou | Bronze 2 | [Java](./22xxx/22524. koukyoukoukokukikou/koukyoukoukokukikou.java) |
 | [22656](https://boj.kr/22656) | Princess' Gamble | Bronze 2 | [C++](./22xxx/22656. Princess' Gamble/Princess' Gamble.cc) |
+| [22686](https://boj.kr/22686) | Dance Dance Revolution | Bronze 1 | [C++](./22xxx/22686. Dance Dance Revolution/Dance Dance Revolution.cc) |
 | [22815](https://boj.kr/22815) | Exploring Caves | Bronze 2 | [Python](./22xxx/22815. Exploring Caves/Exploring Caves.py) |
 | [22825](https://boj.kr/22825) | Fermat's Last Theorem | Bronze 2 | [Java](./22xxx/22825. Fermat's Last Theorem/Fermat's Last Theorem.java) |
 | [22846](https://boj.kr/22846) | 인증된 쉬운 게임 | Gold 3 | [C++](./22xxx/22846. 인증된 쉬운 게임/인증된 쉬운 게임.cc) |
@@ -3904,6 +3907,7 @@
 | [25083](https://boj.kr/25083) | 새싹 | Bronze 5 | [C](./25xxx/25083. 새싹/새싹.c) |
 | [25084](https://boj.kr/25084) | Infinity Area | Bronze 3 | [Java](./25xxx/25084. Infinity Area/Infinity Area.java) |
 | [25088](https://boj.kr/25088) | Punched Cards | Bronze 2 | [Java](./25xxx/25088. Punched Cards/Punched Cards.java) |
+| [25099](https://boj.kr/25099) | Anagram | Silver 3 | [C++](./25xxx/25099. Anagram/Anagram.cc) |
 | [25165](https://boj.kr/25165) | 영리한 아리의 포탈 타기 | Bronze 2 | [Java](./25xxx/25165. 영리한 아리의 포탈 타기/영리한 아리의 포탈 타기.java) |
 | [25166](https://boj.kr/25166) | 배고픈 아리의 샌드위치 구매하기 | Bronze 1 | [Java](./25xxx/25166. 배고픈 아리의 샌드위치 구매하기/배고픈 아리의 샌드위치 구매하기.java) |
 | [25174](https://boj.kr/25174) | 힘겨운 쿠기의 식당 개업기 | Gold 3 | [C++](./25xxx/25174. 힘겨운 쿠기의 식당 개업기/힘겨운 쿠기의 식당 개업기.cc) |
