@@ -667,7 +667,7 @@
 | [02607](https://boj.kr/2607) | 비슷한 단어 | Silver 2 | [C++](./02xxx/2607. 비슷한 단어/비슷한 단어.cc) |
 | [02608](https://boj.kr/2608) | 로마 숫자 | Gold 5 | [C++](./02xxx/2608. 로마 숫자/로마 숫자.cc) |
 | [02609](https://boj.kr/2609) | 최대공약수와 최소공배수 | Bronze 1 | [Java](./02xxx/2609. 최대공약수와 최소공배수/최대공약수와 최소공배수.java) |
-| [02615](https://boj.kr/2615) | 오목 | Silver 1 | [C++](./02xxx/2615. 오목/오목.cc) |
+| [02615](https://boj.kr/2615) | 오목 | Gold 5 | [C++](./02xxx/2615. 오목/오목.cc) |
 | [02617](https://boj.kr/2617) | 구슬 찾기 | Gold 4 | [C++](./02xxx/2617. 구슬 찾기/구슬 찾기.cc) |
 | [02618](https://boj.kr/2618) | 경찰차 | Platinum 4 | [C++](./02xxx/2618. 경찰차/경찰차.cc) |
 | [02621](https://boj.kr/2621) | 카드게임 | Silver 3 | [C++](./02xxx/2621. 카드게임/카드게임.cc) |
@@ -5275,6 +5275,7 @@
 | [34848](https://boj.kr/34848) | 저녁 메뉴 월드컵 | Bronze 2 | [C++](./34xxx/34848. 저녁 메뉴 월드컵/저녁 메뉴 월드컵.cc) |
 | [34849](https://boj.kr/34849) | 이중 반복문 | Bronze 5 | [C++](./34xxx/34849. 이중 반복문/이중 반복문.cc) |
 | [34850](https://boj.kr/34850) | 포도주 상인 | Bronze 1 | [C++](./34xxx/34850. 포도주 상인/포도주 상인.cc) |
+| [34851](https://boj.kr/34851) | 사칙연산 게임 | Silver 4 | [C++](./34xxx/34851. 사칙연산 게임/사칙연산 게임.cc) |
 | [34862](https://boj.kr/34862) | Bay | Platinum 5 | [C++](./34xxx/34862. Bay/Bay.cc) |
 | [34863](https://boj.kr/34863) | Bookshelf | Platinum 4 | [C++](./34xxx/34863. Bookshelf/Bookshelf.cc) |
 | [34871](https://boj.kr/34871) | Segments | Silver 5 | [C++](./34xxx/34871. Segments/Segments.cc) |
