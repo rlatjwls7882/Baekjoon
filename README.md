@@ -1079,6 +1079,7 @@
 | [04948](https://boj.kr/4948) | 베르트랑 공준 | Silver 2 | [Java](./04xxx/4948. 베르트랑 공준/베르트랑 공준.java) |
 | [04949](https://boj.kr/4949) | 균형잡힌 세상 | Silver 4 | [Java](./04xxx/4949. 균형잡힌 세상/균형잡힌 세상.java) |
 | [04963](https://boj.kr/4963) | 섬의 개수 | Silver 2 | [Java](./04xxx/4963. 섬의 개수/섬의 개수.java) |
+| [04966](https://boj.kr/4966) | Cards | Platinum 4 | [C++](./04xxx/4966. Cards/Cards.cc) |
 | [04968](https://boj.kr/4968) | Equal Total Scores | Bronze 2 | [C++](./04xxx/4968. Equal Total Scores/Equal Total Scores.cc) |
 | [04969](https://boj.kr/4969) | 월요일-토요일 | Gold 5 | [C++](./04xxx/4969. 월요일－토요일/월요일－토요일.cc) |
 | [04970](https://boj.kr/4970) | 디지털 회로 개론 | Gold 3 | [C++](./04xxx/4970. 디지털 회로 개론/디지털 회로 개론.cc) |
