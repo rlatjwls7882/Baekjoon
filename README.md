@@ -3409,7 +3409,7 @@
 | [20420](https://boj.kr/20420) | 화살표 미로 (Normal) | Gold 1 | [C++](./20xxx/20420. 화살표 미로 （Normal）/화살표 미로 （Normal）.cc) |
 | [20436](https://boj.kr/20436) | ZOAC 3 | Silver 4 | [C++](./20xxx/20436. ZOAC 3/ZOAC 3.cc) |
 | [20473](https://boj.kr/20473) | Гостиница | Bronze 3 | [Java](./20xxx/20473. Гостиница/Гостиница.java) |
-| [20490](https://boj.kr/20490) | Рыцарский щит | Bronze 3 | [C++](./20xxx/20490. Рыцарский щит/Рыцарский щит.cc) |
+| [20490](https://boj.kr/20490) | Рыцарский щит | Bronze 2 | [C++](./20xxx/20490. Рыцарский щит/Рыцарский щит.cc) |
 | [20492](https://boj.kr/20492) | 세금 | Bronze 5 | [C](./20xxx/20492. 세금/세금.c) |
 | [20494](https://boj.kr/20494) | 스시 | Bronze 2 | [Java](./20xxx/20494. 스시/스시.java) |
 | [20499](https://boj.kr/20499) | Darius님 한타 안 함? | Bronze 4 | [C](./20xxx/20499. Darius님 한타 안 함？/Darius님 한타 안 함？.c) |
