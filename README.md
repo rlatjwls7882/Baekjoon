@@ -4725,6 +4725,7 @@
 | [31280](https://boj.kr/31280) | ФАКИР | Bronze 4 | [Java](./31xxx/31280. ФАКИР/ФАКИР.java) |
 | [31281](https://boj.kr/31281) | ЗЛАТНАТА СРЕДА | Bronze 4 | [Java](./31xxx/31281. ЗЛАТНАТА СРЕДА/ЗЛАТНАТА СРЕДА.java) |
 | [31282](https://boj.kr/31282) | ЛОВНО КУЧЕ | Bronze 4 | [Java](./31xxx/31282. ЛОВНО КУЧЕ/ЛОВНО КУЧЕ.java) |
+| [31289](https://boj.kr/31289) | 기부왕의 님게임 | Platinum 4 | [C++](./31xxx/31289. 기부왕의 님게임/기부왕의 님게임.cc) |
 | [31306](https://boj.kr/31306) | Is Y a Vowel? | Bronze 4 | [Java](./31xxx/31306. Is Y a Vowel？/Is Y a Vowel？.java) |
 | [31312](https://boj.kr/31312) | Water Journal | Bronze 3 | [Java](./31xxx/31312. Water Journal/Water Journal.java) |
 | [31368](https://boj.kr/31368) | #TheDress | Bronze 2 | [Java](./31xxx/31368. #TheDress/#TheDress.java) |
