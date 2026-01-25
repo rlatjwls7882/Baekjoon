@@ -5308,5 +5308,5 @@
 | [35146](https://boj.kr/35146) | $02493$ | Silver 5 | [C++](./35xxx/35146. $02493$/$02493$.cc) |
 | [35149](https://boj.kr/35149) | NEMODEMIC | Bronze 2 | [C++](./35xxx/35149. NEMODEMIC/NEMODEMIC.cc) |
 | [35162](https://boj.kr/35162) | KCPC 스티커 만들기 | Gold 4 | [C++](./35xxx/35162. KCPC 스티커 만들기/KCPC 스티커 만들기.cc) |
-| [35185](https://boj.kr/35185) | 바바와 깃발 게임 | Gold 2 | [C++](./35xxx/35185. 바바와 깃발 게임/바바와 깃발 게임.cc) |
+| [35185](https://boj.kr/35185) | 바바와 깃발 게임 | Gold 3 | [C++](./35xxx/35185. 바바와 깃발 게임/바바와 깃발 게임.cc) |
 </div>
