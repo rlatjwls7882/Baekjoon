@@ -2992,6 +2992,7 @@
 | [16864](https://boj.kr/16864) | So You Like Your Food Hot? | Bronze 2 | [Java](./16xxx/16864. So You Like Your Food Hot？/So You Like Your Food Hot？.java) |
 | [16877](https://boj.kr/16877) | 핌버 | Platinum 3 | [C++](./16xxx/16877. 핌버/핌버.cc) |
 | [16882](https://boj.kr/16882) | 카드 게임 | Gold 3 | [C++](./16xxx/16882. 카드 게임/카드 게임.cc) |
+| [16886](https://boj.kr/16886) | 나누기 게임 | Platinum 3 | [C++](./16xxx/16886. 나누기 게임/나누기 게임.cc) |
 | [16888](https://boj.kr/16888) | 루트 게임 | Gold 5 | [C++](./16xxx/16888. 루트 게임/루트 게임.cc) |
 | [16895](https://boj.kr/16895) | 님 게임 3 | Platinum 4 | [C++](./16xxx/16895. 님 게임 3/님 게임 3.cc) |
 | [16903](https://boj.kr/16903) | 수열과 쿼리 20 | Platinum 3 | [C++](./16xxx/16903. 수열과 쿼리 20/수열과 쿼리 20.cc) |
@@ -5308,5 +5309,6 @@
 | [35146](https://boj.kr/35146) | $02493$ | Silver 5 | [C++](./35xxx/35146. $02493$/$02493$.cc) |
 | [35149](https://boj.kr/35149) | NEMODEMIC | Bronze 2 | [C++](./35xxx/35149. NEMODEMIC/NEMODEMIC.cc) |
 | [35162](https://boj.kr/35162) | KCPC 스티커 만들기 | Gold 4 | [C++](./35xxx/35162. KCPC 스티커 만들기/KCPC 스티커 만들기.cc) |
+| [35184](https://boj.kr/35184) | 수돗물과 게 임 | Gold 2 | [C++](./35xxx/35184. 수돗물과 게 임/수돗물과 게 임.cc) |
 | [35185](https://boj.kr/35185) | 바바와 깃발 게임 | Gold 3 | [C++](./35xxx/35185. 바바와 깃발 게임/바바와 깃발 게임.cc) |
 </div>
