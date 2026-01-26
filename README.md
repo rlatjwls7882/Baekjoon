@@ -3966,7 +3966,7 @@
 | [25400](https://boj.kr/25400) | 제자리 | Bronze 1 | [C++](./25xxx/25400. 제자리/제자리.cc) |
 | [25416](https://boj.kr/25416) | 빠른 숫자 탐색 | Silver 2 | [C++](./25xxx/25416. 빠른 숫자 탐색/빠른 숫자 탐색.cc) |
 | [25418](https://boj.kr/25418) | 정수 a를 k로 만들기 | Silver 3 | [Java](./25xxx/25418. 정수 a를 k로 만들기/정수 a를 k로 만들기.java) |
-| [25425](https://boj.kr/25425) | 운동회 | Bronze 1 | [Java](./25xxx/25425. 운동회/운동회.java) |
+| [25425](https://boj.kr/25425) | 운동회 | Silver 5 | [Java](./25xxx/25425. 운동회/운동회.java) |
 | [25426](https://boj.kr/25426) | 일차함수들 | Silver 4 | [C++](./25xxx/25426. 일차함수들/일차함수들.cc) |
 | [25494](https://boj.kr/25494) | 단순한 문제 (Small) | Bronze 4 | [C](./25xxx/25494. 단순한 문제 （Small）/단순한 문제 （Small）.c) |
 | [25495](https://boj.kr/25495) | 에어팟 | Bronze 2 | [Java](./25xxx/25495. 에어팟/에어팟.java) |
