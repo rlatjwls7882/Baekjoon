@@ -995,6 +995,7 @@
 | [04359](https://boj.kr/4359) | Forests | Silver 5 | [Java](./04xxx/4359. Forests/Forests.java) |
 | [04373](https://boj.kr/4373) | 수집합 | Gold 1 | [C++](./04xxx/4373. 수집합/수집합.cc) |
 | [04375](https://boj.kr/4375) | 1 | Silver 3 | [C++](./04xxx/4375. 1/1.cc) |
+| [04376](https://boj.kr/4376) | Gopher II | Platinum 4 | [C++](./04xxx/4376. Gopher II/Gopher II.cc) |
 | [04378](https://boj.kr/4378) | 트ㅏㅊ; | Silver 5 | [Java](./04xxx/4378. 트ㅏㅊ；/트ㅏㅊ；.java) |
 | [04383](https://boj.kr/4383) | 점프는 즐거워 | Silver 5 | [C++](./04xxx/4383. 점프는 즐거워/점프는 즐거워.cc) |
 | [04386](https://boj.kr/4386) | 별자리 만들기 | Gold 3 | [Java](./04xxx/4386. 별자리 만들기/별자리 만들기.java) |
