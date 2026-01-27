@@ -1798,7 +1798,7 @@
 | [10312](https://boj.kr/10312) | Lodê | Bronze 2 | [Java](./10xxx/10312. Lodê/Lodê.java) |
 | [10321](https://boj.kr/10321) | 요새 건설 | Platinum 1 | [C++](./10xxx/10321. 요새 건설/요새 건설.cc) |
 | [10347](https://boj.kr/10347) | Reverse Rot | Bronze 2 | [Java](./10xxx/10347. Reverse Rot/Reverse Rot.java) |
-| [10384](https://boj.kr/10384) | 팬그램 | Silver 5 | [Java](./10xxx/10384. 팬그램/팬그램.java) |
+| [10384](https://boj.kr/10384) | 팬그램 | Bronze 1 | [Java](./10xxx/10384. 팬그램/팬그램.java) |
 | [10395](https://boj.kr/10395) | Automated Checking Machine | Bronze 3 | [Java](./10xxx/10395. Automated Checking Machine/Automated Checking Machine.java) |
 | [10406](https://boj.kr/10406) | The fellowship of the ring | Bronze 3 | [Java](./10xxx/10406. The fellowship of the ring/The fellowship of the ring.java) |
 | [10407](https://boj.kr/10407) | 2 타워 | Silver 3 | [C++](./10xxx/10407. 2 타워/2 타워.cc) |
@@ -5313,5 +5313,5 @@
 | [35149](https://boj.kr/35149) | NEMODEMIC | Bronze 2 | [C++](./35xxx/35149. NEMODEMIC/NEMODEMIC.cc) |
 | [35162](https://boj.kr/35162) | KCPC 스티커 만들기 | Gold 4 | [C++](./35xxx/35162. KCPC 스티커 만들기/KCPC 스티커 만들기.cc) |
 | [35184](https://boj.kr/35184) | 수돗물과 게 임 | Gold 2 | [C++](./35xxx/35184. 수돗물과 게 임/수돗물과 게 임.cc) |
-| [35185](https://boj.kr/35185) | 바바와 깃발 게임 | Gold 3 | [C++](./35xxx/35185. 바바와 깃발 게임/바바와 깃발 게임.cc) |
+| [35185](https://boj.kr/35185) | 바바와 깃발 게임 | Gold 2 | [C++](./35xxx/35185. 바바와 깃발 게임/바바와 깃발 게임.cc) |
 </div>
