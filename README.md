@@ -1996,6 +1996,7 @@
 | [11170](https://boj.kr/11170) | 0의 개수 | Bronze 1 | [Java](./11xxx/11170. 0의 개수/0의 개수.java) |
 | [11176](https://boj.kr/11176) | In the Shower | Bronze 3 | [Java](./11xxx/11176. In the Shower/In the Shower.java) |
 | [11179](https://boj.kr/11179) | 2진수 뒤집기 | Bronze 1 | [Java](./11xxx/11179. 2진수 뒤집기/2진수 뒤집기.java) |
+| [11180](https://boj.kr/11180) | Paintball | Platinum 4 | [C++](./11xxx/11180. Paintball/Paintball.cc) |
 | [11195](https://boj.kr/11195) | Peragrams | Bronze 2 | [Java](./11xxx/11195. Peragrams/Peragrams.java) |
 | [11213](https://boj.kr/11213) | Black Friday | Bronze 2 | [Java](./11xxx/11213. Black Friday/Black Friday.java) |
 | [11235](https://boj.kr/11235) | Polling | Silver 5 | [C++](./11xxx/11235. Polling/Polling.cc) |
@@ -5312,5 +5313,5 @@
 | [35149](https://boj.kr/35149) | NEMODEMIC | Bronze 2 | [C++](./35xxx/35149. NEMODEMIC/NEMODEMIC.cc) |
 | [35162](https://boj.kr/35162) | KCPC 스티커 만들기 | Gold 4 | [C++](./35xxx/35162. KCPC 스티커 만들기/KCPC 스티커 만들기.cc) |
 | [35184](https://boj.kr/35184) | 수돗물과 게 임 | Gold 2 | [C++](./35xxx/35184. 수돗물과 게 임/수돗물과 게 임.cc) |
-| [35185](https://boj.kr/35185) | 바바와 깃발 게임 | Gold 2 | [C++](./35xxx/35185. 바바와 깃발 게임/바바와 깃발 게임.cc) |
+| [35185](https://boj.kr/35185) | 바바와 깃발 게임 | Gold 3 | [C++](./35xxx/35185. 바바와 깃발 게임/바바와 깃발 게임.cc) |
 </div>
