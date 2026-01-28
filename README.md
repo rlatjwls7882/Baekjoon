@@ -2049,6 +2049,7 @@
 | [11408](https://boj.kr/11408) | 열혈강호 5 | Platinum 3 | [C++](./11xxx/11408. 열혈강호 5/열혈강호 5.cc) |
 | [11409](https://boj.kr/11409) | 열혈강호 6 | Platinum 3 | [C++](./11xxx/11409. 열혈강호 6/열혈강호 6.cc) |
 | [11431](https://boj.kr/11431) | Mr. Gorbachev, Tear Down This Wall! | Bronze 2 | [C++](./11xxx/11431. Mr． Gorbachev， Tear Down This Wall！/Mr． Gorbachev， Tear Down This Wall！.cc) |
+| [11432](https://boj.kr/11432) | Candy Bombers | Platinum 4 | [C++](./11xxx/11432. Candy Bombers/Candy Bombers.cc) |
 | [11434](https://boj.kr/11434) | Ampelmännchen | Bronze 3 | [Java](./11xxx/11434. Ampelmännchen/Ampelmännchen.java) |
 | [11437](https://boj.kr/11437) | LCA | Gold 3 | [C++](./11xxx/11437. LCA/LCA.cc) |
 | [11438](https://boj.kr/11438) | LCA 2 | Platinum 5 | [C++](./11xxx/11438. LCA 2/LCA 2.cc) |
