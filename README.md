@@ -3659,7 +3659,7 @@
 | [23255](https://boj.kr/23255) | 구름다리 2 | Gold 4 | [C++](./23xxx/23255. 구름다리 2/구름다리 2.cc) |
 | [23275](https://boj.kr/23275) | Knot Knowledge | Bronze 2 | [Java](./23xxx/23275. Knot Knowledge/Knot Knowledge.java) |
 | [23278](https://boj.kr/23278) | 영화 평가 | Bronze 1 | [Java](./23xxx/23278. 영화 평가/영화 평가.java) |
-| [23279](https://boj.kr/23279) | 서열 사회 | Silver 1 | [C++](./23xxx/23279. 서열 사회/서열 사회.cc) |
+| [23279](https://boj.kr/23279) | 서열 사회 | Silver 2 | [C++](./23xxx/23279. 서열 사회/서열 사회.cc) |
 | [23282](https://boj.kr/23282) | Line Fighter 2 | Platinum 2 | [C++](./23xxx/23282. Line Fighter 2/Line Fighter 2.cc) |
 | [23292](https://boj.kr/23292) | 코딩 바이오리듬 | Bronze 2 | [Java](./23xxx/23292. 코딩 바이오리듬/코딩 바이오리듬.java) |
 | [23293](https://boj.kr/23293) | 아주 서바이벌 | Silver 1 | [C++](./23xxx/23293. 아주 서바이벌/아주 서바이벌.cc) |
