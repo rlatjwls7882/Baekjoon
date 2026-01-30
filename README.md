@@ -5187,6 +5187,7 @@
 | [34348](https://boj.kr/34348) | snupc 문자열 (Easy) | Gold 1 | [C++](./34xxx/34348. snupc 문자열 （Easy）/snupc 문자열 （Easy）.cc) |
 | [34362](https://boj.kr/34362) | Above | Bronze 5 | [C++](./34xxx/34362. Above/Above.cc) |
 | [34363](https://boj.kr/34363) | Driving Dilemma | Bronze 4 | [C++](./34xxx/34363. Driving Dilemma/Driving Dilemma.cc) |
+| [34364](https://boj.kr/34364) | MIR Cipher | Bronze 3 | [C++](./34xxx/34364. MIR Cipher/MIR Cipher.cc) |
 | [34366](https://boj.kr/34366) | Mines Football | Bronze 3 | [C++](./34xxx/34366. Mines Football/Mines Football.cc) |
 | [34380](https://boj.kr/34380) | Blaster's Dash | Bronze 4 | [C++](./34xxx/34380. Blaster's Dash/Blaster's Dash.cc) |
 | [34400](https://boj.kr/34400) | 민규의 서카디안 리듬 | Bronze 4 | [C++](./34xxx/34400. 민규의 서카디안 리듬/민규의 서카디안 리듬.cc) |
@@ -5195,6 +5196,7 @@
 | [34411](https://boj.kr/34411) | M-Climb | Bronze 5 | [C++](./34xxx/34411. M－Climb/M－Climb.cc) |
 | [34412](https://boj.kr/34412) | 13 Floors | Bronze 5 | [C++](./34xxx/34412. 13 Floors/13 Floors.cc) |
 | [34414](https://boj.kr/34414) | Tall Enough | Bronze 4 | [C++](./34xxx/34414. Tall Enough/Tall Enough.cc) |
+| [34416](https://boj.kr/34416) | Follow The Prize | Bronze 3 | [C++](./34xxx/34416. Follow The Prize/Follow The Prize.cc) |
 | [34417](https://boj.kr/34417) | Alphabet Soup | Bronze 2 | [C++](./34xxx/34417. Alphabet Soup/Alphabet Soup.cc) |
 | [34424](https://boj.kr/34424) | Flatter Land | Bronze 5 | [C++](./34xxx/34424. Flatter Land/Flatter Land.cc) |
 | [34437](https://boj.kr/34437) | Number Reduction | Bronze 3 | [Swift](./34xxx/34437. Number Reduction/Number Reduction.swift) |
