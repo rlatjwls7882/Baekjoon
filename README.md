@@ -2937,6 +2937,7 @@
 | [16464](https://boj.kr/16464) | 가주아 | Silver 1 | [C++](./16xxx/16464. 가주아/가주아.cc) |
 | [16466](https://boj.kr/16466) | 콘서트 | Bronze 1 | [Java](./16xxx/16466. 콘서트/콘서트.java) |
 | [16471](https://boj.kr/16471) | 작은 수 내기 | Silver 3 | [C++](./16xxx/16471. 작은 수 내기/작은 수 내기.cc) |
+| [16474](https://boj.kr/16474) | 이상한 전깃줄 | Platinum 5 | [C++](./16xxx/16474. 이상한 전깃줄/이상한 전깃줄.cc) |
 | [16478](https://boj.kr/16478) | 원의 분할 | Bronze 1 | [Java](./16xxx/16478. 원의 분할/원의 분할.java) |
 | [16479](https://boj.kr/16479) | 컵라면 측정하기 | Bronze 3 | [Java](./16xxx/16479. 컵라면 측정하기/컵라면 측정하기.java) |
 | [16483](https://boj.kr/16483) | 접시 안의 원 | Bronze 2 | [Java](./16xxx/16483. 접시 안의 원/접시 안의 원.java) |
@@ -4839,6 +4840,7 @@
 | [31880](https://boj.kr/31880) | K512컵 개최! | Bronze 2 | [C++](./31xxx/31880. K512컵 개최！/K512컵 개최！.cc) |
 | [31881](https://boj.kr/31881) | K512에 바이러스 퍼뜨리기 | Bronze 2 | [C++](./31xxx/31881. K512에 바이러스 퍼뜨리기/K512에 바이러스 퍼뜨리기.cc) |
 | [31907](https://boj.kr/31907) | GIST 찍기 | Bronze 3 | [C++](./31xxx/31907. GIST 찍기/GIST 찍기.cc) |
+| [31910](https://boj.kr/31910) | 이진수 격자 | Silver 2 | [C++](./31xxx/31910. 이진수 격자/이진수 격자.cc) |
 | [31922](https://boj.kr/31922) | 이 대회는 이제 제 겁니다 | Bronze 4 | [C++](./31xxx/31922. 이 대회는 이제 제 겁니다/이 대회는 이제 제 겁니다.cc) |
 | [31923](https://boj.kr/31923) | 마라탕후루 | Bronze 2 | [C++](./31xxx/31923. 마라탕후루/마라탕후루.cc) |
 | [31924](https://boj.kr/31924) | 현대모비스 특별상의 주인공은? 2 | Silver 5 | [C++](./31xxx/31924. 현대모비스 특별상의 주인공은？ 2/현대모비스 특별상의 주인공은？ 2.cc) |
@@ -5179,6 +5181,7 @@
 | [34302](https://boj.kr/34302) | Win Streak | Bronze 3 | [C++](./34xxx/34302. Win Streak/Win Streak.cc) |
 | [34306](https://boj.kr/34306) | M-Climb Road | Bronze 4 | [C++](./34xxx/34306. M－Climb Road/M－Climb Road.cc) |
 | [34308](https://boj.kr/34308) | Abby's Absolutes | Bronze 4 | [C++](./34xxx/34308. Abby's Absolutes/Abby's Absolutes.cc) |
+| [34310](https://boj.kr/34310) | No Stragglers | Bronze 3 | [C++](./34xxx/34310. No Stragglers/No Stragglers.cc) |
 | [34323](https://boj.kr/34323) | 할인이 필요해 | Bronze 4 | [C++](./34xxx/34323. 할인이 필요해/할인이 필요해.cc) |
 | [34326](https://boj.kr/34326) | How to escape the maze | Silver 2 | [C++](./34xxx/34326. How to escape the maze/How to escape the maze.cc) |
 | [34330](https://boj.kr/34330) | 금오리 🦆 | Gold 3 | [C++](./34xxx/34330. 금오리 🦆/금오리 🦆.cc) |
@@ -5190,6 +5193,7 @@
 | [34364](https://boj.kr/34364) | MIR Cipher | Bronze 3 | [C++](./34xxx/34364. MIR Cipher/MIR Cipher.cc) |
 | [34366](https://boj.kr/34366) | Mines Football | Bronze 3 | [C++](./34xxx/34366. Mines Football/Mines Football.cc) |
 | [34380](https://boj.kr/34380) | Blaster's Dash | Bronze 4 | [C++](./34xxx/34380. Blaster's Dash/Blaster's Dash.cc) |
+| [34382](https://boj.kr/34382) | Weather Nodes | Bronze 3 | [C++](./34xxx/34382. Weather Nodes/Weather Nodes.cc) |
 | [34400](https://boj.kr/34400) | 민규의 서카디안 리듬 | Bronze 4 | [C++](./34xxx/34400. 민규의 서카디안 리듬/민규의 서카디안 리듬.cc) |
 | [34406](https://boj.kr/34406) | x와 배수와 XOR (Easy) | Gold 5 | [C++](./34xxx/34406. x와 배수와 XOR （Easy）/x와 배수와 XOR （Easy）.cc) |
 | [34408](https://boj.kr/34408) | 문자열 분해기 | Silver 5 | [C++](./34xxx/34408. 문자열 분해기/문자열 분해기.cc) |
