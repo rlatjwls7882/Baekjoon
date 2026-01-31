@@ -2108,6 +2108,7 @@
 | [11662](https://boj.kr/11662) | 민호와 강호 | Gold 4 | [C++](./11xxx/11662. 민호와 강호/민호와 강호.cc) |
 | [11663](https://boj.kr/11663) | 선분 위의 점 | Silver 3 | [C++](./11xxx/11663. 선분 위의 점/선분 위의 점.cc) |
 | [11665](https://boj.kr/11665) | 직육면체 교집합 | Silver 5 | [Java](./11xxx/11665. 직육면체 교집합/직육면체 교집합.java) |
+| [11670](https://boj.kr/11670) | 초등 수학 | Platinum 3 | [C++](./11xxx/11670. 초등 수학/초등 수학.cc) |
 | [11680](https://boj.kr/11680) | Dice Cup | Bronze 2 | [Java](./11xxx/11680. Dice Cup/Dice Cup.java) |
 | [11688](https://boj.kr/11688) | 최소공배수 찾기 | Gold 5 | [C++](./11xxx/11688. 최소공배수 찾기/최소공배수 찾기.cc) |
 | [11689](https://boj.kr/11689) | GCD(n, k) = 1 | Gold 1 | [C++](./11xxx/11689. GCD（n， k） ＝ 1/GCD（n， k） ＝ 1.cc) |
