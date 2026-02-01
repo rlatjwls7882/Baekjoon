@@ -2244,6 +2244,7 @@
 | [12836](https://boj.kr/12836) | 가계부 (Easy) | Bronze 2 | [Java](./12xxx/12836. 가계부 （Easy）/가계부 （Easy）.java) |
 | [12837](https://boj.kr/12837) | 가계부 (Hard) | Gold 1 | [C++](./12xxx/12837. 가계부 （Hard）/가계부 （Hard）.cc) |
 | [12840](https://boj.kr/12840) | 창용이의 시계 | Bronze 3 | [Java](./12xxx/12840. 창용이의 시계/창용이의 시계.java) |
+| [12843](https://boj.kr/12843) | 복수전공 | Platinum 3 | [C++](./12xxx/12843. 복수전공/복수전공.cc) |
 | [12844](https://boj.kr/12844) | XOR | Platinum 3 | [C++](./12xxx/12844. XOR/XOR.cc) |
 | [12845](https://boj.kr/12845) | 모두의 마블 | Silver 3 | [C++](./12xxx/12845. 모두의 마블/모두의 마블.cc) |
 | [12846](https://boj.kr/12846) | 무서운 아르바이트 | Platinum 5 | [C++](./12xxx/12846. 무서운 아르바이트/무서운 아르바이트.cc) |
@@ -3697,7 +3698,7 @@
 | [23656](https://boj.kr/23656) | Jack and Jill | Silver 2 | [C++](./23xxx/23656. Jack and Jill/Jack and Jill.cc) |
 | [23663](https://boj.kr/23663) | Deja vu of Go Players | Bronze 3 | [Java](./23xxx/23663. Deja vu of Go Players/Deja vu of Go Players.java) |
 | [23716](https://boj.kr/23716) | Transform the String | Bronze 2 | [Java](./23xxx/23716. Transform the String/Transform the String.java) |
-| [23732](https://boj.kr/23732) | Successful String | Gold 4 | [C++](./23xxx/23732. Successful String/Successful String.cc) |
+| [23732](https://boj.kr/23732) | Successful String | Gold 5 | [C++](./23xxx/23732. Successful String/Successful String.cc) |
 | [23738](https://boj.kr/23738) | Ресторан | Bronze 2 | [Java](./23xxx/23738. Ресторан/Ресторан.java) |
 | [23739](https://boj.kr/23739) | 벼락치기 | Bronze 1 | [Java](./23xxx/23739. 벼락치기/벼락치기.java) |
 | [23740](https://boj.kr/23740) | 버스 노선 개편하기 | Gold 5 | [C++](./23xxx/23740. 버스 노선 개편하기/버스 노선 개편하기.cc) |
