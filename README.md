@@ -5178,6 +5178,7 @@
 | [34282](https://boj.kr/34282) | Fair Grading | Bronze 3 | [C++](./34xxx/34282. Fair Grading/Fair Grading.cc) |
 | [34288](https://boj.kr/34288) | Hill Climb Racing | Bronze 3 | [C++](./34xxx/34288. Hill Climb Racing/Hill Climb Racing.cc) |
 | [34297](https://boj.kr/34297) | Parking Pandemonium | Bronze 5 | [C++](./34xxx/34297. Parking Pandemonium/Parking Pandemonium.cc) |
+| [34298](https://boj.kr/34298) | Closing Early | Bronze 3 | [C++](./34xxx/34298. Closing Early/Closing Early.cc) |
 | [34301](https://boj.kr/34301) | Exact Change | Bronze 2 | [C++](./34xxx/34301. Exact Change/Exact Change.cc) |
 | [34302](https://boj.kr/34302) | Win Streak | Bronze 3 | [C++](./34xxx/34302. Win Streak/Win Streak.cc) |
 | [34306](https://boj.kr/34306) | M-Climb Road | Bronze 4 | [C++](./34xxx/34306. M－Climb Road/M－Climb Road.cc) |
