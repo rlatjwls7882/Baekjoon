@@ -2984,6 +2984,7 @@
 | [16720](https://boj.kr/16720) | BAZE RUNNER | Silver 1 | [C++](./16xxx/16720. BAZE RUNNER/BAZE RUNNER.cc) |
 | [16722](https://boj.kr/16722) | 결! 합! | Gold 5 | [Java](./16xxx/16722. 결！ 합！/결！ 합！.java) |
 | [16724](https://boj.kr/16724) | 피리 부는 사나이 | Gold 3 | [C++](./16xxx/16724. 피리 부는 사나이/피리 부는 사나이.cc) |
+| [16726](https://boj.kr/16726) | 영과일 학회방 | Platinum 3 | [C++](./16xxx/16726. 영과일 학회방/영과일 학회방.cc) |
 | [16727](https://boj.kr/16727) | ICPC | Bronze 4 | [Java](./16xxx/16727. ICPC/ICPC.java) |
 | [16728](https://boj.kr/16728) | Chaarshanbegaan at Cafebazaar | Bronze 2 | [Java](./16xxx/16728. Chaarshanbegaan at Cafebazaar/Chaarshanbegaan at Cafebazaar.java) |
 | [16735](https://boj.kr/16735) | Congestion Charging Zone | Bronze 2 | [Java](./16xxx/16735. Congestion Charging Zone/Congestion Charging Zone.java) |
