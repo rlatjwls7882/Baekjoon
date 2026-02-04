@@ -2491,6 +2491,7 @@
 | [14323](https://boj.kr/14323) | Country Leader (Large) | Bronze 1 | [Java](./14xxx/14323. Country Leader （Large）/Country Leader （Large）.java) |
 | [14337](https://boj.kr/14337) | Helicopter | Unrated | [Visual Basic](./14xxx/14337. Helicopter/Helicopter.vb) |
 | [14394](https://boj.kr/14394) | 9-퍼즐 | Silver 4 | [C++](./14xxx/14394. 9－퍼즐/9－퍼즐.cc) |
+| [14398](https://boj.kr/14398) | 피타고라스 수 | Platinum 3 | [C++](./14xxx/14398. 피타고라스 수/피타고라스 수.cc) |
 | [14405](https://boj.kr/14405) | 피카츄 | Silver 5 | [Java](./14xxx/14405. 피카츄/피카츄.java) |
 | [14409](https://boj.kr/14409) | Tuna | Bronze 2 | [Java](./14xxx/14409. Tuna/Tuna.java) |
 | [14413](https://boj.kr/14413) | Poklon | Platinum 2 | [C++](./14xxx/14413. Poklon/Poklon.cc) |
