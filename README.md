@@ -368,6 +368,7 @@
 | [01867](https://boj.kr/1867) | 돌멩이 제거 | Platinum 3 | [C++](./01xxx/1867. 돌멩이 제거/돌멩이 제거.cc) |
 | [01871](https://boj.kr/1871) | 좋은 자동차 번호판 | Bronze 2 | [Java](./01xxx/1871. 좋은 자동차 번호판/좋은 자동차 번호판.java) |
 | [01874](https://boj.kr/1874) | 스택 수열 | Silver 2 | [C++](./01xxx/1874. 스택 수열/스택 수열.cc) |
+| [01886](https://boj.kr/1886) | 프리즌 브레이크 | Diamond 5 | [C++](./01xxx/1886. 프리즌 브레이크/프리즌 브레이크.cc) |
 | [01888](https://boj.kr/1888) | 곰팡이 | Gold 3 | [C++](./01xxx/1888. 곰팡이/곰팡이.cc) |
 | [01890](https://boj.kr/1890) | 점프 | Silver 1 | [C++](./01xxx/1890. 점프/점프.cc) |
 | [01894](https://boj.kr/1894) | 4번째 점 | Bronze 1 | [C++](./01xxx/1894. 4번째 점/4번째 점.cc) |
@@ -5201,6 +5202,7 @@
 | [34366](https://boj.kr/34366) | Mines Football | Bronze 3 | [C++](./34xxx/34366. Mines Football/Mines Football.cc) |
 | [34380](https://boj.kr/34380) | Blaster's Dash | Bronze 4 | [C++](./34xxx/34380. Blaster's Dash/Blaster's Dash.cc) |
 | [34382](https://boj.kr/34382) | Weather Nodes | Bronze 3 | [C++](./34xxx/34382. Weather Nodes/Weather Nodes.cc) |
+| [34384](https://boj.kr/34384) | Hard Rocks and Atomic Clocks | Bronze 3 | [C++](./34xxx/34384. Hard Rocks and Atomic Clocks/Hard Rocks and Atomic Clocks.cc) |
 | [34400](https://boj.kr/34400) | 민규의 서카디안 리듬 | Bronze 4 | [C++](./34xxx/34400. 민규의 서카디안 리듬/민규의 서카디안 리듬.cc) |
 | [34406](https://boj.kr/34406) | x와 배수와 XOR (Easy) | Gold 5 | [C++](./34xxx/34406. x와 배수와 XOR （Easy）/x와 배수와 XOR （Easy）.cc) |
 | [34408](https://boj.kr/34408) | 문자열 분해기 | Silver 5 | [C++](./34xxx/34408. 문자열 분해기/문자열 분해기.cc) |
@@ -5210,6 +5212,7 @@
 | [34416](https://boj.kr/34416) | Follow The Prize | Bronze 3 | [C++](./34xxx/34416. Follow The Prize/Follow The Prize.cc) |
 | [34417](https://boj.kr/34417) | Alphabet Soup | Bronze 2 | [C++](./34xxx/34417. Alphabet Soup/Alphabet Soup.cc) |
 | [34424](https://boj.kr/34424) | Flatter Land | Bronze 5 | [C++](./34xxx/34424. Flatter Land/Flatter Land.cc) |
+| [34426](https://boj.kr/34426) | CDOT Pathfinder | Bronze 3 | [C++](./34xxx/34426. CDOT Pathfinder/CDOT Pathfinder.cc) |
 | [34437](https://boj.kr/34437) | Number Reduction | Bronze 3 | [Swift](./34xxx/34437. Number Reduction/Number Reduction.swift) |
 | [34441](https://boj.kr/34441) | Ski Traffic | Bronze 3 | [C++](./34xxx/34441. Ski Traffic/Ski Traffic.cc) |
 | [34443](https://boj.kr/34443) | Hack-a-Holics | Bronze 5 | [C++](./34xxx/34443. Hack－a－Holics/Hack－a－Holics.cc) |
