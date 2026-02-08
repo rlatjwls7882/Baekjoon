@@ -2882,6 +2882,7 @@
 | [16114](https://boj.kr/16114) | 화살표 연산자 | Silver 3 | [C++](./16xxx/16114. 화살표 연산자/화살표 연산자.cc) |
 | [16117](https://boj.kr/16117) | 실버런 | Gold 1 | [C++](./16xxx/16117. 실버런/실버런.cc) |
 | [16120](https://boj.kr/16120) | PPAP | Gold 4 | [C++](./16xxx/16120. PPAP/PPAP.cc) |
+| [16126](https://boj.kr/16126) | 동아리방 확장 | Platinum 1 | [C++](./16xxx/16126. 동아리방 확장/동아리방 확장.cc) |
 | [16130](https://boj.kr/16130) | 벌점 (DemeritPoints) | Bronze 1 | [C++](./16xxx/16130. 벌점 （DemeritPoints）/벌점 （DemeritPoints）.cc) |
 | [16134](https://boj.kr/16134) | 조합 (Combination) | Gold 1 | [C++](./16xxx/16134. 조합 （Combination）/조합 （Combination）.cc) |
 | [16139](https://boj.kr/16139) | 인간-컴퓨터 상호작용 | Silver 1 | [Java](./16xxx/16139. 인간－컴퓨터 상호작용/인간－컴퓨터 상호작용.java) |
