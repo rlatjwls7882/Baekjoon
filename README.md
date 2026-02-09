@@ -2141,6 +2141,7 @@
 | [11815](https://boj.kr/11815) | 짝수? 홀수? | Silver 4 | [C++](./11xxx/11815. 짝수？ 홀수？/짝수？ 홀수？.cc) |
 | [11816](https://boj.kr/11816) | 8진수, 10진수, 16진수 | Bronze 2 | [Java](./11xxx/11816. 8진수， 10진수， 16진수/8진수， 10진수， 16진수.java) |
 | [11822](https://boj.kr/11822) | Document | Bronze 1 | [C++](./11xxx/11822. Document/Document.cc) |
+| [11843](https://boj.kr/11843) | Monkey and Apple-trees | Platinum 1 | [C++](./11xxx/11843. Monkey and Apple－trees/Monkey and Apple－trees.cc) |
 | [11866](https://boj.kr/11866) | 요세푸스 문제 0 | Silver 4 | [Java](./11xxx/11866. 요세푸스 문제 0/요세푸스 문제 0.java) |
 | [11868](https://boj.kr/11868) | 님 게임 2 | Platinum 4 | [C++](./11xxx/11868. 님 게임 2/님 게임 2.cc) |
 | [11869](https://boj.kr/11869) | 님블 | Platinum 4 | [C++](./11xxx/11869. 님블/님블.cc) |
