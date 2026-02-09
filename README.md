@@ -2822,7 +2822,7 @@
 | [15834](https://boj.kr/15834) | Eli's Curious Mind | Silver 1 | [C++](./15xxx/15834. Eli's Curious Mind/Eli's Curious Mind.cc) |
 | [15835](https://boj.kr/15835) | Explorace | Gold 4 | [Java](./15xxx/15835. Explorace/Explorace.java) |
 | [15838](https://boj.kr/15838) | Wak Sani Satay | Bronze 3 | [Python](./15xxx/15838. Wak Sani Satay/Wak Sani Satay.py) |
-| [15841](https://boj.kr/15841) | Virus Outbreak | Bronze 2 | [Java](./15xxx/15841. Virus Outbreak/Virus Outbreak.java) |
+| [15841](https://boj.kr/15841) | Virus Outbreak | Bronze 1 | [Java](./15xxx/15841. Virus Outbreak/Virus Outbreak.java) |
 | [15845](https://boj.kr/15845) | Winning ICPC | Bronze 2 | [Java](./15xxx/15845. Winning ICPC/Winning ICPC.java) |
 | [15858](https://boj.kr/15858) | Simple Arithmetic | Bronze 3 | [Java](./15xxx/15858. Simple Arithmetic/Simple Arithmetic.java) |
 | [15873](https://boj.kr/15873) | 공백 없는 A+B | Bronze 4 | [Java](./15xxx/15873. 공백 없는 A＋B/공백 없는 A＋B.java) |
@@ -3393,6 +3393,7 @@
 | [20205](https://boj.kr/20205) | 교수님 그림이 깨지는데요? | Bronze 2 | [Java](./20xxx/20205. 교수님 그림이 깨지는데요？/교수님 그림이 깨지는데요？.java) |
 | [20208](https://boj.kr/20208) | 진우의 민트초코우유 | Gold 5 | [C++](./20xxx/20208. 진우의 민트초코우유/진우의 민트초코우유.cc) |
 | [20209](https://boj.kr/20209) | 스트레이트 스위치 게임 | Gold 3 | [C++](./20xxx/20209. 스트레이트 스위치 게임/스트레이트 스위치 게임.cc) |
+| [20212](https://boj.kr/20212) | 나무는 쿼리를 싫어해~ | Platinum 2 | [C++](./20xxx/20212. 나무는 쿼리를 싫어해～/나무는 쿼리를 싫어해～.cc) |
 | [20215](https://boj.kr/20215) | Cutting Corners | Bronze 4 | [C](./20xxx/20215. Cutting Corners/Cutting Corners.c) |
 | [20216](https://boj.kr/20216) | Ducky Debugging | Bronze 2 | [Java](./20xxx/20216. Ducky Debugging/Ducky Debugging.java) |
 | [20224](https://boj.kr/20224) | Count <s>Down</s> Up 2020 | Bronze 2 | [Java](./20xxx/20224. Count ＜s＞Down＜／s＞ Up 2020/Count ＜s＞Down＜／s＞ Up 2020.java) |
@@ -4914,7 +4915,7 @@
 | [32218](https://boj.kr/32218) | 반려동물 준세 | Silver 4 | [C++](./32xxx/32218. 반려동물 준세/반려동물 준세.cc) |
 | [32227](https://boj.kr/32227) | MatKor Cup 예비소집 자리 배치 | Silver 1 | [C++](./32xxx/32227. MatKor Cup 예비소집 자리 배치/MatKor Cup 예비소집 자리 배치.cc) |
 | [32228](https://boj.kr/32228) | 등차수열 만들기 | Gold 1 | [C++](./32xxx/32228. 등차수열 만들기/등차수열 만들기.cc) |
-| [32230](https://boj.kr/32230) | 현대모비스 첨단 운전자 보조 시스템 | Platinum 2 | [C++](./32xxx/32230. 현대모비스 첨단 운전자 보조 시스템/현대모비스 첨단 운전자 보조 시스템.cc) |
+| [32230](https://boj.kr/32230) | 현대모비스 첨단 운전자 보조 시스템 | Platinum 3 | [C++](./32xxx/32230. 현대모비스 첨단 운전자 보조 시스템/현대모비스 첨단 운전자 보조 시스템.cc) |
 | [32246](https://boj.kr/32246) | 빙고 막기 | Bronze 3 | [C++](./32xxx/32246. 빙고 막기/빙고 막기.cc) |
 | [32260](https://boj.kr/32260) | A + B | Bronze 5 | [C++](./32xxx/32260. A ＋ B/A ＋ B.cc) |
 | [32278](https://boj.kr/32278) | 선택 가능성이 가장 높은 자료형 | Bronze 4 | [C++](./32xxx/32278. 선택 가능성이 가장 높은 자료형/선택 가능성이 가장 높은 자료형.cc) |
@@ -4942,6 +4943,7 @@
 | [32342](https://boj.kr/32342) | 와우와 쿼리 | Bronze 3 | [C++](./32xxx/32342. 와우와 쿼리/와우와 쿼리.cc) |
 | [32343](https://boj.kr/32343) | 드랍 더 비트 | Bronze 1 | [C++](./32xxx/32343. 드랍 더 비트/드랍 더 비트.cc) |
 | [32344](https://boj.kr/32344) | 유물 발굴 | Silver 5 | [C++](./32xxx/32344. 유물 발굴/유물 발굴.cc) |
+| [32349](https://boj.kr/32349) | 구슬 옮기기 | Platinum 3 | [C++](./32xxx/32349. 구슬 옮기기/구슬 옮기기.cc) |
 | [32350](https://boj.kr/32350) | 오버킬 | Bronze 1 | [C++](./32xxx/32350. 오버킬/오버킬.cc) |
 | [32351](https://boj.kr/32351) | 리듬게임 | Bronze 1 | [C++](./32xxx/32351. 리듬게임/리듬게임.cc) |
 | [32357](https://boj.kr/32357) | 더블팰린드롬 | Bronze 1 | [C++](./32xxx/32357. 더블팰린드롬/더블팰린드롬.cc) |
