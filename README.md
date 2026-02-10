@@ -3335,6 +3335,7 @@
 | [19640](https://boj.kr/19640) | 화장실의 규칙 | Gold 4 | [C++](./19xxx/19640. 화장실의 규칙/화장실의 규칙.cc) |
 | [19644](https://boj.kr/19644) | 좀비 떼가 기관총 진지에도 오다니 | Gold 3 | [C++](./19xxx/19644. 좀비 떼가 기관총 진지에도 오다니/좀비 떼가 기관총 진지에도 오다니.cc) |
 | [19646](https://boj.kr/19646) | Random Generator | Platinum 5 | [C++](./19xxx/19646. Random Generator/Random Generator.cc) |
+| [19647](https://boj.kr/19647) | Unique Solution | Platinum 2 | [C++](./19xxx/19647. Unique Solution/Unique Solution.cc) |
 | [19685](https://boj.kr/19685) | Palindromic FizzBuzz | Bronze 2 | [Java](./19xxx/19685. Palindromic FizzBuzz/Palindromic FizzBuzz.java) |
 | [19698](https://boj.kr/19698) | 헛간 청약 | Bronze 4 | [C](./19xxx/19698. 헛간 청약/헛간 청약.c) |
 | [19699](https://boj.kr/19699) | 소-난다! | Silver 2 | [C++](./19xxx/19699. 소－난다！/소－난다！.cc) |
@@ -3918,7 +3919,7 @@
 | [24912](https://boj.kr/24912) | 카드 색칠 | Silver 5 | [C++](./24xxx/24912. 카드 색칠/카드 색칠.cc) |
 | [24923](https://boj.kr/24923) | Canadians, eh? | Bronze 3 | [Java](./24xxx/24923. Canadians， eh？/Canadians， eh？.java) |
 | [24927](https://boj.kr/24927) | Is It Even? | Bronze 2 | [Java](./24xxx/24927. Is It Even？/Is It Even？.java) |
-| [24937](https://boj.kr/24937) | SciComLove (2022) | Bronze 2 | [Java](./24xxx/24937. SciComLove （2022）/SciComLove （2022）.java) |
+| [24937](https://boj.kr/24937) | SciComLove (2022) | Bronze 3 | [Java](./24xxx/24937. SciComLove （2022）/SciComLove （2022）.java) |
 | [24938](https://boj.kr/24938) | 키트 분배하기 | Silver 2 | [C++](./24xxx/24938. 키트 분배하기/키트 분배하기.cc) |
 | [25024](https://boj.kr/25024) | 시간과 날짜 | Bronze 3 | [Java](./25xxx/25024. 시간과 날짜/시간과 날짜.java) |
 | [25044](https://boj.kr/25044) | 에어컨 | Silver 4 | [C++](./25xxx/25044. 에어컨/에어컨.cc) |
