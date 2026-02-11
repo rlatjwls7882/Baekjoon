@@ -1648,6 +1648,7 @@
 | [09488](https://boj.kr/9488) | The n Days of Christmas | Silver 5 | [Java](./09xxx/9488. The n Days of Christmas/The n Days of Christmas.java) |
 | [09493](https://boj.kr/9493) | 길면 기차, 기차는 빨라, 빠른 것은 비행기 | Bronze 3 | [Java](./09xxx/9493. 길면 기차， 기차는 빨라， 빠른 것은 비행기/길면 기차， 기차는 빨라， 빠른 것은 비행기.java) |
 | [09494](https://boj.kr/9494) | Text Roll | Bronze 1 | [Java](./09xxx/9494. Text Roll/Text Roll.java) |
+| [09495](https://boj.kr/9495) | 바둑 | Diamond 4 | [C++](./09xxx/9495. 바둑/바둑.cc) |
 | [09496](https://boj.kr/9496) | 조 나누기 | Platinum 3 | [C++](./09xxx/9496. 조 나누기/조 나누기.cc) |
 | [09498](https://boj.kr/9498) | 시험 성적 | Bronze 5 | [C](./09xxx/9498. 시험 성적/시험 성적.c) |
 | [09501](https://boj.kr/9501) | 꿍의 우주여행 | Bronze 3 | [Java](./09xxx/9501. 꿍의 우주여행/꿍의 우주여행.java) |
