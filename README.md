@@ -1654,6 +1654,7 @@
 | [09506](https://boj.kr/9506) | 약수들의 합 | Bronze 1 | [Java](./09xxx/9506. 약수들의 합/약수들의 합.java) |
 | [09507](https://boj.kr/9507) | Generations of Tribbles | Silver 4 | [C++](./09xxx/9507. Generations of Tribbles/Generations of Tribbles.cc) |
 | [09517](https://boj.kr/9517) | 아이 러브 크로아티아 | Bronze 3 | [Java](./09xxx/9517. 아이 러브 크로아티아/아이 러브 크로아티아.java) |
+| [09522](https://boj.kr/9522) | 직선 게임 | Diamond 4 | [C++](./09xxx/9522. 직선 게임/직선 게임.cc) |
 | [09525](https://boj.kr/9525) | 룩 배치하기 | Platinum 3 | [C++](./09xxx/9525. 룩 배치하기/룩 배치하기.cc) |
 | [09527](https://boj.kr/9527) | 1의 개수 세기 | Gold 2 | [C++](./09xxx/9527. 1의 개수 세기/1의 개수 세기.cc) |
 | [09536](https://boj.kr/9536) | 여우는 어떻게 울지? | Silver 3 | [Java](./09xxx/9536. 여우는 어떻게 울지？/여우는 어떻게 울지？.java) |
