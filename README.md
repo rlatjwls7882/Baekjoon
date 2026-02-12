@@ -2370,6 +2370,7 @@
 | [13423](https://boj.kr/13423) | Three Dots | Silver 2 | [C++](./13xxx/13423. Three Dots/Three Dots.cc) |
 | [13424](https://boj.kr/13424) | 비밀 모임 | Gold 4 | [C++](./13xxx/13424. 비밀 모임/비밀 모임.cc) |
 | [13430](https://boj.kr/13430) | 합 구하기 | Platinum 5 | [C++](./13xxx/13430. 합 구하기/합 구하기.cc) |
+| [13443](https://boj.kr/13443) | 바둑 | Diamond 4 | [C++](./13xxx/13443. 바둑/바둑.cc) |
 | [13448](https://boj.kr/13448) | SW 역량 테스트 | Platinum 3 | [C++](./13xxx/13448. SW 역량 테스트/SW 역량 테스트.cc) |
 | [13456](https://boj.kr/13456) | Richard Hamming | Bronze 3 | [Java](./13xxx/13456. Richard Hamming/Richard Hamming.java) |
 | [13458](https://boj.kr/13458) | 시험 감독 | Bronze 2 | [Java](./13xxx/13458. 시험 감독/시험 감독.java) |
