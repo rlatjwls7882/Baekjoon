@@ -4376,6 +4376,7 @@
 | [28115](https://boj.kr/28115) | 등차수열의 합 | Bronze 1 | [Java](./28xxx/28115. 등차수열의 합/등차수열의 합.java) |
 | [28117](https://boj.kr/28117) | prlong longf | Silver 1 | [C++](./28xxx/28117. prlong longf/prlong longf.cc) |
 | [28119](https://boj.kr/28119) | Traveling SCCC President | Gold 3 | [Java](./28xxx/28119. Traveling SCCC President/Traveling SCCC President.java) |
+| [28120](https://boj.kr/28120) | SCCC 신입 부원 모집하기 | Platinum 4 | [C++](./28xxx/28120. SCCC 신입 부원 모집하기/SCCC 신입 부원 모집하기.cc) |
 | [28125](https://boj.kr/28125) | 2023 아주머학교 프로그래딩 정시머힌 | Silver 4 | [Java](./28xxx/28125. 2023 아주머학교 프로그래딩 정시머힌/2023 아주머학교 프로그래딩 정시머힌.java) |
 | [28126](https://boj.kr/28126) | Space-A | Silver 2 | [C++](./28xxx/28126. Space－A/Space－A.cc) |
 | [28127](https://boj.kr/28127) | 숫자탑과 쿼리 | Gold 5 | [C++](./28xxx/28127. 숫자탑과 쿼리/숫자탑과 쿼리.cc) |
