@@ -206,6 +206,7 @@
 | [01439](https://boj.kr/1439) | 뒤집기 | Silver 5 | [Java](./01xxx/1439. 뒤집기/뒤집기.java) |
 | [01440](https://boj.kr/1440) | 타임머신 | Bronze 2 | [Java](./01xxx/1440. 타임머신/타임머신.java) |
 | [01441](https://boj.kr/1441) | 나누어 질까 | Gold 1 | [C++](./01xxx/1441. 나누어 질까/나누어 질까.cc) |
+| [01444](https://boj.kr/1444) | 숌 언어 | Platinum 2 | [C++](./01xxx/1444. 숌 언어/숌 언어.cc) |
 | [01445](https://boj.kr/1445) | 일요일 아침의 데이트 | Gold 2 | [C++](./01xxx/1445. 일요일 아침의 데이트/일요일 아침의 데이트.cc) |
 | [01446](https://boj.kr/1446) | 지름길 | Silver 1 | [C++](./01xxx/1446. 지름길/지름길.cc) |
 | [01448](https://boj.kr/1448) | 삼각형 만들기 | Silver 3 | [C++](./01xxx/1448. 삼각형 만들기/삼각형 만들기.cc) |
@@ -630,6 +631,7 @@
 | [02531](https://boj.kr/2531) | 회전 초밥 | Silver 1 | [C++](./02xxx/2531. 회전 초밥/회전 초밥.cc) |
 | [02533](https://boj.kr/2533) | 사회망 서비스(SNS) | Gold 3 | [C++](./02xxx/2533. 사회망 서비스（SNS）/사회망 서비스（SNS）.cc) |
 | [02535](https://boj.kr/2535) | 아시아 정보올림피아드 | Silver 5 | [Java](./02xxx/2535. 아시아 정보올림피아드/아시아 정보올림피아드.java) |
+| [02544](https://boj.kr/2544) | 격자판 | Platinum 1 | [C++](./02xxx/2544. 격자판/격자판.cc) |
 | [02545](https://boj.kr/2545) | 팬케익 먹기 | Silver 3 | [C++](./02xxx/2545. 팬케익 먹기/팬케익 먹기.cc) |
 | [02546](https://boj.kr/2546) | 경제학과 정원영 | Bronze 1 | [Java](./02xxx/2546. 경제학과 정원영/경제학과 정원영.java) |
 | [02547](https://boj.kr/2547) | 사탕 선생 고창영 | Bronze 3 | [Java](./02xxx/2547. 사탕 선생 고창영/사탕 선생 고창영.java) |
@@ -4666,6 +4668,7 @@
 | [30502](https://boj.kr/30502) | 미역은 식물 아닌데요 | Bronze 1 | [Java](./30xxx/30502. 미역은 식물 아닌데요/미역은 식물 아닌데요.java) |
 | [30503](https://boj.kr/30503) | 방형구 탐색 (Easy) | Bronze 1 | [Java](./30xxx/30503. 방형구 탐색 （Easy）/방형구 탐색 （Easy）.java) |
 | [30504](https://boj.kr/30504) | 세과영엔 슬픈 전설이 있어 | Silver 3 | [C++](./30xxx/30504. 세과영엔 슬픈 전설이 있어/세과영엔 슬픈 전설이 있어.cc) |
+| [30511](https://boj.kr/30511) | 꼬치구이 | Platinum 3 | [C++](./30xxx/30511. 꼬치구이/꼬치구이.cc) |
 | [30527](https://boj.kr/30527) | Cornhusker | Bronze 3 | [C++](./30xxx/30527. Cornhusker/Cornhusker.cc) |
 | [30536](https://boj.kr/30536) | 시루의 산책 | Gold 4 | [C++](./30xxx/30536. 시루의 산책/시루의 산책.cc) |
 | [30542](https://boj.kr/30542) | Anti-Palindrome | Bronze 1 | [Java](./30xxx/30542. Anti－Palindrome/Anti－Palindrome.java) |
