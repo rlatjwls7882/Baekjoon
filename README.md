@@ -344,7 +344,7 @@
 | [01790](https://boj.kr/1790) | 수 이어 쓰기 2 | Gold 5 | [C++](./01xxx/1790. 수 이어 쓰기 2/수 이어 쓰기 2.cc) |
 | [01793](https://boj.kr/1793) | 타일링 | Silver 2 | [Java](./01xxx/1793. 타일링/타일링.java) |
 | [01799](https://boj.kr/1799) | 비숍 | Platinum 5 | [C++](./01xxx/1799. 비숍/비숍.cc) |
-| [01802](https://boj.kr/1802) | 종이 접기 | Gold 5 | [C++](./01xxx/1802. 종이 접기/종이 접기.cc) |
+| [01802](https://boj.kr/1802) | 종이 접기 | Silver 1 | [C++](./01xxx/1802. 종이 접기/종이 접기.cc) |
 | [01806](https://boj.kr/1806) | 부분합 | Gold 4 | [Java](./01xxx/1806. 부분합/부분합.java) |
 | [01809](https://boj.kr/1809) | Moo | Bronze 5 | [Golfscript](./01xxx/1809. Moo/Moo.gs) |
 | [01810](https://boj.kr/1810) | 징검다리 달리기 2 | Gold 2 | [C++](./01xxx/1810. 징검다리 달리기 2/징검다리 달리기 2.cc) |
