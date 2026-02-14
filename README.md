@@ -2600,6 +2600,7 @@
 | [14656](https://boj.kr/14656) | 조교는 새디스트야!! | Bronze 3 | [Java](./14xxx/14656. 조교는 새디스트야！！/조교는 새디스트야！！.java) |
 | [14659](https://boj.kr/14659) | 한조서열정리하고옴ㅋㅋ | Bronze 1 | [Java](./14xxx/14659. 한조서열정리하고옴ㅋㅋ/한조서열정리하고옴ㅋㅋ.java) |
 | [14670](https://boj.kr/14670) | 병약한 영정 | Silver 4 | [Java](./14xxx/14670. 병약한 영정/병약한 영정.java) |
+| [14672](https://boj.kr/14672) | 윤호는 마법약 도둑 | Platinum 3 | [C++](./14xxx/14672. 윤호는 마법약 도둑/윤호는 마법약 도둑.cc) |
 | [14674](https://boj.kr/14674) | STOP USING MONEY | Silver 3 | [C++](./14xxx/14674. STOP USING MONEY/STOP USING MONEY.cc) |
 | [14675](https://boj.kr/14675) | 단절점과 단절선 | Silver 1 | [C++](./14xxx/14675. 단절점과 단절선/단절점과 단절선.cc) |
 | [14678](https://boj.kr/14678) | 어그로 끌린 영선 | Gold 1 | [C++](./14xxx/14678. 어그로 끌린 영선/어그로 끌린 영선.cc) |
