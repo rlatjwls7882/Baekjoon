@@ -4291,6 +4291,7 @@
 | [27434](https://boj.kr/27434) | 팩토리얼 3 | Bronze 5 | [Java](./27xxx/27434. 팩토리얼 3/팩토리얼 3.java) |
 | [27440](https://boj.kr/27440) | 1로 만들기 3 | Gold 4 | [C++](./27xxx/27440. 1로 만들기 3/1로 만들기 3.cc) |
 | [27445](https://boj.kr/27445) | Gorani Command | Bronze 2 | [Java](./27xxx/27445. Gorani Command/Gorani Command.java) |
+| [27446](https://boj.kr/27446) | 랩실에서 잘 자요 | Silver 3 | [C++](./27xxx/27446. 랩실에서 잘 자요/랩실에서 잘 자요.cc) |
 | [27465](https://boj.kr/27465) | 소수가 아닌 수 | Bronze 3 | [Java](./27xxx/27465. 소수가 아닌 수/소수가 아닌 수.java) |
 | [27466](https://boj.kr/27466) | 그래서 대회 이름 뭐로 하죠 | Silver 4 | [Java](./27xxx/27466. 그래서 대회 이름 뭐로 하죠/그래서 대회 이름 뭐로 하죠.java) |
 | [27470](https://boj.kr/27470) | 멋진 부분집합 | Platinum 5 | [C++](./27xxx/27470. 멋진 부분집합/멋진 부분집합.cc) |
@@ -4815,6 +4816,7 @@
 | [31561](https://boj.kr/31561) | 시계탑 | Bronze 3 | [Python](./31xxx/31561. 시계탑/시계탑.py) |
 | [31562](https://boj.kr/31562) | 전주 듣고 노래 맞히기 | Bronze 1 | [Java](./31xxx/31562. 전주 듣고 노래 맞히기/전주 듣고 노래 맞히기.java) |
 | [31565](https://boj.kr/31565) | 전역 역전 | Gold 4 | [C++](./31xxx/31565. 전역 역전/전역 역전.cc) |
+| [31575](https://boj.kr/31575) | 도시와 비트코인 | Silver 3 | [C++](./31xxx/31575. 도시와 비트코인/도시와 비트코인.cc) |
 | [31602](https://boj.kr/31602) | There and Back Again | Platinum 4 | [C++](./31xxx/31602. There and Back Again/There and Back Again.cc) |
 | [31606](https://boj.kr/31606) | 果物 (Fruit) | Bronze 5 | [Python](./31xxx/31606. 果物 （Fruit）/果物 （Fruit）.py) |
 | [31607](https://boj.kr/31607) | 和の判定 (Sum Checker) | Bronze 4 | [Python](./31xxx/31607. 和の判定 （Sum Checker）/和の判定 （Sum Checker）.py) |
@@ -5169,7 +5171,9 @@
 | [33928](https://boj.kr/33928) | 나이트 오브 나이츠(Hard) | Platinum 2 | [C++](./33xxx/33928. 나이트 오브 나이츠（Hard）/나이트 오브 나이츠（Hard）.cc) |
 | [33933](https://boj.kr/33933) | 인덕이와 산책 | Gold 2 | [C++](./33xxx/33933. 인덕이와 산책/인덕이와 산책.cc) |
 | [33937](https://boj.kr/33937) | 태권도와 복싱을 합한 운동 | Bronze 1 | [C++](./33xxx/33937. 태권도와 복싱을 합한 운동/태권도와 복싱을 합한 운동.cc) |
+| [33938](https://boj.kr/33938) | 간단한 동전 문제 (Easy) | Silver 4 | [C++](./33xxx/33938. 간단한 동전 문제 （Easy）/간단한 동전 문제 （Easy）.cc) |
 | [33939](https://boj.kr/33939) | 부도덕한 그래프 (Easy) | Silver 1 | [C++](./33xxx/33939. 부도덕한 그래프 （Easy）/부도덕한 그래프 （Easy）.cc) |
+| [33943](https://boj.kr/33943) | 간단한 동전 문제 (Hard) | Gold 4 | [C++](./33xxx/33943. 간단한 동전 문제 （Hard）/간단한 동전 문제 （Hard）.cc) |
 | [33950](https://boj.kr/33950) | 어게인 포닉스 | Bronze 3 | [C++](./33xxx/33950. 어게인 포닉스/어게인 포닉스.cc) |
 | [33957](https://boj.kr/33957) | Golden Section Search | Silver 2 | [C++](./33xxx/33957. Golden Section Search/Golden Section Search.cc) |
 | [33963](https://boj.kr/33963) | 돈복사 | Bronze 2 | [C++](./33xxx/33963. 돈복사/돈복사.cc) |
@@ -5179,6 +5183,7 @@
 | [33973](https://boj.kr/33973) | Sorting Replay at Jane Street | Gold 1 | [C++](./33xxx/33973. Sorting Replay at Jane Street/Sorting Replay at Jane Street.cc) |
 | [33977](https://boj.kr/33977) | $K$-POP | Gold 4 | [C++](./33xxx/33977. $K$－POP/$K$－POP.cc) |
 | [33983](https://boj.kr/33983) | 물과 응애 | Gold 4 | [C++](./33xxx/33983. 물과 응애/물과 응애.cc) |
+| [33989](https://boj.kr/33989) | 벚꽃과 단풍 | Silver 3 | [C++](./33xxx/33989. 벚꽃과 단풍/벚꽃과 단풍.cc) |
 | [33990](https://boj.kr/33990) | 3대 512 | Bronze 3 | [C++](./33xxx/33990. 3대 512/3대 512.cc) |
 | [34001](https://boj.kr/34001) | 임스의 일일 퀘스트 | Bronze 3 | [C++](./34xxx/34001. 임스의 일일 퀘스트/임스의 일일 퀘스트.cc) |
 | [34002](https://boj.kr/34002) | 임스의 잠수맵 | Bronze 1 | [C++](./34xxx/34002. 임스의 잠수맵/임스의 잠수맵.cc) |
