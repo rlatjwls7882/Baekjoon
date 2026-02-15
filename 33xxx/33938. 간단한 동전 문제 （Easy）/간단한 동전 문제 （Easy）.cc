@@ -23,7 +23,7 @@ uniform_real_distribution<double> rnd_real(0, 1); // rnd_real(rd)
 ll sq(ll x) { return x*x; }
 ld sq(ld x) { return x*x; }
 
-int vis[40'001], p[2000];
+int vis[2001], p[2000];
 
 int main() {
     cin.tie(0)->sync_with_stdio(0);
@@ -32,15 +32,15 @@ int main() {
 
     memset(vis, -1, sizeof vis);
     queue<int> q; q.push(0);
-    vis[20000]=0;
+    vis[1000]=0;
     while(!q.empty()) {
         int cur = q.front(); q.pop();
         for(int i=0;i<n;i++) {
-            if(-20000<=cur+p[i] && cur+p[i]<=20000 && vis[cur+p[i]+20000]==-1) {
-                vis[cur+p[i]+20000]=vis[cur+20000]+1;
+            if(-2000<=cur+p[i] && cur+p[i]<=2000 && vis[cur+p[i]+1000]==-1) {
+                vis[cur+p[i]+1000]=vis[cur+1000]+1;
                 q.push(cur+p[i]);
             }
         }
     }
-    cout << vis[m+20000];
+    cout << vis[m+1000];
 }
