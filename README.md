@@ -2203,6 +2203,8 @@
 | [12400](https://boj.kr/12400) | Speaking in Tongues (Small) | Bronze 1 | [Java](./12xxx/12400. Speaking in Tongues （Small）/Speaking in Tongues （Small）.java) |
 | [12423](https://boj.kr/12423) | 전장 (Small) | Platinum 3 | [C++](./12xxx/12423. 전장 （Small）/전장 （Small）.cc) |
 | [12424](https://boj.kr/12424) | 전장 (Large) | Platinum 3 | [C++](./12xxx/12424. 전장 （Large）/전장 （Large）.cc) |
+| [12427](https://boj.kr/12427) | 박테리아 (Small) | Platinum 2 | [C++](./12xxx/12427. 박테리아 （Small）/박테리아 （Small）.cc) |
+| [12428](https://boj.kr/12428) | 박테리아 (Large) | Platinum 2 | [C++](./12xxx/12428. 박테리아 （Large）/박테리아 （Large）.cc) |
 | [12437](https://boj.kr/12437) | 새로운 달력 (Small) | Silver 4 | [C++](./12xxx/12437. 새로운 달력 （Small）/새로운 달력 （Small）.cc) |
 | [12438](https://boj.kr/12438) | 새로운 달력 (Large) | Gold 5 | [C++](./12xxx/12438. 새로운 달력 （Large）/새로운 달력 （Large）.cc) |
 | [12503](https://boj.kr/12503) | FreeCell Statistics (Small) | Silver 3 | [C++](./12xxx/12503. FreeCell Statistics （Small）/FreeCell Statistics （Small）.cc) |
