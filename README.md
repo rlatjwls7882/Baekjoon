@@ -1480,7 +1480,7 @@
 | [08063](https://boj.kr/8063) | Three-Coloring of Binary Trees | Gold 2 | [C++](./08xxx/8063. Three－Coloring of Binary Trees/Three－Coloring of Binary Trees.cc) |
 | [08118](https://boj.kr/8118) | Board Covering | Platinum 3 | [C++](./08xxx/8118. Board Covering/Board Covering.cc) |
 | [08217](https://boj.kr/8217) | 유성 | Diamond 4 | [C++](./08xxx/8217. 유성/유성.cc) |
-| [08246](https://boj.kr/8246) | Stół | Bronze 2 | [Java](./08xxx/8246. Stół/Stół.java) |
+| [08246](https://boj.kr/8246) | Stół | Bronze 1 | [Java](./08xxx/8246. Stół/Stół.java) |
 | [08270](https://boj.kr/8270) | Tulips | Bronze 2 | [Java](./08xxx/8270. Tulips/Tulips.java) |
 | [08295](https://boj.kr/8295) | Rectangles | Bronze 2 | [Java](./08xxx/8295. Rectangles/Rectangles.java) |
 | [08314](https://boj.kr/8314) | Acyclic Decomposition | Platinum 5 | [C++](./08xxx/8314. Acyclic Decomposition/Acyclic Decomposition.cc) |
