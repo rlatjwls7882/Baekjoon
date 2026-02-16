@@ -2858,6 +2858,7 @@
 | [15922](https://boj.kr/15922) | 아우으 우아으이야!! | Gold 5 | [C++](./15xxx/15922. 아우으 우아으이야！！/아우으 우아으이야！！.cc) |
 | [15923](https://boj.kr/15923) | 욱제는 건축왕이야!! | Bronze 3 | [Java](./15xxx/15923. 욱제는 건축왕이야！！/욱제는 건축왕이야！！.java) |
 | [15927](https://boj.kr/15927) | 회문은 회문아니야!! | Gold 5 | [C++](./15xxx/15927. 회문은 회문아니야！！/회문은 회문아니야！！.cc) |
+| [15934](https://boj.kr/15934) | 도시 계획 | Platinum 3 | [C++](./15xxx/15934. 도시 계획/도시 계획.cc) |
 | [15947](https://boj.kr/15947) | 아기 석환 뚜루루 뚜루 | Bronze 1 | [Java](./15xxx/15947. 아기 석환 뚜루루 뚜루/아기 석환 뚜루루 뚜루.java) |
 | [15953](https://boj.kr/15953) | 상금 헌터 | Bronze 3 | [Java](./15xxx/15953. 상금 헌터/상금 헌터.java) |
 | [15954](https://boj.kr/15954) | 인형들 | Silver 1 | [C++](./15xxx/15954. 인형들/인형들.cc) |
@@ -2913,6 +2914,7 @@
 | [16195](https://boj.kr/16195) | 1, 2, 3 더하기 9 | Silver 1 | [C++](./16xxx/16195. 1， 2， 3 더하기 9/1， 2， 3 더하기 9.cc) |
 | [16198](https://boj.kr/16198) | 에너지 모으기 | Silver 1 | [C++](./16xxx/16198. 에너지 모으기/에너지 모으기.cc) |
 | [16199](https://boj.kr/16199) | 나이 계산하기 | Bronze 4 | [C](./16xxx/16199. 나이 계산하기/나이 계산하기.c) |
+| [16200](https://boj.kr/16200) | 해커톤 | Silver 4 | [C++](./16xxx/16200. 해커톤/해커톤.cc) |
 | [16202](https://boj.kr/16202) | MST 게임 | Gold 3 | [Java](./16xxx/16202. MST 게임/MST 게임.java) |
 | [16204](https://boj.kr/16204) | 카드 뽑기 | Bronze 4 | [C](./16xxx/16204. 카드 뽑기/카드 뽑기.c) |
 | [16205](https://boj.kr/16205) | 변수명 | Bronze 1 | [Java](./16xxx/16205. 변수명/변수명.java) |
@@ -4597,10 +4599,12 @@
 | [30008](https://boj.kr/30008) | 준영이의 등급 | Bronze 4 | [Java](./30xxx/30008. 준영이의 등급/준영이의 등급.java) |
 | [30009](https://boj.kr/30009) | 포지션 제로 | Bronze 2 | [Java](./30xxx/30009. 포지션 제로/포지션 제로.java) |
 | [30010](https://boj.kr/30010) | 잘못된 버블정렬 | Silver 5 | [Java](./30xxx/30010. 잘못된 버블정렬/잘못된 버블정렬.java) |
+| [30011](https://boj.kr/30011) | 겹다각형의 각 | Silver 4 | [C++](./30xxx/30011. 겹다각형의 각/겹다각형의 각.cc) |
 | [30013](https://boj.kr/30013) | 돌베어 법칙 | Gold 5 | [C++](./30xxx/30013. 돌베어 법칙/돌베어 법칙.cc) |
 | [30017](https://boj.kr/30017) | 치즈버거 만들기 | Bronze 4 | [Java](./30xxx/30017. 치즈버거 만들기/치즈버거 만들기.java) |
 | [30018](https://boj.kr/30018) | 타슈 | Bronze 3 | [Java](./30xxx/30018. 타슈/타슈.java) |
 | [30019](https://boj.kr/30019) | 강의실 예약 시스템 | Bronze 2 | [Java](./30xxx/30019. 강의실 예약 시스템/강의실 예약 시스템.java) |
+| [30020](https://boj.kr/30020) | 치즈버거 만들기 2 | Silver 4 | [C++](./30xxx/30020. 치즈버거 만들기 2/치즈버거 만들기 2.cc) |
 | [30021](https://boj.kr/30021) | 순열 선물하기 | Silver 2 | [C++](./30xxx/30021. 순열 선물하기/순열 선물하기.cc) |
 | [30022](https://boj.kr/30022) | 행사 준비 | Silver 2 | [Java](./30xxx/30022. 행사 준비/행사 준비.java) |
 | [30030](https://boj.kr/30030) | 스위트콘 가격 구하기 | Bronze 5 | [Java](./30xxx/30030. 스위트콘 가격 구하기/스위트콘 가격 구하기.java) |
@@ -4812,6 +4816,7 @@
 | [31526](https://boj.kr/31526) | Rampant Growth | Bronze 2 | [Python](./31xxx/31526. Rampant Growth/Rampant Growth.py) |
 | [31529](https://boj.kr/31529) | 2024년에는 혼자가 아니길 | Silver 4 | [C++](./31xxx/31529. 2024년에는 혼자가 아니길/2024년에는 혼자가 아니길.cc) |
 | [31533](https://boj.kr/31533) | Furiosa AI 영상 처리 가속 | Bronze 2 | [Java](./31xxx/31533. Furiosa AI 영상 처리 가속/Furiosa AI 영상 처리 가속.java) |
+| [31534](https://boj.kr/31534) | 현대모비스 선풍기 굴리기 | Silver 4 | [C++](./31xxx/31534. 현대모비스 선풍기 굴리기/현대모비스 선풍기 굴리기.cc) |
 | [31536](https://boj.kr/31536) | 멈뭄미믜 저주 탈출 | Gold 3 | [C++](./31xxx/31536. 멈뭄미믜 저주 탈출/멈뭄미믜 저주 탈출.cc) |
 | [31561](https://boj.kr/31561) | 시계탑 | Bronze 3 | [Python](./31xxx/31561. 시계탑/시계탑.py) |
 | [31562](https://boj.kr/31562) | 전주 듣고 노래 맞히기 | Bronze 1 | [Java](./31xxx/31562. 전주 듣고 노래 맞히기/전주 듣고 노래 맞히기.java) |
@@ -4925,6 +4930,8 @@
 | [32196](https://boj.kr/32196) | 급행 열차 | Silver 3 | [C++](./32xxx/32196. 급행 열차/급행 열차.cc) |
 | [32197](https://boj.kr/32197) | 절연 구간 최소화 | Gold 4 | [C++](./32xxx/32197. 절연 구간 최소화/절연 구간 최소화.cc) |
 | [32198](https://boj.kr/32198) | 사건은 다가와 (Easy) | Gold 4 | [C++](./32xxx/32198. 사건은 다가와 （Easy）/사건은 다가와 （Easy）.cc) |
+| [32200](https://boj.kr/32200) | 항해 | Silver 5 | [C++](./32xxx/32200. 항해/항해.cc) |
+| [32205](https://boj.kr/32205) | 네모의 꿈 | Silver 4 | [C++](./32xxx/32205. 네모의 꿈/네모의 꿈.cc) |
 | [32209](https://boj.kr/32209) | 다음 달에 봐요 | Bronze 3 | [C++](./32xxx/32209. 다음 달에 봐요/다음 달에 봐요.cc) |
 | [32215](https://boj.kr/32215) | 코드마스터 2024 | Bronze 4 | [C++](./32xxx/32215. 코드마스터 2024/코드마스터 2024.cc) |
 | [32216](https://boj.kr/32216) | 찬물 샤워 | Bronze 3 | [C++](./32xxx/32216. 찬물 샤워/찬물 샤워.cc) |
@@ -5077,7 +5084,7 @@
 | [33111](https://boj.kr/33111) | Intensive Training | Silver 2 | [C++](./33xxx/33111. Intensive Training/Intensive Training.cc) |
 | [33135](https://boj.kr/33135) | Append and Panic! | Bronze 3 | [C++](./33xxx/33135. Append and Panic！/Append and Panic！.cc) |
 | [33152](https://boj.kr/33152) | 경인 국가의 행사 | Gold 1 | [C++](./33xxx/33152. 경인 국가의 행사/경인 국가의 행사.cc) |
-| [33156](https://boj.kr/33156) | 구간이 이븐하지 않아요. | Gold 3 | [C++](./33xxx/33156. 구간이 이븐하지 않아요．/구간이 이븐하지 않아요．.cc) |
+| [33156](https://boj.kr/33156) | 구간이 이븐하지 않아요. | Gold 2 | [C++](./33xxx/33156. 구간이 이븐하지 않아요．/구간이 이븐하지 않아요．.cc) |
 | [33161](https://boj.kr/33161) | 鉛筆 2 (Pencils 2) | Bronze 5 | [Python](./33xxx/33161. 鉛筆 2 （Pencils 2）/鉛筆 2 （Pencils 2）.py) |
 | [33162](https://boj.kr/33162) | 散歩 (Walking) | Bronze 4 | [C++](./33xxx/33162. 散歩 （Walking）/散歩 （Walking）.cc) |
 | [33163](https://boj.kr/33163) | OIJ (OIJ) | Bronze 4 | [C++](./33xxx/33163. OIJ （OIJ）/OIJ （OIJ）.cc) |
@@ -5238,6 +5245,7 @@
 | [34306](https://boj.kr/34306) | M-Climb Road | Bronze 4 | [C++](./34xxx/34306. M－Climb Road/M－Climb Road.cc) |
 | [34308](https://boj.kr/34308) | Abby's Absolutes | Bronze 4 | [C++](./34xxx/34308. Abby's Absolutes/Abby's Absolutes.cc) |
 | [34310](https://boj.kr/34310) | No Stragglers | Bronze 3 | [C++](./34xxx/34310. No Stragglers/No Stragglers.cc) |
+| [34314](https://boj.kr/34314) | 주사위 굴리기 | Silver 3 | [C++](./34xxx/34314. 주사위 굴리기/주사위 굴리기.cc) |
 | [34323](https://boj.kr/34323) | 할인이 필요해 | Bronze 4 | [C++](./34xxx/34323. 할인이 필요해/할인이 필요해.cc) |
 | [34326](https://boj.kr/34326) | How to escape the maze | Silver 2 | [C++](./34xxx/34326. How to escape the maze/How to escape the maze.cc) |
 | [34330](https://boj.kr/34330) | 금오리 🦆 | Gold 3 | [C++](./34xxx/34330. 금오리 🦆/금오리 🦆.cc) |
@@ -5351,6 +5359,7 @@
 | [34849](https://boj.kr/34849) | 이중 반복문 | Bronze 5 | [C++](./34xxx/34849. 이중 반복문/이중 반복문.cc) |
 | [34850](https://boj.kr/34850) | 포도주 상인 | Bronze 1 | [C++](./34xxx/34850. 포도주 상인/포도주 상인.cc) |
 | [34851](https://boj.kr/34851) | 사칙연산 게임 | Silver 4 | [C++](./34xxx/34851. 사칙연산 게임/사칙연산 게임.cc) |
+| [34852](https://boj.kr/34852) | 아이스크림 접기 | Silver 5 | [C++](./34xxx/34852. 아이스크림 접기/아이스크림 접기.cc) |
 | [34862](https://boj.kr/34862) | Bay | Platinum 5 | [C++](./34xxx/34862. Bay/Bay.cc) |
 | [34863](https://boj.kr/34863) | Bookshelf | Platinum 4 | [C++](./34xxx/34863. Bookshelf/Bookshelf.cc) |
 | [34871](https://boj.kr/34871) | Segments | Silver 5 | [C++](./34xxx/34871. Segments/Segments.cc) |
