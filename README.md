@@ -265,6 +265,7 @@
 | [01593](https://boj.kr/1593) | 문자 해독 | Gold 5 | [C++](./01xxx/1593. 문자 해독/문자 해독.cc) |
 | [01598](https://boj.kr/1598) | 꼬리를 무는 숫자 나열 | Bronze 3 | [Java](./01xxx/1598. 꼬리를 무는 숫자 나열/꼬리를 무는 숫자 나열.java) |
 | [01600](https://boj.kr/1600) | 말이 되고픈 원숭이 | Gold 3 | [C++](./01xxx/1600. 말이 되고픈 원숭이/말이 되고픈 원숭이.cc) |
+| [01612](https://boj.kr/1612) | 가지고 노는 1 | Gold 5 | [C++](./01xxx/1612. 가지고 노는 1/가지고 노는 1.cc) |
 | [01614](https://boj.kr/1614) | 영식이의 손가락 | Silver 3 | [C++](./01xxx/1614. 영식이의 손가락/영식이의 손가락.cc) |
 | [01615](https://boj.kr/1615) | 교차개수세기 | Platinum 5 | [C++](./01xxx/1615. 교차개수세기/교차개수세기.cc) |
 | [01620](https://boj.kr/1620) | 나는야 포켓몬 마스터 이다솜 | Silver 4 | [Java](./01xxx/1620. 나는야 포켓몬 마스터 이다솜/나는야 포켓몬 마스터 이다솜.java) |
@@ -1248,6 +1249,7 @@
 | [05883](https://boj.kr/5883) | 아이폰 9S | Silver 4 | [C++](./05xxx/5883. 아이폰 9S/아이폰 9S.cc) |
 | [05893](https://boj.kr/5893) | 17배 | Bronze 3 | [Java](./05xxx/5893. 17배/17배.java) |
 | [05904](https://boj.kr/5904) | Moo 게임 | Gold 5 | [C++](./05xxx/5904. Moo 게임/Moo 게임.cc) |
+| [05911](https://boj.kr/5911) | 선물 | Silver 3 | [C++](./05xxx/5911. 선물/선물.cc) |
 | [05916](https://boj.kr/5916) | 농장 관리 | Platinum 1 | [C++](./05xxx/5916. 농장 관리/농장 관리.cc) |
 | [05919](https://boj.kr/5919) | Hay Bales | Bronze 2 | [Java](./05xxx/5919. Hay Bales/Hay Bales.java) |
 | [05928](https://boj.kr/5928) | Contest Timing | Bronze 4 | [C](./05xxx/5928. Contest Timing/Contest Timing.c) |
@@ -4718,6 +4720,7 @@
 | [30805](https://boj.kr/30805) | 사전 순 최대 공통 부분 수열 | Gold 4 | [C++](./30xxx/30805. 사전 순 최대 공통 부분 수열/사전 순 최대 공통 부분 수열.cc) |
 | [30821](https://boj.kr/30821) | 별자리가 될 수 있다면 | Bronze 2 | [Java](./30xxx/30821. 별자리가 될 수 있다면/별자리가 될 수 있다면.java) |
 | [30822](https://boj.kr/30822) | UOSPC 세기 | Bronze 3 | [Java](./30xxx/30822. UOSPC 세기/UOSPC 세기.java) |
+| [30823](https://boj.kr/30823) | 건공문자열 | Silver 3 | [C++](./30xxx/30823. 건공문자열/건공문자열.cc) |
 | [30825](https://boj.kr/30825) | 건공펀치 등차수열 | Silver 1 | [C++](./30xxx/30825. 건공펀치 등차수열/건공펀치 등차수열.cc) |
 | [30841](https://boj.kr/30841) | Ложки | Bronze 3 | [Java](./30xxx/30841. Ложки/Ложки.java) |
 | [30868](https://boj.kr/30868) | 개표 | Bronze 4 | [Java](./30xxx/30868. 개표/개표.java) |
