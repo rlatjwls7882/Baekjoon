@@ -5245,7 +5245,7 @@
 | [34306](https://boj.kr/34306) | M-Climb Road | Bronze 4 | [C++](./34xxx/34306. M－Climb Road/M－Climb Road.cc) |
 | [34308](https://boj.kr/34308) | Abby's Absolutes | Bronze 4 | [C++](./34xxx/34308. Abby's Absolutes/Abby's Absolutes.cc) |
 | [34310](https://boj.kr/34310) | No Stragglers | Bronze 3 | [C++](./34xxx/34310. No Stragglers/No Stragglers.cc) |
-| [34314](https://boj.kr/34314) | 주사위 굴리기 | Silver 3 | [C++](./34xxx/34314. 주사위 굴리기/주사위 굴리기.cc) |
+| [34314](https://boj.kr/34314) | 주사위 굴리기 | Silver 2 | [C++](./34xxx/34314. 주사위 굴리기/주사위 굴리기.cc) |
 | [34323](https://boj.kr/34323) | 할인이 필요해 | Bronze 4 | [C++](./34xxx/34323. 할인이 필요해/할인이 필요해.cc) |
 | [34326](https://boj.kr/34326) | How to escape the maze | Silver 2 | [C++](./34xxx/34326. How to escape the maze/How to escape the maze.cc) |
 | [34330](https://boj.kr/34330) | 금오리 🦆 | Gold 3 | [C++](./34xxx/34330. 금오리 🦆/금오리 🦆.cc) |
@@ -5396,4 +5396,7 @@
 | [35193](https://boj.kr/35193) | Bottle of New Port | Bronze 2 | [C++](./35xxx/35193. Bottle of New Port/Bottle of New Port.cc) |
 | [35202](https://boj.kr/35202) | Koehandel | Bronze 3 | [C++](./35xxx/35202. Koehandel/Koehandel.cc) |
 | [35247](https://boj.kr/35247) | Itsy Bits | Bronze 3 | [C++](./35xxx/35247. Itsy Bits/Itsy Bits.cc) |
+| [35261](https://boj.kr/35261) | 피갤컵 들어왔으면 이 글부터 봐라 | Bronze 3 | |
+| [35262](https://boj.kr/35262) | 지금부터 완장 찬양을 시작하겠습니다 | Bronze 3 | |
+| [35263](https://boj.kr/35263) | 폭탄의 악마 | Gold 3 | |
 </div>
