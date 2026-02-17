@@ -981,7 +981,7 @@
 | [04196](https://boj.kr/4196) | 도미노 | Platinum 4 | [C++](./04xxx/4196. 도미노/도미노.cc) |
 | [04225](https://boj.kr/4225) | 쓰레기 슈트 | Platinum 3 | [C++](./04xxx/4225. 쓰레기 슈트/쓰레기 슈트.cc) |
 | [04233](https://boj.kr/4233) | 가짜소수 | Gold 5 | [C++](./04xxx/4233. 가짜소수/가짜소수.cc) |
-| [04237](https://boj.kr/4237) | 비 단조성 | Gold 3 | [C++](./04xxx/4237. 비 단조성/비 단조성.cc) |
+| [04237](https://boj.kr/4237) | 비 단조성 | Gold 4 | [C++](./04xxx/4237. 비 단조성/비 단조성.cc) |
 | [04246](https://boj.kr/4246) | To and Fro | Bronze 1 | [Java](./04xxx/4246. To and Fro/To and Fro.java) |
 | [04270](https://boj.kr/4270) | WFF 'N PROOF | Silver 3 | [C++](./04xxx/4270. WFF 'N PROOF/WFF 'N PROOF.cc) |
 | [04285](https://boj.kr/4285) | Prerequisites? | Bronze 2 | [Java](./04xxx/4285. Prerequisites？/Prerequisites？.java) |
