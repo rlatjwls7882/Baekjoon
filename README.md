@@ -1920,6 +1920,12 @@
 | [10903](https://boj.kr/10903) | Wall construction | Platinum 4 | [C++](./10xxx/10903. Wall construction/Wall construction.cc) |
 | [10914](https://boj.kr/10914) | Veni, vidi, vici | Bronze 1 | [Java](./10xxx/10914. Veni， vidi， vici/Veni， vidi， vici.java) |
 | [10926](https://boj.kr/10926) | ??! | Bronze 5 | [C](./10xxx/10926. ？？！/？？！.c) [C++](./10xxx/10926. ？？！/？？！.cc) |
+| [10927](https://boj.kr/10927) | MD5 | Unrated | [Java](./10xxx/10927. MD5/MD5.java) |
+| [10928](https://boj.kr/10928) | SHA-1 | Unrated | [Java](./10xxx/10928. SHA－1/SHA－1.java) |
+| [10929](https://boj.kr/10929) | SHA-224 | Unrated | [Java](./10xxx/10929. SHA－224/SHA－224.java) |
+| [10930](https://boj.kr/10930) | SHA-256 | Unrated | [Java](./10xxx/10930. SHA－256/SHA－256.java) |
+| [10931](https://boj.kr/10931) | SHA-384 | Unrated | [Java](./10xxx/10931. SHA－384/SHA－384.java) |
+| [10932](https://boj.kr/10932) | SHA-512 | Unrated | [Java](./10xxx/10932. SHA－512/SHA－512.java) |
 | [10940](https://boj.kr/10940) | BASE16 인코딩 | Unrated | [Java](./10xxx/10940. BASE16 인코딩/BASE16 인코딩.java) |
 | [10942](https://boj.kr/10942) | 팰린드롬? | Gold 4 | [C++](./10xxx/10942. 팰린드롬？/팰린드롬？.cc) |
 | [10949](https://boj.kr/10949) | 숫자 야구 5 | Unrated | [Text](./10xxx/10949. 숫자 야구 5/숫자 야구 5.txt) |
@@ -2508,6 +2514,7 @@
 | [14337](https://boj.kr/14337) | Helicopter | Unrated | [Visual Basic](./14xxx/14337. Helicopter/Helicopter.vb) |
 | [14394](https://boj.kr/14394) | 9-퍼즐 | Silver 4 | [C++](./14xxx/14394. 9－퍼즐/9－퍼즐.cc) |
 | [14398](https://boj.kr/14398) | 피타고라스 수 | Platinum 3 | [C++](./14xxx/14398. 피타고라스 수/피타고라스 수.cc) |
+| [14402](https://boj.kr/14402) | 야근 | Silver 4 | [C++](./14xxx/14402. 야근/야근.cc) |
 | [14405](https://boj.kr/14405) | 피카츄 | Silver 5 | [Java](./14xxx/14405. 피카츄/피카츄.java) |
 | [14409](https://boj.kr/14409) | Tuna | Bronze 2 | [Java](./14xxx/14409. Tuna/Tuna.java) |
 | [14413](https://boj.kr/14413) | Poklon | Platinum 2 | [C++](./14xxx/14413. Poklon/Poklon.cc) |
@@ -4743,6 +4750,7 @@
 | [30969](https://boj.kr/30969) | 진주로 가자! (Hard) | Silver 5 | [C++](./30xxx/30969. 진주로 가자！ （Hard）/진주로 가자！ （Hard）.cc) |
 | [30976](https://boj.kr/30976) | 사랑의 큐피드 | Platinum 4 | [C++](./30xxx/30976. 사랑의 큐피드/사랑의 큐피드.cc) |
 | [30979](https://boj.kr/30979) | 유치원생 파댕이 돌보기 | Bronze 4 | [Java](./30xxx/30979. 유치원생 파댕이 돌보기/유치원생 파댕이 돌보기.java) |
+| [30986](https://boj.kr/30986) | 파댕이의 예술작품 | Platinum 3 | [C++](./30xxx/30986. 파댕이의 예술작품/파댕이의 예술작품.cc) |
 | [30987](https://boj.kr/30987) | 하루 피부과 | Silver 5 | |
 | [30991](https://boj.kr/30991) | ESC | Silver 1 | [C++](./30xxx/30991. ESC/ESC.cc) |
 | [30993](https://boj.kr/30993) | 자동차 주차 | Silver 5 | [C++](./30xxx/30993. 자동차 주차/자동차 주차.cc) |
@@ -4929,6 +4937,7 @@
 | [32174](https://boj.kr/32174) | 조커 찾기 2 | Silver 3 | [C++](./32xxx/32174. 조커 찾기 2/조커 찾기 2.cc) |
 | [32176](https://boj.kr/32176) | 통신 시스템의 성능 저하 | Gold 4 | [C++](./32xxx/32176. 통신 시스템의 성능 저하/통신 시스템의 성능 저하.cc) |
 | [32184](https://boj.kr/32184) | 디미고에 가고 싶어! | Bronze 3 | [C++](./32xxx/32184. 디미고에 가고 싶어！/디미고에 가고 싶어！.cc) |
+| [32185](https://boj.kr/32185) | 꿈 열정 나눔 | Silver 5 | [C++](./32xxx/32185. 꿈 열정 나눔/꿈 열정 나눔.cc) |
 | [32193](https://boj.kr/32193) | 승강장의 깊이 | Bronze 3 | [C++](./32xxx/32193. 승강장의 깊이/승강장의 깊이.cc) |
 | [32194](https://boj.kr/32194) | 질문은 계속돼 | Silver 2 | [C++](./32xxx/32194. 질문은 계속돼/질문은 계속돼.cc) |
 | [32195](https://boj.kr/32195) | 야구 | Silver 1 | [C++](./32xxx/32195. 야구/야구.cc) |
@@ -4952,6 +4961,7 @@
 | [32280](https://boj.kr/32280) | 지각생 | Bronze 2 | [C++](./32xxx/32280. 지각생/지각생.cc) |
 | [32281](https://boj.kr/32281) | 유리구슬 (Glass Bead) | Silver 5 | [C++](./32xxx/32281. 유리구슬 （Glass Bead）/유리구슬 （Glass Bead）.cc) |
 | [32288](https://boj.kr/32288) | 바코드 닉네임 | Bronze 4 | [Java](./32xxx/32288. 바코드 닉네임/바코드 닉네임.java) |
+| [32289](https://boj.kr/32289) | Max-Queen | Silver 5 | [C++](./32xxx/32289. Max－Queen/Max－Queen.cc) |
 | [32290](https://boj.kr/32290) | MEX vs OR | Bronze 1 | [C++](./32xxx/32290. MEX vs OR/MEX vs OR.cc) |
 | [32291](https://boj.kr/32291) | $x$와 $x+1$의 차이 | Silver 1 | [C++](./32xxx/32291. $x$와 $x＋1$의 차이/$x$와 $x＋1$의 차이.cc) |
 | [32292](https://boj.kr/32292) | ABB to BA (Easy) | Silver 5 | [C++](./32xxx/32292. ABB to BA （Easy）/ABB to BA （Easy）.cc) |
@@ -4983,6 +4993,7 @@
 | [32373](https://boj.kr/32373) | 장난감 자물쇠 | Silver 3 | [C++](./32xxx/32373. 장난감 자물쇠/장난감 자물쇠.cc) |
 | [32384](https://boj.kr/32384) | 사랑은 고려대입니다 | Bronze 5 | [Python](./32xxx/32384. 사랑은 고려대입니다/사랑은 고려대입니다.py) |
 | [32385](https://boj.kr/32385) | $\frac{1}{2}$(MatKor+ALPS)=AlKor | Silver 3 | [Python](./32xxx/32385. $＼frac｛1｝｛2｝$（MatKor＋ALPS）＝AlKor/$＼frac｛1｝｛2｝$（MatKor＋ALPS）＝AlKor.py) |
+| [32386](https://boj.kr/32386) | KCPC에 등장할 알고리즘 맞히기 | Silver 4 | [C++](./32xxx/32386. KCPC에 등장할 알고리즘 맞히기/KCPC에 등장할 알고리즘 맞히기.cc) |
 | [32387](https://boj.kr/32387) | 충전하기 | Gold 4 | [C++](./32xxx/32387. 충전하기/충전하기.cc) |
 | [32399](https://boj.kr/32399) | 햄버거 정렬 | Bronze 3 | [C++](./32xxx/32399. 햄버거 정렬/햄버거 정렬.cc) |
 | [32400](https://boj.kr/32400) | 다트판 | Bronze 2 | [C++](./32xxx/32400. 다트판/다트판.cc) |
@@ -5207,6 +5218,7 @@
 | [34028](https://boj.kr/34028) | 우리의 다정한 계절 속에(Seasons of Memories) | Bronze 1 | [C++](./34xxx/34028. 우리의 다정한 계절 속에（Seasons of Memories）/우리의 다정한 계절 속에（Seasons of Memories）.cc) |
 | [34030](https://boj.kr/34030) | So☆Lucky | Gold 3 | [C++](./34xxx/34030. So☆Lucky/So☆Lucky.cc) |
 | [34032](https://boj.kr/34032) | /gg | Bronze 3 | [C++](./34xxx/34032. ／gg/／gg.cc) |
+| [34033](https://boj.kr/34033) | 공금 횡령 | Silver 4 | [C++](./34xxx/34033. 공금 횡령/공금 횡령.cc) |
 | [34052](https://boj.kr/34052) | 체육은 수학과목 입니다 2 | Bronze 5 | [C++](./34xxx/34052. 체육은 수학과목 입니다 2/체육은 수학과목 입니다 2.cc) |
 | [34053](https://boj.kr/34053) | 도미노 게임 | Silver 3 | [C++](./34xxx/34053. 도미노 게임/도미노 게임.cc) |
 | [34055](https://boj.kr/34055) | 연산 추가하기 | Gold 2 | [C++](./34xxx/34055. 연산 추가하기/연산 추가하기.cc) |
@@ -5401,7 +5413,7 @@
 | [35193](https://boj.kr/35193) | Bottle of New Port | Bronze 2 | [C++](./35xxx/35193. Bottle of New Port/Bottle of New Port.cc) |
 | [35202](https://boj.kr/35202) | Koehandel | Bronze 3 | [C++](./35xxx/35202. Koehandel/Koehandel.cc) |
 | [35247](https://boj.kr/35247) | Itsy Bits | Bronze 3 | [C++](./35xxx/35247. Itsy Bits/Itsy Bits.cc) |
-| [35261](https://boj.kr/35261) | 피갤컵 들어왔으면 이 글부터 봐라 | Bronze 3 | |
-| [35262](https://boj.kr/35262) | 지금부터 완장 찬양을 시작하겠습니다 | Bronze 3 | |
-| [35263](https://boj.kr/35263) | 폭탄의 악마 | Gold 3 | |
+| [35261](https://boj.kr/35261) | 피갤컵 들어왔으면 이 글부터 봐라 | Bronze 3 | [C++](./35xxx/35261.%E2%80%85피갤컵%E2%80%85들어왔으면%E2%80%85이%E2%80%85글부터%E2%80%85봐라/피갤컵%E2%80%85들어왔으면%E2%80%85이%E2%80%85글부터%E2%80%85봐라.cc) |
+| [35262](https://boj.kr/35262) | 지금부터 완장 찬양을 시작하겠습니다 | Bronze 3 | [C++](./35xxx/35262.%E2%80%85지금부터%E2%80%85완장%E2%80%85찬양을%E2%80%85시작하겠습니다/지금부터%E2%80%85완장%E2%80%85찬양을%E2%80%85시작하겠습니다.cc) |
+| [35263](https://boj.kr/35263) | 폭탄의 악마 | Gold 3 | [C++](./35xxx/35263.%E2%80%85폭탄의%E2%80%85악마/폭탄의%E2%80%85악마.cc) |
 </div>
