@@ -334,7 +334,7 @@
 | [01769](https://boj.kr/1769) | 3의 배수 | Silver 5 | [Java](./01xxx/1769. 3의 배수/3의 배수.java) |
 | [01773](https://boj.kr/1773) | 폭죽쇼 | Bronze 2 | [Java](./01xxx/1773. 폭죽쇼/폭죽쇼.java) |
 | [01774](https://boj.kr/1774) | 우주신과의 교감 | Gold 3 | [Java](./01xxx/1774. 우주신과의 교감/우주신과의 교감.java) |
-| [01777](https://boj.kr/1777) | 순열복원 | Platinum 5 | [C++](./01xxx/1777. 순열복원/순열복원.cc) |
+| [01777](https://boj.kr/1777) | 순열복원 | Platinum 4 | [C++](./01xxx/1777. 순열복원/순열복원.cc) |
 | [01778](https://boj.kr/1778) | Ubiquitous Religions | Silver 1 | [C++](./01xxx/1778. Ubiquitous Religions/Ubiquitous Religions.cc) |
 | [01780](https://boj.kr/1780) | 종이의 개수 | Silver 2 | [Java](./01xxx/1780. 종이의 개수/종이의 개수.java) |
 | [01781](https://boj.kr/1781) | 컵라면 | Gold 2 | [C++](./01xxx/1781. 컵라면/컵라면.cc) |
@@ -3430,6 +3430,7 @@
 | [20268](https://boj.kr/20268) | Keystroke | Bronze 2 | [C++](./20xxx/20268. Keystroke/Keystroke.cc) |
 | [20282](https://boj.kr/20282) | Game Show! | Bronze 3 | [Java](./20xxx/20282. Game Show！/Game Show！.java) |
 | [20291](https://boj.kr/20291) | 파일 정리 | Silver 3 | [Java](./20xxx/20291. 파일 정리/파일 정리.java) |
+| [20294](https://boj.kr/20294) | 에어컨 설치 | Platinum 1 | [C++](./20xxx/20294. 에어컨 설치/에어컨 설치.cc) |
 | [20299](https://boj.kr/20299) | 3대 측정 | Bronze 2 | [Java](./20xxx/20299. 3대 측정/3대 측정.java) |
 | [20300](https://boj.kr/20300) | 서강근육맨 | Silver 3 | [C++](./20xxx/20300. 서강근육맨/서강근육맨.cc) |
 | [20301](https://boj.kr/20301) | 반전 요세푸스 | Silver 3 | [Java](./20xxx/20301. 반전 요세푸스/반전 요세푸스.java) |
