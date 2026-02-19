@@ -893,6 +893,7 @@
 | [03295](https://boj.kr/3295) | 단방향 링크 네트워크 | Platinum 2 | [C++](./03xxx/3295. 단방향 링크 네트워크/단방향 링크 네트워크.cc) |
 | [03343](https://boj.kr/3343) | 장미 | Gold 3 | [C++](./03xxx/3343. 장미/장미.cc) |
 | [03372](https://boj.kr/3372) | 보드 점프 | Silver 1 | [Java](./03xxx/3372. 보드 점프/보드 점프.java) |
+| [03391](https://boj.kr/3391) | 나이트 | Platinum 2 | [C++](./03xxx/3391. 나이트/나이트.cc) |
 | [03392](https://boj.kr/3392) | 화성 지도 | Platinum 2 | [C++](./03xxx/3392. 화성 지도/화성 지도.cc) |
 | [03407](https://boj.kr/3407) | 맹세 | Silver 1 | [C++](./03xxx/3407. 맹세/맹세.cc) |
 | [03412](https://boj.kr/3412) | Darts | Bronze 1 | [Java](./03xxx/3412. Darts/Darts.java) |
@@ -927,6 +928,7 @@
 | [03679](https://boj.kr/3679) | 단순 다각형 | Platinum 4 | [C++](./03xxx/3679. 단순 다각형/단순 다각형.cc) |
 | [03683](https://boj.kr/3683) | 고양이와 개 | Platinum 2 | [C++](./03xxx/3683. 고양이와 개/고양이와 개.cc) |
 | [03711](https://boj.kr/3711) | 학번 | Silver 5 | [Java](./03xxx/3711. 학번/학번.java) |
+| [03713](https://boj.kr/3713) | 당일치기 | Platinum 3 | [C++](./03xxx/3713. 당일치기/당일치기.cc) |
 | [03724](https://boj.kr/3724) | 표 | Bronze 1 | [Java](./03xxx/3724. 표/표.java) |
 | [03733](https://boj.kr/3733) | Shares | Bronze 5 | [C](./03xxx/3733. Shares/Shares.c) |
 | [03736](https://boj.kr/3736) | System Engineer | Platinum 3 | [C++](./03xxx/3736. System Engineer/System Engineer.cc) |
@@ -1503,6 +1505,7 @@
 | [08551](https://boj.kr/8551) | Blokada | Platinum 2 | [C++](./08xxx/8551. Blokada/Blokada.cc) |
 | [08558](https://boj.kr/8558) | Silnia | Bronze 4 | [Java](./08xxx/8558. Silnia/Silnia.java) |
 | [08559](https://boj.kr/8559) | Potęga | Bronze 2 | [Java](./08xxx/8559. Potęga/Potęga.java) |
+| [08568](https://boj.kr/8568) | Skoczki | Platinum 2 | [C++](./08xxx/8568. Skoczki/Skoczki.cc) |
 | [08571](https://boj.kr/8571) | Apteka | Platinum 2 | [C++](./08xxx/8571. Apteka/Apteka.cc) |
 | [08574](https://boj.kr/8574) | Ratownik | Bronze 3 | [Java](./08xxx/8574. Ratownik/Ratownik.java) |
 | [08595](https://boj.kr/8595) | 히든 넘버 | Bronze 1 | [Java](./08xxx/8595. 히든 넘버/히든 넘버.java) |
