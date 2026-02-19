@@ -4392,6 +4392,7 @@
 | [28074](https://boj.kr/28074) | 모비스 | Bronze 4 | [Java](./28xxx/28074. 모비스/모비스.java) |
 | [28078](https://boj.kr/28078) | 중력 큐 | Gold 5 | [C++](./28xxx/28078. 중력 큐/중력 큐.cc) |
 | [28088](https://boj.kr/28088) | 응애(EASY) | Silver 4 | [C++](./28xxx/28088. 응애（EASY）/응애（EASY）.cc) |
+| [28090](https://boj.kr/28090) | 특별한 한붓그리기 | Platinum 2 | |
 | [28091](https://boj.kr/28091) | 사각형 분할 | Diamond 5 | [C++](./28xxx/28091. 사각형 분할/사각형 분할.cc) |
 | [28097](https://boj.kr/28097) | 모범생 포닉스 | Bronze 4 | [Java](./28xxx/28097. 모범생 포닉스/모범생 포닉스.java) |
 | [28098](https://boj.kr/28098) | 폭발 속에서 살아남기 | Platinum 3 | [C++](./28xxx/28098. 폭발 속에서 살아남기/폭발 속에서 살아남기.cc) |
