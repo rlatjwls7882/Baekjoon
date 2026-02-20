@@ -1,4 +1,4 @@
-# [Platinum II] 에어컨 설치
+# [Platinum I] 에어컨 설치
 
 [문제 링크](https://www.acmicpc.net/problem/20294) 
 
