@@ -1641,6 +1641,7 @@
 | [09377](https://boj.kr/9377) | String LD | Bronze 2 | [Python](./09xxx/9377. String LD/String LD.py) |
 | [09387](https://boj.kr/9387) | Gholam’s Simple Game | Bronze 2 | [Java](./09xxx/9387. Gholam’s Simple Game/Gholam’s Simple Game.java) |
 | [09398](https://boj.kr/9398) | A Password Policy Requirement | Bronze 2 | [Java](./09xxx/9398. A Password Policy Requirement/A Password Policy Requirement.java) |
+| [09414](https://boj.kr/9414) | 프로그래밍 대회 전용 부지 | Silver 4 | [C++](./09xxx/9414. 프로그래밍 대회 전용 부지/프로그래밍 대회 전용 부지.cc) |
 | [09417](https://boj.kr/9417) | 최대 GCD | Silver 4 | [C++](./09xxx/9417. 최대 GCD/최대 GCD.cc) |
 | [09421](https://boj.kr/9421) | 소수상근수 | Silver 1 | [Java](./09xxx/9421. 소수상근수/소수상근수.java) |
 | [09426](https://boj.kr/9426) | 중앙값 측정 | Platinum 5 | [C++](./09xxx/9426. 중앙값 측정/중앙값 측정.cc) |
@@ -4105,6 +4106,7 @@
 | [25963](https://boj.kr/25963) | 계단 만들기 (Small) | Platinum 5 | [C++](./25xxx/25963. 계단 만들기 （Small）/계단 만들기 （Small）.cc) |
 | [25965](https://boj.kr/25965) | 미션 도네이션 | Bronze 3 | [Java](./25xxx/25965. 미션 도네이션/미션 도네이션.java) |
 | [25966](https://boj.kr/25966) | 배찬우는 배열을 좋아해 | Silver 5 | [C++](./25xxx/25966. 배찬우는 배열을 좋아해/배찬우는 배열을 좋아해.cc) |
+| [25972](https://boj.kr/25972) | 도미노 무너트리기 | Silver 4 | [C++](./25xxx/25972. 도미노 무너트리기/도미노 무너트리기.cc) |
 | [25985](https://boj.kr/25985) | Fastestest Function | Bronze 2 | [Java](./25xxx/25985. Fastestest Function/Fastestest Function.java) |
 | [25991](https://boj.kr/25991) | Lots of Liquid | Bronze 4 | [Java](./25xxx/25991. Lots of Liquid/Lots of Liquid.java) |
 | [25993](https://boj.kr/25993) | Bellevue | Silver 1 | [C++](./25xxx/25993. Bellevue/Bellevue.cc) |
