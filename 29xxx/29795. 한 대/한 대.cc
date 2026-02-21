@@ -28,8 +28,8 @@ ld sq(ld x) { return x*x; }
 
 struct LiChao {
     struct Line {
-        ll a=0, b=-LINF, i=-1;
-        pll get(ll x) { return {i, a*x+b}; }
+        ll a=0, b=-LINF;
+        ll get(ll x) { return a*x+b; }
     };
     struct Node {
         ll s, e;
@@ -45,15 +45,15 @@ struct LiChao {
         ll s=arr[nodeNum].s, e=arr[nodeNum].e;
 
         Line low = arr[nodeNum].line, high = l;
-        if(low.get(s).second > high.get(s).second) swap(low, high);
+        if(low.get(s) > high.get(s)) swap(low, high);
 
-        if(low.get(e).second<=high.get(e).second) {
+        if(low.get(e)<=high.get(e)) {
             arr[nodeNum].line=high;
             return;
         }
 
         ll m = s+e>>1;
-        if(low.get(m).second<high.get(m).second) {
+        if(low.get(m)<high.get(m)) {
             arr[nodeNum].line=high;
             if(arr[nodeNum].r==-1) {
                 arr[nodeNum].r=arr.size();
@@ -70,32 +70,25 @@ struct LiChao {
         }
     }
 
-    pll query(ll x, int nodeNum=0) {
-        if(nodeNum==-1) return {-1, -LINF};
+    ll query(ll x, int nodeNum=0) {
+        if(nodeNum==-1) return -LINF;
         ll s=arr[nodeNum].s, e=arr[nodeNum].e;
         ll m = s+e>>1;
-        auto a = arr[nodeNum].line.get(x);
-        if(x<=m) {
-            auto b = query(x, arr[nodeNum].l);
-            if(a.second>=b.second) return a;
-            return b;
-        }
-        auto b = query(x, arr[nodeNum].r);
-        if(a.second>b.second) return a;
-        return b;
+        if(x<=m) return max(arr[nodeNum].line.get(x), query(x, arr[nodeNum].l));
+        return max(arr[nodeNum].line.get(x), query(x, arr[nodeNum].r));
     }
 };
-
-ll a[300'000], b[300'000];
 
 int main() {
     cin.tie(0)->sync_with_stdio(0);
     int n, q; cin >> n >> q;
 
+    ll plus=0;
     LiChao lichao(1, 1e12);
     for(int i=0;i<n;i++) {
-        cin >> a[i] >> b[i];
-        lichao.update({a[i], b[i], i});
+        ll a, b; cin >> a >> b;
+        if(a==1) plus = max(plus, b);
+        else lichao.update({a, b});
     }
 
     while(q--) {
@@ -104,24 +97,24 @@ int main() {
         ll cnt=0;
         while(x<y) {
             auto nx = lichao.query(x);
-            if(nx.second<=x) {
+            if(nx<=x && plus<=0) {
                 cnt=-1;
                 break;
             }
 
-            if(a[nx.first]==1) {
-                ll l=nx.second, r=y;
+            if(x+plus<nx) {
+                x=nx;
+                cnt++;
+            } else {
+                ll l=x, r=y-1;
                 while(l<r) {
-                    ll m = l+r+1>>1;
-                    if(lichao.query(m).first==nx.first) l=m;
+                    ll m=l+r+1>>1;
+                    if(m+plus>=lichao.query(m)) l=m;
                     else r=m-1;
                 }
-                ll diff = b[nx.first];
-                cnt += (l-x+diff-1)/diff;
-                x = l;
-            } else {
-                x=nx.second;
-                cnt++;
+                ll cur = (l-x)/plus+1;
+                cnt+=cur;
+                x+=cur*plus;
             }
         }
         cout << cnt << '\n';
