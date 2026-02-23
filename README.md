@@ -5424,6 +5424,7 @@
 | [35185](https://boj.kr/35185) | 바바와 깃발 게임 | Gold 2 | [C++](./35xxx/35185. 바바와 깃발 게임/바바와 깃발 게임.cc) |
 | [35193](https://boj.kr/35193) | Bottle of New Port | Bronze 2 | [C++](./35xxx/35193. Bottle of New Port/Bottle of New Port.cc) |
 | [35202](https://boj.kr/35202) | Koehandel | Bronze 3 | [C++](./35xxx/35202. Koehandel/Koehandel.cc) |
+| [35213](https://boj.kr/35213) | Jacobi Numbers | Bronze 3 | [C++](./35xxx/35213. Jacobi Numbers/Jacobi Numbers.cc) |
 | [35247](https://boj.kr/35247) | Itsy Bits | Bronze 3 | [C++](./35xxx/35247. Itsy Bits/Itsy Bits.cc) |
 | [35261](https://boj.kr/35261) | 피갤컵 들어왔으면 이 글부터 봐라 | Bronze 3 | [C++](./35xxx/35261.%E2%80%85피갤컵%E2%80%85들어왔으면%E2%80%85이%E2%80%85글부터%E2%80%85봐라/피갤컵%E2%80%85들어왔으면%E2%80%85이%E2%80%85글부터%E2%80%85봐라.cc) |
 | [35262](https://boj.kr/35262) | 지금부터 완장 찬양을 시작하겠습니다 | Bronze 3 | [C++](./35xxx/35262.%E2%80%85지금부터%E2%80%85완장%E2%80%85찬양을%E2%80%85시작하겠습니다/지금부터%E2%80%85완장%E2%80%85찬양을%E2%80%85시작하겠습니다.cc) |
@@ -5432,4 +5433,7 @@
 | [35277](https://boj.kr/35277) | 유림이와 하람이의 두쫀쿠 대작전 | Bronze 4 | [C++](./35xxx/35277. 유림이와 하람이의 두쫀쿠 대작전/유림이와 하람이의 두쫀쿠 대작전.cc) |
 | [35295](https://boj.kr/35295) | 소수가 아닌 수 4 | Silver 4 | |
 | [35296](https://boj.kr/35296) | 아침 점호 | Silver 3 | |
+| [35306](https://boj.kr/35306) | 월간 향유회 시즌 종료 | Bronze 2 | [C++](./35xxx/35306. 월간 향유회 시즌 종료/월간 향유회 시즌 종료.cc) |
+| [35307](https://boj.kr/35307) | 하얀 전파 | Silver 2 | [C++](./35xxx/35307. 하얀 전파/하얀 전파.cc) |
+| [35308](https://boj.kr/35308) | PPPP | Silver 4 | [C++](./35xxx/35308. PPPP/PPPP.cc) |
 </div>
