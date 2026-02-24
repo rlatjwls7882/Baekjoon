@@ -357,7 +357,7 @@
 | [01824](https://boj.kr/1824) | 도미노 | Platinum 3 | [C++](./01xxx/1824. 도미노/도미노.cc) |
 | [01833](https://boj.kr/1833) | 고속철도 설계하기 | Gold 3 | [Java](./01xxx/1833. 고속철도 설계하기/고속철도 설계하기.java) |
 | [01834](https://boj.kr/1834) | 나머지와 몫이 같은 수 | Bronze 1 | [Java](./01xxx/1834. 나머지와 몫이 같은 수/나머지와 몫이 같은 수.java) |
-| [01835](https://boj.kr/1835) | 카드 | Silver 4 | [Java](./01xxx/1835. 카드/카드.java) |
+| [01835](https://boj.kr/1835) | 카드 | Silver 3 | [Java](./01xxx/1835. 카드/카드.java) |
 | [01837](https://boj.kr/1837) | 암호제작 | Bronze 3 | [Java](./01xxx/1837. 암호제작/암호제작.java) |
 | [01846](https://boj.kr/1846) | 장기 | Gold 4 | [C++](./01xxx/1846. 장기/장기.cc) |
 | [01849](https://boj.kr/1849) | 순열 | Platinum 4 | [C++](./01xxx/1849. 순열/순열.cc) |
