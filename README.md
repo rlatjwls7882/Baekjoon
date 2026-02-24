@@ -2503,7 +2503,7 @@
 | [14244](https://boj.kr/14244) | 트리 만들기 | Silver 4 | [Java](./14xxx/14244. 트리 만들기/트리 만들기.java) |
 | [14245](https://boj.kr/14245) | XOR | Platinum 4 | [C++](./14xxx/14245. XOR/XOR.cc) |
 | [14246](https://boj.kr/14246) | K보다 큰 구간 | Silver 2 | [C++](./14xxx/14246. K보다 큰 구간/K보다 큰 구간.cc) |
-| [14247](https://boj.kr/14247) | 나무 자르기 | Silver 2 | [C++](./14xxx/14247. 나무 자르기/나무 자르기.cc) |
+| [14247](https://boj.kr/14247) | 나무 자르기 | Silver 1 | [C++](./14xxx/14247. 나무 자르기/나무 자르기.cc) |
 | [14248](https://boj.kr/14248) | 점프 점프 | Silver 2 | [C++](./14xxx/14248. 점프 점프/점프 점프.cc) |
 | [14252](https://boj.kr/14252) | 공약수열 | Platinum 5 | [C++](./14xxx/14252. 공약수열/공약수열.cc) |
 | [14254](https://boj.kr/14254) | 비밀번호 변경 | Gold 4 | [C++](./14xxx/14254. 비밀번호 변경/비밀번호 변경.cc) |
@@ -3519,6 +3519,7 @@
 | [21056](https://boj.kr/21056) | Joining Flows | Gold 2 | [C++](./21xxx/21056. Joining Flows/Joining Flows.cc) |
 | [21057](https://boj.kr/21057) | Keep Calm And Carry Off | Gold 1 | [C++](./21xxx/21057. Keep Calm And Carry Off/Keep Calm And Carry Off.cc) |
 | [21059](https://boj.kr/21059) | Methodic Multiplication | Bronze 1 | [Java](./21xxx/21059. Methodic Multiplication/Methodic Multiplication.java) |
+| [21063](https://boj.kr/21063) | Display of Springs | Diamond 5 | [C++](./21xxx/21063. Display of Springs/Display of Springs.cc) |
 | [21105](https://boj.kr/21105) | New Financial Year | Bronze 3 | [Java](./21xxx/21105. New Financial Year/New Financial Year.java) |
 | [21112](https://boj.kr/21112) | Easter Gift | Gold 3 | [C++](./21xxx/21112. Easter Gift/Easter Gift.cc) |
 | [21127](https://boj.kr/21127) | Binary Supersonic Utahraptors | Silver 2 | [C++](./21xxx/21127. Binary Supersonic Utahraptors/Binary Supersonic Utahraptors.cc) |
