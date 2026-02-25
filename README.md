@@ -2767,6 +2767,7 @@
 | [15552](https://boj.kr/15552) | 빠른 A+B | Bronze 4 | [C](./15xxx/15552. 빠른 A＋B/빠른 A＋B.c) |
 | [15563](https://boj.kr/15563) | Äventyr 1 | Silver 1 | [C++](./15xxx/15563. Äventyr 1/Äventyr 1.cc) |
 | [15565](https://boj.kr/15565) | 귀여운 라이언 | Silver 1 | [C++](./15xxx/15565. 귀여운 라이언/귀여운 라이언.cc) |
+| [15576](https://boj.kr/15576) | 큰 수 곱셈 (2) | Platinum 1 | [C++](./15xxx/15576. 큰 수 곱셈 （2）/큰 수 곱셈 （2）.cc) |
 | [15593](https://boj.kr/15593) | Lifeguards (Bronze) | Bronze 1 | [Java](./15xxx/15593. Lifeguards （Bronze）/Lifeguards （Bronze）.java) |
 | [15595](https://boj.kr/15595) | 정답 비율 계산하기 | Silver 3 | [C++](./15xxx/15595. 정답 비율 계산하기/정답 비율 계산하기.cc) |
 | [15596](https://boj.kr/15596) | 정수 N개의 합 | Bronze 2 | [C](./15xxx/15596. 정수 N개의 합/정수 N개의 합.c) |
