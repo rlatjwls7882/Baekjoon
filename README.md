@@ -49,6 +49,7 @@
 | [01063](https://boj.kr/1063) | 킹 | Silver 3 | [C++](./01xxx/1063. 킹/킹.cc) |
 | [01064](https://boj.kr/1064) | 평행사변형 | Silver 4 | [C++](./01xxx/1064. 평행사변형/평행사변형.cc) |
 | [01065](https://boj.kr/1065) | 한수 | Silver 4 | [Java](./01xxx/1065. 한수/한수.java) |
+| [01067](https://boj.kr/1067) | 이동 | Platinum 1 | [C++](./01xxx/1067. 이동/이동.cc) |
 | [01068](https://boj.kr/1068) | 트리 | Gold 5 | [C++](./01xxx/1068. 트리/트리.cc) |
 | [01072](https://boj.kr/1072) | 게임 | Silver 3 | [C++](./01xxx/1072. 게임/게임.cc) |
 | [01074](https://boj.kr/1074) | Z | Gold 5 | [C++](./01xxx/1074. Z/Z.cc) |
@@ -1559,7 +1560,7 @@
 | [08949](https://boj.kr/8949) | 대충 더해 | Bronze 2 | [Java](./08xxx/8949. 대충 더해/대충 더해.java) |
 | [08958](https://boj.kr/8958) | OX퀴즈 | Bronze 2 | [C](./08xxx/8958. OX퀴즈/OX퀴즈.c) |
 | [08965](https://boj.kr/8965) | Circular Sequence | Bronze 2 | [Java](./08xxx/8965. Circular Sequence/Circular Sequence.java) |
-| [08973](https://boj.kr/8973) | 수학 공책 | Gold 4 | [C++](./08xxx/8973. 수학 공책/수학 공책.cc) |
+| [08973](https://boj.kr/8973) | 수학 공책 | Gold 5 | [C++](./08xxx/8973. 수학 공책/수학 공책.cc) |
 | [08974](https://boj.kr/8974) | 희주의 수학시험 | Bronze 1 | [Java](./08xxx/8974. 희주의 수학시험/희주의 수학시험.java) |
 | [08979](https://boj.kr/8979) | 올림픽 | Silver 5 | [Java](./08xxx/8979. 올림픽/올림픽.java) |
 | [08986](https://boj.kr/8986) | 전봇대 | Platinum 5 | [C++](./08xxx/8986. 전봇대/전봇대.cc) |
