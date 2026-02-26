@@ -2239,7 +2239,7 @@
 | [12608](https://boj.kr/12608) | T9 Spelling (Large) | Bronze 1 | [Java](./12xxx/12608. T9 Spelling （Large）/T9 Spelling （Large）.java) |
 | [12634](https://boj.kr/12634) | Stock Charts (Large) | Platinum 2 | [C++](./12xxx/12634. Stock Charts （Large）/Stock Charts （Large）.cc) |
 | [12657](https://boj.kr/12657) | Watersheds (Small) | Silver 2 | [C++](./12xxx/12657. Watersheds （Small）/Watersheds （Small）.cc) |
-| [12727](https://boj.kr/12727) | Numbers (Small) | Gold 3 | [C++](./12xxx/12727. Numbers （Small）/Numbers （Small）.cc) |
+| [12727](https://boj.kr/12727) | Numbers (Small) | Gold 4 | [C++](./12xxx/12727. Numbers （Small）/Numbers （Small）.cc) |
 | [12738](https://boj.kr/12738) | 가장 긴 증가하는 부분 수열 3 | Gold 2 | [C++](./12xxx/12738. 가장 긴 증가하는 부분 수열 3/가장 긴 증가하는 부분 수열 3.cc) |
 | [12742](https://boj.kr/12742) | 혼합물 (Small) | Platinum 5 | [C++](./12xxx/12742. 혼합물 （Small）/혼합물 （Small）.cc) |
 | [12743](https://boj.kr/12743) | 혼합물 (Large) | Platinum 4 | [C++](./12xxx/12743. 혼합물 （Large）/혼합물 （Large）.cc) |
