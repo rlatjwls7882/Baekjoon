@@ -5440,4 +5440,5 @@
 | [35306](https://boj.kr/35306) | 월간 향유회 시즌 종료 | Bronze 1 | [C++](./35xxx/35306. 월간 향유회 시즌 종료/월간 향유회 시즌 종료.cc) |
 | [35307](https://boj.kr/35307) | 하얀 전파 | Silver 1 | [C++](./35xxx/35307. 하얀 전파/하얀 전파.cc) |
 | [35308](https://boj.kr/35308) | PPPP | Silver 4 | [C++](./35xxx/35308. PPPP/PPPP.cc) |
+| [35370](https://boj.kr/35370) | Memories of Passport Control | Bronze 4 | [C++](./35xxx/35370. Memories of Passport Control/Memories of Passport Control.cc) |
 </div>
