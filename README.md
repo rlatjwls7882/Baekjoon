@@ -1191,7 +1191,7 @@
 | [05549](https://boj.kr/5549) | 행성 탐사 | Gold 5 | [C++](./05xxx/5549. 행성 탐사/행성 탐사.cc) |
 | [05554](https://boj.kr/5554) | 심부름 가는 길 | Bronze 4 | [C](./05xxx/5554. 심부름 가는 길/심부름 가는 길.c) |
 | [05555](https://boj.kr/5555) | 반지 | Silver 5 | [Java](./05xxx/5555. 반지/반지.java) |
-| [05556](https://boj.kr/5556) | 타일 | Bronze 1 | [C++](./05xxx/5556. 타일/타일.cc) |
+| [05556](https://boj.kr/5556) | 타일 | Silver 5 | [C++](./05xxx/5556. 타일/타일.cc) |
 | [05557](https://boj.kr/5557) | 1학년 | Gold 5 | [C++](./05xxx/5557. 1학년/1학년.cc) |
 | [05565](https://boj.kr/5565) | 영수증 | Bronze 4 | [Java](./05xxx/5565. 영수증/영수증.java) |
 | [05566](https://boj.kr/5566) | 주사위 게임 | Bronze 2 | [Java](./05xxx/5566. 주사위 게임/주사위 게임.java) |
@@ -3635,6 +3635,7 @@
 | [22251](https://boj.kr/22251) | 빌런 호석 | Gold 5 | [C++](./22xxx/22251. 빌런 호석/빌런 호석.cc) |
 | [22255](https://boj.kr/22255) | 호석사우루스 | Gold 2 | [C++](./22xxx/22255. 호석사우루스/호석사우루스.cc) |
 | [22279](https://boj.kr/22279) | Quality-Adjusted Life-Year | Bronze 4 | [Java](./22xxx/22279. Quality－Adjusted Life－Year/Quality－Adjusted Life－Year.java) |
+| [22289](https://boj.kr/22289) | 큰 수 곱셈 (3) | Diamond 5 | [C++](./22xxx/22289. 큰 수 곱셈 （3）/큰 수 곱셈 （3）.cc) |
 | [22332](https://boj.kr/22332) | XOR 2 | Silver 5 | [Text](./22xxx/22332. XOR 2/XOR 2.txt) |
 | [22333](https://boj.kr/22333) | XOR 3 | Silver 5 | [Text](./22xxx/22333. XOR 3/XOR 3.txt) |
 | [22334](https://boj.kr/22334) | XOR 4 | Silver 5 | [Text](./22xxx/22334. XOR 4/XOR 4.txt) |
