@@ -4623,7 +4623,7 @@
 | [29966](https://boj.kr/29966) | Külmkapimagnetid | Bronze 1 | [Java](./29xxx/29966. Külmkapimagnetid/Külmkapimagnetid.java) |
 | [29986](https://boj.kr/29986) | Amusement Park Adventure | Bronze 4 | [Java](./29xxx/29986. Altura Mínima/Altura Mínima.java) |
 | [29991](https://boj.kr/29991) | Fatigue-Fighting Vacation | Bronze 3 | [Java](./29xxx/29991. Fatigue－Fighting Vacation/Fatigue－Fighting Vacation.java) |
-| [29997](https://boj.kr/29997) | Lexicographical Challenge | Bronze 1 | [Java](./29xxx/29997. Lexicographical Challenge/Lexicographical Challenge.java) |
+| [29997](https://boj.kr/29997) | Lexicographical Challenge | Silver 5 | [Java](./29xxx/29997. Lexicographical Challenge/Lexicographical Challenge.java) |
 | [30007](https://boj.kr/30007) | 라면 공식 | Bronze 5 | [Java](./30xxx/30007. 라면 공식/라면 공식.java) |
 | [30008](https://boj.kr/30008) | 준영이의 등급 | Bronze 4 | [Java](./30xxx/30008. 준영이의 등급/준영이의 등급.java) |
 | [30009](https://boj.kr/30009) | 포지션 제로 | Bronze 2 | [Java](./30xxx/30009. 포지션 제로/포지션 제로.java) |
@@ -5176,7 +5176,7 @@
 | [33702](https://boj.kr/33702) | 비밀번호 | Bronze 2 | [C++](./33xxx/33702. 비밀번호/비밀번호.cc) |
 | [33703](https://boj.kr/33703) | 건덕이의 돌탑 | Silver 5 | [C++](./33xxx/33703. 건덕이의 돌탑/건덕이의 돌탑.cc) |
 | [33704](https://boj.kr/33704) | 안정적인 구간 | Silver 2 | [C++](./33xxx/33704. 안정적인 구간/안정적인 구간.cc) |
-| [33705](https://boj.kr/33705) | 마스코트 정하기 | Gold 4 | [C++](./33xxx/33705. 마스코트 정하기/마스코트 정하기.cc) |
+| [33705](https://boj.kr/33705) | 마스코트 정하기 | Gold 5 | [C++](./33xxx/33705. 마스코트 정하기/마스코트 정하기.cc) |
 | [33706](https://boj.kr/33706) | 오름차순 최단 경로 | Gold 4 | [C++](./33xxx/33706. 오름차순 최단 경로/오름차순 최단 경로.cc) |
 | [33707](https://boj.kr/33707) | 젓가락으로 메추리알 집기 | Gold 4 | [C++](./33xxx/33707. 젓가락으로 메추리알 집기/젓가락으로 메추리알 집기.cc) |
 | [33708](https://boj.kr/33708) | 인수분해 정렬 | Gold 3 | [C++](./33xxx/33708. 인수분해 정렬/인수분해 정렬.cc) |
