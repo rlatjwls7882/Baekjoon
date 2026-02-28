@@ -1517,7 +1517,7 @@
 | [08635](https://boj.kr/8635) | Zliczacz liter | Bronze 2 | [Java](./08xxx/8635. Zliczacz liter/Zliczacz liter.java) |
 | [08638](https://boj.kr/8638) | Zwycięzcy | Bronze 3 | [Java](./08xxx/8638. Zwycięzcy/Zwycięzcy.java) |
 | [08658](https://boj.kr/8658) | Liczba | Bronze 3 | [Java](./08xxx/8658. Liczba/Liczba.java) |
-| [08661](https://boj.kr/8661) | Stopki | Bronze 3 | [Java](./08xxx/8661. Stopki/Stopki.java) |
+| [08661](https://boj.kr/8661) | Stopki | Bronze 2 | [Java](./08xxx/8661. Stopki/Stopki.java) |
 | [08663](https://boj.kr/8663) | Konik polny | Bronze 2 | [Java](./08xxx/8663. Konik polny/Konik polny.java) |
 | [08668](https://boj.kr/8668) | Konik polny 2 | Bronze 1 | [Java](./08xxx/8668. Konik polny 2/Konik polny 2.java) |
 | [08669](https://boj.kr/8669) | Las | Bronze 2 | [Java](./08xxx/8669. Las/Las.java) |
@@ -3859,7 +3859,7 @@
 | [24348](https://boj.kr/24348) | ИЗРАЗ | Bronze 3 | [Java](./24xxx/24348. ИЗРАЗ/ИЗРАЗ.java) |
 | [24349](https://boj.kr/24349) | МЕД | Bronze 3 | [Java](./24xxx/24349. МЕД/МЕД.java) |
 | [24356](https://boj.kr/24356) | ЧАСОВНИК | Bronze 4 | [Java](./24xxx/24356. ЧАСОВНИК/ЧАСОВНИК.java) |
-| [24365](https://boj.kr/24365) | ПЧЕЛИЧКАТА МАЯ | Bronze 3 | [Java](./24xxx/24365. ПЧЕЛИЧКАТА МАЯ/ПЧЕЛИЧКАТА МАЯ.java) |
+| [24365](https://boj.kr/24365) | ПЧЕЛИЧКАТА МАЯ | Bronze 4 | [Java](./24xxx/24365. ПЧЕЛИЧКАТА МАЯ/ПЧЕЛИЧКАТА МАЯ.java) |
 | [24366](https://boj.kr/24366) | КЛЕТКИ | Bronze 2 | [Java](./24xxx/24366. КЛЕТКИ/КЛЕТКИ.java) |
 | [24376](https://boj.kr/24376) | РЕДИЦА | Bronze 2 | [Java](./24xxx/24376. РЕДИЦА/РЕДИЦА.java) |
 | [24377](https://boj.kr/24377) | ИГРА | Bronze 2 | [C++](./24xxx/24377. ИГРА/ИГРА.cc) |
