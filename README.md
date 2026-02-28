@@ -1838,6 +1838,7 @@
 | [10480](https://boj.kr/10480) | Oddities | Bronze 4 | [C](./10xxx/10480. Oddities/Oddities.c) |
 | [10491](https://boj.kr/10491) | Quite a problem | Bronze 2 | [Java](./10xxx/10491. Quite a problem/Quite a problem.java) |
 | [10501](https://boj.kr/10501) | Ragged Right | Bronze 2 | [Java](./10xxx/10501. Ragged Right/Ragged Right.java) |
+| [10531](https://boj.kr/10531) | Golf Bot | Platinum 1 | [C++](./10xxx/10531. Golf Bot/Golf Bot.cc) |
 | [10539](https://boj.kr/10539) | 수빈이와 수열 | Bronze 2 | [Java](./10xxx/10539. 수빈이와 수열/수빈이와 수열.java) |
 | [10540](https://boj.kr/10540) | KLOPKA | Bronze 2 | [Java](./10xxx/10540. KLOPKA/KLOPKA.java) |
 | [10545](https://boj.kr/10545) | 뚜기뚜기메뚜기 | Silver 5 | [Java](./10xxx/10545. 뚜기뚜기메뚜기/뚜기뚜기메뚜기.java) |
@@ -3858,7 +3859,7 @@
 | [24348](https://boj.kr/24348) | ИЗРАЗ | Bronze 3 | [Java](./24xxx/24348. ИЗРАЗ/ИЗРАЗ.java) |
 | [24349](https://boj.kr/24349) | МЕД | Bronze 3 | [Java](./24xxx/24349. МЕД/МЕД.java) |
 | [24356](https://boj.kr/24356) | ЧАСОВНИК | Bronze 4 | [Java](./24xxx/24356. ЧАСОВНИК/ЧАСОВНИК.java) |
-| [24365](https://boj.kr/24365) | ПЧЕЛИЧКАТА МАЯ | Bronze 4 | [Java](./24xxx/24365. ПЧЕЛИЧКАТА МАЯ/ПЧЕЛИЧКАТА МАЯ.java) |
+| [24365](https://boj.kr/24365) | ПЧЕЛИЧКАТА МАЯ | Bronze 3 | [Java](./24xxx/24365. ПЧЕЛИЧКАТА МАЯ/ПЧЕЛИЧКАТА МАЯ.java) |
 | [24366](https://boj.kr/24366) | КЛЕТКИ | Bronze 2 | [Java](./24xxx/24366. КЛЕТКИ/КЛЕТКИ.java) |
 | [24376](https://boj.kr/24376) | РЕДИЦА | Bronze 2 | [Java](./24xxx/24376. РЕДИЦА/РЕДИЦА.java) |
 | [24377](https://boj.kr/24377) | ИГРА | Bronze 2 | [C++](./24xxx/24377. ИГРА/ИГРА.cc) |
