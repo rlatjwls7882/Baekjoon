@@ -1044,7 +1044,7 @@
 | [04623](https://boj.kr/4623) | Copier Reduction | Bronze 2 | [Java](./04xxx/4623. Copier Reduction/Copier Reduction.java) |
 | [04635](https://boj.kr/4635) | Speed Limit | Bronze 3 | [Java](./04xxx/4635. Speed Limit/Speed Limit.java) |
 | [04636](https://boj.kr/4636) | Clay Bully | Bronze 2 | [Java](./04xxx/4636. Clay Bully/Clay Bully.java) |
-| [04641](https://boj.kr/4641) | Doubles | Bronze 1 | [Java](./04xxx/4641. Doubles/Doubles.java) |
+| [04641](https://boj.kr/4641) | Doubles | Bronze 2 | [Java](./04xxx/4641. Doubles/Doubles.java) |
 | [04649](https://boj.kr/4649) | Tanning Salon | Silver 5 | [Java](./04xxx/4649. Tanning Salon/Tanning Salon.java) |
 | [04655](https://boj.kr/4655) | Hangover | Bronze 3 | [Java](./04xxx/4655. Hangover/Hangover.java) |
 | [04659](https://boj.kr/4659) | 비밀번호 발음하기 | Silver 5 | [Java](./04xxx/4659. 비밀번호 발음하기/비밀번호 발음하기.java) |
@@ -3096,6 +3096,7 @@
 | [17093](https://boj.kr/17093) | Total Circle | Bronze 1 | [Java](./17xxx/17093. Total Circle/Total Circle.java) |
 | [17094](https://boj.kr/17094) | Serious Problem | Bronze 3 | [Java](./17xxx/17094. Serious Problem/Serious Problem.java) |
 | [17103](https://boj.kr/17103) | 골드바흐 파티션 | Silver 2 | [Java](./17xxx/17103. 골드바흐 파티션/골드바흐 파티션.java) |
+| [17104](https://boj.kr/17104) | 골드바흐 파티션 2 | Diamond 5 | [C++](./17xxx/17104. 골드바흐 파티션 2/골드바흐 파티션 2.cc) |
 | [17106](https://boj.kr/17106) | 빙고 | Platinum 5 | [Text](./17xxx/17106. 빙고/빙고.txt) |
 | [17114](https://boj.kr/17114) | 하이퍼 토마토 | Gold 1 | [C++](./17xxx/17114. 하이퍼 토마토/하이퍼 토마토.cc) |
 | [17117](https://boj.kr/17117) | 평가 | Unrated | [C++](./17xxx/17117. 평가/평가.cc) |
@@ -3104,6 +3105,7 @@
 | [17128](https://boj.kr/17128) | 소가 정보섬에 올라온 이유 | Silver 2 | [C++](./17xxx/17128. 소가 정보섬에 올라온 이유/소가 정보섬에 올라온 이유.cc) |
 | [17129](https://boj.kr/17129) | 윌리암슨수액빨이딱따구리가 정보섬에 올라온 이유 | Silver 1 | [C++](./17xxx/17129. 윌리암슨수액빨이딱따구리가 정보섬에 올라온 이유/윌리암슨수액빨이딱따구리가 정보섬에 올라온 이유.cc) |
 | [17131](https://boj.kr/17131) | 여우가 정보섬에 올라온 이유 | Platinum 3 | [C++](./17xxx/17131. 여우가 정보섬에 올라온 이유/여우가 정보섬에 올라온 이유.cc) |
+| [17134](https://boj.kr/17134) | 르모앙의 추측 | Platinum 1 | [C++](./17xxx/17134. 르모앙의 추측/르모앙의 추측.cc) |
 | [17141](https://boj.kr/17141) | 연구소 2 | Gold 4 | [C++](./17xxx/17141. 연구소 2/연구소 2.cc) |
 | [17142](https://boj.kr/17142) | 연구소 3 | Gold 3 | [C++](./17xxx/17142. 연구소 3/연구소 3.cc) |
 | [17143](https://boj.kr/17143) | 낚시왕 | Gold 1 | [C++](./17xxx/17143. 낚시왕/낚시왕.cc) |
@@ -5182,7 +5184,7 @@
 | [33708](https://boj.kr/33708) | 인수분해 정렬 | Gold 3 | [C++](./33xxx/33708. 인수분해 정렬/인수분해 정렬.cc) |
 | [33709](https://boj.kr/33709) | 치매예방수칙 3.3.3 | Bronze 1 | [C++](./33xxx/33709. 치매예방수칙 3．3．3/치매예방수칙 3．3．3.cc) |
 | [33753](https://boj.kr/33753) | 주차 요금 정산하기 | Bronze 3 | [C++](./33xxx/33753. 주차 요금 정산하기/주차 요금 정산하기.cc) |
-| [33756](https://boj.kr/33756) | 88888 | Silver 2 | [C++](./33xxx/33756. 88888/88888.cc) |
+| [33756](https://boj.kr/33756) | 88888 | Silver 3 | [C++](./33xxx/33756. 88888/88888.cc) |
 | [33779](https://boj.kr/33779) | Back and Forth | Bronze 3 | [C++](./33xxx/33779. Back and Forth/Back and Forth.cc) |
 | [33782](https://boj.kr/33782) | Efficient Pinning | Silver 5 | [C++](./33xxx/33782. Efficient Pinning/Efficient Pinning.cc) |
 | [33810](https://boj.kr/33810) | SciComLove (2025) | Bronze 4 | [C++](./33xxx/33810. SciComLove （2025）/SciComLove （2025）.cc) |
