@@ -4155,6 +4155,7 @@
 | [26153](https://boj.kr/26153) | 로하의 농사 | Gold 4 | [C++](./26xxx/26153. 로하의 농사/로하의 농사.cc) |
 | [26155](https://boj.kr/26155) | 배수관 미스터리 | Platinum 5 | [C++](./26xxx/26155. 배수관 미스터리/배수관 미스터리.cc) |
 | [26156](https://boj.kr/26156) | 나락도 락이다 | Gold 3 | [C++](./26xxx/26156. 나락도 락이다/나락도 락이다.cc) |
+| [26161](https://boj.kr/26161) | 트리의 팔 | Platinum 1 | [C++](./26xxx/26161. 트리의 팔/트리의 팔.cc) |
 | [26168](https://boj.kr/26168) | 배열 전체 탐색하기 | Silver 4 | [C++](./26xxx/26168. 배열 전체 탐색하기/배열 전체 탐색하기.cc) |
 | [26169](https://boj.kr/26169) | 세 번 이내에 사과를 먹자 | Silver 3 | [C++](./26xxx/26169. 세 번 이내에 사과를 먹자/세 번 이내에 사과를 먹자.cc) |
 | [26171](https://boj.kr/26171) | An Interactive Problem | Bronze 1 | [C++](./26xxx/26171. An Interactive Problem/An Interactive Problem.cc) |
