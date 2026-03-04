@@ -1,4 +1,4 @@
-# [Silver IV] 오디션
+# [Silver III] 오디션
 
 [문제 링크](https://www.acmicpc.net/problem/34068) 
 

@@ -26,7 +26,7 @@ uniform_real_distribution<double> rnd_real(0, 1); // rnd_real(rd)
 ll sq(ll x) { return x*x; }
 ld sq(ld x) { return x*x; }
 
-int sc[400'002], cur[200'001];
+int sc[200'001], cur[200'001];
 
 int main() {
     cin.tie(0)->sync_with_stdio(0);
@@ -40,7 +40,7 @@ int main() {
     }
 
     ll res=0;
-    for(int i=0;i<=2*n;i++) {
+    for(int i=0;i<200'000;i++) {
         if(sc[i]>1) {
             res+=sc[i]-1;
             sc[i+1]+=sc[i]-1;
