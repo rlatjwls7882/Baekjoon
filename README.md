@@ -5187,7 +5187,7 @@
 | [33708](https://boj.kr/33708) | 인수분해 정렬 | Gold 3 | [C++](./33xxx/33708. 인수분해 정렬/인수분해 정렬.cc) |
 | [33709](https://boj.kr/33709) | 치매예방수칙 3.3.3 | Bronze 1 | [C++](./33xxx/33709. 치매예방수칙 3．3．3/치매예방수칙 3．3．3.cc) |
 | [33753](https://boj.kr/33753) | 주차 요금 정산하기 | Bronze 3 | [C++](./33xxx/33753. 주차 요금 정산하기/주차 요금 정산하기.cc) |
-| [33756](https://boj.kr/33756) | 88888 | Silver 3 | [C++](./33xxx/33756. 88888/88888.cc) |
+| [33756](https://boj.kr/33756) | 88888 | Silver 2 | [C++](./33xxx/33756. 88888/88888.cc) |
 | [33779](https://boj.kr/33779) | Back and Forth | Bronze 3 | [C++](./33xxx/33779. Back and Forth/Back and Forth.cc) |
 | [33782](https://boj.kr/33782) | Efficient Pinning | Silver 5 | [C++](./33xxx/33782. Efficient Pinning/Efficient Pinning.cc) |
 | [33810](https://boj.kr/33810) | SciComLove (2025) | Bronze 4 | [C++](./33xxx/33810. SciComLove （2025）/SciComLove （2025）.cc) |
@@ -5247,6 +5247,7 @@
 | [34055](https://boj.kr/34055) | 연산 추가하기 | Gold 2 | [C++](./34xxx/34055. 연산 추가하기/연산 추가하기.cc) |
 | [34056](https://boj.kr/34056) | 콘서트 | Gold 2 | [C++](./34xxx/34056. 콘서트/콘서트.cc) |
 | [34064](https://boj.kr/34064) | 밤(Time For The Moon Night) | Gold 4 | [C++](./34xxx/34064. 밤（Time For The Moon Night）/밤（Time For The Moon Night）.cc) |
+| [34068](https://boj.kr/34068) | 오디션 | Silver 3 | [C++](./34xxx/34068. 오디션/오디션.cc) |
 | [34071](https://boj.kr/34071) | 첫 번째 문제는 정말 쉬운 문제일까? | Bronze 4 | [C++](./34xxx/34071. 첫 번째 문제는 정말 쉬운 문제일까？/첫 번째 문제는 정말 쉬운 문제일까？.cc) |
 | [34073](https://boj.kr/34073) | DORO | Bronze 4 | [C++](./34xxx/34073. DORO/DORO.cc) |
 | [34100](https://boj.kr/34100) | └┘ | Platinum 5 | [C++](./34xxx/34100. └┘/└┘.cc) |
