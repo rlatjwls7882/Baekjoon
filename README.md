@@ -1829,7 +1829,7 @@
 | [10427](https://boj.kr/10427) | 빚 | Gold 5 | [C++](./10xxx/10427. 빚/빚.cc) |
 | [10430](https://boj.kr/10430) | 나머지 | Bronze 5 | [C](./10xxx/10430. 나머지/나머지.c) |
 | [10431](https://boj.kr/10431) | 줄세우기 | Silver 5 | [C++](./10xxx/10431. 줄세우기/줄세우기.cc) |
-| [10434](https://boj.kr/10434) | 행복한 소수 | Silver 2 | [C++](./10xxx/10434. 행복한 소수/행복한 소수.cc) |
+| [10434](https://boj.kr/10434) | 행복한 소수 | Silver 3 | [C++](./10xxx/10434. 행복한 소수/행복한 소수.cc) |
 | [10448](https://boj.kr/10448) | 유레카 이론 | Bronze 1 | [Java](./10xxx/10448. 유레카 이론/유레카 이론.java) |
 | [10451](https://boj.kr/10451) | 순열 사이클 | Silver 3 | [C++](./10xxx/10451. 순열 사이클/순열 사이클.cc) |
 | [10453](https://boj.kr/10453) | 문자열 변환 | Gold 5 | [C++](./10xxx/10453. 문자열 변환/문자열 변환.cc) |
@@ -2425,6 +2425,7 @@
 | [13555](https://boj.kr/13555) | 증가하는 부분 수열 | Platinum 4 | [C++](./13xxx/13555. 증가하는 부분 수열/증가하는 부분 수열.cc) |
 | [13565](https://boj.kr/13565) | 침투 | Silver 2 | [C++](./13xxx/13565. 침투/침투.cc) |
 | [13567](https://boj.kr/13567) | 로봇 | Silver 4 | [C++](./13xxx/13567. 로봇/로봇.cc) |
+| [13575](https://boj.kr/13575) | 보석 가게 | Diamond 5 | [C++](./13xxx/13575. 보석 가게/보석 가게.cc) |
 | [13580](https://boj.kr/13580) | Andando no tempo | Bronze 4 | [Java](./13xxx/13580. Andando no tempo/Andando no tempo.java) |
 | [13587](https://boj.kr/13587) | huaauhahhuahau | Bronze 2 | [C++](./13xxx/13587. huaauhahhuahau/huaauhahhuahau.cc) |
 | [13597](https://boj.kr/13597) | Tri-du | Bronze 4 | [C](./13xxx/13597. Tri－du/Tri－du.c) |
