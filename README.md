@@ -1816,7 +1816,7 @@
 | [10312](https://boj.kr/10312) | Lodê | Bronze 2 | [Java](./10xxx/10312. Lodê/Lodê.java) |
 | [10321](https://boj.kr/10321) | 요새 건설 | Platinum 1 | [C++](./10xxx/10321. 요새 건설/요새 건설.cc) |
 | [10347](https://boj.kr/10347) | Reverse Rot | Bronze 2 | [Java](./10xxx/10347. Reverse Rot/Reverse Rot.java) |
-| [10384](https://boj.kr/10384) | 팬그램 | Bronze 1 | [Java](./10xxx/10384. 팬그램/팬그램.java) |
+| [10384](https://boj.kr/10384) | 팬그램 | Silver 5 | [Java](./10xxx/10384. 팬그램/팬그램.java) |
 | [10395](https://boj.kr/10395) | Automated Checking Machine | Bronze 3 | [Java](./10xxx/10395. Automated Checking Machine/Automated Checking Machine.java) |
 | [10406](https://boj.kr/10406) | The fellowship of the ring | Bronze 3 | [Java](./10xxx/10406. The fellowship of the ring/The fellowship of the ring.java) |
 | [10407](https://boj.kr/10407) | 2 타워 | Silver 3 | [C++](./10xxx/10407. 2 타워/2 타워.cc) |
