@@ -2225,6 +2225,7 @@
 | [12437](https://boj.kr/12437) | 새로운 달력 (Small) | Silver 4 | [C++](./12xxx/12437. 새로운 달력 （Small）/새로운 달력 （Small）.cc) |
 | [12438](https://boj.kr/12438) | 새로운 달력 (Large) | Gold 5 | [C++](./12xxx/12438. 새로운 달력 （Large）/새로운 달력 （Large）.cc) |
 | [12455](https://boj.kr/12455) | 最高のコーヒー (Small) | Gold 4 | [C++](./12xxx/12455. 最高のコーヒー （Small）/最高のコーヒー （Small）.cc) |
+| [12456](https://boj.kr/12456) | 모닝커피 (Large) | Platinum 5 | [C++](./12xxx/12456. 모닝커피 （Large）/모닝커피 （Large）.cc) |
 | [12503](https://boj.kr/12503) | FreeCell Statistics (Small) | Silver 3 | [C++](./12xxx/12503. FreeCell Statistics （Small）/FreeCell Statistics （Small）.cc) |
 | [12517](https://boj.kr/12517) | Centauri Prime (Small1) | Bronze 2 | [Java](./12xxx/12517. Centauri Prime （Small1）/Centauri Prime （Small1）.java) |
 | [12518](https://boj.kr/12518) | Centauri Prime (Small2) | Bronze 2 | [Java](./12xxx/12518. Centauri Prime （Small2）/Centauri Prime （Small2）.java) |
