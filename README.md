@@ -5267,6 +5267,7 @@
 | [34183](https://boj.kr/34183) | SUAPC 의자 준비하기 | Bronze 4 | [C++](./34xxx/34183.%E2%80%85SUAPC%E2%80%85의자%E2%80%85준비하기/SUAPC%E2%80%85의자%E2%80%85준비하기.cc) |
 | [34196](https://boj.kr/34196) | SUAPC 2025 Winter | Bronze 1 | [C++](./34xxx/34196. SUAPC 2025 Winter/SUAPC 2025 Winter.cc) |
 | [34200](https://boj.kr/34200) | 장애물 | Bronze 1 | [C++](./34xxx/34200. 장애물/장애물.cc) |
+| [34201](https://boj.kr/34201) | 거울 | Silver 1 | [C++](./34xxx/34201. 거울/거울.cc) |
 | [34210](https://boj.kr/34210) | A + B Queries | Bronze 4 | [C++](./34xxx/34210. A ＋ B Queries/A ＋ B Queries.cc) |
 | [34217](https://boj.kr/34217) | 찾아오시는 길 | Bronze 5 | [C++](./34xxx/34217. 찾아오시는 길/찾아오시는 길.cc) |
 | [34218](https://boj.kr/34218) | 숭고한 마법학교 | Gold 4 | [C++](./34xxx/34218. 숭고한 마법학교/숭고한 마법학교.cc) |
@@ -5451,6 +5452,7 @@
 | [35263](https://boj.kr/35263) | 폭탄의 악마 | Gold 3 | [C++](./35xxx/35263.%E2%80%85폭탄의%E2%80%85악마/폭탄의%E2%80%85악마.cc) |
 | [35271](https://boj.kr/35271) | 자대 배치 | Bronze 3 | [C++](./35xxx/35271. 자대 배치/자대 배치.cc) |
 | [35277](https://boj.kr/35277) | 유림이와 하람이의 두쫀쿠 대작전 | Bronze 4 | [C++](./35xxx/35277. 유림이와 하람이의 두쫀쿠 대작전/유림이와 하람이의 두쫀쿠 대작전.cc) |
+| [35290](https://boj.kr/35290) | SUAPC 2025 Summer | Bronze 3 | [C++](./35xxx/35290. SUAPC 2025 Summer/SUAPC 2025 Summer.cc) |
 | [35295](https://boj.kr/35295) | 소수가 아닌 수 4 | Silver 4 | [C++](./35xxx/35295. 소수가 아닌 수 4/소수가 아닌 수 4.cc) |
 | [35296](https://boj.kr/35296) | 아침 점호 | Silver 3 | [C++](./35xxx/35296. 아침 점호/아침 점호.cc) |
 | [35306](https://boj.kr/35306) | 월간 향유회 시즌 종료 | Bronze 1 | [C++](./35xxx/35306. 월간 향유회 시즌 종료/월간 향유회 시즌 종료.cc) |
