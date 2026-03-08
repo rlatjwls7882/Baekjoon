@@ -777,6 +777,7 @@
 | [02866](https://boj.kr/2866) | 문자열 잘라내기 | Gold 5 | [C++](./02xxx/2866. 문자열 잘라내기/문자열 잘라내기.cc) |
 | [02869](https://boj.kr/2869) | 달팽이는 올라가고 싶다 | Bronze 1 | [Java](./02xxx/2869. 달팽이는 올라가고 싶다/달팽이는 올라가고 싶다.java) |
 | [02870](https://boj.kr/2870) | 수학숙제 | Silver 4 | [C++](./02xxx/2870. 수학숙제/수학숙제.cc) |
+| [02871](https://boj.kr/2871) | 아름다운 단어 | Gold 2 | [C++](./02xxx/2871. 아름다운 단어/아름다운 단어.cc) |
 | [02872](https://boj.kr/2872) | 우리집엔 도서관이 있어 | Silver 1 | [C++](./02xxx/2872. 우리집엔 도서관이 있어/우리집엔 도서관이 있어.cc) |
 | [02875](https://boj.kr/2875) | 대회 or 인턴 | Bronze 3 | [Java](./02xxx/2875. 대회 or 인턴/대회 or 인턴.java) |
 | [02876](https://boj.kr/2876) | 그래픽스 퀴즈 | Silver 3 | [C++](./02xxx/2876. 그래픽스 퀴즈/그래픽스 퀴즈.cc) |
@@ -4054,6 +4055,7 @@
 | [25592](https://boj.kr/25592) | 바둑돌 게임 | Bronze 1 | [Java](./25xxx/25592. 바둑돌 게임/바둑돌 게임.java) |
 | [25593](https://boj.kr/25593) | 근무 지옥에 빠진 푸앙이 (Small) | Bronze 1 | [Java](./25xxx/25593. 근무 지옥에 빠진 푸앙이 （Small）/근무 지옥에 빠진 푸앙이 （Small）.java) |
 | [25595](https://boj.kr/25595) | 86 ─에이티식스─ 2 | Bronze 1 | [Java](./25xxx/25595. 86 ─에이티식스─ 2/86 ─에이티식스─ 2.java) |
+| [25596](https://boj.kr/25596) | 마트료시카 박스 II | Gold 4 | [C++](./25xxx/25596. 마트료시카 박스 II/마트료시카 박스 II.cc) |
 | [25600](https://boj.kr/25600) | Triathlon | Bronze 4 | [C](./25xxx/25600. Triathlon/Triathlon.c) |
 | [25601](https://boj.kr/25601) | 자바의 형변환 | Silver 1 | [C++](./25xxx/25601. 자바의 형변환/자바의 형변환.cc) |
 | [25625](https://boj.kr/25625) | 샤틀버스 | Bronze 4 | [Java](./25xxx/25625. 샤틀버스/샤틀버스.java) |
