@@ -199,6 +199,7 @@
 | [01417](https://boj.kr/1417) | 국회의원 선거 | Silver 5 | [Java](./01xxx/1417. 국회의원 선거/국회의원 선거.java) |
 | [01418](https://boj.kr/1418) | K-세준수 | Silver 5 | [C++](./01xxx/1418. K－세준수/K－세준수.cc) |
 | [01420](https://boj.kr/1420) | 학교 가지마! | Platinum 2 | [C++](./01xxx/1420. 학교 가지마！/학교 가지마！.cc) |
+| [01422](https://boj.kr/1422) | 숫자의 신 | Platinum 4 | [C++](./01xxx/1422. 숫자의 신/숫자의 신.cc) |
 | [01427](https://boj.kr/1427) | 소트인사이드 | Silver 5 | [Java](./01xxx/1427. 소트인사이드/소트인사이드.java) |
 | [01431](https://boj.kr/1431) | 시리얼 번호 | Silver 3 | [C++](./01xxx/1431. 시리얼 번호/시리얼 번호.cc) |
 | [01434](https://boj.kr/1434) | 책 정리 | Bronze 2 | [Java](./01xxx/1434. 책 정리/책 정리.java) |
