@@ -1614,6 +1614,7 @@
 | [09286](https://boj.kr/9286) | Gradabase | Bronze 3 | [Java](./09xxx/9286. Gradabase/Gradabase.java) |
 | [09288](https://boj.kr/9288) | More Dice | Bronze 3 | [Java](./09xxx/9288. More Dice/More Dice.java) |
 | [09289](https://boj.kr/9289) | Morse Code | Bronze 1 | [Java](./09xxx/9289. Morse Code/Morse Code.java) |
+| [09290](https://boj.kr/9290) | 틱택토 이기기 | Silver 4 | [C++](./09xxx/9290. 틱택토 이기기/틱택토 이기기.cc) |
 | [09295](https://boj.kr/9295) | 주사위 | Bronze 4 | [Java](./09xxx/9295. 주사위/주사위.java) |
 | [09296](https://boj.kr/9296) | Grading Exams | Bronze 2 | [Java](./09xxx/9296. Grading Exams/Grading Exams.java) |
 | [09297](https://boj.kr/9297) | Reducing Improper Fractions | Bronze 3 | [Java](./09xxx/9297. Reducing Improper Fractions/Reducing Improper Fractions.java) |
@@ -4146,6 +4147,7 @@
 | [26058](https://boj.kr/26058) | Сделай 100 | Silver 2 | [Text](./26xxx/26058. Сделай 100/Сделай 100.txt) |
 | [26068](https://boj.kr/26068) | 치킨댄스를 추는 곰곰이를 본 임스 2 | Bronze 4 | [Java](./26xxx/26068. 치킨댄스를 추는 곰곰이를 본 임스 2/치킨댄스를 추는 곰곰이를 본 임스 2.java) |
 | [26069](https://boj.kr/26069) | 붙임성 좋은 총총이 | Silver 4 | [Java](./26xxx/26069. 붙임성 좋은 총총이/붙임성 좋은 총총이.java) |
+| [26070](https://boj.kr/26070) | 곰곰이와 학식 | Silver 3 | [C++](./26xxx/26070. 곰곰이와 학식/곰곰이와 학식.cc) |
 | [26072](https://boj.kr/26072) | 곰곰이와 시소 | Silver 2 | [C++](./26xxx/26072. 곰곰이와 시소/곰곰이와 시소.cc) |
 | [26073](https://boj.kr/26073) | 외로운 곰곰이는 친구가 있어요 | Gold 3 | [C++](./26xxx/26073. 외로운 곰곰이는 친구가 있어요/외로운 곰곰이는 친구가 있어요.cc) |
 | [26082](https://boj.kr/26082) | WARBOY | Bronze 5 | [C](./26xxx/26082. WARBOY/WARBOY.c) |
