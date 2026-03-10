@@ -3085,6 +3085,7 @@
 | [16978](https://boj.kr/16978) | 수열과 쿼리 22 | Platinum 4 | [C++](./16xxx/16978. 수열과 쿼리 22/수열과 쿼리 22.cc) |
 | [16979](https://boj.kr/16979) | 수열과 쿼리 23 | Platinum 1 | [C++](./16xxx/16979. 수열과 쿼리 23/수열과 쿼리 23.cc) |
 | [16986](https://boj.kr/16986) | 인싸들의 가위바위보 | Gold 2 | [C++](./16xxx/16986. 인싸들의 가위바위보/인싸들의 가위바위보.cc) |
+| [16994](https://boj.kr/16994) | 로프와 쿼리 | Platinum 1 | [C++](./16xxx/16994. 로프와 쿼리/로프와 쿼리.cc) |
 | [17009](https://boj.kr/17009) | Winning Score | Bronze 4 | [C](./17xxx/17009. Winning Score/Winning Score.c) |
 | [17010](https://boj.kr/17010) | Time to Decompress | Bronze 4 | [Java](./17xxx/17010. Time to Decompress/Time to Decompress.java) |
 | [17011](https://boj.kr/17011) | Cold Compress | Bronze 2 | [Java](./17xxx/17011. Cold Compress/Cold Compress.java) |
@@ -5228,7 +5229,7 @@
 | [33933](https://boj.kr/33933) | 인덕이와 산책 | Gold 2 | [C++](./33xxx/33933. 인덕이와 산책/인덕이와 산책.cc) |
 | [33937](https://boj.kr/33937) | 태권도와 복싱을 합한 운동 | Bronze 1 | [C++](./33xxx/33937. 태권도와 복싱을 합한 운동/태권도와 복싱을 합한 운동.cc) |
 | [33938](https://boj.kr/33938) | 간단한 동전 문제 (Easy) | Silver 4 | [C++](./33xxx/33938. 간단한 동전 문제 （Easy）/간단한 동전 문제 （Easy）.cc) |
-| [33939](https://boj.kr/33939) | 부도덕한 그래프 (Easy) | Silver 1 | [C++](./33xxx/33939. 부도덕한 그래프 （Easy）/부도덕한 그래프 （Easy）.cc) |
+| [33939](https://boj.kr/33939) | 부도덕한 그래프 (Easy) | Gold 5 | [C++](./33xxx/33939. 부도덕한 그래프 （Easy）/부도덕한 그래프 （Easy）.cc) |
 | [33943](https://boj.kr/33943) | 간단한 동전 문제 (Hard) | Gold 4 | [C++](./33xxx/33943. 간단한 동전 문제 （Hard）/간단한 동전 문제 （Hard）.cc) |
 | [33950](https://boj.kr/33950) | 어게인 포닉스 | Bronze 3 | [C++](./33xxx/33950. 어게인 포닉스/어게인 포닉스.cc) |
 | [33957](https://boj.kr/33957) | Golden Section Search | Silver 2 | [C++](./33xxx/33957. Golden Section Search/Golden Section Search.cc) |
