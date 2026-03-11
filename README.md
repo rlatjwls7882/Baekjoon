@@ -3582,6 +3582,7 @@
 | [21598](https://boj.kr/21598) | SciComLove | Bronze 5 | [C](./21xxx/21598. SciComLove/SciComLove.c) |
 | [21603](https://boj.kr/21603) | K 2K 게임 | Bronze 3 | [Java](./21xxx/21603. K 2K 게임/K 2K 게임.java) |
 | [21608](https://boj.kr/21608) | 상어 초등학교 | Gold 5 | [C++](./21xxx/21608. 상어 초등학교/상어 초등학교.cc) |
+| [21611](https://boj.kr/21611) | 마법사 상어와 블리자드 | Platinum 5 | [C++](./21xxx/21611. 마법사 상어와 블리자드/마법사 상어와 블리자드.cc) |
 | [21612](https://boj.kr/21612) | Boiling Water | Bronze 4 | [C](./21xxx/21612. Boiling Water/Boiling Water.c) |
 | [21613](https://boj.kr/21613) | Silent Auction | Bronze 2 | [Java](./21xxx/21613. Silent Auction/Silent Auction.java) |
 | [21614](https://boj.kr/21614) | Secret Instructions | Bronze 3 | [Java](./21xxx/21614. Secret Instructions/Secret Instructions.java) |
