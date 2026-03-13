@@ -1220,6 +1220,7 @@
 | [05622](https://boj.kr/5622) | 다이얼 | Bronze 2 | [Java](./05xxx/5622. 다이얼/다이얼.java) |
 | [05623](https://boj.kr/5623) | 수열의 합 | Silver 4 | [C++](./05xxx/5623. 수열의 합/수열의 합.cc) |
 | [05631](https://boj.kr/5631) | 방사능 | Gold 4 | [C++](./05xxx/5631. 방사능/방사능.cc) |
+| [05632](https://boj.kr/5632) | 버젼 관리 IDE | Platinum 1 | [C++](./05xxx/5632. 버젼 관리 IDE/버젼 관리 IDE.cc) |
 | [05635](https://boj.kr/5635) | 생일 | Silver 5 | [Java](./05xxx/5635. 생일/생일.java) |
 | [05636](https://boj.kr/5636) | 소수 부분 문자열 | Silver 2 | [C++](./05xxx/5636. 소수 부분 문자열/소수 부분 문자열.cc) |
 | [05637](https://boj.kr/5637) | 가장 긴 단어 | Silver 4 | [Java](./05xxx/5637. 가장 긴 단어/가장 긴 단어.java) |
