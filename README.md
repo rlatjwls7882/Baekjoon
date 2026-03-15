@@ -883,6 +883,7 @@
 | [03186](https://boj.kr/3186) | 소변기 | Silver 3 | [C++](./03xxx/3186. 소변기/소변기.cc) |
 | [03187](https://boj.kr/3187) | 양치기 꿍 | Silver 1 | [C++](./03xxx/3187. 양치기 꿍/양치기 꿍.cc) |
 | [03190](https://boj.kr/3190) | 뱀 | Gold 4 | [C++](./03xxx/3190. 뱀/뱀.cc) |
+| [03197](https://boj.kr/3197) | 백조의 호수 | Platinum 5 | [C++](./03xxx/3197. 백조의 호수/백조의 호수.cc) |
 | [03208](https://boj.kr/3208) | gus | Bronze 1 | [Java](./03xxx/3208. gus/gus.java) |
 | [03211](https://boj.kr/3211) | kino | Silver 5 | [C++](./03xxx/3211. kino/kino.cc) |
 | [03213](https://boj.kr/3213) | 피자 | Silver 4 | [C++](./03xxx/3213. 피자/피자.cc) |
