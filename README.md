@@ -2205,7 +2205,7 @@
 | [12048](https://boj.kr/12048) | Sums of Sums (Small) | Bronze 1 | [C++](./12xxx/12048. Sums of Sums （Small）/Sums of Sums （Small）.cc) |
 | [12050](https://boj.kr/12050) | Dynamic Grid (Small) | Silver 2 | [Java](./12xxx/12050. Dynamic Grid （Small）/Dynamic Grid （Small）.java) |
 | [12051](https://boj.kr/12051) | Dynamic Grid (Large) | Silver 2 | [Java](./12xxx/12051. Dynamic Grid （Large）/Dynamic Grid （Large）.java) |
-| [12074](https://boj.kr/12074) | Googol String (Small) | Bronze 2 | [Java](./12xxx/12074. Googol String （Small）/Googol String （Small）.java) |
+| [12074](https://boj.kr/12074) | Googol String (Small) | Bronze 1 | [Java](./12xxx/12074. Googol String （Small）/Googol String （Small）.java) |
 | [12090](https://boj.kr/12090) | 초성 변환 | Bronze 1 | [Java](./12xxx/12090. 초성 변환/초성 변환.java) |
 | [12100](https://boj.kr/12100) | 2048 (Easy) | Gold 1 | [C++](./12xxx/12100. 2048 （Easy）/2048 （Easy）.cc) |
 | [12101](https://boj.kr/12101) | 1, 2, 3 더하기 2 | Silver 1 | [C++](./12xxx/12101. 1， 2， 3 더하기 2/1， 2， 3 더하기 2.cc) |
