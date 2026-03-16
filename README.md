@@ -3235,6 +3235,7 @@
 | [17615](https://boj.kr/17615) | 볼 모으기 | Silver 1 | [C++](./17xxx/17615. 볼 모으기/볼 모으기.cc) |
 | [17618](https://boj.kr/17618) | 신기한 수 | Bronze 3 | [Java](./17xxx/17618. 신기한 수/신기한 수.java) |
 | [17626](https://boj.kr/17626) | Four Squares | Silver 3 | [Java](./17xxx/17626. Four Squares/Four Squares.java) |
+| [17777](https://boj.kr/17777) | Copy and Paste | Platinum 1 | [C++](./17xxx/17777. Copy and Paste/Copy and Paste.cc) |
 | [17783](https://boj.kr/17783) | Breaking Branches | Bronze 2 | [Java](./17xxx/17783. Breaking Branches/Breaking Branches.java) |
 | [17795](https://boj.kr/17795) | Ballpark Estimate | Bronze 2 | [Java](./17xxx/17795. Ballpark Estimate/Ballpark Estimate.java) |
 | [17826](https://boj.kr/17826) | 나의 학점은? | Bronze 2 | [Java](./17xxx/17826. 나의 학점은？/나의 학점은？.java) |
