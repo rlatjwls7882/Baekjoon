@@ -2435,7 +2435,7 @@
 | [13555](https://boj.kr/13555) | 증가하는 부분 수열 | Platinum 4 | [C++](./13xxx/13555. 증가하는 부분 수열/증가하는 부분 수열.cc) |
 | [13565](https://boj.kr/13565) | 침투 | Silver 2 | [C++](./13xxx/13565. 침투/침투.cc) |
 | [13567](https://boj.kr/13567) | 로봇 | Silver 4 | [C++](./13xxx/13567. 로봇/로봇.cc) |
-| [13575](https://boj.kr/13575) | 보석 가게 | Diamond 5 | [C++](./13xxx/13575. 보석 가게/보석 가게.cc) |
+| [13575](https://boj.kr/13575) | 보석 가게 | Platinum 1 | [C++](./13xxx/13575. 보석 가게/보석 가게.cc) |
 | [13580](https://boj.kr/13580) | Andando no tempo | Bronze 4 | [Java](./13xxx/13580. Andando no tempo/Andando no tempo.java) |
 | [13587](https://boj.kr/13587) | huaauhahhuahau | Bronze 2 | [C++](./13xxx/13587. huaauhahhuahau/huaauhahhuahau.cc) |
 | [13597](https://boj.kr/13597) | Tri-du | Bronze 4 | [C](./13xxx/13597. Tri－du/Tri－du.c) |
