@@ -21,7 +21,7 @@ int main() {
         } else if(op==3) {
             cout << stk.size() << '\n';
         } else if(op==4) {
-            cout << stk.empty() << '\n';
+            cout << (stk.size() ? "0\n" : "1\n");
         } else {
             cout << (stk.size() ? stk.top() : -1) << '\n';
         }
