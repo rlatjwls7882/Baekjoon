@@ -270,7 +270,7 @@
 | [01612](https://boj.kr/1612) | 가지고 노는 1 | Gold 5 | [C++](./01xxx/1612. 가지고 노는 1/가지고 노는 1.cc) |
 | [01614](https://boj.kr/1614) | 영식이의 손가락 | Silver 3 | [C++](./01xxx/1614. 영식이의 손가락/영식이의 손가락.cc) |
 | [01615](https://boj.kr/1615) | 교차개수세기 | Platinum 5 | [C++](./01xxx/1615. 교차개수세기/교차개수세기.cc) |
-| [01620](https://boj.kr/1620) | 나는야 포켓몬 마스터 이다솜 | Silver 4 | [Java](./01xxx/1620. 나는야 포켓몬 마스터 이다솜/나는야 포켓몬 마스터 이다솜.java) |
+| [01620](https://boj.kr/1620) | 나는야 포켓몬 마스터 이다솜 | Silver 4 | [C++](./01xxx/1620. 나는야 포켓몬 마스터 이다솜/나는야 포켓몬 마스터 이다솜.cc) [Java](./01xxx/1620. 나는야 포켓몬 마스터 이다솜/나는야 포켓몬 마스터 이다솜.java) |
 | [01622](https://boj.kr/1622) | 공통 순열 | Silver 4 | [C++](./01xxx/1622. 공통 순열/공통 순열.cc) |
 | [01629](https://boj.kr/1629) | 곱셈 | Silver 1 | [C++](./01xxx/1629. 곱셈/곱셈.cc) [Java](./01xxx/1629. 곱셈/곱셈.java) |
 | [01631](https://boj.kr/1631) | 오영식의 보물 | Gold 3 | [C++](./01xxx/1631. 오영식의 보물/오영식의 보물.cc) |
@@ -733,7 +733,7 @@
 | [02748](https://boj.kr/2748) | 피보나치 수 2 | Bronze 1 | [C](./02xxx/2748. 피보나치 수 2/피보나치 수 2.c) |
 | [02749](https://boj.kr/2749) | 피보나치 수 3 | Gold 2 | [Java](./02xxx/2749. 피보나치 수 3/피보나치 수 3.java) |
 | [02750](https://boj.kr/2750) | 수 정렬하기 | Bronze 2 | [Java](./02xxx/2750. 수 정렬하기/수 정렬하기.java) |
-| [02751](https://boj.kr/2751) | 수 정렬하기 2 | Silver 5 | [Java](./02xxx/2751. 수 정렬하기 2/수 정렬하기 2.java) |
+| [02751](https://boj.kr/2751) | 수 정렬하기 2 | Silver 5 | [C++](./02xxx/2751. 수 정렬하기 2/수 정렬하기 2.cc) [Java](./02xxx/2751. 수 정렬하기 2/수 정렬하기 2.java) |
 | [02752](https://boj.kr/2752) | 세수정렬 | Bronze 4 | [C](./02xxx/2752. 세수정렬/세수정렬.c) |
 | [02753](https://boj.kr/2753) | 윤년 | Bronze 5 | [C](./02xxx/2753. 윤년/윤년.c) |
 | [02754](https://boj.kr/2754) | 학점계산 | Bronze 3 | [C](./02xxx/2754. 학점계산/학점계산.c) |
@@ -2151,7 +2151,7 @@
 | [11720](https://boj.kr/11720) | 숫자의 합 | Bronze 4 | [C](./11xxx/11720. 숫자의 합/숫자의 합.c) |
 | [11721](https://boj.kr/11721) | 열 개씩 끊어 출력하기 | Bronze 3 | [Java](./11xxx/11721. 열 개씩 끊어 출력하기/열 개씩 끊어 출력하기.java) |
 | [11722](https://boj.kr/11722) | 가장 긴 감소하는 부분 수열 | Silver 2 | [Java](./11xxx/11722. 가장 긴 감소하는 부분 수열/가장 긴 감소하는 부분 수열.java) |
-| [11723](https://boj.kr/11723) | 집합 | Silver 5 | [Java](./11xxx/11723. 집합/집합.java) |
+| [11723](https://boj.kr/11723) | 집합 | Silver 5 | [C++](./11xxx/11723. 집합/집합.cc) [Java](./11xxx/11723. 집합/집합.java) |
 | [11724](https://boj.kr/11724) | 연결 요소의 개수 | Silver 2 | [Java](./11xxx/11724. 연결 요소의 개수/연결 요소의 개수.java) |
 | [11725](https://boj.kr/11725) | 트리의 부모 찾기 | Silver 2 | [Java](./11xxx/11725. 트리의 부모 찾기/트리의 부모 찾기.java) |
 | [11726](https://boj.kr/11726) | 2×n 타일링 | Silver 3 | [Java](./11xxx/11726. 2×n 타일링/2×n 타일링.java) |
@@ -3311,7 +3311,7 @@
 | [18245](https://boj.kr/18245) | 이상한 나라의 암호 | Bronze 2 | [Java](./18xxx/18245. 이상한 나라의 암호/이상한 나라의 암호.java) |
 | [18247](https://boj.kr/18247) | 겨울왕국 티켓 예매 | Bronze 3 | [Java](./18xxx/18247. 겨울왕국 티켓 예매/겨울왕국 티켓 예매.java) |
 | [18249](https://boj.kr/18249) | 욱제가 풀어야 하는 문제 | Silver 2 | [C++](./18xxx/18249. 욱제가 풀어야 하는 문제/욱제가 풀어야 하는 문제.cc) |
-| [18258](https://boj.kr/18258) | 큐 2 | Silver 4 | [Java](./18xxx/18258. 큐 2/큐 2.java) |
+| [18258](https://boj.kr/18258) | 큐 2 | Silver 4 | [C++](./18xxx/18258. 큐 2/큐 2.cc) [Java](./18xxx/18258. 큐 2/큐 2.java) |
 | [18290](https://boj.kr/18290) | NM과 K (1) | Silver 1 | [Java](./18xxx/18290. NM과 K （1）/NM과 K （1）.java) |
 | [18301](https://boj.kr/18301) | Rats | Bronze 5 | [C](./18xxx/18301. Rats/Rats.c) |
 | [18309](https://boj.kr/18309) | Extreme Temperatures | Bronze 3 | [Java](./18xxx/18309. Extreme Temperatures/Extreme Temperatures.java) |
@@ -4456,8 +4456,8 @@
 | [28249](https://boj.kr/28249) | Chili Peppers | Bronze 4 | [Java](./28xxx/28249. Chili Peppers/Chili Peppers.java) |
 | [28250](https://boj.kr/28250) | 이브, 프시케 그리고 푸른 MEX의 아내 | Silver 2 | [C++](./28xxx/28250. 이브， 프시케 그리고 푸른 MEX의 아내/이브， 프시케 그리고 푸른 MEX의 아내.cc) |
 | [28255](https://boj.kr/28255) | 3단 초콜릿 아이스크림 | Bronze 1 | [C++](./28xxx/28255. 3단 초콜릿 아이스크림/3단 초콜릿 아이스크림.cc) |
-| [28278](https://boj.kr/28278) | 스택 2 | Silver 4 | [Java](./28xxx/28278. 스택 2/스택 2.java) |
-| [28279](https://boj.kr/28279) | 덱 2 | Silver 4 | [Java](./28xxx/28279. 덱 2/덱 2.java) |
+| [28278](https://boj.kr/28278) | 스택 2 | Silver 4 | [C++](./28xxx/28278. 스택 2/스택 2.cc) [Java](./28xxx/28278. 스택 2/스택 2.java) |
+| [28279](https://boj.kr/28279) | 덱 2 | Silver 4 | [C++](./28xxx/28279. 덱 2/덱 2.cc) [Java](./28xxx/28279. 덱 2/덱 2.java) |
 | [28281](https://boj.kr/28281) | 선물 | Bronze 4 | [Java](./28xxx/28281. 선물/선물.java) |
 | [28282](https://boj.kr/28282) | 운명 | Silver 5 | [C++](./28xxx/28282. 운명/운명.cc) |
 | [28286](https://boj.kr/28286) | 재채점을 기다리는 중 | Silver 2 | [C++](./28xxx/28286. 재채점을 기다리는 중/재채점을 기다리는 중.cc) |
