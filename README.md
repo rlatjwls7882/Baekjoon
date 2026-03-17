@@ -5324,7 +5324,7 @@
 | [34382](https://boj.kr/34382) | Weather Nodes | Bronze 3 | [C++](./34xxx/34382. Weather Nodes/Weather Nodes.cc) |
 | [34384](https://boj.kr/34384) | Hard Rocks and Atomic Clocks | Bronze 3 | [C++](./34xxx/34384. Hard Rocks and Atomic Clocks/Hard Rocks and Atomic Clocks.cc) |
 | [34400](https://boj.kr/34400) | 민규의 서카디안 리듬 | Bronze 4 | [C++](./34xxx/34400. 민규의 서카디안 리듬/민규의 서카디안 리듬.cc) |
-| [34406](https://boj.kr/34406) | x와 배수와 XOR (Easy) | Gold 5 | [C++](./34xxx/34406. x와 배수와 XOR （Easy）/x와 배수와 XOR （Easy）.cc) |
+| [34406](https://boj.kr/34406) | x와 배수와 XOR (Easy) | Gold 4 | [C++](./34xxx/34406. x와 배수와 XOR （Easy）/x와 배수와 XOR （Easy）.cc) |
 | [34408](https://boj.kr/34408) | 문자열 분해기 | Silver 5 | [C++](./34xxx/34408. 문자열 분해기/문자열 분해기.cc) |
 | [34411](https://boj.kr/34411) | M-Climb | Bronze 5 | [C++](./34xxx/34411. M－Climb/M－Climb.cc) |
 | [34412](https://boj.kr/34412) | 13 Floors | Bronze 5 | [C++](./34xxx/34412. 13 Floors/13 Floors.cc) |
