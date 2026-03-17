@@ -4875,6 +4875,7 @@
 | [31562](https://boj.kr/31562) | 전주 듣고 노래 맞히기 | Bronze 1 | [Java](./31xxx/31562. 전주 듣고 노래 맞히기/전주 듣고 노래 맞히기.java) |
 | [31565](https://boj.kr/31565) | 전역 역전 | Gold 4 | [C++](./31xxx/31565. 전역 역전/전역 역전.cc) |
 | [31575](https://boj.kr/31575) | 도시와 비트코인 | Silver 3 | [C++](./31xxx/31575. 도시와 비트코인/도시와 비트코인.cc) |
+| [31590](https://boj.kr/31590) | Candy Compress | Platinum 1 | [C++](./31xxx/31590. Candy Compress/Candy Compress.cc) |
 | [31602](https://boj.kr/31602) | There and Back Again | Platinum 4 | [C++](./31xxx/31602. There and Back Again/There and Back Again.cc) |
 | [31606](https://boj.kr/31606) | 果物 (Fruit) | Bronze 5 | [Python](./31xxx/31606. 果物 （Fruit）/果物 （Fruit）.py) |
 | [31607](https://boj.kr/31607) | 和の判定 (Sum Checker) | Bronze 4 | [Python](./31xxx/31607. 和の判定 （Sum Checker）/和の判定 （Sum Checker）.py) |
