@@ -4458,6 +4458,7 @@
 | [28249](https://boj.kr/28249) | Chili Peppers | Bronze 4 | [Java](./28xxx/28249. Chili Peppers/Chili Peppers.java) |
 | [28250](https://boj.kr/28250) | 이브, 프시케 그리고 푸른 MEX의 아내 | Silver 2 | [C++](./28xxx/28250. 이브， 프시케 그리고 푸른 MEX의 아내/이브， 프시케 그리고 푸른 MEX의 아내.cc) |
 | [28255](https://boj.kr/28255) | 3단 초콜릿 아이스크림 | Bronze 1 | [C++](./28xxx/28255. 3단 초콜릿 아이스크림/3단 초콜릿 아이스크림.cc) |
+| [28265](https://boj.kr/28265) | Colored-Dealt | Gold 5 | [C++](./28xxx/28265. Colored－Dealt/Colored－Dealt.cc) |
 | [28278](https://boj.kr/28278) | 스택 2 | Silver 4 | [C++](./28xxx/28278. 스택 2/스택 2.cc) [Java](./28xxx/28278. 스택 2/스택 2.java) |
 | [28279](https://boj.kr/28279) | 덱 2 | Silver 4 | [C++](./28xxx/28279. 덱 2/덱 2.cc) [Java](./28xxx/28279. 덱 2/덱 2.java) |
 | [28281](https://boj.kr/28281) | 선물 | Bronze 4 | [Java](./28xxx/28281. 선물/선물.java) |
@@ -4551,6 +4552,7 @@
 | [29197](https://boj.kr/29197) | 아침 태권도 | Silver 1 | [Java](./29xxx/29197. 아침 태권도/아침 태권도.java) |
 | [29198](https://boj.kr/29198) | 이번에는 C번이 문자열 | Silver 3 | [Java](./29xxx/29198. 이번에는 C번이 문자열/이번에는 C번이 문자열.java) |
 | [29220](https://boj.kr/29220) | Свидание | Bronze 3 | [Java](./29xxx/29220. Свидание/Свидание.java) |
+| [29224](https://boj.kr/29224) | Мощь вампира | Silver 5 | [C++](./29xxx/29224. Мощь вампира/Мощь вампира.cc) |
 | [29267](https://boj.kr/29267) | Случай с игрой | Bronze 3 | [C++](./29xxx/29267. Случай с игрой/Случай с игрой.cc) |
 | [29283](https://boj.kr/29283) | Алекс и стейк | Bronze 3 | [C++](./29xxx/29283. Алекс и стейк/Алекс и стейк.cc) |
 | [29297](https://boj.kr/29297) | Футбол | Bronze 2 | [C++](./29xxx/29297. Футбол/Футбол.cc) |
@@ -4732,6 +4734,7 @@
 | [30502](https://boj.kr/30502) | 미역은 식물 아닌데요 | Bronze 1 | [Java](./30xxx/30502. 미역은 식물 아닌데요/미역은 식물 아닌데요.java) |
 | [30503](https://boj.kr/30503) | 방형구 탐색 (Easy) | Bronze 1 | [Java](./30xxx/30503. 방형구 탐색 （Easy）/방형구 탐색 （Easy）.java) |
 | [30504](https://boj.kr/30504) | 세과영엔 슬픈 전설이 있어 | Silver 3 | [C++](./30xxx/30504. 세과영엔 슬픈 전설이 있어/세과영엔 슬픈 전설이 있어.cc) |
+| [30506](https://boj.kr/30506) | 가위 가위 가위 | Silver 2 | [C++](./30xxx/30506. 가위 가위 가위/가위 가위 가위.cc) |
 | [30511](https://boj.kr/30511) | 꼬치구이 | Platinum 3 | [C++](./30xxx/30511. 꼬치구이/꼬치구이.cc) |
 | [30527](https://boj.kr/30527) | Cornhusker | Bronze 3 | [C++](./30xxx/30527. Cornhusker/Cornhusker.cc) |
 | [30536](https://boj.kr/30536) | 시루의 산책 | Gold 4 | [C++](./30xxx/30536. 시루의 산책/시루의 산책.cc) |
@@ -4878,6 +4881,7 @@
 | [31565](https://boj.kr/31565) | 전역 역전 | Gold 4 | [C++](./31xxx/31565. 전역 역전/전역 역전.cc) |
 | [31575](https://boj.kr/31575) | 도시와 비트코인 | Silver 3 | [C++](./31xxx/31575. 도시와 비트코인/도시와 비트코인.cc) |
 | [31590](https://boj.kr/31590) | Candy Compress | Platinum 1 | [C++](./31xxx/31590. Candy Compress/Candy Compress.cc) |
+| [31592](https://boj.kr/31592) | Online Assignment | Silver 4 | [C++](./31xxx/31592. Online Assignment/Online Assignment.cc) |
 | [31602](https://boj.kr/31602) | There and Back Again | Platinum 4 | [C++](./31xxx/31602. There and Back Again/There and Back Again.cc) |
 | [31606](https://boj.kr/31606) | 果物 (Fruit) | Bronze 5 | [Python](./31xxx/31606. 果物 （Fruit）/果物 （Fruit）.py) |
 | [31607](https://boj.kr/31607) | 和の判定 (Sum Checker) | Bronze 4 | [Python](./31xxx/31607. 和の判定 （Sum Checker）/和の判定 （Sum Checker）.py) |
