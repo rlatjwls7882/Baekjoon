@@ -2547,6 +2547,7 @@
 | [14433](https://boj.kr/14433) | 한조 대기 중 | Platinum 4 | [C++](./14xxx/14433. 한조 대기 중/한조 대기 중.cc) |
 | [14438](https://boj.kr/14438) | 수열과 쿼리 17 | Gold 1 | [C++](./14xxx/14438. 수열과 쿼리 17/수열과 쿼리 17.cc) |
 | [14442](https://boj.kr/14442) | 벽 부수고 이동하기 2 | Gold 3 | [C++](./14xxx/14442. 벽 부수고 이동하기 2/벽 부수고 이동하기 2.cc) |
+| [14449](https://boj.kr/14449) | Balanced Photo | Platinum 5 | [C++](./14xxx/14449. Balanced Photo/Balanced Photo.cc) |
 | [14456](https://boj.kr/14456) | Hoof, Paper, Scissors (Bronze) | Bronze 1 | [C++](./14xxx/14456. Hoof， Paper， Scissors （Bronze）/Hoof， Paper， Scissors （Bronze）.cc) |
 | [14461](https://boj.kr/14461) | 소가 길을 건너간 이유 7 | Gold 2 | [C++](./14xxx/14461. 소가 길을 건너간 이유 7/소가 길을 건너간 이유 7.cc) |
 | [14462](https://boj.kr/14462) | 소가 길을 건너간 이유 8 | Gold 3 | [C++](./14xxx/14462. 소가 길을 건너간 이유 8/소가 길을 건너간 이유 8.cc) |
@@ -4497,7 +4498,7 @@
 | [28471](https://boj.kr/28471) | W키가 빠진 성원이 | Silver 1 | [C++](./28xxx/28471. W키가 빠진 성원이/W키가 빠진 성원이.cc) |
 | [28490](https://boj.kr/28490) | Area | Bronze 4 | [Java](./28xxx/28490. Area/Area.java) |
 | [28519](https://boj.kr/28519) | Планеты двух измерений | Bronze 4 | [Java](./28xxx/28519. Планеты двух измерений/Планеты двух измерений.java) |
-| [28598](https://boj.kr/28598) | Пилтовер и Заун | Bronze 3 | [Java](./28xxx/28598. Пилтовер и Заун/Пилтовер и Заун.java) |
+| [28598](https://boj.kr/28598) | Пилтовер и Заун | Bronze 2 | [Java](./28xxx/28598. Пилтовер и Заун/Пилтовер и Заун.java) |
 | [28635](https://boj.kr/28635) | Индикатор | Bronze 4 | [C++](./28xxx/28635. Индикатор/Индикатор.cc) |
 | [28636](https://boj.kr/28636) | Марафонец | Bronze 3 | [Java](./28xxx/28636. Марафонец/Марафонец.java) |
 | [28637](https://boj.kr/28637) | Смена стиля | Bronze 3 | [C++](./28xxx/28637. Смена стиля/Смена стиля.cc) |
