@@ -543,6 +543,7 @@
 | [02307](https://boj.kr/2307) | 도로검문 | Gold 1 | [C++](./02xxx/2307. 도로검문/도로검문.cc) |
 | [02309](https://boj.kr/2309) | 일곱 난쟁이 | Bronze 1 | [Java](./02xxx/2309. 일곱 난쟁이/일곱 난쟁이.java) |
 | [02312](https://boj.kr/2312) | 수 복원하기 | Silver 3 | [C++](./02xxx/2312. 수 복원하기/수 복원하기.cc) |
+| [02313](https://boj.kr/2313) | 보석 구매하기 | Gold 5 | [C++](./02xxx/2313. 보석 구매하기/보석 구매하기.cc) |
 | [02315](https://boj.kr/2315) | 가로등 끄기 | Platinum 3 | [C++](./02xxx/2315. 가로등 끄기/가로등 끄기.cc) |
 | [02316](https://boj.kr/2316) | 도시 왕복하기 2 | Platinum 3 | [C++](./02xxx/2316. 도시 왕복하기 2/도시 왕복하기 2.cc) |
 | [02321](https://boj.kr/2321) | Crowing | Unrated | [Fortran](./02xxx/2321. Crowing/Crowing.f) |
@@ -954,6 +955,7 @@
 | [03896](https://boj.kr/3896) | 소수 사이 수열 | Silver 1 | [C++](./03xxx/3896. 소수 사이 수열/소수 사이 수열.cc) |
 | [03933](https://boj.kr/3933) | 라그랑주의 네 제곱수 정리 | Gold 5 | [C++](./03xxx/3933. 라그랑주의 네 제곱수 정리/라그랑주의 네 제곱수 정리.cc) |
 | [03943](https://boj.kr/3943) | 헤일스톤 수열 | Bronze 2 | [Java](./03xxx/3943. 헤일스톤 수열/헤일스톤 수열.java) |
+| [03947](https://boj.kr/3947) | 폴하버의 삼각형 | Silver 2 | [Java](./03xxx/3947. 폴하버의 삼각형/폴하버의 삼각형.java) |
 | [03955](https://boj.kr/3955) | 캔디 분배 | Platinum 5 | [C++](./03xxx/3955. 캔디 분배/캔디 분배.cc) |
 | [03958](https://boj.kr/3958) | 롤러코스터 타기 | Gold 1 | [C++](./03xxx/3958. 롤러코스터 타기/롤러코스터 타기.cc) |
 | [03964](https://boj.kr/3964) | 팩토리얼과 거듭제곱 | Gold 2 | [C++](./03xxx/3964. 팩토리얼과 거듭제곱/팩토리얼과 거듭제곱.cc) |
@@ -3464,6 +3466,7 @@
 | [20303](https://boj.kr/20303) | 할로윈의 양아치 | Gold 2 | [C++](./20xxx/20303. 할로윈의 양아치/할로윈의 양아치.cc) |
 | [20309](https://boj.kr/20309) | 트리플 소트 | Silver 3 | [C++](./20xxx/20309. 트리플 소트/트리플 소트.cc) |
 | [20310](https://boj.kr/20310) | 타노스 | Silver 3 | [C++](./20xxx/20310. 타노스/타노스.cc) |
+| [20312](https://boj.kr/20312) | CPU 벤치마킹 | Silver 1 | [C++](./20xxx/20312. CPU 벤치마킹/CPU 벤치마킹.cc) |
 | [20332](https://boj.kr/20332) | Divvying Up | Bronze 3 | [Java](./20xxx/20332. Divvying Up/Divvying Up.java) |
 | [20336](https://boj.kr/20336) | Haughty Cuisine | Bronze 4 | [Java](./20xxx/20336. Haughty Cuisine/Haughty Cuisine.java) |
 | [20341](https://boj.kr/20341) | Moderate Pace | Bronze 2 | [Java](./20xxx/20341. Moderate Pace/Moderate Pace.java) |
@@ -3589,6 +3592,7 @@
 | [21573](https://boj.kr/21573) | Кондиционер | Bronze 3 | [Java](./21xxx/21573. Кондиционер/Кондиционер.java) |
 | [21591](https://boj.kr/21591) | Laptop Sticker | Bronze 4 | [Java](./21xxx/21591. Laptop Sticker/Laptop Sticker.java) |
 | [21598](https://boj.kr/21598) | SciComLove | Bronze 5 | [C](./21xxx/21598. SciComLove/SciComLove.c) |
+| [21600](https://boj.kr/21600) | 계단 | Silver 1 | [C++](./21xxx/21600. 계단/계단.cc) |
 | [21603](https://boj.kr/21603) | K 2K 게임 | Bronze 3 | [Java](./21xxx/21603. K 2K 게임/K 2K 게임.java) |
 | [21608](https://boj.kr/21608) | 상어 초등학교 | Gold 5 | [C++](./21xxx/21608. 상어 초등학교/상어 초등학교.cc) |
 | [21611](https://boj.kr/21611) | 마법사 상어와 블리자드 | Platinum 5 | [C++](./21xxx/21611. 마법사 상어와 블리자드/마법사 상어와 블리자드.cc) |
@@ -5231,6 +5235,7 @@
 | [33869](https://boj.kr/33869) | 일기 암호화하기 | Bronze 2 | [C++](./33xxx/33869. 일기 암호화하기/일기 암호화하기.cc) |
 | [33883](https://boj.kr/33883) | Acentuación del idioma español | Bronze 3 | [C++](./33xxx/33883. Acentuación del idioma español/Acentuación del idioma español.cc) |
 | [33884](https://boj.kr/33884) | 클리크 조절 | Bronze 1 | [C++](./33xxx/33884. 클리크 조절/클리크 조절.cc) |
+| [33886](https://boj.kr/33886) | 카드 뭉치 | Silver 2 | [C++](./33xxx/33886. 카드 뭉치/카드 뭉치.cc) |
 | [33887](https://boj.kr/33887) | Was It a Cat I Saw | Gold 5 | [C++](./33xxx/33887. Was It a Cat I Saw/Was It a Cat I Saw.cc) |
 | [33897](https://boj.kr/33897) | 헤키레키잇센 | Bronze 1 | [C++](./33xxx/33897. 헤키레키잇센/헤키레키잇센.cc) |
 | [33898](https://boj.kr/33898) | HEPC1 | Bronze 1 | [C++](./33xxx/33898. HEPC1/HEPC1.cc) |
@@ -5446,6 +5451,7 @@
 | [34922](https://boj.kr/34922) | 사각지대 | Bronze 3 | [C++](./34xxx/34922. 사각지대/사각지대.cc) |
 | [34923](https://boj.kr/34923) | 꼬마 미타 | Bronze 1 | [C++](./34xxx/34923. 꼬마 미타/꼬마 미타.cc) |
 | [34924](https://boj.kr/34924) | PAUL 문자열 (Easy) | Silver 5 | [C++](./34xxx/34924. PAUL 문자열 （Easy）/PAUL 문자열 （Easy）.cc) |
+| [34926](https://boj.kr/34926) | 공룡 게임 | Silver 3 | [C++](./34xxx/34926. 공룡 게임/공룡 게임.cc) |
 | [34927](https://boj.kr/34927) | 박스 쌓기 | Silver 3 | [C++](./34xxx/34927. 박스 쌓기/박스 쌓기.cc) |
 | [34928](https://boj.kr/34928) | PAUL 문자열 (Hard) | Silver 1 | [C++](./34xxx/34928. PAUL 문자열 （Hard）/PAUL 문자열 （Hard）.cc) |
 | [34934](https://boj.kr/34934) | 신규 학과 | Bronze 4 | [C++](./34xxx/34934. 신규 학과/신규 학과.cc) |
