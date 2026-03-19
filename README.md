@@ -682,6 +682,7 @@
 | [02621](https://boj.kr/2621) | 카드게임 | Silver 3 | [C++](./02xxx/2621. 카드게임/카드게임.cc) |
 | [02622](https://boj.kr/2622) | 삼각형만들기 | Silver 5 | [C++](./02xxx/2622. 삼각형만들기/삼각형만들기.cc) |
 | [02623](https://boj.kr/2623) | 음악프로그램 | Gold 3 | [Java](./02xxx/2623. 음악프로그램/음악프로그램.java) |
+| [02624](https://boj.kr/2624) | 동전 바꿔주기 | Gold 4 | [C++](./02xxx/2624. 동전 바꿔주기/동전 바꿔주기.cc) |
 | [02628](https://boj.kr/2628) | 종이자르기 | Silver 5 | [C++](./02xxx/2628. 종이자르기/종이자르기.cc) |
 | [02629](https://boj.kr/2629) | 양팔저울 | Gold 3 | [C++](./02xxx/2629. 양팔저울/양팔저울.cc) |
 | [02630](https://boj.kr/2630) | 색종이 만들기 | Silver 2 | [Java](./02xxx/2630. 색종이 만들기/색종이 만들기.java) |
@@ -2515,6 +2516,7 @@
 | [14231](https://boj.kr/14231) | 박스 포장 | Silver 2 | [C++](./14xxx/14231. 박스 포장/박스 포장.cc) |
 | [14233](https://boj.kr/14233) | 악덕 사장 | Silver 1 | [C++](./14xxx/14233. 악덕 사장/악덕 사장.cc) |
 | [14235](https://boj.kr/14235) | 크리스마스 선물 | Silver 3 | [C++](./14xxx/14235. 크리스마스 선물/크리스마스 선물.cc) |
+| [14238](https://boj.kr/14238) | 출근 기록 | Gold 2 | [C++](./14xxx/14238. 출근 기록/출근 기록.cc) |
 | [14240](https://boj.kr/14240) | 부분 수열의 점수 | Diamond 5 | [C++](./14xxx/14240. 부분 수열의 점수/부분 수열의 점수.cc) |
 | [14241](https://boj.kr/14241) | 슬라임 합치기 | Silver 3 | [C++](./14xxx/14241. 슬라임 합치기/슬라임 합치기.cc) |
 | [14244](https://boj.kr/14244) | 트리 만들기 | Silver 4 | [Java](./14xxx/14244. 트리 만들기/트리 만들기.java) |
@@ -5488,5 +5490,6 @@
 | [35306](https://boj.kr/35306) | 월간 향유회 시즌 종료 | Bronze 1 | [C++](./35xxx/35306. 월간 향유회 시즌 종료/월간 향유회 시즌 종료.cc) |
 | [35307](https://boj.kr/35307) | 하얀 전파 | Silver 1 | [C++](./35xxx/35307. 하얀 전파/하얀 전파.cc) |
 | [35308](https://boj.kr/35308) | PPPP | Silver 4 | [C++](./35xxx/35308. PPPP/PPPP.cc) |
+| [35367](https://boj.kr/35367) | Snakey String | Bronze 3 | [C++](./35xxx/35367. Snakey String/Snakey String.cc) |
 | [35370](https://boj.kr/35370) | Memories of Passport Control | Bronze 4 | [C++](./35xxx/35370. Memories of Passport Control/Memories of Passport Control.cc) |
 </div>
