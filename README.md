@@ -1439,6 +1439,7 @@
 | [07432](https://boj.kr/7432) | 디스크 트리 | Gold 3 | [C++](./07xxx/7432. 디스크 트리/디스크 트리.cc) |
 | [07453](https://boj.kr/7453) | 합이 0인 네 정수 | Gold 2 | [C++](./07xxx/7453. 합이 0인 네 정수/합이 0인 네 정수.cc) |
 | [07469](https://boj.kr/7469) | K번째 수 | Platinum 2 | [C++](./07xxx/7469. K번째 수/K번째 수.cc) |
+| [07480](https://boj.kr/7480) | Key Insertion | Diamond 5 | [C++](./07xxx/7480. Key Insertion/Key Insertion.cc) |
 | [07482](https://boj.kr/7482) | 상자 만들기 | Silver 5 | [Java](./07xxx/7482. 상자 만들기/상자 만들기.java) |
 | [07489](https://boj.kr/7489) | 팩토리얼 | Bronze 2 | [Java](./07xxx/7489. 팩토리얼/팩토리얼.java) |
 | [07490](https://boj.kr/7490) | 0 만들기 | Gold 5 | [C++](./07xxx/7490. 0 만들기/0 만들기.cc) |
@@ -3178,6 +3179,7 @@
 | [17298](https://boj.kr/17298) | 오큰수 | Gold 4 | [C++](./17xxx/17298. 오큰수/오큰수.cc) |
 | [17299](https://boj.kr/17299) | 오등큰수 | Gold 3 | [C++](./17xxx/17299. 오등큰수/오등큰수.cc) |
 | [17305](https://boj.kr/17305) | 사탕 배달 | Gold 4 | [C++](./17xxx/17305. 사탕 배달/사탕 배달.cc) |
+| [17347](https://boj.kr/17347) | Text Editor | Platinum 1 | [C++](./17xxx/17347. Text Editor/Text Editor.cc) |
 | [17350](https://boj.kr/17350) | 2루수 이름이 뭐야 | Bronze 3 | [Java](./17xxx/17350. 2루수 이름이 뭐야/2루수 이름이 뭐야.java) |
 | [17352](https://boj.kr/17352) | 여러분의 다리가 되어 드리겠습니다! | Gold 5 | [Java](./17xxx/17352. 여러분의 다리가 되어 드리겠습니다！/여러분의 다리가 되어 드리겠습니다！.java) |
 | [17356](https://boj.kr/17356) | 욱 제 | Bronze 4 | [C](./17xxx/17356. 욱 제/욱 제.c) |
