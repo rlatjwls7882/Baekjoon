@@ -2521,6 +2521,7 @@
 | [14238](https://boj.kr/14238) | 출근 기록 | Gold 2 | [C++](./14xxx/14238. 출근 기록/출근 기록.cc) |
 | [14240](https://boj.kr/14240) | 부분 수열의 점수 | Diamond 5 | [C++](./14xxx/14240. 부분 수열의 점수/부분 수열의 점수.cc) |
 | [14241](https://boj.kr/14241) | 슬라임 합치기 | Silver 3 | [C++](./14xxx/14241. 슬라임 합치기/슬라임 합치기.cc) |
+| [14243](https://boj.kr/14243) | 출근 기록 2 | Gold 1 | |
 | [14244](https://boj.kr/14244) | 트리 만들기 | Silver 4 | [Java](./14xxx/14244. 트리 만들기/트리 만들기.java) |
 | [14245](https://boj.kr/14245) | XOR | Platinum 4 | [C++](./14xxx/14245. XOR/XOR.cc) |
 | [14246](https://boj.kr/14246) | K보다 큰 구간 | Silver 2 | [C++](./14xxx/14246. K보다 큰 구간/K보다 큰 구간.cc) |
@@ -3870,6 +3871,7 @@
 | [24265](https://boj.kr/24265) | 알고리즘 수업 - 알고리즘의 수행 시간 4 | Bronze 3 | [Java](./24xxx/24265. 알고리즘 수업 － 알고리즘의 수행 시간 4/알고리즘 수업 － 알고리즘의 수행 시간 4.java) |
 | [24266](https://boj.kr/24266) | 알고리즘 수업 - 알고리즘의 수행 시간 5 | Bronze 3 | [Java](./24xxx/24266. 알고리즘 수업 － 알고리즘의 수행 시간 5/알고리즘 수업 － 알고리즘의 수행 시간 5.java) |
 | [24267](https://boj.kr/24267) | 알고리즘 수업 - 알고리즘의 수행 시간 6 | Bronze 2 | [Java](./24xxx/24267. 알고리즘 수업 － 알고리즘의 수행 시간 6/알고리즘 수업 － 알고리즘의 수행 시간 6.java) |
+| [24293](https://boj.kr/24293) | ВСЕКИ ТРЕТИ | Silver 4 | |
 | [24294](https://boj.kr/24294) | ГРАДИНА | Bronze 4 | [Java](./24xxx/24294. ГРАДИНА/ГРАДИНА.java) |
 | [24296](https://boj.kr/24296) | ЛИНИЯ | Bronze 3 | [Java](./24xxx/24296. ЛИНИЯ/ЛИНИЯ.java) |
 | [24302](https://boj.kr/24302) | КУРИЕРИ | Bronze 3 | [Java](./24xxx/24302. КУРИЕРИ/КУРИЕРИ.java) |
@@ -5494,4 +5496,5 @@
 | [35308](https://boj.kr/35308) | PPPP | Silver 4 | [C++](./35xxx/35308. PPPP/PPPP.cc) |
 | [35367](https://boj.kr/35367) | Snakey String | Bronze 3 | [C++](./35xxx/35367. Snakey String/Snakey String.cc) |
 | [35370](https://boj.kr/35370) | Memories of Passport Control | Bronze 4 | [C++](./35xxx/35370. Memories of Passport Control/Memories of Passport Control.cc) |
+| [35373](https://boj.kr/35373) | A Little Leftover Pizza | Bronze 3 | [C++](./35xxx/35373. A Little Leftover Pizza/A Little Leftover Pizza.cc) |
 </div>
