@@ -101,6 +101,7 @@
 | [01213](https://boj.kr/1213) | 팰린드롬 만들기 | Silver 3 | [Java](./01xxx/1213. 팰린드롬 만들기/팰린드롬 만들기.java) |
 | [01217](https://boj.kr/1217) | 하우스 M.D. | Platinum 4 | [C++](./01xxx/1217. 하우스 M．D．/하우스 M．D．.cc) |
 | [01225](https://boj.kr/1225) | 이상한 곱셈 | Bronze 2 | [Java](./01xxx/1225. 이상한 곱셈/이상한 곱셈.java) |
+| [01231](https://boj.kr/1231) | 주식왕 동호 | Platinum 5 | [C++](./01xxx/1231. 주식왕 동호/주식왕 동호.cc) |
 | [01233](https://boj.kr/1233) | 주사위 | Bronze 2 | [Java](./01xxx/1233. 주사위/주사위.java) |
 | [01235](https://boj.kr/1235) | 학생 번호 | Silver 4 | [C++](./01xxx/1235. 학생 번호/학생 번호.cc) |
 | [01236](https://boj.kr/1236) | 성 지키기 | Bronze 1 | [Java](./01xxx/1236. 성 지키기/성 지키기.java) |
@@ -348,7 +349,7 @@
 | [01790](https://boj.kr/1790) | 수 이어 쓰기 2 | Gold 5 | [C++](./01xxx/1790. 수 이어 쓰기 2/수 이어 쓰기 2.cc) |
 | [01793](https://boj.kr/1793) | 타일링 | Silver 2 | [Java](./01xxx/1793. 타일링/타일링.java) |
 | [01799](https://boj.kr/1799) | 비숍 | Platinum 5 | [C++](./01xxx/1799. 비숍/비숍.cc) |
-| [01802](https://boj.kr/1802) | 종이 접기 | Silver 1 | [C++](./01xxx/1802. 종이 접기/종이 접기.cc) |
+| [01802](https://boj.kr/1802) | 종이 접기 | Gold 5 | [C++](./01xxx/1802. 종이 접기/종이 접기.cc) |
 | [01806](https://boj.kr/1806) | 부분합 | Gold 4 | [Java](./01xxx/1806. 부분합/부분합.java) |
 | [01809](https://boj.kr/1809) | Moo | Bronze 5 | [Golfscript](./01xxx/1809. Moo/Moo.gs) |
 | [01810](https://boj.kr/1810) | 징검다리 달리기 2 | Gold 2 | [C++](./01xxx/1810. 징검다리 달리기 2/징검다리 달리기 2.cc) |
@@ -1820,6 +1821,7 @@
 | [10230](https://boj.kr/10230) | Maze 1 | Bronze 2 | [Text](./10xxx/10230. Maze 1/Maze 1.txt) |
 | [10246](https://boj.kr/10246) | 부동산 경매 | Silver 1 | [C++](./10xxx/10246. 부동산 경매/부동산 경매.cc) |
 | [10250](https://boj.kr/10250) | ACM 호텔 | Bronze 3 | [Java](./10xxx/10250. ACM 호텔/ACM 호텔.java) |
+| [10252](https://boj.kr/10252) | 그리드 그래프 | Silver 2 | [C++](./10xxx/10252. 그리드 그래프/그리드 그래프.cc) |
 | [10253](https://boj.kr/10253) | 헨리 | Silver 1 | [C++](./10xxx/10253. 헨리/헨리.cc) |
 | [10254](https://boj.kr/10254) | 고속도로 | Platinum 2 | [C++](./10xxx/10254. 고속도로/고속도로.cc) |
 | [10256](https://boj.kr/10256) | 돌연변이 | Platinum 2 | [C++](./10xxx/10256. 돌연변이/돌연변이.cc) |
@@ -2587,6 +2589,7 @@
 | [14501](https://boj.kr/14501) | 퇴사 | Silver 3 | [Java](./14xxx/14501. 퇴사/퇴사.java) |
 | [14502](https://boj.kr/14502) | 연구소 | Gold 4 | [C++](./14xxx/14502. 연구소/연구소.cc) |
 | [14503](https://boj.kr/14503) | 로봇 청소기 | Gold 5 | [C++](./14xxx/14503. 로봇 청소기/로봇 청소기.cc) |
+| [14517](https://boj.kr/14517) | 팰린드롬 개수 구하기 (Large) | Platinum 5 | [C++](./14xxx/14517. 팰린드롬 개수 구하기 （Large）/팰린드롬 개수 구하기 （Large）.cc) |
 | [14530](https://boj.kr/14530) | The Lost Cow | Bronze 2 | [Java](./14xxx/14530. The Lost Cow/The Lost Cow.java) |
 | [14534](https://boj.kr/14534) | String Permutation | Silver 4 | [Java](./14xxx/14534. String Permutation/String Permutation.java) |
 | [14535](https://boj.kr/14535) | Birthday Graph | Bronze 3 | [Java](./14xxx/14535. Birthday Graph/Birthday Graph.java) |
