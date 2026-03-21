@@ -2343,6 +2343,7 @@
 | [13129](https://boj.kr/13129) | Disposable Cup | Bronze 3 | [Java](./13xxx/13129. Disposable Cup/Disposable Cup.java) |
 | [13133](https://boj.kr/13133) | Aurora Princess | Silver 5 | [C++](./13xxx/13133. Aurora Princess/Aurora Princess.cc) |
 | [13136](https://boj.kr/13136) | Do Not Touch Anything | Bronze 4 | [C](./13xxx/13136. Do Not Touch Anything/Do Not Touch Anything.c) |
+| [13141](https://boj.kr/13141) | Ignition | Platinum 5 | [C++](./13xxx/13141. Ignition/Ignition.cc) |
 | [13144](https://boj.kr/13144) | List of Unique Numbers | Gold 4 | [C++](./13xxx/13144. List of Unique Numbers/List of Unique Numbers.cc) |
 | [13153](https://boj.kr/13153) | Formula | Bronze 1 | [Python](./13xxx/13153. Formula/Formula.py) |
 | [13156](https://boj.kr/13156) | Selling CPUs | Gold 5 | [C++](./13xxx/13156. Selling CPUs/Selling CPUs.cc) |
