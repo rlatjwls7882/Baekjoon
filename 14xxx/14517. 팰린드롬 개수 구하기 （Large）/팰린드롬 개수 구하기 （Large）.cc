@@ -34,7 +34,6 @@ uniform_real_distribution<double> rnd_real(0, 1); // rnd_real(rd)
 
 const int MOD = 10007;
 
-bool chk[1000][1000];
 int dp[1000][1000];
 
 int main() {
