@@ -2230,7 +2230,7 @@
 | [12348](https://boj.kr/12348) | 분해합 2 | Silver 1 | [Java](./12xxx/12348. 분해합 2/분해합 2.java) |
 | [12351](https://boj.kr/12351) | Hedgemony (Small) | Bronze 3 | [Java](./12xxx/12351. Hedgemony （Small）/Hedgemony （Small）.java) |
 | [12352](https://boj.kr/12352) | Hedgemony (Large) | Bronze 3 | [Java](./12xxx/12352. Hedgemony （Large）/Hedgemony （Large）.java) |
-| [12353](https://boj.kr/12353) | Dr. Spaceman의 특별한 알고리즘 | Bronze 2 | [Java](./12xxx/12353. Dr． Spaceman의 특별한 알고리즘/Dr． Spaceman의 특별한 알고리즘.java) |
+| [12353](https://boj.kr/12353) | Dr. Spaceman의 특별한 알고리즘 | Bronze 1 | [Java](./12xxx/12353. Dr． Spaceman의 특별한 알고리즘/Dr． Spaceman의 특별한 알고리즘.java) |
 | [12400](https://boj.kr/12400) | Speaking in Tongues (Small) | Bronze 1 | [Java](./12xxx/12400. Speaking in Tongues （Small）/Speaking in Tongues （Small）.java) |
 | [12423](https://boj.kr/12423) | 전장 (Small) | Platinum 3 | [C++](./12xxx/12423. 전장 （Small）/전장 （Small）.cc) |
 | [12424](https://boj.kr/12424) | 전장 (Large) | Platinum 3 | [C++](./12xxx/12424. 전장 （Large）/전장 （Large）.cc) |
