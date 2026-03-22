@@ -57,7 +57,7 @@ int main() {
     while(!pq.empty()) {
         auto [cu, co, sk] = pq.top(); pq.pop();
         if(co>=vis[cu][sk]) continue;
-        for(int i=sk;i<=k;i++) vis[cu][i]=min(vis[cu][i], co);
+        vis[cu][sk]=co;
 
         for(auto n:conn[cu]) {
             if(vis[n.x][sk]>vis[cu][sk]+n.y) pq.push({n.x, vis[cu][sk]+n.y, sk});
