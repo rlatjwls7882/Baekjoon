@@ -81,6 +81,7 @@
 | [01157](https://boj.kr/1157) | 단어 공부 | Bronze 1 | [C](./01xxx/1157. 단어 공부/단어 공부.c) |
 | [01158](https://boj.kr/1158) | 요세푸스 문제 | Silver 4 | [Java](./01xxx/1158. 요세푸스 문제/요세푸스 문제.java) |
 | [01159](https://boj.kr/1159) | 농구 경기 | Bronze 2 | [Java](./01xxx/1159. 농구 경기/농구 경기.java) |
+| [01162](https://boj.kr/1162) | 도로포장 | Platinum 5 | [C++](./01xxx/1162. 도로포장/도로포장.cc) |
 | [01166](https://boj.kr/1166) | 선물 | Silver 3 | [C++](./01xxx/1166. 선물/선물.cc) |
 | [01167](https://boj.kr/1167) | 트리의 지름 | Gold 2 | [C++](./01xxx/1167. 트리의 지름/트리의 지름.cc) |
 | [01168](https://boj.kr/1168) | 요세푸스 문제 2 | Platinum 3 | [C++](./01xxx/1168. 요세푸스 문제 2/요세푸스 문제 2.cc) |
@@ -5505,6 +5506,7 @@
 | [35307](https://boj.kr/35307) | 하얀 전파 | Silver 1 | [C++](./35xxx/35307. 하얀 전파/하얀 전파.cc) |
 | [35308](https://boj.kr/35308) | PPPP | Silver 4 | [C++](./35xxx/35308. PPPP/PPPP.cc) |
 | [35367](https://boj.kr/35367) | Snakey String | Bronze 3 | [C++](./35xxx/35367. Snakey String/Snakey String.cc) |
+| [35368](https://boj.kr/35368) | Breakout | Bronze 3 | [C++](./35xxx/35368. Breakout/Breakout.cc) |
 | [35370](https://boj.kr/35370) | Memories of Passport Control | Bronze 4 | [C++](./35xxx/35370. Memories of Passport Control/Memories of Passport Control.cc) |
 | [35373](https://boj.kr/35373) | A Little Leftover Pizza | Bronze 3 | [C++](./35xxx/35373. A Little Leftover Pizza/A Little Leftover Pizza.cc) |
 </div>
