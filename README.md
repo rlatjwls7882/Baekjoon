@@ -1624,6 +1624,7 @@
 | [09253](https://boj.kr/9253) | 스페셜 저지 | Bronze 2 | [Java](./09xxx/9253. 스페셜 저지/스페셜 저지.java) |
 | [09285](https://boj.kr/9285) | Watering - 1 | Bronze 1 | [C++](./09xxx/9285. Watering － 1/Watering － 1.cc) |
 | [09286](https://boj.kr/9286) | Gradabase | Bronze 3 | [Java](./09xxx/9286. Gradabase/Gradabase.java) |
+| [09287](https://boj.kr/9287) | Jenga | Bronze 2 | [C++](./09xxx/9287. Jenga/Jenga.cc) |
 | [09288](https://boj.kr/9288) | More Dice | Bronze 3 | [Java](./09xxx/9288. More Dice/More Dice.java) |
 | [09289](https://boj.kr/9289) | Morse Code | Bronze 1 | [Java](./09xxx/9289. Morse Code/Morse Code.java) |
 | [09290](https://boj.kr/9290) | 틱택토 이기기 | Silver 4 | [C++](./09xxx/9290. 틱택토 이기기/틱택토 이기기.cc) |
@@ -3556,7 +3557,7 @@
 | [21052](https://boj.kr/21052) | Film Critics | Platinum 3 | [C++](./21xxx/21052. Film Critics/Film Critics.cc) |
 | [21053](https://boj.kr/21053) | Gig Combinatorics | Gold 5 | [C++](./21xxx/21053. Gig Combinatorics/Gig Combinatorics.cc) |
 | [21056](https://boj.kr/21056) | Joining Flows | Gold 2 | [C++](./21xxx/21056. Joining Flows/Joining Flows.cc) |
-| [21057](https://boj.kr/21057) | Keep Calm And Carry Off | Gold 1 | [C++](./21xxx/21057. Keep Calm And Carry Off/Keep Calm And Carry Off.cc) |
+| [21057](https://boj.kr/21057) | Keep Calm And Carry Off | Platinum 5 | [C++](./21xxx/21057. Keep Calm And Carry Off/Keep Calm And Carry Off.cc) |
 | [21059](https://boj.kr/21059) | Methodic Multiplication | Bronze 1 | [Java](./21xxx/21059. Methodic Multiplication/Methodic Multiplication.java) |
 | [21063](https://boj.kr/21063) | Display of Springs | Diamond 5 | [C++](./21xxx/21063. Display of Springs/Display of Springs.cc) |
 | [21105](https://boj.kr/21105) | New Financial Year | Bronze 3 | [Java](./21xxx/21105. New Financial Year/New Financial Year.java) |
