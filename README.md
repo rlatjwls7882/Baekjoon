@@ -2975,6 +2975,7 @@
 | [16239](https://boj.kr/16239) | Nadan | Bronze 3 | [Java](./16xxx/16239. Nadan/Nadan.java) |
 | [16255](https://boj.kr/16255) | Martian Volleyball | Bronze 2 | [Java](./16xxx/16255. Martian Volleyball/Martian Volleyball.java) |
 | [16283](https://boj.kr/16283) | Farm | Bronze 2 | [Java](./16xxx/16283. Farm/Farm.java) |
+| [16287](https://boj.kr/16287) | Parcel | Platinum 5 | [C++](./16xxx/16287. Parcel/Parcel.cc) |
 | [16306](https://boj.kr/16306) | Cardboard Container | Bronze 1 | [Java](./16xxx/16306. Cardboard Container/Cardboard Container.java) |
 | [16316](https://boj.kr/16316) | Baby Bites | Bronze 3 | [Java](./16xxx/16316. Baby Bites/Baby Bites.java) |
 | [16337](https://boj.kr/16337) | Die | Bronze 2 | [Java](./16xxx/16337. Die/Die.java) |
