@@ -2242,6 +2242,7 @@
 | [12424](https://boj.kr/12424) | 전장 (Large) | Platinum 3 | [C++](./12xxx/12424. 전장 （Large）/전장 （Large）.cc) |
 | [12427](https://boj.kr/12427) | 박테리아 (Small) | Platinum 2 | [C++](./12xxx/12427. 박테리아 （Small）/박테리아 （Small）.cc) |
 | [12428](https://boj.kr/12428) | 박테리아 (Large) | Platinum 2 | [C++](./12xxx/12428. 박테리아 （Large）/박테리아 （Large）.cc) |
+| [12435](https://boj.kr/12435) | 한강 (Small) | Silver 1 | [C++](./12xxx/12435. 한강 （Small）/한강 （Small）.cc) |
 | [12437](https://boj.kr/12437) | 새로운 달력 (Small) | Silver 4 | [C++](./12xxx/12437. 새로운 달력 （Small）/새로운 달력 （Small）.cc) |
 | [12438](https://boj.kr/12438) | 새로운 달력 (Large) | Gold 5 | [C++](./12xxx/12438. 새로운 달력 （Large）/새로운 달력 （Large）.cc) |
 | [12455](https://boj.kr/12455) | 最高のコーヒー (Small) | Gold 4 | [C++](./12xxx/12455. 最高のコーヒー （Small）/最高のコーヒー （Small）.cc) |
@@ -3158,6 +3159,7 @@
 | [17210](https://boj.kr/17210) | 문문문 | Bronze 3 | [Java](./17xxx/17210. 문문문/문문문.java) |
 | [17211](https://boj.kr/17211) | 좋은 날 싫은 날 | Silver 5 | [C++](./17xxx/17211. 좋은 날 싫은 날/좋은 날 싫은 날.cc) |
 | [17212](https://boj.kr/17212) | 달나라 토끼를 위한 구매대금 지불 도우미 | Silver 3 | [C++](./17xxx/17212. 달나라 토끼를 위한 구매대금 지불 도우미/달나라 토끼를 위한 구매대금 지불 도우미.cc) |
+| [17213](https://boj.kr/17213) | 과일 서리 | Silver 2 | [C++](./17xxx/17213. 과일 서리/과일 서리.cc) |
 | [17216](https://boj.kr/17216) | 가장 큰 감소 부분 수열 | Silver 2 | [Java](./17xxx/17216. 가장 큰 감소 부분 수열/가장 큰 감소 부분 수열.java) |
 | [17218](https://boj.kr/17218) | 비밀번호 만들기 | Gold 4 | [C++](./17xxx/17218. 비밀번호 만들기/비밀번호 만들기.cc) |
 | [17219](https://boj.kr/17219) | 비밀번호 찾기 | Silver 4 | [C++](./17xxx/17219. 비밀번호 찾기/비밀번호 찾기.cc) [Java](./17xxx/17219. 비밀번호 찾기/비밀번호 찾기.java) |
@@ -3452,6 +3454,7 @@
 | [20118](https://boj.kr/20118) | 호반우가 길을 건너간 이유 | Gold 2 | [C++](./20xxx/20118. 호반우가 길을 건너간 이유/호반우가 길을 건너간 이유.cc) |
 | [20124](https://boj.kr/20124) | 모르고리즘 회장님 추천 받습니다 | Bronze 2 | [Java](./20xxx/20124. 모르고리즘 회장님 추천 받습니다/모르고리즘 회장님 추천 받습니다.java) |
 | [20125](https://boj.kr/20125) | 쿠키의 신체 측정 | Silver 4 | [C++](./20xxx/20125. 쿠키의 신체 측정/쿠키의 신체 측정.cc) |
+| [20152](https://boj.kr/20152) | Game Addiction | Silver 2 | [C++](./20xxx/20152. Game Addiction/Game Addiction.cc) |
 | [20154](https://boj.kr/20154) | 이 구역의 승자는 누구야?! | Bronze 1 | [Java](./20xxx/20154. 이 구역의 승자는 누구야？！/이 구역의 승자는 누구야？！.java) |
 | [20155](https://boj.kr/20155) | 우리 집 밑에 편의점이 있는데 | Bronze 2 | [Java](./20xxx/20155. 우리 집 밑에 편의점이 있는데/우리 집 밑에 편의점이 있는데.java) |
 | [20157](https://boj.kr/20157) | 화살을 쏘자! | Gold 5 | [C++](./20xxx/20157. 화살을 쏘자！/화살을 쏘자！.cc) |
@@ -4186,7 +4189,7 @@
 | [26082](https://boj.kr/26082) | WARBOY | Bronze 5 | [C](./26xxx/26082. WARBOY/WARBOY.c) |
 | [26084](https://boj.kr/26084) | DPS | Silver 2 | [C++](./26xxx/26084. DPS/DPS.cc) |
 | [26085](https://boj.kr/26085) | 효구와 호규 (Easy) | Silver 1 | [Java](./26xxx/26085. 효구와 호규 （Easy）/효구와 호규 （Easy）.java) |
-| [26090](https://boj.kr/26090) | 완전한 수열 | Silver 2 | |
+| [26090](https://boj.kr/26090) | 완전한 수열 | Silver 2 | [C++](./26xxx/26090. 완전한 수열/완전한 수열.cc) |
 | [26091](https://boj.kr/26091) | 현대모비스 소프트웨어 아카데미 | Silver 1 | [C++](./26xxx/26091. 현대모비스 소프트웨어 아카데미/현대모비스 소프트웨어 아카데미.cc) |
 | [26093](https://boj.kr/26093) | 고양이 목에 리본 달기 | Gold 3 | [C++](./26xxx/26093. 고양이 목에 리본 달기/고양이 목에 리본 달기.cc) |
 | [26097](https://boj.kr/26097) | 효구와 호규 (Hard) | Gold 2 | [Java](./26xxx/26097. 효구와 호규 （Hard）/효구와 호규 （Hard）.java) |
@@ -4822,10 +4825,10 @@
 | [30976](https://boj.kr/30976) | 사랑의 큐피드 | Platinum 4 | [C++](./30xxx/30976. 사랑의 큐피드/사랑의 큐피드.cc) |
 | [30979](https://boj.kr/30979) | 유치원생 파댕이 돌보기 | Bronze 4 | [Java](./30xxx/30979. 유치원생 파댕이 돌보기/유치원생 파댕이 돌보기.java) |
 | [30986](https://boj.kr/30986) | 파댕이의 예술작품 | Platinum 3 | [C++](./30xxx/30986. 파댕이의 예술작품/파댕이의 예술작품.cc) |
-| [30987](https://boj.kr/30987) | 하루 피부과 | Silver 5 | |
+| [30987](https://boj.kr/30987) | 하루 피부과 | Silver 5 | [Java](./30xxx/30987. 하루 피부과/하루 피부과.java) |
 | [30991](https://boj.kr/30991) | ESC | Silver 1 | [C++](./30xxx/30991. ESC/ESC.cc) |
 | [30993](https://boj.kr/30993) | 자동차 주차 | Silver 5 | [C++](./30xxx/30993. 자동차 주차/자동차 주차.cc) |
-| [30999](https://boj.kr/30999) | 민주주의 | Bronze 4 | |
+| [30999](https://boj.kr/30999) | 민주주의 | Bronze 4 | [Java](./30xxx/30999. 민주주의/민주주의.java) |
 | [31000](https://boj.kr/31000) | 교환 분배법칙 | Silver 5 | [C++](./31xxx/31000. 교환 분배법칙/교환 분배법칙.cc) |
 | [31009](https://boj.kr/31009) | 진주로 가자! (Easy) | Bronze 3 | [Java](./31xxx/31009. 진주로 가자！ （Easy）/진주로 가자！ （Easy）.java) |
 | [31027](https://boj.kr/31027) | 물고기 게임 | Platinum 5 | [C++](./31xxx/31027. 물고기 게임/물고기 게임.cc) |
@@ -5493,7 +5496,7 @@
 | [35143](https://boj.kr/35143) | $2026$ | Silver 5 | [C++](./35xxx/35143. $2026$/$2026$.cc) |
 | [35146](https://boj.kr/35146) | $02493$ | Silver 5 | [C++](./35xxx/35146. $02493$/$02493$.cc) |
 | [35149](https://boj.kr/35149) | NEMODEMIC | Bronze 2 | [C++](./35xxx/35149. NEMODEMIC/NEMODEMIC.cc) |
-| [35162](https://boj.kr/35162) | KCPC 스티커 만들기 | Gold 4 | [C++](./35xxx/35162. KCPC 스티커 만들기/KCPC 스티커 만들기.cc) |
+| [35162](https://boj.kr/35162) | KCPC 스티커 만들기 | Gold 5 | [C++](./35xxx/35162. KCPC 스티커 만들기/KCPC 스티커 만들기.cc) |
 | [35184](https://boj.kr/35184) | 수돗물과 게 임 | Gold 2 | [C++](./35xxx/35184. 수돗물과 게 임/수돗물과 게 임.cc) |
 | [35185](https://boj.kr/35185) | 바바와 깃발 게임 | Gold 2 | [C++](./35xxx/35185. 바바와 깃발 게임/바바와 깃발 게임.cc) |
 | [35193](https://boj.kr/35193) | Bottle of New Port | Bronze 2 | [C++](./35xxx/35193. Bottle of New Port/Bottle of New Port.cc) |
