@@ -2401,7 +2401,7 @@
 | [13335](https://boj.kr/13335) | 트럭 | Silver 1 | [C++](./13xxx/13335. 트럭/트럭.cc) |
 | [13363](https://boj.kr/13363) | Jumbled Compass | Bronze 3 | [Java](./13xxx/13363. Jumbled Compass/Jumbled Compass.java) |
 | [13366](https://boj.kr/13366) | Math Contest | Bronze 3 | [C++](./13xxx/13366. Math Contest/Math Contest.cc) |
-| [13383](https://boj.kr/13383) | Oil | Gold 5 | [C++](./13xxx/13383. Oil/Oil.cc) |
+| [13383](https://boj.kr/13383) | Oil | Gold 4 | [C++](./13xxx/13383. Oil/Oil.cc) |
 | [13392](https://boj.kr/13392) | 방법을 출력하지 않는 숫자 맞추기 | Gold 1 | [C++](./13xxx/13392. 방법을 출력하지 않는 숫자 맞추기/방법을 출력하지 않는 숫자 맞추기.cc) |
 | [13398](https://boj.kr/13398) | 연속합 2 | Gold 4 | [C++](./13xxx/13398. 연속합 2/연속합 2.cc) |
 | [13410](https://boj.kr/13410) | 거꾸로 구구단 | Bronze 2 | [Java](./13xxx/13410. 거꾸로 구구단/거꾸로 구구단.java) |
@@ -4368,7 +4368,7 @@
 | [27446](https://boj.kr/27446) | 랩실에서 잘 자요 | Silver 3 | [C++](./27xxx/27446. 랩실에서 잘 자요/랩실에서 잘 자요.cc) |
 | [27465](https://boj.kr/27465) | 소수가 아닌 수 | Bronze 3 | [Java](./27xxx/27465. 소수가 아닌 수/소수가 아닌 수.java) |
 | [27466](https://boj.kr/27466) | 그래서 대회 이름 뭐로 하죠 | Silver 4 | [Java](./27xxx/27466. 그래서 대회 이름 뭐로 하죠/그래서 대회 이름 뭐로 하죠.java) |
-| [27470](https://boj.kr/27470) | 멋진 부분집합 | Platinum 5 | [C++](./27xxx/27470. 멋진 부분집합/멋진 부분집합.cc) |
+| [27470](https://boj.kr/27470) | 멋진 부분집합 | Platinum 4 | [C++](./27xxx/27470. 멋진 부분집합/멋진 부분집합.cc) |
 | [27475](https://boj.kr/27475) | Cancel the Trains | Bronze 3 | [Java](./27xxx/27475. Cancel the Trains/Cancel the Trains.java) |
 | [27481](https://boj.kr/27481) | Hotelier | Bronze 3 | [Java](./27xxx/27481. Hotelier/Hotelier.java) |
 | [27487](https://boj.kr/27487) | One and Two | Bronze 2 | [Java](./27xxx/27487. One and Two/One and Two.java) |
