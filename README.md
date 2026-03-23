@@ -955,6 +955,7 @@
 | [03787](https://boj.kr/3787) | Count on Canton | Silver 5 | [Java](./03xxx/3787. Count on Canton/Count on Canton.java) |
 | [03803](https://boj.kr/3803) | Networking | Gold 4 | [Java](./03xxx/3803. Networking/Networking.java) |
 | [03826](https://boj.kr/3826) | 스타일리시 | Gold 4 | [C++](./03xxx/3826. 스타일리시/스타일리시.cc) |
+| [03830](https://boj.kr/3830) | 교수님은 기다리지 않는다 | Platinum 3 | [C++](./03xxx/3830. 교수님은 기다리지 않는다/교수님은 기다리지 않는다.cc) |
 | [03863](https://boj.kr/3863) | 행복한 전화 통화 | Silver 5 | [Java](./03xxx/3863. 행복한 전화 통화/행복한 전화 통화.java) |
 | [03878](https://boj.kr/3878) | 점 분리 | Platinum 2 | [C++](./03xxx/3878. 점 분리/점 분리.cc) |
 | [03895](https://boj.kr/3895) | 그리고 하나가 남았다 | Platinum 5 | [C++](./03xxx/3895. 그리고 하나가 남았다/그리고 하나가 남았다.cc) |
@@ -4185,6 +4186,7 @@
 | [26082](https://boj.kr/26082) | WARBOY | Bronze 5 | [C](./26xxx/26082. WARBOY/WARBOY.c) |
 | [26084](https://boj.kr/26084) | DPS | Silver 2 | [C++](./26xxx/26084. DPS/DPS.cc) |
 | [26085](https://boj.kr/26085) | 효구와 호규 (Easy) | Silver 1 | [Java](./26xxx/26085. 효구와 호규 （Easy）/효구와 호규 （Easy）.java) |
+| [26090](https://boj.kr/26090) | 완전한 수열 | Silver 2 | |
 | [26091](https://boj.kr/26091) | 현대모비스 소프트웨어 아카데미 | Silver 1 | [C++](./26xxx/26091. 현대모비스 소프트웨어 아카데미/현대모비스 소프트웨어 아카데미.cc) |
 | [26093](https://boj.kr/26093) | 고양이 목에 리본 달기 | Gold 3 | [C++](./26xxx/26093. 고양이 목에 리본 달기/고양이 목에 리본 달기.cc) |
 | [26097](https://boj.kr/26097) | 효구와 호규 (Hard) | Gold 2 | [Java](./26xxx/26097. 효구와 호규 （Hard）/효구와 호규 （Hard）.java) |
