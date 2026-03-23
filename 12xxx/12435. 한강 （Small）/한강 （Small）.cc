@@ -36,10 +36,9 @@ int cnt[1'000'001], mn[1'000'001];
 
 int main() {
     cin.tie(0)->sync_with_stdio(0);
-    memset(mn, -1, sizeof mn);
     for(int i=2;i<=1'000'000;i++) {
         for(int j=i*2;j<=1'000'000;j+=i) {
-            if(mn[j]==-1) mn[j]=i;
+            if(!mn[j]) mn[j]=i;
             cnt[j]++;
         }
     }
