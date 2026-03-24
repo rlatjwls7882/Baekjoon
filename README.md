@@ -5323,7 +5323,7 @@
 | [34139](https://boj.kr/34139) | 의식의 광장 | Silver 2 | [C++](./34xxx/34139. 의식의 광장/의식의 광장.cc) |
 | [34146](https://boj.kr/34146) | 잃어버린 섬 | Silver 5 | [C++](./34xxx/34146. 잃어버린 섬/잃어버린 섬.cc) |
 | [34155](https://boj.kr/34155) | 수열과 수열 2 | Silver 5 | [C++](./34xxx/34155. 수열과 수열 2/수열과 수열 2.cc) |
-| [34161](https://boj.kr/34161) | OO0OO | Bronze 4 | [C++](./34xxx/34161. OO0OO/OO0OO.cc) |
+| [34161](https://boj.kr/34161) | OO0OO | Bronze 3 | [C++](./34xxx/34161. OO0OO/OO0OO.cc) |
 | [34162](https://boj.kr/34162) | NP=P | Silver 5 | [C++](./34xxx/34162. NP＝P/NP＝P.cc) |
 | [34183](https://boj.kr/34183) | SUAPC 의자 준비하기 | Bronze 4 | [C++](./34xxx/34183.%E2%80%85SUAPC%E2%80%85의자%E2%80%85준비하기/SUAPC%E2%80%85의자%E2%80%85준비하기.cc) |
 | [34196](https://boj.kr/34196) | SUAPC 2025 Winter | Bronze 1 | [C++](./34xxx/34196. SUAPC 2025 Winter/SUAPC 2025 Winter.cc) |
