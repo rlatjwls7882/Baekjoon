@@ -2611,6 +2611,7 @@
 | [14561](https://boj.kr/14561) | 회문 | Bronze 1 | [Java](./14xxx/14561. 회문/회문.java) |
 | [14563](https://boj.kr/14563) | 완전수 | Bronze 2 | [Java](./14xxx/14563. 완전수/완전수.java) |
 | [14564](https://boj.kr/14564) | 두부 게임 (Tofu Game) | Bronze 1 | [C++](./14xxx/14564. 두부 게임 （Tofu Game）/두부 게임 （Tofu Game）.cc) |
+| [14565](https://boj.kr/14565) | 역원(Inverse) 구하기 | Gold 2 | [C++](./14xxx/14565. 역원（Inverse） 구하기/역원（Inverse） 구하기.cc) |
 | [14566](https://boj.kr/14566) | Dongjak N1 | Bronze 1 | [C++](./14xxx/14566. Dongjak N1/Dongjak N1.cc) |
 | [14567](https://boj.kr/14567) | 선수과목 (Prerequisite) | Gold 5 | [Java](./14xxx/14567. 선수과목 （Prerequisite）/선수과목 （Prerequisite）.java) |
 | [14568](https://boj.kr/14568) | 2017 연세대학교 프로그래밍 경시대회 | Bronze 3 | [Java](./14xxx/14568. 2017 연세대학교 프로그래밍 경시대회/2017 연세대학교 프로그래밍 경시대회.java) |
