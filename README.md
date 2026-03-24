@@ -616,6 +616,7 @@
 | [02482](https://boj.kr/2482) | 색상환 | Gold 3 | [C++](./02xxx/2482. 색상환/색상환.cc) |
 | [02484](https://boj.kr/2484) | 주사위 네개 | Bronze 2 | [Java](./02xxx/2484. 주사위 네개/주사위 네개.java) |
 | [02485](https://boj.kr/2485) | 가로수 | Silver 4 | [Java](./02xxx/2485. 가로수/가로수.java) |
+| [02487](https://boj.kr/2487) | 섞기 수열 | Gold 4 | [C++](./02xxx/2487. 섞기 수열/섞기 수열.cc) |
 | [02490](https://boj.kr/2490) | 윷놀이 | Bronze 3 | [Java](./02xxx/2490. 윷놀이/윷놀이.java) |
 | [02491](https://boj.kr/2491) | 수열 | Silver 4 | [Java](./02xxx/2491. 수열/수열.java) |
 | [02493](https://boj.kr/2493) | 탑 | Gold 5 | [C++](./02xxx/2493. 탑/탑.cc) |
@@ -3033,6 +3034,7 @@
 | [16546](https://boj.kr/16546) | Missing Runners | Bronze 3 | [Java](./16xxx/16546. Missing Runners/Missing Runners.java) |
 | [16561](https://boj.kr/16561) | 3의 배수 | Bronze 2 | [Java](./16xxx/16561. 3의 배수/3의 배수.java) |
 | [16562](https://boj.kr/16562) | 친구비 | Gold 4 | [Java](./16xxx/16562. 친구비/친구비.java) |
+| [16563](https://boj.kr/16563) | 어려운 소인수분해 | Gold 4 | [C++](./16xxx/16563. 어려운 소인수분해/어려운 소인수분해.cc) |
 | [16564](https://boj.kr/16564) | 히오스 프로게이머 | Silver 1 | [C++](./16xxx/16564. 히오스 프로게이머/히오스 프로게이머.cc) |
 | [16565](https://boj.kr/16565) | N포커 | Gold 2 | [C++](./16xxx/16565. N포커/N포커.cc) |
 | [16566](https://boj.kr/16566) | 카드 게임 | Gold 1 | [C++](./16xxx/16566. 카드 게임/카드 게임.cc) |
@@ -4822,6 +4824,7 @@
 | [30958](https://boj.kr/30958) | 서울사이버대학을 다니고 | Bronze 3 | [Java](./30xxx/30958. 서울사이버대학을 다니고/서울사이버대학을 다니고.java) |
 | [30961](https://boj.kr/30961) | 최솟값, 최댓값 | Gold 3 | [C++](./30xxx/30961. 최솟값， 최댓값/최솟값， 최댓값.cc) |
 | [30969](https://boj.kr/30969) | 진주로 가자! (Hard) | Silver 5 | [C++](./30xxx/30969. 진주로 가자！ （Hard）/진주로 가자！ （Hard）.cc) |
+| [30974](https://boj.kr/30974) | What's your ETA? | Gold 4 | [C++](./30xxx/30974. What's your ETA？/What's your ETA？.cc) |
 | [30976](https://boj.kr/30976) | 사랑의 큐피드 | Platinum 4 | [C++](./30xxx/30976. 사랑의 큐피드/사랑의 큐피드.cc) |
 | [30979](https://boj.kr/30979) | 유치원생 파댕이 돌보기 | Bronze 4 | [Java](./30xxx/30979. 유치원생 파댕이 돌보기/유치원생 파댕이 돌보기.java) |
 | [30986](https://boj.kr/30986) | 파댕이의 예술작품 | Platinum 3 | [C++](./30xxx/30986. 파댕이의 예술작품/파댕이의 예술작품.cc) |
@@ -5178,6 +5181,7 @@
 | [33046](https://boj.kr/33046) | Alea Iacta Est | Bronze 4 | [C++](./33xxx/33046. Alea Iacta Est/Alea Iacta Est.cc) |
 | [33111](https://boj.kr/33111) | Intensive Training | Silver 2 | [C++](./33xxx/33111. Intensive Training/Intensive Training.cc) |
 | [33135](https://boj.kr/33135) | Append and Panic! | Bronze 3 | [C++](./33xxx/33135. Append and Panic！/Append and Panic！.cc) |
+| [33147](https://boj.kr/33147) | $K$-정렬 | Silver 1 | [C++](./33xxx/33147. $K$－정렬/$K$－정렬.cc) |
 | [33152](https://boj.kr/33152) | 경인 국가의 행사 | Gold 1 | [C++](./33xxx/33152. 경인 국가의 행사/경인 국가의 행사.cc) |
 | [33156](https://boj.kr/33156) | 구간이 이븐하지 않아요. | Gold 2 | [C++](./33xxx/33156. 구간이 이븐하지 않아요．/구간이 이븐하지 않아요．.cc) |
 | [33161](https://boj.kr/33161) | 鉛筆 2 (Pencils 2) | Bronze 5 | [Python](./33xxx/33161. 鉛筆 2 （Pencils 2）/鉛筆 2 （Pencils 2）.py) |
