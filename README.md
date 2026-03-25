@@ -1417,6 +1417,7 @@
 | [07120](https://boj.kr/7120) | String | Bronze 2 | [Java](./07xxx/7120. String/String.java) |
 | [07124](https://boj.kr/7124) | Sarnased kolmnurgad | Bronze 1 | [C++](./07xxx/7124. Sarnased kolmnurgad/Sarnased kolmnurgad.cc) |
 | [07130](https://boj.kr/7130) | Milk and Honey | Bronze 3 | [Java](./07xxx/7130. Milk and Honey/Milk and Honey.java) |
+| [07131](https://boj.kr/7131) | Õhne vanaraamatupood | Bronze 2 | [C++](./07xxx/7131. Õhne vanaraamatupood/Õhne vanaraamatupood.cc) |
 | [07132](https://boj.kr/7132) | Hammasrattad | Bronze 1 | [Java](./07xxx/7132. Hammasrattad/Hammasrattad.java) |
 | [07140](https://boj.kr/7140) | 데이터 만들기 1 | Gold 4 | [C++](./07xxx/7140. 데이터 만들기 1/데이터 만들기 1.cc) |
 | [07142](https://boj.kr/7142) | 데이터 만들기 3 | Gold 4 | [C++](./07xxx/7142. 데이터 만들기 3/데이터 만들기 3.cc) |
@@ -2135,6 +2136,7 @@
 | [11587](https://boj.kr/11587) | MARKO | Bronze 2 | [Java](./11xxx/11587. MARKO/MARKO.java) |
 | [11596](https://boj.kr/11596) | Triangle | Bronze 2 | [Java](./11xxx/11596. Triangle/Triangle.java) |
 | [11605](https://boj.kr/11605) | Magic Trick | Bronze 2 | [Java](./11xxx/11605. Magic Trick/Magic Trick.java) |
+| [11606](https://boj.kr/11606) | Egg Drop | Bronze 2 | [C++](./11xxx/11606. Egg Drop/Egg Drop.cc) |
 | [11608](https://boj.kr/11608) | Complexity | Bronze 2 | [Java](./11xxx/11608. Complexity/Complexity.java) |
 | [11636](https://boj.kr/11636) | Stand on Zanzibar | Bronze 2 | [Java](./11xxx/11636. Stand on Zanzibar/Stand on Zanzibar.java) |
 | [11637](https://boj.kr/11637) | 인기 투표 | Silver 5 | [Java](./11xxx/11637. 인기 투표/인기 투표.java) |
