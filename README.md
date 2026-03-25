@@ -2138,6 +2138,7 @@
 | [11605](https://boj.kr/11605) | Magic Trick | Bronze 2 | [Java](./11xxx/11605. Magic Trick/Magic Trick.java) |
 | [11606](https://boj.kr/11606) | Egg Drop | Bronze 2 | [C++](./11xxx/11606. Egg Drop/Egg Drop.cc) |
 | [11608](https://boj.kr/11608) | Complexity | Bronze 2 | [Java](./11xxx/11608. Complexity/Complexity.java) |
+| [11635](https://boj.kr/11635) | Wipe Your Whiteboards | Platinum 4 | [C++](./11xxx/11635. Wipe Your Whiteboards/Wipe Your Whiteboards.cc) |
 | [11636](https://boj.kr/11636) | Stand on Zanzibar | Bronze 2 | [Java](./11xxx/11636. Stand on Zanzibar/Stand on Zanzibar.java) |
 | [11637](https://boj.kr/11637) | 인기 투표 | Silver 5 | [Java](./11xxx/11637. 인기 투표/인기 투표.java) |
 | [11640](https://boj.kr/11640) | Scaling Recipes | Bronze 2 | [Java](./11xxx/11640. Scaling Recipes/Scaling Recipes.java) |
@@ -2497,7 +2498,7 @@
 | [13908](https://boj.kr/13908) | 비밀번호 | Silver 2 | [C++](./13xxx/13908. 비밀번호/비밀번호.cc) |
 | [13909](https://boj.kr/13909) | 창문 닫기 | Silver 5 | [Java](./13xxx/13909. 창문 닫기/창문 닫기.java) |
 | [13913](https://boj.kr/13913) | 숨바꼭질 4 | Gold 4 | [C++](./13xxx/13913. 숨바꼭질 4/숨바꼭질 4.cc) |
-| [13925](https://boj.kr/13925) | 수열과 쿼리 13 | Diamond 5 | [C++](./13xxx/13925. 수열과 쿼리 13/수열과 쿼리 13.cc) |
+| [13925](https://boj.kr/13925) | 수열과 쿼리 13 | Platinum 1 | [C++](./13xxx/13925. 수열과 쿼리 13/수열과 쿼리 13.cc) |
 | [13939](https://boj.kr/13939) | Imena | Bronze 2 | [Java](./13xxx/13939. Imena/Imena.java) |
 | [13976](https://boj.kr/13976) | 타일 채우기 2 | Platinum 5 | [C++](./13xxx/13976. 타일 채우기 2/타일 채우기 2.cc) |
 | [13977](https://boj.kr/13977) | 이항 계수와 쿼리 | Platinum 5 | [C++](./13xxx/13977. 이항 계수와 쿼리/이항 계수와 쿼리.cc) |
