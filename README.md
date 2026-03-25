@@ -2477,6 +2477,7 @@
 | [13684](https://boj.kr/13684) | Divisão da Nlogõnia | Bronze 3 | [Java](./13xxx/13684. Divisão da Nlogõnia/Divisão da Nlogõnia.java) |
 | [13698](https://boj.kr/13698) | Hawk eyes | Bronze 3 | [Java](./13xxx/13698. Hawk eyes/Hawk eyes.java) |
 | [13699](https://boj.kr/13699) | 점화식 | Silver 4 | [Java](./13xxx/13699. 점화식/점화식.java) |
+| [13700](https://boj.kr/13700) | 완전 범죄 | Silver 1 | [C++](./13xxx/13700. 완전 범죄/완전 범죄.cc) |
 | [13702](https://boj.kr/13702) | 이상한 술집 | Silver 2 | [C++](./13xxx/13702. 이상한 술집/이상한 술집.cc) |
 | [13703](https://boj.kr/13703) | 물벼룩의 생존확률 | Gold 5 | [C++](./13xxx/13703. 물벼룩의 생존확률/물벼룩의 생존확률.cc) |
 | [13704](https://boj.kr/13704) | 수열과 쿼리 11 | Platinum 1 | [C++](./13xxx/13704. 수열과 쿼리 11/수열과 쿼리 11.cc) |
