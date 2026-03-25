@@ -445,7 +445,7 @@
 | [02018](https://boj.kr/2018) | 수들의 합 5 | Silver 5 | [Java](./02xxx/2018. 수들의 합 5/수들의 합 5.java) |
 | [02023](https://boj.kr/2023) | 신기한 소수 | Gold 5 | [C++](./02xxx/2023. 신기한 소수/신기한 소수.cc) |
 | [02028](https://boj.kr/2028) | 자기복제수 | Bronze 2 | [Java](./02xxx/2028. 자기복제수/자기복제수.java) |
-| [02029](https://boj.kr/2029) | 성냥 | Silver 4 | [C++](./02xxx/2029. 성냥/성냥.cc) |
+| [02029](https://boj.kr/2029) | 성냥 | Silver 3 | [C++](./02xxx/2029. 성냥/성냥.cc) |
 | [02033](https://boj.kr/2033) | 반올림 | Bronze 1 | [Java](./02xxx/2033. 반올림/반올림.java) |
 | [02034](https://boj.kr/2034) | 반음 | Silver 4 | [C++](./02xxx/2034. 반음/반음.cc) |
 | [02036](https://boj.kr/2036) | 수열의 점수 | Gold 4 | [C++](./02xxx/2036. 수열의 점수/수열의 점수.cc) |
@@ -1614,6 +1614,7 @@
 | [09196](https://boj.kr/9196) | 정수 직사각형 | Silver 5 | [C++](./09xxx/9196. 정수 직사각형/정수 직사각형.cc) |
 | [09202](https://boj.kr/9202) | Boggle | Platinum 5 | [C++](./09xxx/9202. Boggle/Boggle.cc) |
 | [09205](https://boj.kr/9205) | 맥주 마시면서 걸어가기 | Gold 5 | [C++](./09xxx/9205. 맥주 마시면서 걸어가기/맥주 마시면서 걸어가기.cc) |
+| [09214](https://boj.kr/9214) | 첫 번째 항 | Silver 4 | [C++](./09xxx/9214. 첫 번째 항/첫 번째 항.cc) |
 | [09226](https://boj.kr/9226) | 도깨비말 | Bronze 2 | [Java](./09xxx/9226. 도깨비말/도깨비말.java) |
 | [09228](https://boj.kr/9228) | Check Digits | Bronze 2 | [Python](./09xxx/9228. Check Digits/Check Digits.py) |
 | [09229](https://boj.kr/9229) | 단어 사다리 | Bronze 1 | [Java](./09xxx/9229. 단어 사다리/단어 사다리.java) |
@@ -1836,6 +1837,7 @@
 | [10282](https://boj.kr/10282) | 해킹 | Gold 4 | [Java](./10xxx/10282. 해킹/해킹.java) |
 | [10312](https://boj.kr/10312) | Lodê | Bronze 2 | [Java](./10xxx/10312. Lodê/Lodê.java) |
 | [10321](https://boj.kr/10321) | 요새 건설 | Platinum 1 | [C++](./10xxx/10321. 요새 건설/요새 건설.cc) |
+| [10327](https://boj.kr/10327) | 피보나치 문제해결전략 | Platinum 3 | [C++](./10xxx/10327. 피보나치 문제해결전략/피보나치 문제해결전략.cc) |
 | [10347](https://boj.kr/10347) | Reverse Rot | Bronze 2 | [Java](./10xxx/10347. Reverse Rot/Reverse Rot.java) |
 | [10384](https://boj.kr/10384) | 팬그램 | Silver 5 | [Java](./10xxx/10384. 팬그램/팬그램.java) |
 | [10395](https://boj.kr/10395) | Automated Checking Machine | Bronze 3 | [Java](./10xxx/10395. Automated Checking Machine/Automated Checking Machine.java) |
@@ -5528,4 +5530,5 @@
 | [35368](https://boj.kr/35368) | Breakout | Bronze 3 | [C++](./35xxx/35368. Breakout/Breakout.cc) |
 | [35370](https://boj.kr/35370) | Memories of Passport Control | Bronze 4 | [C++](./35xxx/35370. Memories of Passport Control/Memories of Passport Control.cc) |
 | [35373](https://boj.kr/35373) | A Little Leftover Pizza | Bronze 3 | [C++](./35xxx/35373. A Little Leftover Pizza/A Little Leftover Pizza.cc) |
+| [35409](https://boj.kr/35409) | 제4회 디미고 프로그래밍 챌린지 | Bronze 4 | [C++](./35xxx/35409. 제4회 디미고 프로그래밍 챌린지/제4회 디미고 프로그래밍 챌린지.cc) |
 </div>
