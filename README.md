@@ -2730,6 +2730,7 @@
 | [14935](https://boj.kr/14935) | FA | Bronze 4 | [Java](./14xxx/14935.%E2%80%85FA/FA.java) |
 | [14938](https://boj.kr/14938) | 서강그라운드 | Gold 4 | [Java](./14xxx/14938. 서강그라운드/서강그라운드.java) |
 | [14940](https://boj.kr/14940) | 쉬운 최단거리 | Silver 1 | [Java](./14xxx/14940. 쉬운 최단거리/쉬운 최단거리.java) |
+| [14942](https://boj.kr/14942) | 개미 | Platinum 5 | [C++](./14xxx/14942. 개미/개미.cc) |
 | [14950](https://boj.kr/14950) | 정복자 | Gold 4 | [Java](./14xxx/14950. 정복자/정복자.java) |
 | [14954](https://boj.kr/14954) | Happy Number | Bronze 2 | [Java](./14xxx/14954. Happy Number/Happy Number.java) |
 | [14963](https://boj.kr/14963) | Cezar | Bronze 2 | [Java](./14xxx/14963. Cezar/Cezar.java) |
@@ -4469,7 +4470,7 @@
 | [28065](https://boj.kr/28065) | SW 수열 구하기 | Silver 4 | [C++](./28xxx/28065. SW 수열 구하기/SW 수열 구하기.cc) |
 | [28068](https://boj.kr/28068) | I Am Knowledge | Platinum 4 | [C++](./28xxx/28068. I Am Knowledge/I Am Knowledge.cc) |
 | [28074](https://boj.kr/28074) | 모비스 | Bronze 4 | [Java](./28xxx/28074. 모비스/모비스.java) |
-| [28078](https://boj.kr/28078) | 중력 큐 | Gold 5 | [C++](./28xxx/28078. 중력 큐/중력 큐.cc) |
+| [28078](https://boj.kr/28078) | 중력 큐 | Silver 1 | [C++](./28xxx/28078. 중력 큐/중력 큐.cc) |
 | [28088](https://boj.kr/28088) | 응애(EASY) | Silver 4 | [C++](./28xxx/28088. 응애（EASY）/응애（EASY）.cc) |
 | [28090](https://boj.kr/28090) | 특별한 한붓그리기 | Platinum 2 | [C++](./28xxx/28090. 특별한 한붓그리기/특별한 한붓그리기.cc) |
 | [28091](https://boj.kr/28091) | 사각형 분할 | Diamond 5 | [C++](./28xxx/28091. 사각형 분할/사각형 분할.cc) |
