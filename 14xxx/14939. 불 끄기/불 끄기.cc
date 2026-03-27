@@ -34,30 +34,30 @@ mt19937 rd((unsigned)chrono::steady_clock::now().time_since_epoch().count());
 uniform_int_distribution<int> rnd_int(0, 0); // rnd_int(rd)
 uniform_real_distribution<double> rnd_real(0, 1); // rnd_real(rd)
 
-bool chk[10][10];
+vector<bitset<10>> bits(11);
 int dx[] = {0, 0, 1, -1};
 int dy[] = {1, -1, 0, 0};
 
 void toggle(int x, int y) {
-    chk[x][y]=!chk[x][y];
+    bits[x][y].flip();
     for(int i=0;i<4;i++) {
         int nx=x+dx[i];
         int ny=y+dy[i];
-        if(nx<0 || nx>=10 || ny<0 || ny>=10) continue;
-        chk[nx][ny]=!chk[nx][ny];
+        if(nx<0 || nx>10 || ny<0 || ny>10) continue;
+        bits[nx][ny].flip();
     }
 }
 
-int back(int depth, int cnt) {
-    if(depth==10) {
+int back(int depth=1, int cnt=0) {
+    if(depth==11) {
         for(int i=0;i<10;i++) {
-            if(chk[9][i]) return INF;
+            if(bits[depth-1][i]) return INF;
         }
         return cnt;
     }
     vector<int> push;
     for(int i=0;i<10;i++) {
-        if(chk[depth-1][i]) {
+        if(bits[depth-1][i]) {
             cnt++;
             push.push_back(i);
             toggle(depth, i);
@@ -68,24 +68,18 @@ int back(int depth, int cnt) {
     return ret;
 }
 
-int init(int start, int cnt) {
-    int ret = back(1, cnt);
-    for(int i=start;i<10;i++) {
-        toggle(0, i);
-        ret = min(ret, init(i+1, cnt+1));
-        toggle(0, i);
-    }
-    return ret;
-}
-
 int main() {
     cin.tie(0)->sync_with_stdio(0);
-    for(int i=0;i<10;i++) {
+    for(int i=1;i<=10;i++) {
         string s; cin >> s;
         for(int j=0;j<10;j++) {
-            chk[i][j]=s[j]=='O';
+            bits[i][j]=s[j]=='O';
         }
     }
-    int res = init(0, 0);
+    int res=INF;
+    for(int i=0;i<(1<<10);i++) {
+        bits[0]=i;
+        res = min(res, back());
+    }
     cout << (res==INF ? -1 : res);
 }
