@@ -2729,6 +2729,7 @@
 | [14931](https://boj.kr/14931) | 물수제비 (SUJEBI) | Silver 1 | [Python](./14xxx/14931. 물수제비 （SUJEBI）/물수제비 （SUJEBI）.py) |
 | [14935](https://boj.kr/14935) | FA | Bronze 4 | [Java](./14xxx/14935.%E2%80%85FA/FA.java) |
 | [14938](https://boj.kr/14938) | 서강그라운드 | Gold 4 | [Java](./14xxx/14938. 서강그라운드/서강그라운드.java) |
+| [14939](https://boj.kr/14939) | 불 끄기 | Platinum 4 | [C++](./14xxx/14939. 불 끄기/불 끄기.cc) |
 | [14940](https://boj.kr/14940) | 쉬운 최단거리 | Silver 1 | [Java](./14xxx/14940. 쉬운 최단거리/쉬운 최단거리.java) |
 | [14942](https://boj.kr/14942) | 개미 | Platinum 5 | [C++](./14xxx/14942. 개미/개미.cc) |
 | [14950](https://boj.kr/14950) | 정복자 | Gold 4 | [Java](./14xxx/14950. 정복자/정복자.java) |
