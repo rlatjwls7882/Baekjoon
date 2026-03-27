@@ -15,6 +15,7 @@
 | [01003](https://boj.kr/1003) | 피보나치 함수 | Silver 3 | [Java](./01xxx/1003. 피보나치 함수/피보나치 함수.java) |
 | [01004](https://boj.kr/1004) | 어린 왕자 | Silver 3 | [C++](./01xxx/1004. 어린 왕자/어린 왕자.cc) |
 | [01005](https://boj.kr/1005) | ACM Craft | Gold 3 | [Java](./01xxx/1005. ACM Craft/ACM Craft.java) |
+| [01006](https://boj.kr/1006) | 습격자 초라기 | Platinum 3 | [C++](./01xxx/1006. 습격자 초라기/습격자 초라기.cc) |
 | [01008](https://boj.kr/1008) | A/B | Bronze 5 | [C++](./01xxx/1008. A／B/A／B.cc) [Java](./01xxx/1008. A／B/A／B.java) |
 | [01009](https://boj.kr/1009) | 분산처리 | Bronze 2 | [Java](./01xxx/1009. 분산처리/분산처리.java) |
 | [01010](https://boj.kr/1010) | 다리 놓기 | Silver 5 | [Java](./01xxx/1010. 다리 놓기/다리 놓기.java) |
