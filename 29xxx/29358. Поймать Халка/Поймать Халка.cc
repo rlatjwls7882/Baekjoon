@@ -42,14 +42,10 @@ int main() {
     for(int i=0;i<n;i++) cin >> a[i];
     for(int i=0;i<2*n;i++) cin >> b[i];
 
-    if(b[0]>b[n]) {
-        for(int i=0;i<n;i++) {
-            swap(b[i], b[i+n]);
-        }
-    }
-
     int cnt=0;
-    for(int i=0;i<n;i++) cnt+=b[i]!=0;
-    for(int i=0;i<n;i++) cnt+=b[i+n]<a[i];
+    for(int i=0;i<n;i++) {
+        if(min(b[i], b[i+n])!=0) cnt++;
+        if(max(b[i], b[i+n])<a[i]) cnt++;
+    }
     cout << cnt;
 }
