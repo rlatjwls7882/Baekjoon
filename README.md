@@ -3263,6 +3263,7 @@
 | [17509](https://boj.kr/17509) | And the Winner Is... Ourselves! | Silver 5 | [C++](./17xxx/17509. And the Winner Is．．． Ourselves！/And the Winner Is．．． Ourselves！.cc) |
 | [17520](https://boj.kr/17520) | Balanced String | Silver 5 | [C++](./17xxx/17520. Balanced String/Balanced String.cc) |
 | [17521](https://boj.kr/17521) | Byte Coin | Silver 4 | [C++](./17xxx/17521. Byte Coin/Byte Coin.cc) |
+| [17526](https://boj.kr/17526) | Star Trek | Diamond 5 | [C++](./17xxx/17526. Star Trek/Star Trek.cc) |
 | [17530](https://boj.kr/17530) | Buffoon | Bronze 3 | [Java](./17xxx/17530. Buffoon/Buffoon.java) |
 | [17548](https://boj.kr/17548) | Greetings! | Bronze 4 | [Java](./17xxx/17548. Greetings！/Greetings！.java) |
 | [17576](https://boj.kr/17576) | Last Word | Bronze 1 | [Java](./17xxx/17576. Last Word/Last Word.java) |
