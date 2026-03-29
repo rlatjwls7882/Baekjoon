@@ -101,6 +101,7 @@
 | [01210](https://boj.kr/1210) | 마피아 | Platinum 1 | [C++](./01xxx/1210. 마피아/마피아.cc) |
 | [01212](https://boj.kr/1212) | 8진수 2진수 | Bronze 2 | [Java](./01xxx/1212. 8진수 2진수/8진수 2진수.java) |
 | [01213](https://boj.kr/1213) | 팰린드롬 만들기 | Silver 3 | [Java](./01xxx/1213. 팰린드롬 만들기/팰린드롬 만들기.java) |
+| [01214](https://boj.kr/1214) | 쿨한 물건 구매 | Platinum 5 | [C++](./01xxx/1214. 쿨한 물건 구매/쿨한 물건 구매.cc) |
 | [01217](https://boj.kr/1217) | 하우스 M.D. | Platinum 4 | [C++](./01xxx/1217. 하우스 M．D．/하우스 M．D．.cc) |
 | [01225](https://boj.kr/1225) | 이상한 곱셈 | Bronze 2 | [Java](./01xxx/1225. 이상한 곱셈/이상한 곱셈.java) |
 | [01231](https://boj.kr/1231) | 주식왕 동호 | Platinum 5 | [C++](./01xxx/1231. 주식왕 동호/주식왕 동호.cc) |
@@ -4316,6 +4317,7 @@
 | [26863](https://boj.kr/26863) | Absolutely Flat | Bronze 3 | [Java](./26xxx/26863. Absolutely Flat/Absolutely Flat.java) |
 | [26884](https://boj.kr/26884) | Kent-buggen | Bronze 1 | [Java](./26xxx/26884. Kent－buggen/Kent－buggen.java) |
 | [26893](https://boj.kr/26893) | Tågstationer | Platinum 4 | [C++](./26xxx/26893. Tågstationer/Tågstationer.cc) |
+| [26904](https://boj.kr/26904) | Tågväxeln | Bronze 2 | [C++](./26xxx/26904. Tågväxeln/Tågväxeln.cc) |
 | [26906](https://boj.kr/26906) | Vikingahackare | Bronze 3 | [Java](./26xxx/26906. Vikingahackare/Vikingahackare.java) |
 | [26933](https://boj.kr/26933) | Receptet | Bronze 3 | [Java](./26xxx/26933. Receptet/Receptet.java) |
 | [26940](https://boj.kr/26940) | Chokladkartongen | Bronze 3 | [Java](./26xxx/26940. Chokladkartongen/Chokladkartongen.java) |
@@ -4589,6 +4591,7 @@
 | [29097](https://boj.kr/29097) | Короли | Bronze 4 | [C++](./29xxx/29097. Короли/Короли.cc) |
 | [29108](https://boj.kr/29108) | Логины | Bronze 3 | [Java](./29xxx/29108. Логины/Логины.java) |
 | [29133](https://boj.kr/29133) | Фома и занимательная математика | Bronze 3 | [C++](./29xxx/29133. Фома и занимательная математика/Фома и занимательная математика.cc) |
+| [29145](https://boj.kr/29145) | Можно и отдохнуть | Bronze 2 | [C++](./29xxx/29145. Можно и отдохнуть/Можно и отдохнуть.cc) |
 | [29153](https://boj.kr/29153) | 성게 밭 | Platinum 3 | [C++](./29xxx/29153. 성게 밭/성게 밭.cc) |
 | [29155](https://boj.kr/29155) | 개발자 지망생 구름이의 취업 뽀개기 | Silver 3 | [C++](./29xxx/29155. 개발자 지망생 구름이의 취업 뽀개기/개발자 지망생 구름이의 취업 뽀개기.cc) |
 | [29159](https://boj.kr/29159) | 케이크 두 개 | Silver 3 | [C++](./29xxx/29159. 케이크 두 개/케이크 두 개.cc) |
@@ -4601,6 +4604,7 @@
 | [29220](https://boj.kr/29220) | Свидание | Bronze 3 | [Java](./29xxx/29220. Свидание/Свидание.java) |
 | [29224](https://boj.kr/29224) | Мощь вампира | Silver 5 | [C++](./29xxx/29224. Мощь вампира/Мощь вампира.cc) |
 | [29267](https://boj.kr/29267) | Случай с игрой | Bronze 3 | [C++](./29xxx/29267. Случай с игрой/Случай с игрой.cc) |
+| [29271](https://boj.kr/29271) | Фильтр | Bronze 2 | [C++](./29xxx/29271. Фильтр/Фильтр.cc) |
 | [29283](https://boj.kr/29283) | Алекс и стейк | Bronze 3 | [C++](./29xxx/29283. Алекс и стейк/Алекс и стейк.cc) |
 | [29297](https://boj.kr/29297) | Футбол | Bronze 2 | [C++](./29xxx/29297. Футбол/Футбол.cc) |
 | [29308](https://boj.kr/29308) | Закат | Bronze 3 | [Java](./29xxx/29308. Закат/Закат.java) |
@@ -4610,6 +4614,8 @@
 | [29342](https://boj.kr/29342) | Война клонов | Bronze 2 | [C++](./29xxx/29342. Война клонов/Война клонов.cc) |
 | [29344](https://boj.kr/29344) | Спичрайтер Йоды | Bronze 2 | [C++](./29xxx/29344. Спичрайтер Йоды/Спичрайтер Йоды.cc) |
 | [29354](https://boj.kr/29354) | Завоеватель | Bronze 1 | [C++](./29xxx/29354. Завоеватель/Завоеватель.cc) |
+| [29358](https://boj.kr/29358) | Поймать Халка | Bronze 2 | [C++](./29xxx/29358. Поймать Халка/Поймать Халка.cc) |
+| [29363](https://boj.kr/29363) | Пишущая машинка | Bronze 2 | [C++](./29xxx/29363. Пишущая машинка/Пишущая машинка.cc) |
 | [29397](https://boj.kr/29397) | Шахматы | Bronze 1 | [C++](./29xxx/29397. Шахматы/Шахматы.cc) |
 | [29412](https://boj.kr/29412) | Огни светофора | Bronze 2 | [C++](./29xxx/29412. Огни светофора/Огни светофора.cc) |
 | [29454](https://boj.kr/29454) | Выражение | Bronze 3 | [Java](./29xxx/29454. Выражение/Выражение.java) |
@@ -4720,6 +4726,7 @@
 | [30067](https://boj.kr/30067) | Paslėpta suma | Bronze 4 | [Java](./30xxx/30067. Paslėpta suma/Paslėpta suma.java) |
 | [30068](https://boj.kr/30068) | Stovėjimo aikštelė | Bronze 2 | [Java](./30xxx/30068. Stovėjimo aikštelė/Stovėjimo aikštelė.java) |
 | [30075](https://boj.kr/30075) | Sveikas, Pasauli! | Bronze 2 | [Java](./30xxx/30075. Sveikas， Pasauli！/Sveikas， Pasauli！.java) |
+| [30077](https://boj.kr/30077) | Dviračių lenktynės | Bronze 2 | [C++](./30xxx/30077. Dviračių lenktynės/Dviračių lenktynės.cc) |
 | [30087](https://boj.kr/30087) | 진흥원 세미나 | Bronze 5 | [Java](./30xxx/30087. 진흥원 세미나/진흥원 세미나.java) |
 | [30088](https://boj.kr/30088) | 공포의 면담실 | Silver 5 | [C++](./30xxx/30088. 공포의 면담실/공포의 면담실.cc) |
 | [30089](https://boj.kr/30089) | 새로운 문자열 만들기 | Silver 4 | [C++](./30xxx/30089. 새로운 문자열 만들기/새로운 문자열 만들기.cc) |
