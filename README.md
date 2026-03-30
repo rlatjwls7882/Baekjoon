@@ -3800,6 +3800,7 @@
 | [23334](https://boj.kr/23334) | Olympic Ranking | Bronze 2 | [Java](./23xxx/23334. Olympic Ranking/Olympic Ranking.java) |
 | [23343](https://boj.kr/23343) | JavaScript | Bronze 3 | [Java](./23xxx/23343. JavaScript/JavaScript.java) |
 | [23348](https://boj.kr/23348) | 스트릿 코딩 파이터 | Bronze 3 | [Java](./23xxx/23348. 스트릿 코딩 파이터/스트릿 코딩 파이터.java) |
+| [23350](https://boj.kr/23350) | K 물류창고 | Silver 1 | [C++](./23xxx/23350. K 물류창고/K 물류창고.cc) |
 | [23351](https://boj.kr/23351) | 물 주기 | Silver 3 | [C++](./23xxx/23351. 물 주기/물 주기.cc) |
 | [23367](https://boj.kr/23367) | Dickensian Dictionary | Bronze 2 | [Java](./23xxx/23367. Dickensian Dictionary/Dickensian Dictionary.java) |
 | [23375](https://boj.kr/23375) | Arm Coordination | Bronze 3 | [Java](./23xxx/23375. Arm Coordination/Arm Coordination.java) |
@@ -5346,6 +5347,7 @@
 | [34068](https://boj.kr/34068) | 오디션 | Silver 3 | [C++](./34xxx/34068. 오디션/오디션.cc) |
 | [34071](https://boj.kr/34071) | 첫 번째 문제는 정말 쉬운 문제일까? | Bronze 4 | [C++](./34xxx/34071. 첫 번째 문제는 정말 쉬운 문제일까？/첫 번째 문제는 정말 쉬운 문제일까？.cc) |
 | [34073](https://boj.kr/34073) | DORO | Bronze 4 | [C++](./34xxx/34073. DORO/DORO.cc) |
+| [34075](https://boj.kr/34075) | 세그먼트 트리보다도 바･로･너･♡ | Silver 3 | [C++](./34xxx/34075. 세그먼트 트리보다도 바･로･너･♡/세그먼트 트리보다도 바･로･너･♡.cc) |
 | [34100](https://boj.kr/34100) | └┘ | Platinum 5 | [C++](./34xxx/34100. └┘/└┘.cc) |
 | [34115](https://boj.kr/34115) | 먼 카드 | Bronze 3 | [C++](./34xxx/34115. 먼 카드/먼 카드.cc) |
 | [34125](https://boj.kr/34125) | 래환이의 아이브 콘서트 이야기 | Bronze 3 | [C++](./34xxx/34125. 래환이의 아이브 콘서트 이야기/래환이의 아이브 콘서트 이야기.cc) |
@@ -5524,6 +5526,7 @@
 | [34977](https://boj.kr/34977) | 수미수열 | Bronze 1 | [C++](./34xxx/34977. 수미수열/수미수열.cc) |
 | [34980](https://boj.kr/34980) | 생수병 놓기 | Bronze 3 | [C++](./34xxx/34980. 생수병 놓기/생수병 놓기.cc) |
 | [34991](https://boj.kr/34991) | toycppartoon | Silver 2 | [C++](./34xxx/34991. toycppartoon/toycppartoon.cc) |
+| [34994](https://boj.kr/34994) | 괄호 조작하기 | Silver 3 | [C++](./34xxx/34994. 괄호 조작하기/괄호 조작하기.cc) |
 | [34998](https://boj.kr/34998) | 1, 2, 3, 많다! | Bronze 3 | [Python](./34xxx/34998. 1， 2， 3， 많다！/1， 2， 3， 많다！.py) |
 | [35030](https://boj.kr/35030) | 2026년이 기대되는 이유 | Silver 1 | [C++](./35xxx/35030. 2026년이 기대되는 이유/2026년이 기대되는 이유.cc) |
 | [35052](https://boj.kr/35052) | 끝내주는 분할 | Platinum 5 | [C++](./35xxx/35052. 끝내주는 분할/끝내주는 분할.cc) |
