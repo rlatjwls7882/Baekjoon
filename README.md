@@ -5556,4 +5556,6 @@
 | [35373](https://boj.kr/35373) | A Little Leftover Pizza | Bronze 3 | [C++](./35xxx/35373. A Little Leftover Pizza/A Little Leftover Pizza.cc) |
 | [35409](https://boj.kr/35409) | 제4회 디미고 프로그래밍 챌린지 | Bronze 4 | [C++](./35xxx/35409. 제4회 디미고 프로그래밍 챌린지/제4회 디미고 프로그래밍 챌린지.cc) |
 | [35423](https://boj.kr/35423) | SciComLove (2026) | Bronze 3 | [C++](./35xxx/35423. SciComLove （2026）/SciComLove （2026）.cc) |
+| [35453](https://boj.kr/35453) | Goodbye, ChAOS! | Bronze 2 | |
+| [35467](https://boj.kr/35467) | Swap-LIS | Silver 2 | |
 </div>
