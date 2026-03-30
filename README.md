@@ -1084,6 +1084,7 @@
 | [04779](https://boj.kr/4779) | 칸토어 집합 | Silver 3 | [Java](./04xxx/4779. 칸토어 집합/칸토어 집합.java) |
 | [04781](https://boj.kr/4781) | 사탕 가게 | Gold 4 | [C++](./04xxx/4781. 사탕 가게/사탕 가게.cc) |
 | [04787](https://boj.kr/4787) | Covered Walkway | Platinum 1 | [C++](./04xxx/4787. Covered Walkway/Covered Walkway.cc) |
+| [04792](https://boj.kr/4792) | 레드 블루 스패닝 트리 | Platinum 3 | [C++](./04xxx/4792. 레드 블루 스패닝 트리/레드 블루 스패닝 트리.cc) |
 | [04796](https://boj.kr/4796) | 캠핑 | Bronze 1 | [Java](./04xxx/4796. 캠핑/캠핑.java) |
 | [04803](https://boj.kr/4803) | 트리 | Gold 4 | [Java](./04xxx/4803. 트리/트리.java) |
 | [04806](https://boj.kr/4806) | 줄 세기 | Bronze 3 | [Java](./04xxx/4806. 줄 세기/줄 세기.java) |
@@ -2339,6 +2340,7 @@
 | [12944](https://boj.kr/12944) | 재미있는 숫자 놀이 | Gold 2 | [C++](./12xxx/12944. 재미있는 숫자 놀이/재미있는 숫자 놀이.cc) |
 | [12947](https://boj.kr/12947) | 트리 만들기 | Gold 4 | [C++](./12xxx/12947. 트리 만들기/트리 만들기.cc) |
 | [12956](https://boj.kr/12956) | 퍼레이드 | Gold 2 | [C++](./12xxx/12956. 퍼레이드/퍼레이드.cc) |
+| [12963](https://boj.kr/12963) | 달리기 | Platinum 3 | [C++](./12xxx/12963. 달리기/달리기.cc) |
 | [12966](https://boj.kr/12966) | 턴 게임 2 | Gold 2 | [C++](./12xxx/12966. 턴 게임 2/턴 게임 2.cc) |
 | [12970](https://boj.kr/12970) | AB | Gold 4 | [C++](./12xxx/12970. AB/AB.cc) |
 | [12986](https://boj.kr/12986) | 화려한 마을2 | Platinum 2 | [C++](./12xxx/12986. 화려한 마을2/화려한 마을2.cc) |
@@ -2459,6 +2461,7 @@
 | [13550](https://boj.kr/13550) | 수열과 쿼리 7 | Diamond 4 | [C++](./13xxx/13550. 수열과 쿼리 7/수열과 쿼리 7.cc) |
 | [13552](https://boj.kr/13552) | 구와 쿼리 | Bronze 1 | [C++](./13xxx/13552. 구와 쿼리/구와 쿼리.cc) |
 | [13553](https://boj.kr/13553) | 수열과 쿼리 8 | Platinum 1 | [C++](./13xxx/13553. 수열과 쿼리 8/수열과 쿼리 8.cc) |
+| [13554](https://boj.kr/13554) | 수열과 쿼리 9 | Diamond 4 | [C++](./13xxx/13554. 수열과 쿼리 9/수열과 쿼리 9.cc) |
 | [13555](https://boj.kr/13555) | 증가하는 부분 수열 | Platinum 4 | [C++](./13xxx/13555. 증가하는 부분 수열/증가하는 부분 수열.cc) |
 | [13565](https://boj.kr/13565) | 침투 | Silver 2 | [C++](./13xxx/13565. 침투/침투.cc) |
 | [13567](https://boj.kr/13567) | 로봇 | Silver 4 | [C++](./13xxx/13567. 로봇/로봇.cc) |
@@ -2618,6 +2621,7 @@
 | [14547](https://boj.kr/14547) | X X glued | Bronze 2 | [Java](./14xxx/14547. X X glued/X X glued.java) |
 | [14551](https://boj.kr/14551) | Card Game Contest | Bronze 2 | [Java](./14xxx/14551. Card Game Contest/Card Game Contest.java) |
 | [14557](https://boj.kr/14557) | Memory | Silver 3 | [C++](./14xxx/14557. Memory/Memory.cc) |
+| [14560](https://boj.kr/14560) | Communism | Platinum 1 | [C++](./14xxx/14560. Communism/Communism.cc) |
 | [14561](https://boj.kr/14561) | 회문 | Bronze 1 | [Java](./14xxx/14561. 회문/회문.java) |
 | [14563](https://boj.kr/14563) | 완전수 | Bronze 2 | [Java](./14xxx/14563. 완전수/완전수.java) |
 | [14564](https://boj.kr/14564) | 두부 게임 (Tofu Game) | Bronze 1 | [C++](./14xxx/14564. 두부 게임 （Tofu Game）/두부 게임 （Tofu Game）.cc) |
@@ -2625,6 +2629,7 @@
 | [14566](https://boj.kr/14566) | Dongjak N1 | Bronze 1 | [C++](./14xxx/14566. Dongjak N1/Dongjak N1.cc) |
 | [14567](https://boj.kr/14567) | 선수과목 (Prerequisite) | Gold 5 | [Java](./14xxx/14567. 선수과목 （Prerequisite）/선수과목 （Prerequisite）.java) |
 | [14568](https://boj.kr/14568) | 2017 연세대학교 프로그래밍 경시대회 | Bronze 3 | [Java](./14xxx/14568. 2017 연세대학교 프로그래밍 경시대회/2017 연세대학교 프로그래밍 경시대회.java) |
+| [14572](https://boj.kr/14572) | 스터디 그룹 | Platinum 5 | [C++](./14xxx/14572. 스터디 그룹/스터디 그룹.cc) |
 | [14577](https://boj.kr/14577) | 일기예보 | Platinum 3 | [C++](./14xxx/14577. 일기예보/일기예보.cc) |
 | [14579](https://boj.kr/14579) | 덧셈과 곱셈 | Bronze 3 | [Java](./14xxx/14579. 덧셈과 곱셈/덧셈과 곱셈.java) |
 | [14581](https://boj.kr/14581) | 팬들에게 둘러싸인 홍준 | Bronze 5 | [C](./14xxx/14581. 팬들에게 둘러싸인 홍준/팬들에게 둘러싸인 홍준.c) |
@@ -4592,7 +4597,7 @@
 | [29097](https://boj.kr/29097) | Короли | Bronze 4 | [C++](./29xxx/29097. Короли/Короли.cc) |
 | [29108](https://boj.kr/29108) | Логины | Bronze 3 | [Java](./29xxx/29108. Логины/Логины.java) |
 | [29133](https://boj.kr/29133) | Фома и занимательная математика | Bronze 3 | [C++](./29xxx/29133. Фома и занимательная математика/Фома и занимательная математика.cc) |
-| [29145](https://boj.kr/29145) | Можно и отдохнуть | Bronze 2 | [C++](./29xxx/29145. Можно и отдохнуть/Можно и отдохнуть.cc) |
+| [29145](https://boj.kr/29145) | Можно и отдохнуть | Bronze 3 | [C++](./29xxx/29145. Можно и отдохнуть/Можно и отдохнуть.cc) |
 | [29153](https://boj.kr/29153) | 성게 밭 | Platinum 3 | [C++](./29xxx/29153. 성게 밭/성게 밭.cc) |
 | [29155](https://boj.kr/29155) | 개발자 지망생 구름이의 취업 뽀개기 | Silver 3 | [C++](./29xxx/29155. 개발자 지망생 구름이의 취업 뽀개기/개발자 지망생 구름이의 취업 뽀개기.cc) |
 | [29159](https://boj.kr/29159) | 케이크 두 개 | Silver 3 | [C++](./29xxx/29159. 케이크 두 개/케이크 두 개.cc) |
