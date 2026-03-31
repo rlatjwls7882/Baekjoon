@@ -3609,6 +3609,7 @@
 | [21200](https://boj.kr/21200) | Forced Choice | Bronze 3 | [Java](./21xxx/21200. Forced Choice/Forced Choice.java) |
 | [21212](https://boj.kr/21212) | Cakes | Bronze 3 | [Java](./21xxx/21212. Cakes/Cakes.java) |
 | [21275](https://boj.kr/21275) | 폰 호석만 | Silver 2 | [C++](./21xxx/21275. 폰 호석만/폰 호석만.cc) |
+| [21276](https://boj.kr/21276) | 계보 복원가 호석 | Gold 2 | [C++](./21xxx/21276. 계보 복원가 호석/계보 복원가 호석.cc) |
 | [21278](https://boj.kr/21278) | 호석이 두 마리 치킨 | Gold 4 | [C++](./21xxx/21278. 호석이 두 마리 치킨/호석이 두 마리 치킨.cc) |
 | [21280](https://boj.kr/21280) | Förvirrad föreläsare | Bronze 3 | [Java](./21xxx/21280. Förvirrad föreläsare/Förvirrad föreläsare.java) |
 | [21287](https://boj.kr/21287) | Färgrobot | Bronze 1 | [C++](./21xxx/21287. Färgrobot/Färgrobot.cc) |
@@ -5538,6 +5539,7 @@
 | [35143](https://boj.kr/35143) | $2026$ | Silver 5 | [C++](./35xxx/35143. $2026$/$2026$.cc) |
 | [35146](https://boj.kr/35146) | $02493$ | Silver 5 | [C++](./35xxx/35146. $02493$/$02493$.cc) |
 | [35149](https://boj.kr/35149) | NEMODEMIC | Bronze 2 | [C++](./35xxx/35149. NEMODEMIC/NEMODEMIC.cc) |
+| [35160](https://boj.kr/35160) | 명사수 | Platinum 5 | [C++](./35xxx/35160. 명사수/명사수.cc) |
 | [35162](https://boj.kr/35162) | KCPC 스티커 만들기 | Gold 5 | [C++](./35xxx/35162. KCPC 스티커 만들기/KCPC 스티커 만들기.cc) |
 | [35184](https://boj.kr/35184) | 수돗물과 게 임 | Gold 2 | [C++](./35xxx/35184. 수돗물과 게 임/수돗물과 게 임.cc) |
 | [35185](https://boj.kr/35185) | 바바와 깃발 게임 | Gold 2 | [C++](./35xxx/35185. 바바와 깃발 게임/바바와 깃발 게임.cc) |
