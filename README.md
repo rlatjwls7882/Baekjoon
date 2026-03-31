@@ -71,6 +71,7 @@
 | [01107](https://boj.kr/1107) | 리모컨 | Gold 4 | [C++](./01xxx/1107. 리모컨/리모컨.cc) |
 | [01110](https://boj.kr/1110) | 더하기 사이클 | Bronze 1 | [Java](./01xxx/1110. 더하기 사이클/더하기 사이클.java) |
 | [01115](https://boj.kr/1115) | 순열 | Gold 1 | [C++](./01xxx/1115. 순열/순열.cc) |
+| [01119](https://boj.kr/1119) | 그래프 | Gold 1 | [C++](./01xxx/1119. 그래프/그래프.cc) |
 | [01120](https://boj.kr/1120) | 문자열 | Silver 4 | [C++](./01xxx/1120. 문자열/문자열.cc) |
 | [01124](https://boj.kr/1124) | 언더프라임 | Silver 1 | [C++](./01xxx/1124. 언더프라임/언더프라임.cc) |
 | [01138](https://boj.kr/1138) | 한 줄로 서기 | Silver 2 | [C++](./01xxx/1138. 한 줄로 서기/한 줄로 서기.cc) |
@@ -881,6 +882,7 @@
 | [03095](https://boj.kr/3095) | 플러스의 개수 | Gold 4 | [C++](./03xxx/3095. 플러스의 개수/플러스의 개수.cc) |
 | [03097](https://boj.kr/3097) | 산책 경로 | Silver 4 | [C++](./03xxx/3097. 산책 경로/산책 경로.cc) |
 | [03107](https://boj.kr/3107) | IPv6 | Silver 1 | [C++](./03xxx/3107. IPv6/IPv6.cc) |
+| [03117](https://boj.kr/3117) | YouTube | Gold 1 | [C++](./03xxx/3117. YouTube/YouTube.cc) |
 | [03135](https://boj.kr/3135) | 라디오 | Silver 5 | [Java](./03xxx/3135. 라디오/라디오.java) |
 | [03145](https://boj.kr/3145) | 지리지도 | Platinum 4 | [C++](./03xxx/3145. 지리지도/지리지도.cc) |
 | [03152](https://boj.kr/3152) | 예쁜 숫자 | Gold 5 | [C++](./03xxx/3152. 예쁜 숫자/예쁜 숫자.cc) |
@@ -1357,7 +1359,7 @@
 | [06603](https://boj.kr/6603) | 로또 | Silver 2 | [Java](./06xxx/6603. 로또/로또.java) |
 | [06609](https://boj.kr/6609) | 모기곱셈 | Bronze 2 | [Python](./06xxx/6609. 모기곱셈/모기곱셈.py) |
 | [06679](https://boj.kr/6679) | 싱기한 네자리 숫자 | Bronze 2 | [Java](./06xxx/6679. 싱기한 네자리 숫자/싱기한 네자리 숫자.java) |
-| [06693](https://boj.kr/6693) | Complicated Route | Bronze 2 | [Python](./06xxx/6693. Complicated Route/Complicated Route.py) |
+| [06693](https://boj.kr/6693) | Complicated Route | Bronze 1 | [Python](./06xxx/6693. Complicated Route/Complicated Route.py) |
 | [06696](https://boj.kr/6696) | Too Much Water | Bronze 1 | [Java](./06xxx/6696. Too Much Water/Too Much Water.java) |
 | [06721](https://boj.kr/6721) | Backward numbers | Bronze 3 | [Java](./06xxx/6721. Backward numbers/Backward numbers.java) |
 | [06736](https://boj.kr/6736) | The Idiot of the Year Contest! | Bronze 2 | [Java](./06xxx/6736. The Idiot of the Year Contest！/The Idiot of the Year Contest！.java) |
