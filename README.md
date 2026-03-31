@@ -443,6 +443,7 @@
 | [02010](https://boj.kr/2010) | 플러그 | Bronze 3 | [Java](./02xxx/2010. 플러그/플러그.java) |
 | [02011](https://boj.kr/2011) | 암호코드 | Gold 5 | [C++](./02xxx/2011. 암호코드/암호코드.cc) |
 | [02012](https://boj.kr/2012) | 등수 매기기 | Silver 3 | [C++](./02xxx/2012. 등수 매기기/등수 매기기.cc) |
+| [02014](https://boj.kr/2014) | 소수의 곱 | Gold 1 | [C++](./02xxx/2014. 소수의 곱/소수의 곱.cc) |
 | [02015](https://boj.kr/2015) | 수들의 합 4 | Gold 4 | [C++](./02xxx/2015. 수들의 합 4/수들의 합 4.cc) |
 | [02016](https://boj.kr/2016) | 미팅 주선하기 | Gold 4 | [C++](./02xxx/2016. 미팅 주선하기/미팅 주선하기.cc) |
 | [02018](https://boj.kr/2018) | 수들의 합 5 | Silver 5 | [Java](./02xxx/2018. 수들의 합 5/수들의 합 5.java) |
@@ -3854,6 +3855,7 @@
 | [23832](https://boj.kr/23832) | 서로소 그래프 | Gold 1 | [C++](./23xxx/23832. 서로소 그래프/서로소 그래프.cc) |
 | [23835](https://boj.kr/23835) | 어떤 우유의 배달목록 (Easy) | Gold 4 | [C++](./23xxx/23835. 어떤 우유의 배달목록 （Easy）/어떤 우유의 배달목록 （Easy）.cc) |
 | [23841](https://boj.kr/23841) | 데칼코마니 | Bronze 1 | [Java](./23xxx/23841. 데칼코마니/데칼코마니.java) |
+| [23843](https://boj.kr/23843) | 콘센트 | Gold 5 | [C++](./23xxx/23843. 콘센트/콘센트.cc) |
 | [23848](https://boj.kr/23848) | 등비수열의 합 | Gold 3 | [C++](./23xxx/23848. 등비수열의 합/등비수열의 합.cc) |
 | [23854](https://boj.kr/23854) | The Battle of Giants | Bronze 2 | [Java](./23xxx/23854. The Battle of Giants/The Battle of Giants.java) |
 | [23859](https://boj.kr/23859) | Snowman | Bronze 1 | [C++](./23xxx/23859. Snowman/Snowman.cc) |
@@ -5561,5 +5563,7 @@
 | [35409](https://boj.kr/35409) | 제4회 디미고 프로그래밍 챌린지 | Bronze 4 | [C++](./35xxx/35409. 제4회 디미고 프로그래밍 챌린지/제4회 디미고 프로그래밍 챌린지.cc) |
 | [35423](https://boj.kr/35423) | SciComLove (2026) | Bronze 3 | [C++](./35xxx/35423. SciComLove （2026）/SciComLove （2026）.cc) |
 | [35453](https://boj.kr/35453) | Goodbye, ChAOS! | Bronze 2 | |
-| [35467](https://boj.kr/35467) | Swap-LIS | Silver 2 | |
+| [35455](https://boj.kr/35455) | 10002221점 | Bronze 3 | [C++](./35xxx/35455. 10002221점/10002221점.cc) |
+| [35467](https://boj.kr/35467) | Swap-LIS | Silver 2 | [C++](./35xxx/35467. Swap－LIS/Swap－LIS.cc) |
+| [35479](https://boj.kr/35479) | 루미의 진정한™ 보라색 찾기 2 | Bronze 4 | [C++](./35xxx/35479. 루미의 진정한™ 보라색 찾기 2/루미의 진정한™ 보라색 찾기 2.cc) |
 </div>
