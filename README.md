@@ -2401,6 +2401,7 @@
 | [13268](https://boj.kr/13268) | 셔틀런 | Silver 3 | [C++](./13xxx/13268. 셔틀런/셔틀런.cc) |
 | [13270](https://boj.kr/13270) | 피보나치 치킨 | Silver 2 | [C++](./13xxx/13270. 피보나치 치킨/피보나치 치킨.cc) |
 | [13274](https://boj.kr/13274) | 수열 | Silver 3 | [C++](./13xxx/13274. 수열/수열.cc) |
+| [13275](https://boj.kr/13275) | 가장 긴 팰린드롬 부분 문자열 | Platinum 5 | [C++](./13xxx/13275. 가장 긴 팰린드롬 부분 문자열/가장 긴 팰린드롬 부분 문자열.cc) |
 | [13277](https://boj.kr/13277) | 큰 수 곱셈 | Bronze 5 | [Java](./13xxx/13277. 큰 수 곱셈/큰 수 곱셈.java) |
 | [13280](https://boj.kr/13280) | Selection of Participants of an Experiment | Bronze 2 | [C++](./13xxx/13280. Selection of Participants of an Experiment/Selection of Participants of an Experiment.cc) |
 | [13288](https://boj.kr/13288) | A New Alphabet | Bronze 2 | [Java](./13xxx/13288. A New Alphabet/A New Alphabet.java) |
@@ -2583,6 +2584,7 @@
 | [14433](https://boj.kr/14433) | 한조 대기 중 | Platinum 4 | [C++](./14xxx/14433. 한조 대기 중/한조 대기 중.cc) |
 | [14438](https://boj.kr/14438) | 수열과 쿼리 17 | Gold 1 | [C++](./14xxx/14438. 수열과 쿼리 17/수열과 쿼리 17.cc) |
 | [14442](https://boj.kr/14442) | 벽 부수고 이동하기 2 | Gold 3 | [C++](./14xxx/14442. 벽 부수고 이동하기 2/벽 부수고 이동하기 2.cc) |
+| [14444](https://boj.kr/14444) | 가장 긴 팰린드롬 부분 문자열 | Platinum 5 | [C++](./14xxx/14444. 가장 긴 팰린드롬 부분 문자열/가장 긴 팰린드롬 부분 문자열.cc) |
 | [14449](https://boj.kr/14449) | Balanced Photo | Platinum 5 | [C++](./14xxx/14449. Balanced Photo/Balanced Photo.cc) |
 | [14456](https://boj.kr/14456) | Hoof, Paper, Scissors (Bronze) | Bronze 1 | [C++](./14xxx/14456. Hoof， Paper， Scissors （Bronze）/Hoof， Paper， Scissors （Bronze）.cc) |
 | [14461](https://boj.kr/14461) | 소가 길을 건너간 이유 7 | Gold 2 | [C++](./14xxx/14461. 소가 길을 건너간 이유 7/소가 길을 건너간 이유 7.cc) |
