@@ -1457,6 +1457,7 @@
 | [07420](https://boj.kr/7420) | 맹독 방벽 | Platinum 4 | [C++](./07xxx/7420. 맹독 방벽/맹독 방벽.cc) |
 | [07432](https://boj.kr/7432) | 디스크 트리 | Gold 3 | [C++](./07xxx/7432. 디스크 트리/디스크 트리.cc) |
 | [07453](https://boj.kr/7453) | 합이 0인 네 정수 | Gold 2 | [C++](./07xxx/7453. 합이 0인 네 정수/합이 0인 네 정수.cc) |
+| [07466](https://boj.kr/7466) | Honey and Milk Land | Bronze 1 | [C++](./07xxx/7466. Honey and Milk Land/Honey and Milk Land.cc) |
 | [07469](https://boj.kr/7469) | K번째 수 | Platinum 2 | [C++](./07xxx/7469. K번째 수/K번째 수.cc) |
 | [07480](https://boj.kr/7480) | Key Insertion | Diamond 5 | [C++](./07xxx/7480. Key Insertion/Key Insertion.cc) |
 | [07482](https://boj.kr/7482) | 상자 만들기 | Silver 5 | [Java](./07xxx/7482. 상자 만들기/상자 만들기.java) |
@@ -4104,6 +4105,7 @@
 | [25425](https://boj.kr/25425) | 운동회 | Silver 5 | [Java](./25xxx/25425. 운동회/운동회.java) |
 | [25426](https://boj.kr/25426) | 일차함수들 | Silver 4 | [C++](./25xxx/25426. 일차함수들/일차함수들.cc) |
 | [25456](https://boj.kr/25456) | 궁금한 시프트 | Platinum 1 | [C++](./25xxx/25456. 궁금한 시프트/궁금한 시프트.cc) |
+| [25487](https://boj.kr/25487) | 단순한 문제 (Large) | Silver 3 | [C++](./25xxx/25487. 단순한 문제 （Large）/단순한 문제 （Large）.cc) |
 | [25494](https://boj.kr/25494) | 단순한 문제 (Small) | Bronze 4 | [C](./25xxx/25494. 단순한 문제 （Small）/단순한 문제 （Small）.c) |
 | [25495](https://boj.kr/25495) | 에어팟 | Bronze 2 | [Java](./25xxx/25495. 에어팟/에어팟.java) |
 | [25496](https://boj.kr/25496) | 장신구 명장 임스 | Silver 5 | [Java](./25xxx/25496. 장신구 명장 임스/장신구 명장 임스.java) |
@@ -4831,6 +4833,7 @@
 | [30716](https://boj.kr/30716) | Дети и буквы | Bronze 2 | [Java](./30xxx/30716. Дети и буквы/Дети и буквы.java) |
 | [30767](https://boj.kr/30767) | Dungeons & Dragons | Bronze 2 | [Java](./30xxx/30767. Dungeons ＆ Dragons/Dungeons ＆ Dragons.java) |
 | [30775](https://boj.kr/30775) | Рассадка | Bronze 3 | [Java](./30xxx/30775. Рассадка/Рассадка.java) |
+| [30786](https://boj.kr/30786) | 홀수 찾아 삼만리 | Silver 1 | [C++](./30xxx/30786. 홀수 찾아 삼만리/홀수 찾아 삼만리.cc) |
 | [30791](https://boj.kr/30791) | gahui and sousenkyo 1 | Bronze 4 | [Java](./30xxx/30791. gahui and sousenkyo 1/gahui and sousenkyo 1.java) |
 | [30792](https://boj.kr/30792) | gahui and sousenkyo 2 | Bronze 3 | [Java](./30xxx/30792. gahui and sousenkyo 2/gahui and sousenkyo 2.java) |
 | [30793](https://boj.kr/30793) | gahui and sousenkyo 3 | Bronze 4 | [Java](./30xxx/30793. gahui and sousenkyo 3/gahui and sousenkyo 3.java) |
@@ -5051,6 +5054,7 @@
 | [32142](https://boj.kr/32142) | 서바이벌 | Silver 3 | [C++](./32xxx/32142. 서바이벌/서바이벌.cc) |
 | [32154](https://boj.kr/32154) | SUAPC 2024 Winter | Bronze 5 | [Java](./32xxx/32154. SUAPC 2024 Winter/SUAPC 2024 Winter.java) |
 | [32158](https://boj.kr/32158) | SWAPC | Bronze 1 | [C++](./32xxx/32158. SWAPC/SWAPC.cc) |
+| [32160](https://boj.kr/32160) | 숫자 놀이 | Silver 1 | [C++](./32xxx/32160. 숫자 놀이/숫자 놀이.cc) |
 | [32171](https://boj.kr/32171) | 울타리 공사 | Bronze 2 | [C++](./32xxx/32171. 울타리 공사/울타리 공사.cc) |
 | [32172](https://boj.kr/32172) | 현권이와 신기한 수열 | Silver 5 | [Java](./32xxx/32172. 현권이와 신기한 수열/현권이와 신기한 수열.java) |
 | [32174](https://boj.kr/32174) | 조커 찾기 2 | Silver 3 | [C++](./32xxx/32174. 조커 찾기 2/조커 찾기 2.cc) |
