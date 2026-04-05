@@ -1621,7 +1621,7 @@
 | [09161](https://boj.kr/9161) | Sir Bedavere’s Bogus Division Solutions | Bronze 3 | [Java](./09xxx/9161. Sir Bedavere’s Bogus Division Solutions/Sir Bedavere’s Bogus Division Solutions.java) |
 | [09169](https://boj.kr/9169) | 나는 9999번 문제를 풀 수 있다 | Platinum 2 | [C++](./09xxx/9169. 나는 9999번 문제를 풀 수 있다/나는 9999번 문제를 풀 수 있다.cc) |
 | [09176](https://boj.kr/9176) | 메르센 합성수 | Gold 4 | [C++](./09xxx/9176. 메르센 합성수/메르센 합성수.cc) |
-| [09182](https://boj.kr/9182) | Biorhythms | Bronze 2 | [C++](./09xxx/9182. Biorhythms/Biorhythms.cc) |
+| [09182](https://boj.kr/9182) | Biorhythms | Bronze 1 | [C++](./09xxx/9182. Biorhythms/Biorhythms.cc) |
 | [09184](https://boj.kr/9184) | 신나는 함수 실행 | Silver 2 | [C++](./09xxx/9184. 신나는 함수 실행/신나는 함수 실행.cc) |
 | [09186](https://boj.kr/9186) | The Same Game | Gold 4 | [C++](./09xxx/9186. The Same Game/The Same Game.cc) |
 | [09196](https://boj.kr/9196) | 정수 직사각형 | Silver 5 | [C++](./09xxx/9196. 정수 직사각형/정수 직사각형.cc) |
@@ -4054,6 +4054,7 @@
 | [25084](https://boj.kr/25084) | Infinity Area | Bronze 3 | [Java](./25xxx/25084. Infinity Area/Infinity Area.java) |
 | [25088](https://boj.kr/25088) | Punched Cards | Bronze 2 | [Java](./25xxx/25088. Punched Cards/Punched Cards.java) |
 | [25099](https://boj.kr/25099) | Anagram | Silver 3 | [C++](./25xxx/25099. Anagram/Anagram.cc) |
+| [25114](https://boj.kr/25114) | Sequence Conversion | Silver 3 | [C++](./25xxx/25114. Sequence Conversion/Sequence Conversion.cc) |
 | [25165](https://boj.kr/25165) | 영리한 아리의 포탈 타기 | Bronze 2 | [Java](./25xxx/25165. 영리한 아리의 포탈 타기/영리한 아리의 포탈 타기.java) |
 | [25166](https://boj.kr/25166) | 배고픈 아리의 샌드위치 구매하기 | Bronze 1 | [Java](./25xxx/25166. 배고픈 아리의 샌드위치 구매하기/배고픈 아리의 샌드위치 구매하기.java) |
 | [25174](https://boj.kr/25174) | 힘겨운 쿠기의 식당 개업기 | Gold 3 | [C++](./25xxx/25174. 힘겨운 쿠기의 식당 개업기/힘겨운 쿠기의 식당 개업기.cc) |
@@ -5324,6 +5325,7 @@
 | [33898](https://boj.kr/33898) | HEPC1 | Bronze 1 | [C++](./33xxx/33898. HEPC1/HEPC1.cc) |
 | [33900](https://boj.kr/33900) | 캠핑장 부지 평탄화 | Silver 4 | [C++](./33xxx/33900. 캠핑장 부지 평탄화/캠핑장 부지 평탄화.cc) |
 | [33901](https://boj.kr/33901) | OR이 아니면? XOR | Silver 1 | [C++](./33xxx/33901. OR이 아니면？ XOR/OR이 아니면？ XOR.cc) |
+| [33904](https://boj.kr/33904) | 불필요한 for문 | Silver 4 | [Java](./33xxx/33904. 불필요한 for문/불필요한 for문.java) |
 | [33909](https://boj.kr/33909) | 알파벳 블록 | Bronze 3 | [C++](./33xxx/33909. 알파벳 블록/알파벳 블록.cc) |
 | [33912](https://boj.kr/33912) | N거리 건너기 | Silver 2 | [C++](./33xxx/33912. N거리 건너기/N거리 건너기.cc) |
 | [33918](https://boj.kr/33918) | 맛있는 스콘 만들기 | Platinum 3 | [C++](./33xxx/33918. 맛있는 스콘 만들기/맛있는 스콘 만들기.cc) |
@@ -5368,6 +5370,7 @@
 | [34071](https://boj.kr/34071) | 첫 번째 문제는 정말 쉬운 문제일까? | Bronze 4 | [C++](./34xxx/34071. 첫 번째 문제는 정말 쉬운 문제일까？/첫 번째 문제는 정말 쉬운 문제일까？.cc) |
 | [34073](https://boj.kr/34073) | DORO | Bronze 4 | [C++](./34xxx/34073. DORO/DORO.cc) |
 | [34075](https://boj.kr/34075) | 세그먼트 트리보다도 바･로･너･♡ | Silver 3 | [C++](./34xxx/34075. 세그먼트 트리보다도 바･로･너･♡/세그먼트 트리보다도 바･로･너･♡.cc) |
+| [34077](https://boj.kr/34077) | 폴카의 수학 공부 | Silver 2 | [C++](./34xxx/34077. 폴카의 수학 공부/폴카의 수학 공부.cc) |
 | [34100](https://boj.kr/34100) | └┘ | Platinum 5 | [C++](./34xxx/34100. └┘/└┘.cc) |
 | [34115](https://boj.kr/34115) | 먼 카드 | Bronze 3 | [C++](./34xxx/34115. 먼 카드/먼 카드.cc) |
 | [34125](https://boj.kr/34125) | 래환이의 아이브 콘서트 이야기 | Bronze 3 | [C++](./34xxx/34125. 래환이의 아이브 콘서트 이야기/래환이의 아이브 콘서트 이야기.cc) |
