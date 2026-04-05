@@ -1335,7 +1335,7 @@
 | [06360](https://boj.kr/6360) | L-I-N-G-O: LINGO | Gold 4 | [C++](./06xxx/6360. L－I－N－G－O： LINGO/L－I－N－G－O： LINGO.cc) |
 | [06376](https://boj.kr/6376) | e 계산 | Bronze 2 | [Java](./06xxx/6376. e 계산/e 계산.java) |
 | [06378](https://boj.kr/6378) | 디지털 루트 | Bronze 3 | [Java](./06xxx/6378. 디지털 루트/디지털 루트.java) |
-| [06436](https://boj.kr/6436) | Floppies | Bronze 2 | [Java](./06xxx/6436. Floppies/Floppies.java) |
+| [06436](https://boj.kr/6436) | Floppies | Bronze 3 | [Java](./06xxx/6436. Floppies/Floppies.java) |
 | [06437](https://boj.kr/6437) | Golf | Bronze 3 | [Java](./06xxx/6437. Golf/Golf.java) |
 | [06438](https://boj.kr/6438) | Reverse Text | Bronze 3 | [Java](./06xxx/6438. Reverse Text/Reverse Text.java) |
 | [06443](https://boj.kr/6443) | 애너그램 | Gold 5 | [C++](./06xxx/6443. 애너그램/애너그램.cc) |
@@ -1547,7 +1547,7 @@
 | [08635](https://boj.kr/8635) | Zliczacz liter | Bronze 2 | [Java](./08xxx/8635. Zliczacz liter/Zliczacz liter.java) |
 | [08638](https://boj.kr/8638) | Zwycięzcy | Bronze 3 | [Java](./08xxx/8638. Zwycięzcy/Zwycięzcy.java) |
 | [08658](https://boj.kr/8658) | Liczba | Bronze 3 | [Java](./08xxx/8658. Liczba/Liczba.java) |
-| [08661](https://boj.kr/8661) | Stopki | Bronze 2 | [Java](./08xxx/8661. Stopki/Stopki.java) |
+| [08661](https://boj.kr/8661) | Stopki | Bronze 3 | [Java](./08xxx/8661. Stopki/Stopki.java) |
 | [08663](https://boj.kr/8663) | Konik polny | Bronze 2 | [Java](./08xxx/8663. Konik polny/Konik polny.java) |
 | [08668](https://boj.kr/8668) | Konik polny 2 | Bronze 1 | [Java](./08xxx/8668. Konik polny 2/Konik polny 2.java) |
 | [08669](https://boj.kr/8669) | Las | Bronze 2 | [Java](./08xxx/8669. Las/Las.java) |
@@ -2518,7 +2518,7 @@
 | [13908](https://boj.kr/13908) | 비밀번호 | Silver 2 | [C++](./13xxx/13908. 비밀번호/비밀번호.cc) |
 | [13909](https://boj.kr/13909) | 창문 닫기 | Silver 5 | [Java](./13xxx/13909. 창문 닫기/창문 닫기.java) |
 | [13913](https://boj.kr/13913) | 숨바꼭질 4 | Gold 4 | [C++](./13xxx/13913. 숨바꼭질 4/숨바꼭질 4.cc) |
-| [13925](https://boj.kr/13925) | 수열과 쿼리 13 | Diamond 5 | [C++](./13xxx/13925. 수열과 쿼리 13/수열과 쿼리 13.cc) |
+| [13925](https://boj.kr/13925) | 수열과 쿼리 13 | Platinum 1 | [C++](./13xxx/13925. 수열과 쿼리 13/수열과 쿼리 13.cc) |
 | [13939](https://boj.kr/13939) | Imena | Bronze 2 | [Java](./13xxx/13939. Imena/Imena.java) |
 | [13976](https://boj.kr/13976) | 타일 채우기 2 | Platinum 5 | [C++](./13xxx/13976. 타일 채우기 2/타일 채우기 2.cc) |
 | [13977](https://boj.kr/13977) | 이항 계수와 쿼리 | Platinum 5 | [C++](./13xxx/13977. 이항 계수와 쿼리/이항 계수와 쿼리.cc) |
@@ -5130,6 +5130,7 @@
 | [32399](https://boj.kr/32399) | 햄버거 정렬 | Bronze 3 | [C++](./32xxx/32399. 햄버거 정렬/햄버거 정렬.cc) |
 | [32400](https://boj.kr/32400) | 다트판 | Bronze 2 | [C++](./32xxx/32400. 다트판/다트판.cc) |
 | [32401](https://boj.kr/32401) | ANA는 회문이야 | Bronze 2 | [C++](./32xxx/32401. ANA는 회문이야/ANA는 회문이야.cc) |
+| [32402](https://boj.kr/32402) | TPS | Silver 2 | [C++](./32xxx/32402. TPS/TPS.cc) |
 | [32403](https://boj.kr/32403) | 전구 주기 맞추기 | Silver 5 | [C++](./32xxx/32403. 전구 주기 맞추기/전구 주기 맞추기.cc) |
 | [32404](https://boj.kr/32404) | 일이 커졌어 | Gold 5 | [C++](./32xxx/32404. 일이 커졌어/일이 커졌어.cc) |
 | [32432](https://boj.kr/32432) | Attention to the Meeting | Bronze 3 | [C++](./32xxx/32432. Attention to the Meeting/Attention to the Meeting.cc) |
@@ -5266,6 +5267,7 @@
 | [33520](https://boj.kr/33520) | 초코바 만들기 | Silver 5 | [C++](./33xxx/33520. 초코바 만들기/초코바 만들기.cc) |
 | [33526](https://boj.kr/33526) | Anti-Fan Death | Silver 2 | [C++](./33xxx/33526. Anti－Fan Death/Anti－Fan Death.cc) |
 | [33528](https://boj.kr/33528) | Alphabetic Shift | Bronze 3 | [C++](./33xxx/33528. Alphabetic Shift/Alphabetic Shift.cc) |
+| [33534](https://boj.kr/33534) | Hungry Wolves | Bronze 2 | [C++](./33xxx/33534. Hungry Wolves/Hungry Wolves.cc) |
 | [33538](https://boj.kr/33538) | Crawling | Bronze 3 | [C++](./33xxx/33538. Crawling/Crawling.cc) |
 | [33541](https://boj.kr/33541) | 2025는 무엇이 특별할까? | Bronze 3 | [C++](./33xxx/33541. 2025는 무엇이 특별할까？/2025는 무엇이 특별할까？.cc) |
 | [33556](https://boj.kr/33556) | Java String Equals | Bronze 1 | [C++](./33xxx/33556. Java String Equals/Java String Equals.cc) |
