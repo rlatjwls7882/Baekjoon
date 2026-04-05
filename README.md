@@ -2620,6 +2620,7 @@
 | [14501](https://boj.kr/14501) | 퇴사 | Silver 3 | [Java](./14xxx/14501. 퇴사/퇴사.java) |
 | [14502](https://boj.kr/14502) | 연구소 | Gold 4 | [C++](./14xxx/14502. 연구소/연구소.cc) |
 | [14503](https://boj.kr/14503) | 로봇 청소기 | Gold 5 | [C++](./14xxx/14503. 로봇 청소기/로봇 청소기.cc) |
+| [14504](https://boj.kr/14504) | 수열과 쿼리 18 | Diamond 5 | [C++](./14xxx/14504. 수열과 쿼리 18/수열과 쿼리 18.cc) |
 | [14517](https://boj.kr/14517) | 팰린드롬 개수 구하기 (Large) | Platinum 5 | [C++](./14xxx/14517. 팰린드롬 개수 구하기 （Large）/팰린드롬 개수 구하기 （Large）.cc) |
 | [14530](https://boj.kr/14530) | The Lost Cow | Bronze 2 | [Java](./14xxx/14530. The Lost Cow/The Lost Cow.java) |
 | [14534](https://boj.kr/14534) | String Permutation | Silver 4 | [Java](./14xxx/14534. String Permutation/String Permutation.java) |
@@ -3254,6 +3255,7 @@
 | [17404](https://boj.kr/17404) | RGB거리 2 | Gold 4 | [C++](./17xxx/17404. RGB거리 2/RGB거리 2.cc) |
 | [17408](https://boj.kr/17408) | 수열과 쿼리 24 | Platinum 4 | [C++](./17xxx/17408. 수열과 쿼리 24/수열과 쿼리 24.cc) |
 | [17409](https://boj.kr/17409) | 증가 수열의 개수 | Platinum 4 | [C++](./17xxx/17409. 증가 수열의 개수/증가 수열의 개수.cc) |
+| [17410](https://boj.kr/17410) | 수열과 쿼리 1.5 | Diamond 5 | [C++](./17xxx/17410. 수열과 쿼리 1．5/수열과 쿼리 1．5.cc) |
 | [17412](https://boj.kr/17412) | 도시 왕복하기 1 | Platinum 4 | [C++](./17xxx/17412. 도시 왕복하기 1/도시 왕복하기 1.cc) |
 | [17413](https://boj.kr/17413) | 단어 뒤집기 2 | Silver 3 | [Java](./17xxx/17413. 단어 뒤집기 2/단어 뒤집기 2.java) |
 | [17419](https://boj.kr/17419) | 비트가 넘쳐흘러 | Silver 4 | [C++](./17xxx/17419. 비트가 넘쳐흘러/비트가 넘쳐흘러.cc) |
@@ -4628,6 +4630,7 @@
 | [29198](https://boj.kr/29198) | 이번에는 C번이 문자열 | Silver 3 | [Java](./29xxx/29198. 이번에는 C번이 문자열/이번에는 C번이 문자열.java) |
 | [29220](https://boj.kr/29220) | Свидание | Bronze 3 | [Java](./29xxx/29220. Свидание/Свидание.java) |
 | [29224](https://boj.kr/29224) | Мощь вампира | Silver 5 | [C++](./29xxx/29224. Мощь вампира/Мощь вампира.cc) |
+| [29263](https://boj.kr/29263) | Штурм | Bronze 2 | [C++](./29xxx/29263. Штурм/Штурм.cc) |
 | [29267](https://boj.kr/29267) | Случай с игрой | Bronze 3 | [C++](./29xxx/29267. Случай с игрой/Случай с игрой.cc) |
 | [29271](https://boj.kr/29271) | Фильтр | Bronze 2 | [C++](./29xxx/29271. Фильтр/Фильтр.cc) |
 | [29283](https://boj.kr/29283) | Алекс и стейк | Bronze 3 | [C++](./29xxx/29283. Алекс и стейк/Алекс и стейк.cc) |
