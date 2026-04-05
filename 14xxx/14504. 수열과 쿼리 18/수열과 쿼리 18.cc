@@ -56,7 +56,7 @@ int main() {
         cin >> a[i];
         bucket[i/sz].push_back(a[i]);
     }
-    for(int i=0;i<sz;i++) sort(all(bucket[i]));
+    for(auto &e:bucket) sort(all(e));
 
     int m; cin >> m;
     while(m--) {
