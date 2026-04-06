@@ -1400,7 +1400,7 @@
 | [06856](https://boj.kr/6856) | Roll the Dice | Bronze 3 | [Java](./06xxx/6856. Roll the Dice/Roll the Dice.java) |
 | [06876](https://boj.kr/6876) | Snow Calls | Bronze 2 | [Java](./06xxx/6876. Snow Calls/Snow Calls.java) |
 | [06877](https://boj.kr/6877) | Mouse Move | Bronze 2 | [Java](./06xxx/6877. Mouse Move/Mouse Move.java) |
-| [06884](https://boj.kr/6884) | 소수 부분 수열 | Silver 2 | [C++](./06xxx/6884. 소수 부분 수열/소수 부분 수열.cc) |
+| [06884](https://boj.kr/6884) | 소수 부분 수열 | Silver 1 | [C++](./06xxx/6884. 소수 부분 수열/소수 부분 수열.cc) |
 | [06887](https://boj.kr/6887) | Squares | Bronze 4 | [Java](./06xxx/6887. Squares/Squares.java) |
 | [06888](https://boj.kr/6888) | Terms of Office | Bronze 4 | [Java](./06xxx/6888. Terms of Office/Terms of Office.java) |
 | [06889](https://boj.kr/6889) | Smile with Similes | Bronze 3 | [Java](./06xxx/6889. Smile with Similes/Smile with Similes.java) |
