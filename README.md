@@ -25,6 +25,7 @@
 | [01013](https://boj.kr/1013) | Contact | Gold 5 | [C++](./01xxx/1013. Contact/Contact.cc) |
 | [01014](https://boj.kr/1014) | 컨닝 | Platinum 4 | [C++](./01xxx/1014. 컨닝/컨닝.cc) |
 | [01015](https://boj.kr/1015) | 수열 정렬 | Silver 4 | [C++](./01xxx/1015. 수열 정렬/수열 정렬.cc) |
+| [01016](https://boj.kr/1016) | 제곱 ㄴㄴ 수 | Gold 1 | [C++](./01xxx/1016. 제곱 ㄴㄴ 수/제곱 ㄴㄴ 수.cc) |
 | [01017](https://boj.kr/1017) | 소수 쌍 | Platinum 3 | [C++](./01xxx/1017. 소수 쌍/소수 쌍.cc) |
 | [01018](https://boj.kr/1018) | 체스판 다시 칠하기 | Silver 3 | [Java](./01xxx/1018. 체스판 다시 칠하기/체스판 다시 칠하기.java) |
 | [01019](https://boj.kr/1019) | 책 페이지 | Platinum 5 | [C++](./01xxx/1019. 책 페이지/책 페이지.cc) |
@@ -775,6 +776,7 @@
 | [02810](https://boj.kr/2810) | 컵홀더 | Bronze 1 | [Java](./02xxx/2810. 컵홀더/컵홀더.java) |
 | [02816](https://boj.kr/2816) | 디지털 티비 | Bronze 1 | [Java](./02xxx/2816. 디지털 티비/디지털 티비.java) |
 | [02822](https://boj.kr/2822) | 점수 계산 | Silver 5 | [Java](./02xxx/2822. 점수 계산/점수 계산.java) |
+| [02823](https://boj.kr/2823) | 유턴 싫어 | Silver 2 | [C++](./02xxx/2823. 유턴 싫어/유턴 싫어.cc) |
 | [02824](https://boj.kr/2824) | 최대공약수 | Silver 2 | [Java](./02xxx/2824. 최대공약수/최대공약수.java) |
 | [02828](https://boj.kr/2828) | 사과 담기 게임 | Silver 5 | [Java](./02xxx/2828. 사과 담기 게임/사과 담기 게임.java) |
 | [02836](https://boj.kr/2836) | 수상 택시 | Gold 3 | [C++](./02xxx/2836. 수상 택시/수상 택시.cc) |
