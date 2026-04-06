@@ -3693,6 +3693,7 @@
 | [21920](https://boj.kr/21920) | 서로소 평균 | Silver 4 | [C++](./21xxx/21920. 서로소 평균/서로소 평균.cc) |
 | [21921](https://boj.kr/21921) | 블로그 | Silver 3 | [C++](./21xxx/21921. 블로그/블로그.cc) |
 | [21924](https://boj.kr/21924) | 도시 건설 | Gold 4 | [Java](./21xxx/21924. 도시 건설/도시 건설.java) |
+| [21937](https://boj.kr/21937) | 작업 | Silver 1 | [C++](./21xxx/21937. 작업/작업.cc) |
 | [21938](https://boj.kr/21938) | 영상처리 | Silver 2 | [C++](./21xxx/21938. 영상처리/영상처리.cc) |
 | [21939](https://boj.kr/21939) | 문제 추천 시스템 Version 1 | Gold 4 | [C++](./21xxx/21939. 문제 추천 시스템 Version 1/문제 추천 시스템 Version 1.cc) |
 | [21945](https://boj.kr/21945) | Palindromes | Bronze 2 | [Java](./21xxx/21945. Palindromes/Palindromes.java) |
@@ -5096,6 +5097,7 @@
 | [32228](https://boj.kr/32228) | 등차수열 만들기 | Gold 1 | [C++](./32xxx/32228. 등차수열 만들기/등차수열 만들기.cc) |
 | [32230](https://boj.kr/32230) | 현대모비스 첨단 운전자 보조 시스템 | Platinum 3 | [C++](./32xxx/32230. 현대모비스 첨단 운전자 보조 시스템/현대모비스 첨단 운전자 보조 시스템.cc) |
 | [32246](https://boj.kr/32246) | 빙고 막기 | Bronze 3 | [C++](./32xxx/32246. 빙고 막기/빙고 막기.cc) |
+| [32248](https://boj.kr/32248) | 더 게임 오브 데스 | Silver 1 | [C++](./32xxx/32248. 더 게임 오브 데스/더 게임 오브 데스.cc) |
 | [32260](https://boj.kr/32260) | A + B | Bronze 5 | [C++](./32xxx/32260. A ＋ B/A ＋ B.cc) |
 | [32278](https://boj.kr/32278) | 선택 가능성이 가장 높은 자료형 | Bronze 4 | [C++](./32xxx/32278. 선택 가능성이 가장 높은 자료형/선택 가능성이 가장 높은 자료형.cc) |
 | [32279](https://boj.kr/32279) | 수열의 비밀 (Easy) | Bronze 2 | [C++](./32xxx/32279. 수열의 비밀 （Easy）/수열의 비밀 （Easy）.cc) |
