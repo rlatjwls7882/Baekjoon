@@ -375,6 +375,7 @@
 | [01846](https://boj.kr/1846) | 장기 | Gold 4 | [C++](./01xxx/1846. 장기/장기.cc) |
 | [01849](https://boj.kr/1849) | 순열 | Platinum 4 | [C++](./01xxx/1849. 순열/순열.cc) |
 | [01850](https://boj.kr/1850) | 최대공약수 | Silver 1 | [Java](./01xxx/1850. 최대공약수/최대공약수.java) |
+| [01854](https://boj.kr/1854) | K번째 최단경로 찾기 | Platinum 4 | [C++](./01xxx/1854. K번째 최단경로 찾기/K번째 최단경로 찾기.cc) |
 | [01855](https://boj.kr/1855) | 암호 | Bronze 1 | [Java](./01xxx/1855. 암호/암호.java) |
 | [01862](https://boj.kr/1862) | 미터계 | Silver 4 | [C++](./01xxx/1862. 미터계/미터계.cc) |
 | [01863](https://boj.kr/1863) | 스카이라인 쉬운거 | Gold 4 | [C++](./01xxx/1863. 스카이라인 쉬운거/스카이라인 쉬운거.cc) |
@@ -2204,6 +2205,7 @@
 | [11784](https://boj.kr/11784) | Hex Code | Bronze 1 | [Java](./11xxx/11784. Hex Code/Hex Code.java) |
 | [11795](https://boj.kr/11795) | Donation Packaging | Bronze 3 | [Java](./11xxx/11795. Donation Packaging/Donation Packaging.java) |
 | [11800](https://boj.kr/11800) | Tawla | Bronze 3 | [Java](./11xxx/11800. Tawla/Tawla.java) |
+| [11812](https://boj.kr/11812) | K진 트리 | Gold 3 | [C++](./11xxx/11812. K진 트리/K진 트리.cc) |
 | [11815](https://boj.kr/11815) | 짝수? 홀수? | Silver 4 | [C++](./11xxx/11815. 짝수？ 홀수？/짝수？ 홀수？.cc) |
 | [11816](https://boj.kr/11816) | 8진수, 10진수, 16진수 | Bronze 2 | [Java](./11xxx/11816. 8진수， 10진수， 16진수/8진수， 10진수， 16진수.java) |
 | [11822](https://boj.kr/11822) | Document | Bronze 1 | [C++](./11xxx/11822. Document/Document.cc) |
@@ -3367,6 +3369,7 @@
 | [18198](https://boj.kr/18198) | Basketball One-on-One | Bronze 4 | [Java](./18xxx/18198. Basketball One－on－One/Basketball One－on－One.java) |
 | [18221](https://boj.kr/18221) | 교수님 저는 취업할래요 | Silver 5 | [C++](./18xxx/18221. 교수님 저는 취업할래요/교수님 저는 취업할래요.cc) |
 | [18222](https://boj.kr/18222) | 투에-모스 문자열 | Silver 2 | [C++](./18xxx/18222. 투에－모스 문자열/투에－모스 문자열.cc) |
+| [18223](https://boj.kr/18223) | 민준이와 마산 그리고 건우 | Gold 4 | [C++](./18xxx/18223. 민준이와 마산 그리고 건우/민준이와 마산 그리고 건우.cc) |
 | [18228](https://boj.kr/18228) | 펭귄추락대책위원회 | Bronze 2 | [Java](./18xxx/18228. 펭귄추락대책위원회/펭귄추락대책위원회.java) |
 | [18229](https://boj.kr/18229) | 내가 살게, 아냐 내가 살게 | Bronze 1 | [Java](./18xxx/18229. 내가 살게， 아냐 내가 살게/내가 살게， 아냐 내가 살게.java) |
 | [18231](https://boj.kr/18231) | 파괴된 도시 | Gold 5 | [C++](./18xxx/18231. 파괴된 도시/파괴된 도시.cc) |
@@ -3696,6 +3699,7 @@
 | [21937](https://boj.kr/21937) | 작업 | Silver 1 | [C++](./21xxx/21937. 작업/작업.cc) |
 | [21938](https://boj.kr/21938) | 영상처리 | Silver 2 | [C++](./21xxx/21938. 영상처리/영상처리.cc) |
 | [21939](https://boj.kr/21939) | 문제 추천 시스템 Version 1 | Gold 4 | [C++](./21xxx/21939. 문제 추천 시스템 Version 1/문제 추천 시스템 Version 1.cc) |
+| [21940](https://boj.kr/21940) | 가운데에서 만나기 | Gold 4 | [C++](./21xxx/21940. 가운데에서 만나기/가운데에서 만나기.cc) |
 | [21945](https://boj.kr/21945) | Palindromes | Bronze 2 | [Java](./21xxx/21945. Palindromes/Palindromes.java) |
 | [21955](https://boj.kr/21955) | Split | Bronze 3 | [Java](./21xxx/21955. Split/Split.java) |
 | [21964](https://boj.kr/21964) | 선린인터넷고등학교 교가 | Bronze 4 | [Java](./21xxx/21964. 선린인터넷고등학교 교가/선린인터넷고등학교 교가.java) |
@@ -3981,6 +3985,7 @@
 | [24447](https://boj.kr/24447) | 알고리즘 수업 - 너비 우선 탐색 4 | Silver 2 | [Java](./24xxx/24447. 알고리즘 수업 － 너비 우선 탐색 4/알고리즘 수업 － 너비 우선 탐색 4.java) |
 | [24456](https://boj.kr/24456) | 초콜릿 훔쳐 먹기 | Gold 3 | [C++](./24xxx/24456. 초콜릿 훔쳐 먹기/초콜릿 훔쳐 먹기.cc) |
 | [24458](https://boj.kr/24458) | Prison Break | Platinum 3 | [C++](./24xxx/24458. Prison Break/Prison Break.cc) |
+| [24461](https://boj.kr/24461) | 그래프의 줄기 | Gold 2 | [C++](./24xxx/24461. 그래프의 줄기/그래프의 줄기.cc) |
 | [24464](https://boj.kr/24464) | 득수 밥 먹이기 | Silver 1 | [C++](./24xxx/24464. 득수 밥 먹이기/득수 밥 먹이기.cc) |
 | [24468](https://boj.kr/24468) | 충돌의 수 | Silver 3 | [C++](./24xxx/24468. 충돌의 수/충돌의 수.cc) |
 | [24479](https://boj.kr/24479) | 알고리즘 수업 - 깊이 우선 탐색 1 | Silver 2 | [C++](./24xxx/24479. 알고리즘 수업 － 깊이 우선 탐색 1/알고리즘 수업 － 깊이 우선 탐색 1.cc) [Java](./24xxx/24479. 알고리즘 수업 － 깊이 우선 탐색 1/알고리즘 수업 － 깊이 우선 탐색 1.java) |
@@ -4130,6 +4135,7 @@
 | [25501](https://boj.kr/25501) | 재귀의 귀재 | Bronze 2 | [Java](./25xxx/25501. 재귀의 귀재/재귀의 귀재.java) |
 | [25502](https://boj.kr/25502) | 등차수열? 등비수열? | Gold 4 | [C++](./25xxx/25502. 등차수열？ 등비수열？/등차수열？ 등비수열？.cc) |
 | [25511](https://boj.kr/25511) | 값이 k인 트리 노드의 깊이 | Silver 2 | [C++](./25xxx/25511. 값이 k인 트리 노드의 깊이/값이 k인 트리 노드의 깊이.cc) |
+| [25512](https://boj.kr/25512) | 트리를 간단하게 색칠하는 최소 비용 | Silver 1 | [C++](./25xxx/25512. 트리를 간단하게 색칠하는 최소 비용/트리를 간단하게 색칠하는 최소 비용.cc) |
 | [25514](https://boj.kr/25514) | 고속의 오름차순 숫자 탐색 | Gold 4 | [C++](./25xxx/25514. 고속의 오름차순 숫자 탐색/고속의 오름차순 숫자 탐색.cc) |
 | [25527](https://boj.kr/25527) | Counting Peaks of Infection | Bronze 3 | [Java](./25xxx/25527. Counting Peaks of Infection/Counting Peaks of Infection.java) |
 | [25550](https://boj.kr/25550) | 택배 색칠 | Silver 4 | [C++](./25xxx/25550. 택배 색칠/택배 색칠.cc) |
