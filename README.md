@@ -1932,7 +1932,7 @@
 | [10818](https://boj.kr/10818) | 최소, 최대 | Bronze 3 | [C](./10xxx/10818. 최소， 최대/최소， 최대.c) |
 | [10819](https://boj.kr/10819) | 차이를 최대로 | Silver 2 | [C++](./10xxx/10819. 차이를 최대로/차이를 최대로.cc) |
 | [10820](https://boj.kr/10820) | 문자열 분석 | Bronze 2 | [Java](./10xxx/10820. 문자열 분석/문자열 분석.java) |
-| [10821](https://boj.kr/10821) | 정수의 개수 | Bronze 2 | [Java](./10xxx/10821. 정수의 개수/정수의 개수.java) |
+| [10821](https://boj.kr/10821) | 정수의 개수 | Bronze 3 | [Java](./10xxx/10821. 정수의 개수/정수의 개수.java) |
 | [10822](https://boj.kr/10822) | 더하기 | Bronze 2 | [Java](./10xxx/10822. 더하기/더하기.java) |
 | [10823](https://boj.kr/10823) | 더하기 2 | Bronze 1 | [Java](./10xxx/10823. 더하기 2/더하기 2.java) |
 | [10824](https://boj.kr/10824) | 네 수 | Bronze 3 | [Java](./10xxx/10824. 네 수/네 수.java) |
