@@ -5114,7 +5114,7 @@
 | [32289](https://boj.kr/32289) | Max-Queen | Silver 5 | [C++](./32xxx/32289. Max－Queen/Max－Queen.cc) |
 | [32290](https://boj.kr/32290) | MEX vs OR | Bronze 1 | [C++](./32xxx/32290. MEX vs OR/MEX vs OR.cc) |
 | [32291](https://boj.kr/32291) | $x$와 $x+1$의 차이 | Silver 1 | [C++](./32xxx/32291. $x$와 $x＋1$의 차이/$x$와 $x＋1$의 차이.cc) |
-| [32292](https://boj.kr/32292) | ABB to BA (Easy) | Silver 5 | [C++](./32xxx/32292. ABB to BA （Easy）/ABB to BA （Easy）.cc) |
+| [32292](https://boj.kr/32292) | ABB to BA (Easy) | Bronze 1 | [C++](./32xxx/32292. ABB to BA （Easy）/ABB to BA （Easy）.cc) |
 | [32293](https://boj.kr/32293) | ABB to BA (Hard) | Gold 3 | [C++](./32xxx/32293. ABB to BA （Hard）/ABB to BA （Hard）.cc) |
 | [32297](https://boj.kr/32297) | 문자열을 만들어요 | Bronze 3 | [C++](./32xxx/32297. 문자열을 만들어요/문자열을 만들어요.cc) |
 | [32305](https://boj.kr/32305) | Farmers’ Market | Bronze 3 | [C++](./32xxx/32305. Farmers’ Market/Farmers’ Market.cc) |
