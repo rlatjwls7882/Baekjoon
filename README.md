@@ -3546,6 +3546,7 @@
 | [20365](https://boj.kr/20365) | 블로그2 | Silver 3 | [C++](./20xxx/20365. 블로그2/블로그2.cc) |
 | [20366](https://boj.kr/20366) | 같이 눈사람 만들래? | Gold 3 | [C++](./20xxx/20366. 같이 눈사람 만들래？/같이 눈사람 만들래？.cc) |
 | [20374](https://boj.kr/20374) | Big Money | Bronze 3 | [Java](./20xxx/20374. Big Money/Big Money.java) |
+| [20390](https://boj.kr/20390) | 완전그래프의 최소 스패닝 트리 | Gold 1 | [C++](./20xxx/20390. 완전그래프의 최소 스패닝 트리/완전그래프의 최소 스패닝 트리.cc) |
 | [20410](https://boj.kr/20410) | 추첨상 사수 대작전! (Easy) | Bronze 3 | [Java](./20xxx/20410. 추첨상 사수 대작전！ （Easy）/추첨상 사수 대작전！ （Easy）.java) |
 | [20420](https://boj.kr/20420) | 화살표 미로 (Normal) | Gold 1 | [C++](./20xxx/20420. 화살표 미로 （Normal）/화살표 미로 （Normal）.cc) |
 | [20436](https://boj.kr/20436) | ZOAC 3 | Silver 4 | [C++](./20xxx/20436. ZOAC 3/ZOAC 3.cc) |
@@ -5144,6 +5145,7 @@
 | [32385](https://boj.kr/32385) | $\frac{1}{2}$(MatKor+ALPS)=AlKor | Silver 3 | [Python](./32xxx/32385. $＼frac｛1｝｛2｝$（MatKor＋ALPS）＝AlKor/$＼frac｛1｝｛2｝$（MatKor＋ALPS）＝AlKor.py) |
 | [32386](https://boj.kr/32386) | KCPC에 등장할 알고리즘 맞히기 | Silver 4 | [C++](./32xxx/32386. KCPC에 등장할 알고리즘 맞히기/KCPC에 등장할 알고리즘 맞히기.cc) |
 | [32387](https://boj.kr/32387) | 충전하기 | Gold 4 | [C++](./32xxx/32387. 충전하기/충전하기.cc) |
+| [32393](https://boj.kr/32393) | 얼음마법사 동우의 대회 검수 | Diamond 5 | [C++](./32xxx/32393. 얼음마법사 동우의 대회 검수/얼음마법사 동우의 대회 검수.cc) |
 | [32399](https://boj.kr/32399) | 햄버거 정렬 | Bronze 3 | [C++](./32xxx/32399. 햄버거 정렬/햄버거 정렬.cc) |
 | [32400](https://boj.kr/32400) | 다트판 | Bronze 2 | [C++](./32xxx/32400. 다트판/다트판.cc) |
 | [32401](https://boj.kr/32401) | ANA는 회문이야 | Bronze 2 | [C++](./32xxx/32401. ANA는 회문이야/ANA는 회문이야.cc) |
@@ -5563,6 +5565,7 @@
 | [34945](https://boj.kr/34945) | 채플이 너무해 | Bronze 5 | [C++](./34xxx/34945. 채플이 너무해/채플이 너무해.cc) |
 | [34946](https://boj.kr/34946) | 셔틀 탈래 말래 탈래 말래 애매하긴 해 | Bronze 4 | [C++](./34xxx/34946. 셔틀 탈래 말래 탈래 말래 애매하긴 해/셔틀 탈래 말래 탈래 말래 애매하긴 해.cc) |
 | [34953](https://boj.kr/34953) | SSHS 문자열 | Silver 5 | [C++](./34xxx/34953. SSHS 문자열/SSHS 문자열.cc) |
+| [34961](https://boj.kr/34961) | 급식실 식탁 배정 | Diamond 5 | [C++](./34xxx/34961. 급식실 식탁 배정/급식실 식탁 배정.cc) |
 | [34977](https://boj.kr/34977) | 수미수열 | Bronze 1 | [C++](./34xxx/34977. 수미수열/수미수열.cc) |
 | [34980](https://boj.kr/34980) | 생수병 놓기 | Bronze 3 | [C++](./34xxx/34980. 생수병 놓기/생수병 놓기.cc) |
 | [34991](https://boj.kr/34991) | toycppartoon | Silver 2 | [C++](./34xxx/34991. toycppartoon/toycppartoon.cc) |
