@@ -4151,6 +4151,7 @@
 | [25591](https://boj.kr/25591) | 푸앙이와 종윤이 | Bronze 4 | [Java](./25xxx/25591. 푸앙이와 종윤이/푸앙이와 종윤이.java) |
 | [25592](https://boj.kr/25592) | 바둑돌 게임 | Bronze 1 | [Java](./25xxx/25592. 바둑돌 게임/바둑돌 게임.java) |
 | [25593](https://boj.kr/25593) | 근무 지옥에 빠진 푸앙이 (Small) | Bronze 1 | [Java](./25xxx/25593. 근무 지옥에 빠진 푸앙이 （Small）/근무 지옥에 빠진 푸앙이 （Small）.java) |
+| [25594](https://boj.kr/25594) | HG 음성기호 | Silver 5 | [C++](./25xxx/25594. HG 음성기호/HG 음성기호.cc) |
 | [25595](https://boj.kr/25595) | 86 ─에이티식스─ 2 | Bronze 1 | [Java](./25xxx/25595. 86 ─에이티식스─ 2/86 ─에이티식스─ 2.java) |
 | [25596](https://boj.kr/25596) | 마트료시카 박스 II | Gold 4 | [C++](./25xxx/25596. 마트료시카 박스 II/마트료시카 박스 II.cc) |
 | [25600](https://boj.kr/25600) | Triathlon | Bronze 4 | [C](./25xxx/25600. Triathlon/Triathlon.c) |
