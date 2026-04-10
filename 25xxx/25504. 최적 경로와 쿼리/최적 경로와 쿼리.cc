@@ -12,8 +12,7 @@ const int INF = 0x3f3f3f3f;
 const int SZ = 40;
 
 map<pii, int> edge;
-vector<vector<pii>> large(50'001);
-vector<vector<pii>> conn(50'001);
+vector<vector<pii>> conn(50'001), large(50'001);
 
 int main() {
     cin.tie(0)->sync_with_stdio(0);
