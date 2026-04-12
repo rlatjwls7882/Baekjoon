@@ -4008,6 +4008,7 @@
 | [24542](https://boj.kr/24542) | 튜터-튜티 관계의 수 | Silver 1 | [Java](./24xxx/24542. 튜터－튜티 관계의 수/튜터－튜티 관계의 수.java) |
 | [24544](https://boj.kr/24544) | 카카오뷰 큐레이팅 효용성 분석 | Bronze 3 | [Java](./24xxx/24544. 카카오뷰 큐레이팅 효용성 분석/카카오뷰 큐레이팅 효용성 분석.java) |
 | [24546](https://boj.kr/24546) | 놀이기구에 진심인 편 | Diamond 4 | [C++](./24xxx/24546. 놀이기구에 진심인 편/놀이기구에 진심인 편.cc) |
+| [24547](https://boj.kr/24547) | mod와 쿼리 | Diamond 4 | [C++](./24xxx/24547. mod와 쿼리/mod와 쿼리.cc) |
 | [24549](https://boj.kr/24549) | 신촌방위본부의 부대 배치 | Platinum 1 | [C++](./24xxx/24549. 신촌방위본부의 부대 배치/신촌방위본부의 부대 배치.cc) |
 | [24551](https://boj.kr/24551) | 일이 너무 많아... | Gold 3 | [Java](./24xxx/24551. 일이 너무 많아．．．/일이 너무 많아．．．.java) |
 | [24568](https://boj.kr/24568) | Cupcake Party | Bronze 5 | [C](./24xxx/24568. Cupcake Party/Cupcake Party.c) |
