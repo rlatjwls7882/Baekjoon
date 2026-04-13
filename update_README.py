@@ -4,90 +4,43 @@ import requests
 from tqdm import tqdm
 from requests.adapters import HTTPAdapter
 from urllib3.util.retry import Retry
+from curl_cffi import requests
 
 HANDLE = "rlatjwls3333"
 BASE_URL = "https://solved.ac/api/v3"
-COMMON_HEADERS = {
-    "Accept": "application/json",
-    "Accept-Language": "ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7",
-    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36",
-    "Referer": "https://solved.ac/",
-    "Origin": "https://solved.ac",
-}
 
-
-# def build_session():
-#     session = requests.Session()
-#     session.headers.update(COMMON_HEADERS)
-
-#     retry = Retry(
-#         total=5,
-#         connect=5,
-#         read=5,
-#         backoff_factor=1.5,
-#         status_forcelist=[403, 429, 500, 502, 503, 504],
-#         allowed_methods=["GET"],
-#         respect_retry_after_header=True,
-#     )
-#     adapter = HTTPAdapter(max_retries=retry, pool_connections=20, pool_maxsize=20)
-#     session.mount("https://", adapter)
-#     session.mount("http://", adapter)
-#     return session
-
-# # 공통 JSON 요청 함수
-# def request_json(session, path, params):
-#     response = session.get(BASE_URL+path, params=params, timeout=(10, 20))
-#     response.raise_for_status()
-#     content_type = response.headers.get("content-type", "")
-#     if "application/json" not in content_type:
-#         raise RuntimeError(f"JSON 응답이 아닙니다. status={response.status_code}, content-type={content_type}")
-#     return response.json()
-def build_session():
-    session = requests.Session()
-    session.headers.update(COMMON_HEADERS)
-
-    retry = Retry(
-        total=5,
-        connect=5,
-        read=5,
-        backoff_factor=1.5,
-        status_forcelist=[429, 500, 502, 503, 504],  # 403 제거
-        allowed_methods=["GET"],
-        respect_retry_after_header=True,
+# 공통 JSON 요청 함수
+def request_json(path, params):
+    url = BASE_URL + path
+    response = requests.get(
+        url,
+        params=params,
+        impersonate="chrome",
+        timeout=20,
+        headers={
+            "Accept": "application/json",
+            "Accept-Language": "ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7",
+            "Referer": "https://solved.ac/",
+            "Origin": "https://solved.ac",
+        },
     )
-    adapter = HTTPAdapter(max_retries=retry, pool_connections=20, pool_maxsize=20)
-    session.mount("https://", adapter)
-    session.mount("http://", adapter)
-    return session
-
-def request_json(session, path, params):
-    url = BASE_URL.rstrip("/") + "/" + path.lstrip("/")
-    response = session.get(url, params=params, timeout=(10, 20))
-
     print("URL:", response.url)
     print("STATUS:", response.status_code)
-    print("CONTENT-TYPE:", response.headers.get("content-type"))
     print("SERVER:", response.headers.get("server"))
-    print("BODY:", response.text[:500])
+    print("CONTENT-TYPE:", response.headers.get("content-type"))
+    print("BODY:", response.text[:300])
 
     response.raise_for_status()
-
-    content_type = response.headers.get("content-type", "")
-    if "application/json" not in content_type:
-        raise RuntimeError(
-            f"JSON 응답이 아닙니다. status={response.status_code}, "
-            f"content-type={content_type}, body={response.text[:300]}"
-        )
     return response.json()
 
 # solved.ac API로 해결한 문제 수를 int로 가져옴
-def get_solved_count(session):
-    response = request_json(session, "/user/show", params={"handle": HANDLE})
+def get_solved_count():
+    response = request_json("/user/show", params={"handle": HANDLE})
     return int(response["solvedCount"])
 
 # solved.ac API로 해결한 문제들을 50개씩 가져옴
-def get_problems(session, page):
-    return request_json(session, "/search/problem", params={"query": f"solved_by:{HANDLE}", "direction": "asc", "page": page, "sort": "id"})
+def get_problems(page):
+    return request_json("/search/problem", params={"query": f"solved_by:{HANDLE}", "direction": "asc", "page": page, "sort": "id"})
     
 # 문제 번호를 입력받아 문제 URL을 반환
 def get_problem_url(id):
@@ -185,11 +138,17 @@ if __name__ == "__main__":
     pages = (solved_count - 1) // 50 + 1
 
     for page in tqdm(range(1, pages+1)):
-        solved = get_problems(session, page)
-        for problem in solved["items"]:
-            problems.append((int(problem["problemId"]), problem["titleKo"], int(problem["level"])))
-        time.sleep(0.3)
-    
+        attemps=0
+        while attemps<3:
+            try:
+                solved = get_problems(session, page)
+                break
+            except:
+                attemps+=1
+            for problem in solved["items"]:
+                problems.append((int(problem["problemId"]), problem["titleKo"], int(problem["level"])))
+            time.sleep(0.3)
+
     # README.md 파일 업데이트
     with open("README.md", "w", encoding="utf-8") as f:
         f.write(get_header(HANDLE) + get_table(problems) + "</div>\n")
