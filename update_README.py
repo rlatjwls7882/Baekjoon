@@ -1,11 +1,11 @@
 import glob
 import json
 import requests
+import httpx
 from tqdm import tqdm
 
 HANDLE = "rlatjwls3333"
 BASE_URL = "https://solved.ac/api/v3"
-
 COMMON_HEADERS = {
     "Accept": "application/json",
     "User-Agent": "Mozilla/5.0",
