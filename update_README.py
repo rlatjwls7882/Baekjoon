@@ -36,7 +36,7 @@ def build_session():
 
 # 공통 JSON 요청 함수
 def request_json(session, path, params):
-    response = session.get(path, params=params, timeout=(10, 20))
+    response = session.get(BASE_URL+path, params=params, timeout=(10, 20))
     response.raise_for_status()
     content_type = response.headers.get("content-type", "")
     if "application/json" not in content_type:
