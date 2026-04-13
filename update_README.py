@@ -2,8 +2,6 @@ import glob
 import time
 import requests
 from tqdm import tqdm
-from requests.adapters import HTTPAdapter
-from urllib3.util.retry import Retry
 from curl_cffi import requests
 
 HANDLE = "rlatjwls3333"
@@ -130,13 +128,11 @@ def get_table(problems):
 
 # 메인 함수
 if __name__ == "__main__":
-    session = build_session()
+    solved_count = get_solved_count(session)
+    pages = (solved_count - 1) // 50 + 1
     problems = []
     
     # solved.ac API로 문제 정보 가져오기
-    solved_count = get_solved_count(session)
-    pages = (solved_count - 1) // 50 + 1
-
     for page in tqdm(range(1, pages+1)):
         attemps=0
         while attemps<3:
