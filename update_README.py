@@ -13,9 +13,35 @@ COMMON_HEADERS = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36",
     "Referer": "https://solved.ac/",
     "Origin": "https://solved.ac",
-    "Connection": "keep-alive",
 }
 
+
+# def build_session():
+#     session = requests.Session()
+#     session.headers.update(COMMON_HEADERS)
+
+#     retry = Retry(
+#         total=5,
+#         connect=5,
+#         read=5,
+#         backoff_factor=1.5,
+#         status_forcelist=[403, 429, 500, 502, 503, 504],
+#         allowed_methods=["GET"],
+#         respect_retry_after_header=True,
+#     )
+#     adapter = HTTPAdapter(max_retries=retry, pool_connections=20, pool_maxsize=20)
+#     session.mount("https://", adapter)
+#     session.mount("http://", adapter)
+#     return session
+
+# # 공통 JSON 요청 함수
+# def request_json(session, path, params):
+#     response = session.get(BASE_URL+path, params=params, timeout=(10, 20))
+#     response.raise_for_status()
+#     content_type = response.headers.get("content-type", "")
+#     if "application/json" not in content_type:
+#         raise RuntimeError(f"JSON 응답이 아닙니다. status={response.status_code}, content-type={content_type}")
+#     return response.json()
 def build_session():
     session = requests.Session()
     session.headers.update(COMMON_HEADERS)
@@ -25,7 +51,7 @@ def build_session():
         connect=5,
         read=5,
         backoff_factor=1.5,
-        status_forcelist=[403, 429, 500, 502, 503, 504],
+        status_forcelist=[429, 500, 502, 503, 504],  # 403 제거
         allowed_methods=["GET"],
         respect_retry_after_header=True,
     )
@@ -34,13 +60,24 @@ def build_session():
     session.mount("http://", adapter)
     return session
 
-# 공통 JSON 요청 함수
 def request_json(session, path, params):
-    response = session.get(BASE_URL+path, params=params, timeout=(10, 20))
+    url = BASE_URL.rstrip("/") + "/" + path.lstrip("/")
+    response = session.get(url, params=params, timeout=(10, 20))
+
+    print("URL:", response.url)
+    print("STATUS:", response.status_code)
+    print("CONTENT-TYPE:", response.headers.get("content-type"))
+    print("SERVER:", response.headers.get("server"))
+    print("BODY:", response.text[:500])
+
     response.raise_for_status()
+
     content_type = response.headers.get("content-type", "")
     if "application/json" not in content_type:
-        raise RuntimeError(f"JSON 응답이 아닙니다. status={response.status_code}, content-type={content_type}")
+        raise RuntimeError(
+            f"JSON 응답이 아닙니다. status={response.status_code}, "
+            f"content-type={content_type}, body={response.text[:300]}"
+        )
     return response.json()
 
 # solved.ac API로 해결한 문제 수를 int로 가져옴
