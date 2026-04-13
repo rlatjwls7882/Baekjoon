@@ -1,6 +1,5 @@
 import glob
 import time
-import requests
 from tqdm import tqdm
 from curl_cffi import requests
 
@@ -141,9 +140,9 @@ if __name__ == "__main__":
                 break
             except:
                 attemps+=1
-            for problem in solved["items"]:
-                problems.append((int(problem["problemId"]), problem["titleKo"], int(problem["level"])))
-            time.sleep(0.3)
+        for problem in solved["items"]:
+            problems.append((int(problem["problemId"]), problem["titleKo"], int(problem["level"])))
+        time.sleep(0.3)
 
     # README.md 파일 업데이트
     with open("README.md", "w", encoding="utf-8") as f:
