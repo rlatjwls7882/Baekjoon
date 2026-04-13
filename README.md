@@ -4,7 +4,7 @@
 
  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rlatjwls3333)](https://solved.ac/rlatjwls3333/)
  ![mazandi profile](http://mazandi.herokuapp.com/api?handle=rlatjwls3333&theme=dark)
-#### [여기](https://github.com/Hiyabye/Baekjoon/blob/main/scripts/update_readme.py)에 있는 코드를 변경하여 자동으로 생성하였습니다.
+#### [여기](https://github.com/Hiyabye/Baekjoon/blob/main/scripts/update_readme.py)에 있는 코드와 해외 Leetcode Repo를 참고하여 자동으로 생성하였습니다.
 #### 500KB까지 렌더링되기에 중간에 짤립니다. 전체 목록은 [여기](./README.md)에서 확인해주세요.
 
 | No. | Title | Difficulty | Solution |
@@ -68,6 +68,7 @@
 | [01094](https://boj.kr/1094) | 막대기 | Silver 5 | [Java](./01xxx/1094. 막대기/막대기.java) |
 | [01099](https://boj.kr/1099) | 알 수 없는 문장 | Gold 3 | [C++](./01xxx/1099. 알 수 없는 문장/알 수 없는 문장.cc) |
 | [01100](https://boj.kr/1100) | 하얀 칸 | Bronze 2 | [Java](./01xxx/1100. 하얀 칸/하얀 칸.java) |
+| [01102](https://boj.kr/1102) | 발전소 | Platinum 5 | [C++](./01xxx/1102. 발전소/발전소.cc) |
 | [01105](https://boj.kr/1105) | 팔 | Silver 1 | [C++](./01xxx/1105. 팔/팔.cc) |
 | [01106](https://boj.kr/1106) | 호텔 | Gold 4 | [C++](./01xxx/1106. 호텔/호텔.cc) |
 | [01107](https://boj.kr/1107) | 리모컨 | Gold 4 | [C++](./01xxx/1107. 리모컨/리모컨.cc) |
