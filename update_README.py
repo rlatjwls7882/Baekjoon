@@ -1,20 +1,33 @@
-# https://github.com/Hiyabye/Baekjoon/blob/main/scripts/update_readme.py 에 있는 코드 변경하여 사용
 import glob
 import json
 import requests
 from tqdm import tqdm
 
+HANDLE = "rlatjwls3333"
+BASE_URL = "https://solved.ac/api/v3"
+
+COMMON_HEADERS = {
+    "Accept": "application/json",
+    "User-Agent": "Mozilla/5.0",
+}
+
+# 공통 JSON 요청 함수
+def request_json(client, path, params):
+    response = client.get(path, params=params)
+    response.raise_for_status()
+    content_type = response.headers.get("content-type", "")
+    if "application/json" not in content_type:
+        raise RuntimeError(f"JSON 응답이 아닙니다. status={response.status_code}, content-type={content_type}")
+    return response.json()
+
 # solved.ac API로 해결한 문제 수를 int로 가져옴
-def get_solved_count(handle):
-  response = requests.get(f"https://solved.ac/api/v3/user/show", params={"handle": handle})
-  response.raise_for_status()
-  return int(response.json()["solvedCount"])
+def get_solved_count(client):
+    response = request_json(client, "/user/show", params={"handle": HANDLE})
+    return int(response["solvedCount"])
 
 # solved.ac API로 해결한 문제들을 50개씩 가져옴
-def get_problems(handle, page):
-  response = requests.get("https://solved.ac/api/v3/search/problem", params={"query": f"solved_by:{handle}", "direction": "asc", "page": page, "sort": "id"})
-  response.raise_for_status()
-  return response.json()
+def get_problems(client, page):
+    return request_json(client, "/search/problem", params={"query": f"solved_by:{HANDLE}", "direction": "asc", "page": page, "sort": "id"})
 
 # 문제 번호를 입력받아 문제 URL을 반환
 def get_problem_url(id):
@@ -50,18 +63,18 @@ def get_solution_path(id):
 
   # 파일 확장자
   ext = {
-    ".ada": "Ada",
-    ".a68": "Algol 68",
-    ".bas": "FreeBASIC",
-    ".c"  : "C",
-    ".cc": "C++",
-    ".cpp": "C++",
-    ".f"  : "Fortran",
-    ".gs" : "Golfscript",
-    ".java" : "Java",
-    ".py" : "Python",
-    ".txt": "Text",
-    ".vb" : "Visual Basic",
+    ".ada"   : "Ada",
+    ".a68"   : "Algol 68",
+    ".bas"   : "FreeBASIC",
+    ".c"     : "C",
+    ".cc"    : "C++",
+    ".cpp"   : "C++",
+    ".f"     : "Fortran",
+    ".gs"    : "Golfscript",
+    ".java"  : "Java",
+    ".py"    : "Python",
+    ".txt"   : "Text",
+    ".vb"    : "Visual Basic",
     ".swift" : "Swift"
   }
 
@@ -104,23 +117,29 @@ def get_table(problems):
 
 # 메인 함수
 if __name__ == "__main__":
-  # solved.ac API로 푼 문제 수 가져오기
-  solved_count = get_solved_count("rlatjwls3333")
-  pages = (solved_count - 1) // 50 + 1
   problems = []
+  with httpx.Client(
+        base_url=BASE_URL,
+        http2=True,
+        headers=COMMON_HEADERS,
+        timeout=httpx.Timeout(10.0, connect=10.0, read=20.0),
+        follow_redirects=True,
+    ) as client:
+        # solved.ac API로 문제 정보 가져오기
+        solved_count = get_solved_count(client)
+        pages = (solved_count - 1) // 50 + 1
 
-  # solved.ac API로 문제 정보 가져오기
-  for page in tqdm(range(1, pages+1)):
-    attempts = 0
-    while attempts < 3:
-      try:
-        solved = get_problems("rlatjwls3333", page)
-        break
-      except:
-        attempts += 1
-    for problem in solved["items"]:
-      problems.append((int(problem["problemId"]), problem["titleKo"], int(problem["level"])))
+        for page in tqdm(range(1, pages+1)):
+          attempts = 0
+          while attempts < 3:
+            try:
+              solved = get_problems(client, page)
+              break
+            except:
+              attempts += 1
+          for problem in solved["items"]:
+              problems.append((int(problem["problemId"]), problem["titleKo"], int(problem["level"])))
 
   # README.md 파일 업데이트
   with open("README.md", "w", encoding="utf-8") as f:
-    f.write(get_header("rlatjwls3333") + get_table(problems) + "</div>\n")
+    f.write(get_header(HANDLE) + get_table(problems) + "</div>\n")
