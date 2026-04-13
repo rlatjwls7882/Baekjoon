@@ -1,6 +1,5 @@
 import glob
-import json
-import requests
+import time
 import httpx
 from tqdm import tqdm
 
