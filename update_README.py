@@ -35,10 +35,8 @@ def build_session():
     return session
 
 # 공통 JSON 요청 함수
-# def request_json(client, path, params):
 def request_json(session, path, params):
-    # response = client.get(path, params=params)
-    response = session.get(url, params=params, timeout=(10, 20))
+    response = session.get(path, params=params, timeout=(10, 20))
     response.raise_for_status()
     content_type = response.headers.get("content-type", "")
     if "application/json" not in content_type:
@@ -46,16 +44,12 @@ def request_json(session, path, params):
     return response.json()
 
 # solved.ac API로 해결한 문제 수를 int로 가져옴
-# def get_solved_count(client):
 def get_solved_count(session):
-    # response = request_json(client, "/user/show", params={"handle": HANDLE})
     response = request_json(session, "/user/show", params={"handle": HANDLE})
     return int(response["solvedCount"])
 
 # solved.ac API로 해결한 문제들을 50개씩 가져옴
-# def get_problems(client, page):
 def get_problems(session, page):
-    # return request_json(client, "/search/problem", params={"query": f"solved_by:{HANDLE}", "direction": "asc", "page": page, "sort": "id"})
     return request_json(session, "/search/problem", params={"query": f"solved_by:{HANDLE}", "direction": "asc", "page": page, "sort": "id"})
     
 # 문제 번호를 입력받아 문제 URL을 반환
