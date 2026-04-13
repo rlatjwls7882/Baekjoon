@@ -128,7 +128,7 @@ def get_table(problems):
 
 # 메인 함수
 if __name__ == "__main__":
-    solved_count = get_solved_count(session)
+    solved_count = get_solved_count()
     pages = (solved_count - 1) // 50 + 1
     problems = []
     
@@ -137,7 +137,7 @@ if __name__ == "__main__":
         attemps=0
         while attemps<3:
             try:
-                solved = get_problems(session, page)
+                solved = get_problems(page)
                 break
             except:
                 attemps+=1
