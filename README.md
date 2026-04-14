@@ -4,7 +4,6 @@
 
  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rlatjwls3333)](https://solved.ac/rlatjwls3333/)
  ![mazandi profile](http://mazandi.herokuapp.com/api?handle=rlatjwls3333&theme=dark)
-#### [여기](https://github.com/Hiyabye/Baekjoon/blob/main/scripts/update_readme.py)에 있는 코드와 해외 Leetcode Repo를 참고하여 자동으로 생성하였습니다.
 #### 500KB까지 렌더링되기에 중간에 짤립니다. 전체 목록은 [여기](./README.md)에서 확인해주세요.
 
 | No. | Title | Difficulty | Solution |
@@ -1522,6 +1521,7 @@
 | [07983](https://boj.kr/7983) | 내일 할거야 | Gold 5 | [C++](./07xxx/7983. 내일 할거야/내일 할거야.cc) |
 | [08012](https://boj.kr/8012) | 한동이는 영업사원! | Platinum 5 | [C++](./08xxx/8012. 한동이는 영업사원！/한동이는 영업사원！.cc) |
 | [08063](https://boj.kr/8063) | Three-Coloring of Binary Trees | Gold 2 | [C++](./08xxx/8063. Three－Coloring of Binary Trees/Three－Coloring of Binary Trees.cc) |
+| [08111](https://boj.kr/8111) | 0과 1 | Platinum 5 | [C++](./08xxx/8111. 0과 1/0과 1.cc) |
 | [08118](https://boj.kr/8118) | Board Covering | Platinum 3 | [C++](./08xxx/8118. Board Covering/Board Covering.cc) |
 | [08217](https://boj.kr/8217) | 유성 | Diamond 4 | [C++](./08xxx/8217. 유성/유성.cc) |
 | [08246](https://boj.kr/8246) | Stół | Bronze 1 | [Java](./08xxx/8246. Stół/Stół.java) |
