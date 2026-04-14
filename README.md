@@ -3841,6 +3841,7 @@
 | [23563](https://boj.kr/23563) | 벽 타기 | Gold 3 | [Java](./23xxx/23563. 벽 타기/벽 타기.java) |
 | [23627](https://boj.kr/23627) | driip | Bronze 3 | [Java](./23xxx/23627. driip/driip.java) |
 | [23628](https://boj.kr/23628) | 악마의 연차 계산기 | Bronze 1 | [Java](./23xxx/23628. 악마의 연차 계산기/악마의 연차 계산기.java) |
+| [23630](https://boj.kr/23630) | 가장 긴 부분 수열 구하기 | Silver 2 | [C++](./23xxx/23630. 가장 긴 부분 수열 구하기/가장 긴 부분 수열 구하기.cc) |
 | [23631](https://boj.kr/23631) | 진심 좌우 반복뛰기 | Silver 1 | [C++](./23xxx/23631. 진심 좌우 반복뛰기/진심 좌우 반복뛰기.cc) |
 | [23656](https://boj.kr/23656) | Jack and Jill | Silver 2 | [C++](./23xxx/23656. Jack and Jill/Jack and Jill.cc) |
 | [23663](https://boj.kr/23663) | Deja vu of Go Players | Bronze 3 | [Java](./23xxx/23663. Deja vu of Go Players/Deja vu of Go Players.java) |
