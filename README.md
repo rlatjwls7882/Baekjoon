@@ -4,15 +4,7 @@
 
  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rlatjwls3333)](https://solved.ac/rlatjwls3333/)
  ![mazandi profile](http://mazandi.herokuapp.com/api?handle=rlatjwls3333&theme=dark)
- 
 #### 500KB까지 렌더링되기에 중간에 짤립니다. 전체 목록은 [여기](./README.md)에서 확인해주세요.
-
-### 마지막 영정사진
-<!-- <img alt="www acmicpc net_user_rlatjwls3333" src="https://github.com/user-attachments/assets/1dc23006-09a3-4864-93e8-6ebcd8d7bf97" /> -->
-<img alt="www acmicpc net_user_rlatjwls3333" src="https://github.com/user-attachments/assets/337e2675-9aad-4803-99eb-7bc22733e7ce" />
-<!-- <img alt="www acmicpc net_user_language_rlatjwls3333" src="https://github.com/user-attachments/assets/55937efb-5827-4c3a-9b53-25a746acc2c2" /> -->
-<img alt="www acmicpc net_user_language_rlatjwls3333" src="https://github.com/user-attachments/assets/60e11b73-1b9c-4149-9bdd-701c6cca6a39" />
-<img width="1950" height="4097" alt="solved ac_profile_rlatjwls3333" src="https://github.com/user-attachments/assets/42e4e975-e8c9-4a9e-ab0b-341cd6f71a7e" />
 
 | No. | Title | Difficulty | Solution |
 |:---|:---|:----:|:---:|
@@ -3855,7 +3847,7 @@
 | [23656](https://boj.kr/23656) | Jack and Jill | Silver 2 | [C++](./23xxx/23656. Jack and Jill/Jack and Jill.cc) |
 | [23663](https://boj.kr/23663) | Deja vu of Go Players | Bronze 3 | [Java](./23xxx/23663. Deja vu of Go Players/Deja vu of Go Players.java) |
 | [23716](https://boj.kr/23716) | Transform the String | Bronze 2 | [Java](./23xxx/23716. Transform the String/Transform the String.java) |
-| [23732](https://boj.kr/23732) | Successful String | Gold 5 | [C++](./23xxx/23732. Successful String/Successful String.cc) |
+| [23732](https://boj.kr/23732) | Successful String | Gold 4 | [C++](./23xxx/23732. Successful String/Successful String.cc) |
 | [23738](https://boj.kr/23738) | Ресторан | Bronze 2 | [Java](./23xxx/23738. Ресторан/Ресторан.java) |
 | [23739](https://boj.kr/23739) | 벼락치기 | Bronze 1 | [Java](./23xxx/23739. 벼락치기/벼락치기.java) |
 | [23740](https://boj.kr/23740) | 버스 노선 개편하기 | Gold 5 | [C++](./23xxx/23740. 버스 노선 개편하기/버스 노선 개편하기.cc) |
@@ -5557,7 +5549,7 @@
 | [34814](https://boj.kr/34814) | SCSC 동아리방 방문 | Bronze 2 | [C++](./34xxx/34814. SCSC 동아리방 방문/SCSC 동아리방 방문.cc) |
 | [34823](https://boj.kr/34823) | YCPC 점수 | Bronze 4 | [C++](./34xxx/34823. YCPC 점수/YCPC 점수.cc) |
 | [34824](https://boj.kr/34824) | 연대 다음 고대 | Bronze 4 | [C++](./34xxx/34824. 연대 다음 고대/연대 다음 고대.cc) |
-| [34838](https://boj.kr/34838) | 삼각형 그리기 | Gold 5 | [C++](./34xxx/34838.%E2%80%85삼각형%E2%80%85그리기/삼각형%E2%80%85그리기.cc) |
+| [34838](https://boj.kr/34838) | 삼각형 그리기 | Gold 5 | [C++](./34xxx/34838. 삼각형 그리기/삼각형 그리기.cc) |
 | [34845](https://boj.kr/34845) | 강의평 | Bronze 2 | [C++](./34xxx/34845. 강의평/강의평.cc) |
 | [34848](https://boj.kr/34848) | 저녁 메뉴 월드컵 | Bronze 2 | [C++](./34xxx/34848. 저녁 메뉴 월드컵/저녁 메뉴 월드컵.cc) |
 | [34849](https://boj.kr/34849) | 이중 반복문 | Bronze 5 | [C++](./34xxx/34849. 이중 반복문/이중 반복문.cc) |
@@ -5625,7 +5617,7 @@
 | [35373](https://boj.kr/35373) | A Little Leftover Pizza | Bronze 3 | [C++](./35xxx/35373. A Little Leftover Pizza/A Little Leftover Pizza.cc) |
 | [35409](https://boj.kr/35409) | 제4회 디미고 프로그래밍 챌린지 | Bronze 4 | [C++](./35xxx/35409. 제4회 디미고 프로그래밍 챌린지/제4회 디미고 프로그래밍 챌린지.cc) |
 | [35423](https://boj.kr/35423) | SciComLove (2026) | Bronze 3 | [C++](./35xxx/35423. SciComLove （2026）/SciComLove （2026）.cc) |
-| [35453](https://boj.kr/35453) | Goodbye, ChAOS! | Bronze 2 | [C++](./35xxx/35453.%20Goodbye%2C%20ChAOS!) |
+| [35453](https://boj.kr/35453) | Goodbye, ChAOS! | Bronze 2 | [C++](./35xxx/35453.%E2%80%85Goodbye,%E2%80%85ChAOS!/35453.%E2%80%85Goodbye,%E2%80%85ChAOS!.cc) |
 | [35455](https://boj.kr/35455) | 10002221점 | Bronze 3 | [C++](./35xxx/35455. 10002221점/10002221점.cc) |
 | [35467](https://boj.kr/35467) | Swap-LIS | Silver 2 | [C++](./35xxx/35467. Swap－LIS/Swap－LIS.cc) |
 | [35479](https://boj.kr/35479) | 루미의 진정한™ 보라색 찾기 2 | Bronze 4 | [C++](./35xxx/35479. 루미의 진정한™ 보라색 찾기 2/루미의 진정한™ 보라색 찾기 2.cc) |
