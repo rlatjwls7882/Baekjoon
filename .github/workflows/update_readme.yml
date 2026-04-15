@@ -1,8 +1,10 @@
 name: Update README
 
 on:
-  schedule:
-    - cron: '0 */6 * * *'
+  push:
+    branches: ["main"]
+  # schedule:
+  #   - cron: '0 */6 * * *'
 
 jobs:
   update-readme:
@@ -25,10 +27,10 @@ jobs:
         run: |
           python update_README.py
       
-      # - name: Push changes and commit
-      #   continue-on-error: true
-      #   run: |
-      #     git config --global user.email "rlatjwls7882@gmail.com"
-      #     git config --global user.name "rlatjwls7882"
-      #     git commit -am "Update README.md"
-      #     git push
+      - name: Push changes and commit
+        continue-on-error: true
+        run: |
+          git config --global user.email "rlatjwls7882@gmail.com"
+          git config --global user.name "rlatjwls7882"
+          git commit -am "Update README.md"
+          git push
