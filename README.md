@@ -4,16 +4,16 @@
 
  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rlatjwls3333)](https://solved.ac/rlatjwls3333/)
  ![mazandi profile](http://mazandi.herokuapp.com/api?handle=rlatjwls3333&theme=dark)
+ 
+#### 500KB까지 렌더링되기에 중간에 짤립니다. 전체 목록은 [여기](./README.md)에서 확인해주세요.
 
-#### 마지막 영정사진
-<img width="665" height="12480" alt="www acmicpc net_user_rlatjwls3333" src="https://github.com/user-attachments/assets/058a133e-d456-4fd2-99cc-c2e35d16e728" />
-<img width="665" height="3179" alt="www acmicpc net_user_language_rlatjwls3333" src="https://github.com/user-attachments/assets/bd665896-9013-4180-ab4e-05157f997f4f" />
-<img width="668" height="4735" alt="solved ac_profile_rlatjwls3333" src="https://github.com/user-attachments/assets/a2c17c6f-ce7d-4253-98cf-5b566f4b5c4c" />
+### 마지막 영정사진
+<img width="1947" height="8168" alt="www acmicpc net_user_rlatjwls3333" src="https://github.com/user-attachments/assets/79c06803-6d90-479c-8ed0-3ac26471539b" />
+<img width="1947" height="2008" alt="www acmicpc net_user_language_rlatjwls3333" src="https://github.com/user-attachments/assets/36d555a6-4c07-4ade-9f30-996ecd6d0fa7" />
+<img width="1950" height="4097" alt="solved ac_profile_rlatjwls3333" src="https://github.com/user-attachments/assets/33599450-c344-441f-89e5-977b9889707b" />
 
 <!--![img1](https://github.com/user-attachments/assets/337e2675-9aad-4803-99eb-7bc22733e7ce)-->
 <!--![img2](https://github.com/user-attachments/assets/60e11b73-1b9c-4149-9bdd-701c6cca6a39)-->
- 
-#### 500KB까지 렌더링되기에 중간에 짤립니다. 전체 목록은 [여기](./README.md)에서 확인해주세요.
 
 | No. | Title | Difficulty | Solution |
 |:---|:---|:----:|:---:|
