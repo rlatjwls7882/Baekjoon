@@ -1858,6 +1858,7 @@
 | [10254](https://boj.kr/10254) | 고속도로 | Platinum 2 | [C++](./10xxx/10254. 고속도로/고속도로.cc) |
 | [10256](https://boj.kr/10256) | 돌연변이 | Platinum 2 | [C++](./10xxx/10256. 돌연변이/돌연변이.cc) |
 | [10262](https://boj.kr/10262) | 주사위 게임 | Bronze 2 | [Java](./10xxx/10262. 주사위 게임/주사위 게임.java) |
+| [10266](https://boj.kr/10266) | 시계 사진들 | Platinum 4 | [C++](./10xxx/10266. 시계 사진들/시계 사진들.cc) |
 | [10275](https://boj.kr/10275) | 골드 러시 | Bronze 1 | [C++](./10xxx/10275. 골드 러시/골드 러시.cc) |
 | [10282](https://boj.kr/10282) | 해킹 | Gold 4 | [Java](./10xxx/10282. 해킹/해킹.java) |
 | [10312](https://boj.kr/10312) | Lodê | Bronze 2 | [Java](./10xxx/10312. Lodê/Lodê.java) |
