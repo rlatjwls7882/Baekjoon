@@ -101,11 +101,11 @@ def get_header(handle):
     header += " ![mazandi profile](http://mazandi.herokuapp.com/api?handle=rlatjwls3333&theme=dark)\n"
     header += "#### 500KB까지 렌더링되기에 중간에 짤립니다. 전체 목록은 [여기](./README.md)에서 확인해주세요.\n\n"
     header += "### 마지막 영정사진"
-    header += "<!-- <img alt="www acmicpc net_user_rlatjwls3333" src="https://github.com/user-attachments/assets/1dc23006-09a3-4864-93e8-6ebcd8d7bf97" /> -->"
-    header += "<img alt="www acmicpc net_user_rlatjwls3333" src="https://github.com/user-attachments/assets/337e2675-9aad-4803-99eb-7bc22733e7ce" />"
-    header += "<!-- <img alt="www acmicpc net_user_language_rlatjwls3333" src="https://github.com/user-attachments/assets/55937efb-5827-4c3a-9b53-25a746acc2c2" /> -->"
-    header += "<img alt="www acmicpc net_user_language_rlatjwls3333" src="https://github.com/user-attachments/assets/60e11b73-1b9c-4149-9bdd-701c6cca6a39" />"
-    header += "<img width="1950" height="4097" alt="solved ac_profile_rlatjwls3333" src="https://github.com/user-attachments/assets/42e4e975-e8c9-4a9e-ab0b-341cd6f71a7e" />"
+    header += " <!-- ![user](https://github.com/user-attachments/assets/1dc23006-09a3-4864-93e8-6ebcd8d7bf97) -->"
+    header += " ![user](https://github.com/user-attachments/assets/337e2675-9aad-4803-99eb-7bc22733e7ce)"
+    header += " <!-- ![language](https://github.com/user-attachments/assets/55937efb-5827-4c3a-9b53-25a746acc2c2) -->"
+    header += " ![language](https://github.com/user-attachments/assets/60e11b73-1b9c-4149-9bdd-701c6cca6a39)"
+    header += " ![solvedac](https://github.com/user-attachments/assets/42e4e975-e8c9-4a9e-ab0b-341cd6f71a7e)"
     return header
 
 # README.md 테이블을 반환
