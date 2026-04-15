@@ -100,12 +100,10 @@ def get_header(handle):
     header += " [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rlatjwls3333)](https://solved.ac/rlatjwls3333/)\n"
     header += " ![mazandi profile](http://mazandi.herokuapp.com/api?handle=rlatjwls3333&theme=dark)\n"
     header += "#### 500KB까지 렌더링되기에 중간에 짤립니다. 전체 목록은 [여기](./README.md)에서 확인해주세요.\n\n"
-    header += "### 마지막 영정사진"
-    header += " <!-- ![user](https://github.com/user-attachments/assets/1dc23006-09a3-4864-93e8-6ebcd8d7bf97) -->\n"
+    header += "### 마지막 영정사진\n"
     header += " ![user](https://github.com/user-attachments/assets/337e2675-9aad-4803-99eb-7bc22733e7ce)\n"
-    header += " <!-- ![language](https://github.com/user-attachments/assets/55937efb-5827-4c3a-9b53-25a746acc2c2) -->\n"
     header += " ![language](https://github.com/user-attachments/assets/60e11b73-1b9c-4149-9bdd-701c6cca6a39)\n"
-    header += " ![solvedac](https://github.com/user-attachments/assets/42e4e975-e8c9-4a9e-ab0b-341cd6f71a7e)\n\n"
+    header += " ![solvedac](https://github.com/user-attachments/assets/12f9e720-0f21-4c99-aab8-4bb7682f9fd6)\n\n"
     return header
 
 # README.md 테이블을 반환
