@@ -6,7 +6,7 @@
  ![mazandi profile](http://mazandi.herokuapp.com/api?handle=rlatjwls3333&theme=dark)
 #### 500KB까지 렌더링되기에 중간에 짤립니다. 전체 목록은 [여기](./README.md)에서 확인해주세요.
 
-| No. | Title | Difficulty | Solution |
+### 마지막 영정사진 <!-- ![user](https://github.com/user-attachments/assets/1dc23006-09a3-4864-93e8-6ebcd8d7bf97) --> ![user](https://github.com/user-attachments/assets/337e2675-9aad-4803-99eb-7bc22733e7ce) <!-- ![language](https://github.com/user-attachments/assets/55937efb-5827-4c3a-9b53-25a746acc2c2) --> ![language](https://github.com/user-attachments/assets/60e11b73-1b9c-4149-9bdd-701c6cca6a39) ![solvedac](https://github.com/user-attachments/assets/42e4e975-e8c9-4a9e-ab0b-341cd6f71a7e)| No. | Title | Difficulty | Solution |
 |:---|:---|:----:|:---:|
 | [01000](https://boj.kr/1000) | A+B | Bronze 5 | [C++](./01xxx/1000. A＋B/A＋B.cc) [Golfscript](./01xxx/1000. A＋B/A＋B.gs) [Java](./01xxx/1000. A＋B/A＋B.java) [Python](./01xxx/1000. A＋B/A＋B.py) |
 | [01001](https://boj.kr/1001) | A-B | Bronze 5 | [C++](./01xxx/1001. A－B/A－B.cc) [Golfscript](./01xxx/1001. A－B/A－B.gs) [Java](./01xxx/1001. A－B/A－B.java) |
