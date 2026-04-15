@@ -2120,7 +2120,7 @@
 | [11399](https://boj.kr/11399) | ATM | Silver 4 | [Java](./11xxx/11399. ATM/ATM.java) |
 | [11400](https://boj.kr/11400) | 단절선 | Platinum 4 | [C++](./11xxx/11400. 단절선/단절선.cc) |
 | [11401](https://boj.kr/11401) | 이항 계수 3 | Gold 1 | [Java](./11xxx/11401. 이항 계수 3/이항 계수 3.java) |
-| [11402](https://boj.kr/11402) | 이항 계수 4 | Platinum 4 | [C++](./11xxx/11402. 이항 계수 4/이항 계수 4.c) |
+| [11402](https://boj.kr/11402) | 이항 계수 4 | Platinum 4 | [C++](./11xxx/11402. 이항 계수 4/이항 계수 4.cc) |
 | [11403](https://boj.kr/11403) | 경로 찾기 | Silver 1 | [Java](./11xxx/11403. 경로 찾기/경로 찾기.java) |
 | [11404](https://boj.kr/11404) | 플로이드 | Gold 4 | [C++](./11xxx/11404. 플로이드/플로이드.cc) [Java](./11xxx/11404. 플로이드/플로이드.java) |
 | [11405](https://boj.kr/11405) | 책 구매하기 | Platinum 3 | [C++](./11xxx/11405. 책 구매하기/책 구매하기.cc) |
