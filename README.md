@@ -3284,6 +3284,7 @@
 | [17466](https://boj.kr/17466) | N! mod P (1) | Bronze 2 | [Java](./17xxx/17466. N！ mod P （1）/N！ mod P （1）.java) |
 | [17472](https://boj.kr/17472) | 다리 만들기 2 | Gold 1 | [Java](./17xxx/17472. 다리 만들기 2/다리 만들기 2.java) |
 | [17474](https://boj.kr/17474) | 수열과 쿼리 26 | Diamond 1 | [C++](./17xxx/17474. 수열과 쿼리 26/수열과 쿼리 26.cc) |
+| [17476](https://boj.kr/17476) | 수열과 쿼리 28 | Diamond 1 | [C++](./17xxx/17476. 수열과 쿼리 28/수열과 쿼리 28.cc) |
 | [17478](https://boj.kr/17478) | 재귀함수가 뭔가요? | Silver 5 | [Java](./17xxx/17478. 재귀함수가 뭔가요？/재귀함수가 뭔가요？.java) |
 | [17481](https://boj.kr/17481) | 최애 정하기 | Platinum 4 | [C++](./17xxx/17481. 최애 정하기/최애 정하기.cc) |
 | [17484](https://boj.kr/17484) | 진우의 달 여행 (Small) | Silver 3 | [C++](./17xxx/17484. 진우의 달 여행 （Small）/진우의 달 여행 （Small）.cc) |
