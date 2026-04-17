@@ -19,6 +19,7 @@ node merge(node a, node b) {
 }
 
 void propagate(int i) {
+    if(!arr[i].zero && !arr[i].one) return;
     arr[i].mx&=~lazyAnd[i];
     arr[i].zero|=lazyAnd[i];
     arr[i].one&=~lazyAnd[i];
@@ -42,7 +43,7 @@ void AND(int L, int R, int x, int nodeNum=1, int nodeL=0, int nodeR=SZ-1) {
     x&=~arr[nodeNum].zero;
     if(L<=nodeL && nodeR<=R && (x&arr[nodeNum].one)) {
         lazyAnd[nodeNum]=x&arr[nodeNum].one;
-        x-=x&arr[nodeNum].one;
+        x&=~arr[nodeNum].one;
         propagate(nodeNum);
     }
     if(!x) return;
@@ -58,7 +59,7 @@ void OR(int L, int R, int x, int nodeNum=1, int nodeL=0, int nodeR=SZ-1) {
     x&=~arr[nodeNum].one;
     if(L<=nodeL && nodeR<=R && (x&arr[nodeNum].zero)) {
         lazyOr[nodeNum]=x&arr[nodeNum].zero;
-        x-=x&arr[nodeNum].zero;
+        x&=~arr[nodeNum].zero;
         propagate(nodeNum);
     }
     if(!x) return;
