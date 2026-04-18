@@ -2263,7 +2263,7 @@
 | [12166](https://boj.kr/12166) | Standing Ovation (Small) | Bronze 2 | [Java](./12xxx/12166. Standing Ovation （Small）/Standing Ovation （Small）.java) |
 | [12167](https://boj.kr/12167) | Standing Ovation (Large) | Bronze 2 | [Java](./12xxx/12167. Standing Ovation （Large）/Standing Ovation （Large）.java) |
 | [12174](https://boj.kr/12174) | #include <Google I/O.h> | Bronze 2 | [Java](./12xxx/12174. #include ＜Google I／O．h＞/#include ＜Google I／O．h＞.java) |
-| [12178](https://boj.kr/12178) | Power Levels (Small) | Bronze 1 | [C++](./12xxx/12178. Power Levels （Small）/Power Levels （Small）.cc) |
+| [12178](https://boj.kr/12178) | Power Levels (Small) | Silver 5 | [C++](./12xxx/12178. Power Levels （Small）/Power Levels （Small）.cc) |
 | [12184](https://boj.kr/12184) | GBus count (Small) | Bronze 2 | [Java](./12xxx/12184. GBus count （Small）/GBus count （Small）.java) |
 | [12185](https://boj.kr/12185) | GBus count (Large) | Bronze 2 | [Java](./12xxx/12185. GBus count （Large）/GBus count （Large）.java) |
 | [12250](https://boj.kr/12250) | New Lottery Game (Small) | Bronze 3 | [Java](./12xxx/12250. New Lottery Game （Small）/New Lottery Game （Small）.java) |
@@ -3287,6 +3287,7 @@
 | [17473](https://boj.kr/17473) | 수열과 쿼리 25 | Ruby 5 | [C++](./17xxx/17473. 수열과 쿼리 25/수열과 쿼리 25.cc) |
 | [17474](https://boj.kr/17474) | 수열과 쿼리 26 | Diamond 1 | [C++](./17xxx/17474. 수열과 쿼리 26/수열과 쿼리 26.cc) |
 | [17476](https://boj.kr/17476) | 수열과 쿼리 28 | Diamond 1 | [C++](./17xxx/17476. 수열과 쿼리 28/수열과 쿼리 28.cc) |
+| [17477](https://boj.kr/17477) | 수열과 쿼리 29 | Ruby 4 | [C++](./17xxx/17477. 수열과 쿼리 29/수열과 쿼리 29.cc) |
 | [17478](https://boj.kr/17478) | 재귀함수가 뭔가요? | Silver 5 | [Java](./17xxx/17478. 재귀함수가 뭔가요？/재귀함수가 뭔가요？.java) |
 | [17481](https://boj.kr/17481) | 최애 정하기 | Platinum 4 | [C++](./17xxx/17481. 최애 정하기/최애 정하기.cc) |
 | [17484](https://boj.kr/17484) | 진우의 달 여행 (Small) | Silver 3 | [C++](./17xxx/17484. 진우의 달 여행 （Small）/진우의 달 여행 （Small）.cc) |
@@ -4425,6 +4426,7 @@
 | [27297](https://boj.kr/27297) | 맨해튼에서의 모임 | Gold 5 | [C++](./27xxx/27297. 맨해튼에서의 모임/맨해튼에서의 모임.cc) |
 | [27310](https://boj.kr/27310) | :chino_shock: | Bronze 4 | [C](./27xxx/27310. ：chino＿shock：/：chino＿shock：.c) |
 | [27312](https://boj.kr/27312) | 운영진에게 설정 짜기는 어려워 | Silver 1 | [C++](./27xxx/27312. 운영진에게 설정 짜기는 어려워/운영진에게 설정 짜기는 어려워.cc) |
+| [27322](https://boj.kr/27322) | 한별이의 퍼펙트 수열과 쿼리 교실 | Diamond 3 | [C++](./27xxx/27322. 한별이의 퍼펙트 수열과 쿼리 교실/한별이의 퍼펙트 수열과 쿼리 교실.cc) |
 | [27323](https://boj.kr/27323) | 직사각형 | Bronze 5 | [C](./27xxx/27323. 직사각형/직사각형.c) |
 | [27324](https://boj.kr/27324) | ゾロ目 (Same Numbers) | Bronze 5 | [C](./27xxx/27324. ゾロ目 （Same Numbers）/ゾロ目 （Same Numbers）.c) |
 | [27325](https://boj.kr/27325) | 3 つの箱 (Three Boxes) | Bronze 3 | [Java](./27xxx/27325. 3 つの箱 （Three Boxes）/3 つの箱 （Three Boxes）.java) |
@@ -5094,7 +5096,7 @@
 | [32115](https://boj.kr/32115) | 돌 놓기 게임 | Platinum 3 | [C++](./32xxx/32115. 돌 놓기 게임/돌 놓기 게임.cc) |
 | [32122](https://boj.kr/32122) | 밤양갱 | Platinum 3 | [C++](./32xxx/32122. 밤양갱/밤양갱.cc) |
 | [32124](https://boj.kr/32124) | 고장난 계산기 | Gold 3 | [C++](./32xxx/32124. 고장난 계산기/고장난 계산기.cc) |
-| [32126](https://boj.kr/32126) | 돌고래 사진 | Platinum 1 | [C++](./32xxx/32126. 돌고래 사진/돌고래 사진.cc) |
+| [32126](https://boj.kr/32126) | 돌고래 사진 | Diamond 5 | [C++](./32xxx/32126. 돌고래 사진/돌고래 사진.cc) |
 | [32132](https://boj.kr/32132) | PlayStation이 아니에요 | Bronze 1 | [C++](./32xxx/32132. PlayStation이 아니에요/PlayStation이 아니에요.cc) |
 | [32141](https://boj.kr/32141) | 카드 게임 (Easy) | Bronze 2 | [C++](./32xxx/32141. 카드 게임 （Easy）/카드 게임 （Easy）.cc) |
 | [32142](https://boj.kr/32142) | 서바이벌 | Silver 3 | [C++](./32xxx/32142. 서바이벌/서바이벌.cc) |
