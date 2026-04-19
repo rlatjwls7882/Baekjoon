@@ -2558,6 +2558,7 @@
 | [14208](https://boj.kr/14208) | 수열 찾기 | Platinum 4 | [C++](./14xxx/14208. 수열 찾기/수열 찾기.cc) |
 | [14209](https://boj.kr/14209) | Bridž | Bronze 3 | [Java](./14xxx/14209. Bridž/Bridž.java) |
 | [14215](https://boj.kr/14215) | 세 막대 | Bronze 3 | [Java](./14xxx/14215. 세 막대/세 막대.java) |
+| [14216](https://boj.kr/14216) | 할 일 정하기 2 | Diamond 4 | [C++](./14xxx/14216. 할 일 정하기 2/할 일 정하기 2.cc) |
 | [14217](https://boj.kr/14217) | 그래프 탐색 | Gold 5 | [C++](./14xxx/14217. 그래프 탐색/그래프 탐색.cc) |
 | [14218](https://boj.kr/14218) | 그래프 탐색 2 | Silver 1 | [C++](./14xxx/14218. 그래프 탐색 2/그래프 탐색 2.cc) |
 | [14219](https://boj.kr/14219) | 막대과자 포장 | Bronze 2 | [Java](./14xxx/14219. 막대과자 포장/막대과자 포장.java) |
