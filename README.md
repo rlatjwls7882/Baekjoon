@@ -3306,6 +3306,7 @@
 | [17526](https://boj.kr/17526) | Star Trek | Diamond 5 | [C++](./17xxx/17526. Star Trek/Star Trek.cc) |
 | [17530](https://boj.kr/17530) | Buffoon | Bronze 3 | [Java](./17xxx/17530. Buffoon/Buffoon.java) |
 | [17548](https://boj.kr/17548) | Greetings! | Bronze 4 | [Java](./17xxx/17548. Greetings！/Greetings！.java) |
+| [17575](https://boj.kr/17575) | Kings | Diamond 4 | [C++](./17xxx/17575. Kings/Kings.cc) |
 | [17576](https://boj.kr/17576) | Last Word | Bronze 1 | [Java](./17xxx/17576. Last Word/Last Word.java) |
 | [17577](https://boj.kr/17577) | Scores of Final Examination | Bronze 2 | [Java](./17xxx/17577. Scores of Final Examination/Scores of Final Examination.java) |
 | [17588](https://boj.kr/17588) | Missing Numbers | Bronze 3 | [Java](./17xxx/17588. Missing Numbers/Missing Numbers.java) |
@@ -4078,6 +4079,7 @@
 | [24927](https://boj.kr/24927) | Is It Even? | Bronze 2 | [Java](./24xxx/24927. Is It Even？/Is It Even？.java) |
 | [24937](https://boj.kr/24937) | SciComLove (2022) | Bronze 3 | [Java](./24xxx/24937. SciComLove （2022）/SciComLove （2022）.java) |
 | [24938](https://boj.kr/24938) | 키트 분배하기 | Silver 2 | [C++](./24xxx/24938. 키트 분배하기/키트 분배하기.cc) |
+| [24990](https://boj.kr/24990) | Hamilton - The Musical | Diamond 4 | [C++](./24xxx/24990. Hamilton － The Musical/Hamilton － The Musical.cc) |
 | [25024](https://boj.kr/25024) | 시간과 날짜 | Bronze 3 | [Java](./25xxx/25024. 시간과 날짜/시간과 날짜.java) |
 | [25044](https://boj.kr/25044) | 에어컨 | Silver 4 | [C++](./25xxx/25044. 에어컨/에어컨.cc) |
 | [25046](https://boj.kr/25046) | 사각형 게임 (Small) | Gold 5 | [C++](./25xxx/25046. 사각형 게임 （Small）/사각형 게임 （Small）.cc) |
