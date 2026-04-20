@@ -902,6 +902,7 @@
 | [03117](https://boj.kr/3117) | YouTube | Gold 1 | [C++](./03xxx/3117. YouTube/YouTube.cc) |
 | [03135](https://boj.kr/3135) | 라디오 | Silver 5 | [Java](./03xxx/3135. 라디오/라디오.java) |
 | [03145](https://boj.kr/3145) | 지리지도 | Platinum 4 | [C++](./03xxx/3145. 지리지도/지리지도.cc) |
+| [03150](https://boj.kr/3150) | NOGA | Diamond 3 | [C++](./03xxx/3150. NOGA/NOGA.cc) |
 | [03152](https://boj.kr/3152) | 예쁜 숫자 | Gold 5 | [C++](./03xxx/3152. 예쁜 숫자/예쁜 숫자.cc) |
 | [03154](https://boj.kr/3154) | 알람시계 | Bronze 1 | [C++](./03xxx/3154. 알람시계/알람시계.cc) |
 | [03164](https://boj.kr/3164) | 패턴 | Gold 4 | [C++](./03xxx/3164. 패턴/패턴.cc) |
@@ -936,6 +937,7 @@
 | [03412](https://boj.kr/3412) | Darts | Bronze 1 | [Java](./03xxx/3412. Darts/Darts.java) |
 | [03417](https://boj.kr/3417) | Vigenère Cipher Encryption | Bronze 2 | [Java](./03xxx/3417. Vigenère Cipher Encryption/Vigenère Cipher Encryption.java) |
 | [03430](https://boj.kr/3430) | 용이 산다 | Gold 1 | [C++](./03xxx/3430. 용이 산다/용이 산다.cc) |
+| [03444](https://boj.kr/3444) | Robotic Sort | Diamond 3 | [C++](./03xxx/3444. Robotic Sort/Robotic Sort.cc) |
 | [03447](https://boj.kr/3447) | 버그왕 | Bronze 1 | [Java](./03xxx/3447. 버그왕/버그왕.java) |
 | [03448](https://boj.kr/3448) | 문자 인식 | Bronze 1 | [Java](./03xxx/3448. 문자 인식/문자 인식.java) |
 | [03449](https://boj.kr/3449) | 해밍 거리 | Bronze 3 | [Java](./03xxx/3449. 해밍 거리/해밍 거리.java) |
