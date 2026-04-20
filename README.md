@@ -2393,6 +2393,7 @@
 | [13144](https://boj.kr/13144) | List of Unique Numbers | Gold 4 | [C++](./13xxx/13144. List of Unique Numbers/List of Unique Numbers.cc) |
 | [13153](https://boj.kr/13153) | Formula | Bronze 1 | [Python](./13xxx/13153. Formula/Formula.py) |
 | [13156](https://boj.kr/13156) | Selling CPUs | Gold 5 | [C++](./13xxx/13156. Selling CPUs/Selling CPUs.cc) |
+| [13159](https://boj.kr/13159) | 배열 | Diamond 2 | [C++](./13xxx/13159. 배열/배열.cc) |
 | [13161](https://boj.kr/13161) | 분단의 슬픔 | Platinum 1 | [C++](./13xxx/13161. 분단의 슬픔/분단의 슬픔.cc) |
 | [13163](https://boj.kr/13163) | 닉네임에 갓 붙이기 | Bronze 3 | [Java](./13xxx/13163. 닉네임에 갓 붙이기/닉네임에 갓 붙이기.java) |
 | [13164](https://boj.kr/13164) | 행복 유치원 | Gold 5 | [C++](./13xxx/13164. 행복 유치원/행복 유치원.cc) |
