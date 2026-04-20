@@ -3096,6 +3096,7 @@
 | [16572](https://boj.kr/16572) | Pixel Triangles | Platinum 5 | [C++](./16xxx/16572. Pixel Triangles/Pixel Triangles.cc) |
 | [16581](https://boj.kr/16581) | Lie Detector | Bronze 1 | [Java](./16xxx/16581. Lie Detector/Lie Detector.java) |
 | [16585](https://boj.kr/16585) | Tour de BINUS | Bronze 2 | [Java](./16xxx/16585. Tour de BINUS/Tour de BINUS.java) |
+| [16586](https://boj.kr/16586) | Linked List | Diamond 3 | [C++](./16xxx/16586. Linked List/Linked List.cc) |
 | [16600](https://boj.kr/16600) | Contemporary Art | Bronze 4 | [C](./16xxx/16600. Contemporary Art/Contemporary Art.c) |
 | [16625](https://boj.kr/16625) | Das Blinkenlights | Bronze 3 | [Java](./16xxx/16625. Das Blinkenlights/Das Blinkenlights.java) |
 | [16634](https://boj.kr/16634) | Run-Length Encoding, Run! | Bronze 2 | [Java](./16xxx/16634. Run－Length Encoding， Run！/Run－Length Encoding， Run！.java) |
