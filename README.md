@@ -791,6 +791,7 @@
 | [02839](https://boj.kr/2839) | 설탕 배달 | Silver 4 | [C](./02xxx/2839. 설탕 배달/설탕 배달.c) |
 | [02840](https://boj.kr/2840) | 행운의 바퀴 | Silver 4 | [C++](./02xxx/2840. 행운의 바퀴/행운의 바퀴.cc) |
 | [02841](https://boj.kr/2841) | 외계인의 기타 연주 | Silver 1 | [C++](./02xxx/2841. 외계인의 기타 연주/외계인의 기타 연주.cc) |
+| [02844](https://boj.kr/2844) | 자료 구조 | Diamond 2 | [C++](./02xxx/2844. 자료 구조/자료 구조.cc) |
 | [02845](https://boj.kr/2845) | 파티가 끝나고 난 뒤 | Bronze 4 | [C](./02xxx/2845. 파티가 끝나고 난 뒤/파티가 끝나고 난 뒤.c) |
 | [02846](https://boj.kr/2846) | 오르막길 | Bronze 1 | [Java](./02xxx/2846. 오르막길/오르막길.java) |
 | [02847](https://boj.kr/2847) | 게임을 만든 동준이 | Silver 4 | [C++](./02xxx/2847. 게임을 만든 동준이/게임을 만든 동준이.cc) |
@@ -5427,7 +5428,7 @@
 | [34146](https://boj.kr/34146) | 잃어버린 섬 | Silver 5 | [C++](./34xxx/34146. 잃어버린 섬/잃어버린 섬.cc) |
 | [34154](https://boj.kr/34154) | 팰린팰린드롬 | Platinum 3 | [C++](./34xxx/34154. 팰린팰린드롬/팰린팰린드롬.cc) |
 | [34155](https://boj.kr/34155) | 수열과 수열 2 | Silver 5 | [C++](./34xxx/34155. 수열과 수열 2/수열과 수열 2.cc) |
-| [34161](https://boj.kr/34161) | OO0OO | Bronze 3 | [C++](./34xxx/34161. OO0OO/OO0OO.cc) |
+| [34161](https://boj.kr/34161) | OO0OO | Bronze 4 | [C++](./34xxx/34161. OO0OO/OO0OO.cc) |
 | [34162](https://boj.kr/34162) | NP=P | Silver 5 | [C++](./34xxx/34162. NP＝P/NP＝P.cc) |
 | [34183](https://boj.kr/34183) | SUAPC 의자 준비하기 | Bronze 4 | [C++](./34xxx/34183.%E2%80%85SUAPC%E2%80%85의자%E2%80%85준비하기/SUAPC%E2%80%85의자%E2%80%85준비하기.cc) |
 | [34196](https://boj.kr/34196) | SUAPC 2025 Winter | Bronze 1 | [C++](./34xxx/34196. SUAPC 2025 Winter/SUAPC 2025 Winter.cc) |
