@@ -2444,6 +2444,7 @@
 | [13333](https://boj.kr/13333) | Q-인덱스 | Silver 5 | [C++](./13xxx/13333. Q－인덱스/Q－인덱스.cc) |
 | [13334](https://boj.kr/13334) | 철로 | Gold 2 | [C++](./13xxx/13334. 철로/철로.cc) |
 | [13335](https://boj.kr/13335) | 트럭 | Silver 1 | [C++](./13xxx/13335. 트럭/트럭.cc) |
+| [13361](https://boj.kr/13361) | 최고인 대장장이 토르비욘 | Diamond 5 | [C++](./13xxx/13361. 최고인 대장장이 토르비욘/최고인 대장장이 토르비욘.cc) |
 | [13363](https://boj.kr/13363) | Jumbled Compass | Bronze 3 | [Java](./13xxx/13363. Jumbled Compass/Jumbled Compass.java) |
 | [13366](https://boj.kr/13366) | Math Contest | Bronze 3 | [C++](./13xxx/13366. Math Contest/Math Contest.cc) |
 | [13383](https://boj.kr/13383) | Oil | Gold 4 | [C++](./13xxx/13383. Oil/Oil.cc) |
