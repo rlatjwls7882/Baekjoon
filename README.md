@@ -2914,6 +2914,7 @@
 | [15739](https://boj.kr/15739) | 매직스퀘어 | Silver 5 | [Java](./15xxx/15739. 매직스퀘어/매직스퀘어.java) |
 | [15740](https://boj.kr/15740) | A+B - 9 | Bronze 5 | [Java](./15xxx/15740. A＋B － 9/A＋B － 9.java) |
 | [15751](https://boj.kr/15751) | Teleportation | Bronze 3 | [Java](./15xxx/15751. Teleportation/Teleportation.java) |
+| [15773](https://boj.kr/15773) | Touch The Sky | Diamond 4 | [C++](./15xxx/15773. Touch The Sky/Touch The Sky.cc) |
 | [15780](https://boj.kr/15780) | 멀티탭 충분하니? | Bronze 3 | [Java](./15xxx/15780. 멀티탭 충분하니？/멀티탭 충분하니？.java) |
 | [15781](https://boj.kr/15781) | 헬멧과 조끼 | Bronze 3 | [Java](./15xxx/15781. 헬멧과 조끼/헬멧과 조끼.java) |
 | [15783](https://boj.kr/15783) | 세진 바이러스 | Platinum 4 | [C++](./15xxx/15783. 세진 바이러스/세진 바이러스.cc) |
