@@ -3042,6 +3042,7 @@
 | [16360](https://boj.kr/16360) | Go Latin | Bronze 1 | [Java](./16xxx/16360. Go Latin/Go Latin.java) |
 | [16367](https://boj.kr/16367) | TV Show Game | Platinum 2 | [C++](./16xxx/16367. TV Show Game/TV Show Game.cc) |
 | [16373](https://boj.kr/16373) | Prime Tree - 1 | Bronze 1 | [Text](./16xxx/16373. Prime Tree － 1/Prime Tree － 1.txt) |
+| [16389](https://boj.kr/16389) | Atlantis | Diamond 4 | [C++](./16xxx/16389. Atlantis/Atlantis.cc) |
 | [16394](https://boj.kr/16394) | 홍익대학교 | Bronze 5 | [C](./16xxx/16394. 홍익대학교/홍익대학교.c) |
 | [16395](https://boj.kr/16395) | 파스칼의 삼각형 | Silver 5 | [Java](./16xxx/16395. 파스칼의 삼각형/파스칼의 삼각형.java) |
 | [16396](https://boj.kr/16396) | 선 그리기 | Bronze 1 | [C++](./16xxx/16396. 선 그리기/선 그리기.cc) |
