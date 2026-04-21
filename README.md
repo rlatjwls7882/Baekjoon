@@ -3101,6 +3101,7 @@
 | [16625](https://boj.kr/16625) | Das Blinkenlights | Bronze 3 | [Java](./16xxx/16625. Das Blinkenlights/Das Blinkenlights.java) |
 | [16634](https://boj.kr/16634) | Run-Length Encoding, Run! | Bronze 2 | [Java](./16xxx/16634. Run－Length Encoding， Run！/Run－Length Encoding， Run！.java) |
 | [16648](https://boj.kr/16648) | Accumulator Battery | Bronze 2 | [Java](./16xxx/16648. Accumulator Battery/Accumulator Battery.java) |
+| [16670](https://boj.kr/16670) | King Kog’s Reception | Diamond 5 | [C++](./16xxx/16670. King Kog’s Reception/King Kog’s Reception.cc) |
 | [16673](https://boj.kr/16673) | 고려대학교에는 공식 와인이 있다 | Bronze 3 | [Java](./16xxx/16673. 고려대학교에는 공식 와인이 있다/고려대학교에는 공식 와인이 있다.java) |
 | [16674](https://boj.kr/16674) | 2018년을 되돌아보며 | Bronze 2 | [Java](./16xxx/16674. 2018년을 되돌아보며/2018년을 되돌아보며.java) |
 | [16675](https://boj.kr/16675) | 두 개의 손 | Bronze 2 | [Java](./16xxx/16675. 두 개의 손/두 개의 손.java) |
