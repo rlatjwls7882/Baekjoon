@@ -4935,6 +4935,7 @@
 | [30969](https://boj.kr/30969) | 진주로 가자! (Hard) | Silver 5 | [C++](./30xxx/30969. 진주로 가자！ （Hard）/진주로 가자！ （Hard）.cc) |
 | [30974](https://boj.kr/30974) | What's your ETA? | Gold 4 | [C++](./30xxx/30974. What's your ETA？/What's your ETA？.cc) |
 | [30976](https://boj.kr/30976) | 사랑의 큐피드 | Platinum 4 | [C++](./30xxx/30976. 사랑의 큐피드/사랑의 큐피드.cc) |
+| [30978](https://boj.kr/30978) | 버스 기사 집합지 | Ruby 5 | [C++](./30xxx/30978. 버스 기사 집합지/버스 기사 집합지.cc) |
 | [30979](https://boj.kr/30979) | 유치원생 파댕이 돌보기 | Bronze 4 | [Java](./30xxx/30979. 유치원생 파댕이 돌보기/유치원생 파댕이 돌보기.java) |
 | [30986](https://boj.kr/30986) | 파댕이의 예술작품 | Platinum 3 | [C++](./30xxx/30986. 파댕이의 예술작품/파댕이의 예술작품.cc) |
 | [30987](https://boj.kr/30987) | 하루 피부과 | Silver 5 | [Java](./30xxx/30987. 하루 피부과/하루 피부과.java) |
