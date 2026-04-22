@@ -9,7 +9,7 @@
 ### 마지막 사진
  ![user](https://github.com/user-attachments/assets/337e2675-9aad-4803-99eb-7bc22733e7ce)
  ![language](https://github.com/user-attachments/assets/60e11b73-1b9c-4149-9bdd-701c6cca6a39)
- ![solvedac](https://github.com/user-attachments/assets/12f9e720-0f21-4c99-aab8-4bb7682f9fd6)
+ ![solvedac](https://github.com/user-attachments/assets/377c912a-4a44-4871-ba0b-ca19f1b9bb33)
 
 | No. | Title | Difficulty | Solution |
 |:---|:---|:----:|:---:|
