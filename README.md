@@ -2557,6 +2557,7 @@
 | [14043](https://boj.kr/14043) | Ragaman | Bronze 2 | [Java](./14xxx/14043. Ragaman/Ragaman.java) |
 | [14065](https://boj.kr/14065) | Gorivo | Bronze 4 | [Java](./14xxx/14065. Gorivo/Gorivo.java) |
 | [14075](https://boj.kr/14075) | Luhn | Bronze 3 | [Java](./14xxx/14075. Luhn/Luhn.java) |
+| [14166](https://boj.kr/14166) | Robotic Cow Herd | Diamond 2 | [C++](./14xxx/14166. Robotic Cow Herd/Robotic Cow Herd.cc) |
 | [14173](https://boj.kr/14173) | Square Pasture | Bronze 3 | [Java](./14xxx/14173. Square Pasture/Square Pasture.java) |
 | [14175](https://boj.kr/14175) | The Cow-Signal | Bronze 2 | [Java](./14xxx/14175. The Cow－Signal/The Cow－Signal.java) |
 | [14180](https://boj.kr/14180) | 배열의 특징 | Diamond 5 | [C++](./14xxx/14180. 배열의 특징/배열의 특징.cc) |
