@@ -2781,6 +2781,7 @@
 | [14942](https://boj.kr/14942) | 개미 | Platinum 5 | [C++](./14xxx/14942. 개미/개미.cc) |
 | [14950](https://boj.kr/14950) | 정복자 | Gold 4 | [Java](./14xxx/14950. 정복자/정복자.java) |
 | [14954](https://boj.kr/14954) | Happy Number | Bronze 2 | [Java](./14xxx/14954. Happy Number/Happy Number.java) |
+| [14958](https://boj.kr/14958) | Rock Paper Scissors | Diamond 5 | [C++](./14xxx/14958. Rock Paper Scissors/Rock Paper Scissors.cc) |
 | [14963](https://boj.kr/14963) | Cezar | Bronze 2 | [Java](./14xxx/14963. Cezar/Cezar.java) |
 | [14969](https://boj.kr/14969) | Taro's Shopping | Bronze 2 | [Java](./14xxx/14969. Taro's Shopping/Taro's Shopping.java) |
 | [14977](https://boj.kr/14977) | Amusement Anticipation | Bronze 2 | [Java](./14xxx/14977. Amusement Anticipation/Amusement Anticipation.java) |
