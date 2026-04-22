@@ -1827,6 +1827,7 @@
 | [10163](https://boj.kr/10163) | 색종이 | Bronze 1 | [Java](./10xxx/10163. 색종이/색종이.java) |
 | [10164](https://boj.kr/10164) | 격자상의 경로 | Silver 2 | [C++](./10xxx/10164. 격자상의 경로/격자상의 경로.cc) |
 | [10166](https://boj.kr/10166) | 관중석 | Silver 1 | [C++](./10xxx/10166. 관중석/관중석.cc) |
+| [10167](https://boj.kr/10167) | 금광 | Diamond 5 | [C++](./10xxx/10167. 금광/금광.cc) |
 | [10168](https://boj.kr/10168) | 파발마 | Diamond 5 | [C++](./10xxx/10168. 파발마/파발마.cc) |
 | [10170](https://boj.kr/10170) | NFC West vs North | Bronze 5 | [C](./10xxx/10170. NFC West vs North/NFC West vs North.c) |
 | [10171](https://boj.kr/10171) | 고양이 | Bronze 5 | [C](./10xxx/10171. 고양이/고양이.c) [C++](./10xxx/10171. 고양이/고양이.cc) |
