@@ -5407,6 +5407,7 @@
 | [33938](https://boj.kr/33938) | 간단한 동전 문제 (Easy) | Silver 4 | [C++](./33xxx/33938. 간단한 동전 문제 （Easy）/간단한 동전 문제 （Easy）.cc) |
 | [33939](https://boj.kr/33939) | 부도덕한 그래프 (Easy) | Gold 5 | [C++](./33xxx/33939. 부도덕한 그래프 （Easy）/부도덕한 그래프 （Easy）.cc) |
 | [33943](https://boj.kr/33943) | 간단한 동전 문제 (Hard) | Gold 4 | [C++](./33xxx/33943. 간단한 동전 문제 （Hard）/간단한 동전 문제 （Hard）.cc) |
+| [33949](https://boj.kr/33949) | 🍕😋🤮 | Diamond 5 | [C++](./33xxx/33949. 🍕😋🤮/🍕😋🤮.cc) |
 | [33950](https://boj.kr/33950) | 어게인 포닉스 | Bronze 3 | [C++](./33xxx/33950. 어게인 포닉스/어게인 포닉스.cc) |
 | [33957](https://boj.kr/33957) | Golden Section Search | Silver 2 | [C++](./33xxx/33957. Golden Section Search/Golden Section Search.cc) |
 | [33959](https://boj.kr/33959) | 쿼리도 | Silver 2 | [C++](./33xxx/33959. 쿼리도/쿼리도.cc) |
