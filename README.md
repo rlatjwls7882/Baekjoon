@@ -4461,6 +4461,7 @@
 | [27333](https://boj.kr/27333) | JOI エディタ (JOI Editor) | Bronze 3 | [Java](./27xxx/27333. JOI エディタ （JOI Editor）/JOI エディタ （JOI Editor）.java) |
 | [27334](https://boj.kr/27334) | マラソン大会 (Marathon Race) | Bronze 3 | [Java](./27xxx/27334. マラソン大会 （Marathon Race）/マラソン大会 （Marathon Race）.java) |
 | [27335](https://boj.kr/27335) | 年齢の差 (Age Difference) | Bronze 2 | [Java](./27xxx/27335. 年齢の差 （Age Difference）/年齢の差 （Age Difference）.java) |
+| [27356](https://boj.kr/27356) | Weirdtree | Diamond 1 | [C++](./27xxx/27356. Weirdtree/Weirdtree.cc) |
 | [27370](https://boj.kr/27370) | 친구와 배달하기 | Silver 3 | [C++](./27xxx/27370. 친구와 배달하기/친구와 배달하기.cc) |
 | [27372](https://boj.kr/27372) | 미니 빙고 | Gold 4 | [Python](./27xxx/27372. 미니 빙고/미니 빙고.py) |
 | [27375](https://boj.kr/27375) | 금공강 사수 | Silver 1 | [C++](./27xxx/27375. 금공강 사수/금공강 사수.cc) |
