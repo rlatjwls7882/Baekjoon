@@ -8,7 +8,7 @@
 
 ### 마지막 사진
  ![user](https://github.com/user-attachments/assets/d81590dd-654d-4534-ad3e-5cb9df0f7e6a)
- ![language](https://github.com/user-attachments/assets/60e11b73-1b9c-4149-9bdd-701c6cca6a39)
+ ![language](https://github.com/user-attachments/assets/7be564fd-7135-40df-8adc-70da26ed152f)
  ![solvedac](https://github.com/user-attachments/assets/377c912a-4a44-4871-ba0b-ca19f1b9bb33)
 
 | No. | Title | Difficulty | Solution |
