@@ -3326,6 +3326,7 @@
 | [17577](https://boj.kr/17577) | Scores of Final Examination | Bronze 2 | [Java](./17xxx/17577. Scores of Final Examination/Scores of Final Examination.java) |
 | [17588](https://boj.kr/17588) | Missing Numbers | Bronze 3 | [Java](./17xxx/17588. Missing Numbers/Missing Numbers.java) |
 | [17598](https://boj.kr/17598) | Animal King Election | Bronze 4 | [Java](./17xxx/17598. Animal King Election/Animal King Election.java) |
+| [17607](https://boj.kr/17607) | 수열과 쿼리 31 | Diamond 2 | [C++](./17xxx/17607. 수열과 쿼리 31/수열과 쿼리 31.cc) |
 | [17608](https://boj.kr/17608) | 막대기 | Bronze 2 | [Java](./17xxx/17608. 막대기/막대기.java) |
 | [17609](https://boj.kr/17609) | 회문 | Gold 5 | [C++](./17xxx/17609. 회문/회문.cc) |
 | [17610](https://boj.kr/17610) | 양팔저울 | Silver 1 | [C++](./17xxx/17610. 양팔저울/양팔저울.cc) |
