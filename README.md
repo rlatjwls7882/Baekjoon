@@ -3395,6 +3395,7 @@
 | [18154](https://boj.kr/18154) | Speeding | Bronze 2 | [Java](./18xxx/18154. Speeding/Speeding.java) |
 | [18156](https://boj.kr/18156) | Black and White | Bronze 1 | [Java](./18xxx/18156. Black and White/Black and White.java) |
 | [18158](https://boj.kr/18158) | What an Easy Problem | Bronze 2 | [C++](./18xxx/18158. What an Easy Problem/What an Easy Problem.cc) |
+| [18185](https://boj.kr/18185) | 라면 사기 (Small) | Diamond 5 | [C++](./18xxx/18185. 라면 사기 （Small）/라면 사기 （Small）.cc) |
 | [18198](https://boj.kr/18198) | Basketball One-on-One | Bronze 4 | [Java](./18xxx/18198. Basketball One－on－One/Basketball One－on－One.java) |
 | [18221](https://boj.kr/18221) | 교수님 저는 취업할래요 | Silver 5 | [C++](./18xxx/18221. 교수님 저는 취업할래요/교수님 저는 취업할래요.cc) |
 | [18222](https://boj.kr/18222) | 투에-모스 문자열 | Silver 2 | [C++](./18xxx/18222. 투에－모스 문자열/투에－모스 문자열.cc) |
