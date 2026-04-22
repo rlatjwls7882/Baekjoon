@@ -1905,6 +1905,7 @@
 | [10599](https://boj.kr/10599) | 페르시아의 왕들 | Bronze 3 | [Java](./10xxx/10599. 페르시아의 왕들/페르시아의 왕들.java) |
 | [10600](https://boj.kr/10600) | Web Colors | Bronze 1 | [Java](./10xxx/10600.%E2%80%85Web%E2%80%85Colors/Web Colors.java) |
 | [10610](https://boj.kr/10610) | 30 | Silver 4 | [C++](./10xxx/10610. 30/30.cc) |
+| [10625](https://boj.kr/10625) | Decoding Ancient Messages | Diamond 3 | [Java](./10xxx/10625. Decoding Ancient Messages/Decoding Ancient Messages.java) |
 | [10643](https://boj.kr/10643) | FUNGHI | Bronze 2 | [Java](./10xxx/10643. FUNGHI/FUNGHI.java) |
 | [10653](https://boj.kr/10653) | 마라톤 2 | Gold 3 | [C++](./10xxx/10653. 마라톤 2/마라톤 2.cc) |
 | [10655](https://boj.kr/10655) | 마라톤 1 | Silver 3 | [C++](./10xxx/10655. 마라톤 1/마라톤 1.cc) |
@@ -3396,6 +3397,7 @@
 | [18156](https://boj.kr/18156) | Black and White | Bronze 1 | [Java](./18xxx/18156. Black and White/Black and White.java) |
 | [18158](https://boj.kr/18158) | What an Easy Problem | Bronze 2 | [C++](./18xxx/18158. What an Easy Problem/What an Easy Problem.cc) |
 | [18185](https://boj.kr/18185) | 라면 사기 (Small) | Diamond 5 | [C++](./18xxx/18185. 라면 사기 （Small）/라면 사기 （Small）.cc) |
+| [18186](https://boj.kr/18186) | 라면 사기 (Large) | Diamond 5 | [C++](./18xxx/18186. 라면 사기 （Large）/라면 사기 （Large）.cc) |
 | [18198](https://boj.kr/18198) | Basketball One-on-One | Bronze 4 | [Java](./18xxx/18198. Basketball One－on－One/Basketball One－on－One.java) |
 | [18221](https://boj.kr/18221) | 교수님 저는 취업할래요 | Silver 5 | [C++](./18xxx/18221. 교수님 저는 취업할래요/교수님 저는 취업할래요.cc) |
 | [18222](https://boj.kr/18222) | 투에-모스 문자열 | Silver 2 | [C++](./18xxx/18222. 투에－모스 문자열/투에－모스 문자열.cc) |
