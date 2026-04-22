@@ -2386,6 +2386,7 @@
 | [13023](https://boj.kr/13023) | ABCDE | Gold 5 | [Java](./13xxx/13023. ABCDE/ABCDE.java) |
 | [13028](https://boj.kr/13028) | 민호의 소원 | Platinum 2 | [C++](./13xxx/13028. 민호의 소원/민호의 소원.cc) |
 | [13034](https://boj.kr/13034) | 다각형 게임 | Platinum 3 | [C++](./13xxx/13034. 다각형 게임/다각형 게임.cc) |
+| [13055](https://boj.kr/13055) | K-Inversions | Diamond 5 | [C++](./13xxx/13055. K－Inversions/K－Inversions.cc) |
 | [13063](https://boj.kr/13063) | Lobby | Bronze 3 | [Java](./13xxx/13063. Lobby/Lobby.java) |
 | [13064](https://boj.kr/13064) | Cameras | Bronze 2 | [Java](./13xxx/13064. Cameras/Cameras.java) |
 | [13073](https://boj.kr/13073) | Sums | Bronze 3 | [Java](./13xxx/13073. Sums/Sums.java) |
