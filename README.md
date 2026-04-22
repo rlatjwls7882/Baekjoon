@@ -7,7 +7,7 @@
 #### 500KB까지 렌더링되기에 중간에 짤립니다. 전체 목록은 [여기](./README.md)에서 확인해주세요.
 
 ### 마지막 사진
- ![user](https://github.com/user-attachments/assets/337e2675-9aad-4803-99eb-7bc22733e7ce)
+ ![user](https://github.com/user-attachments/assets/d81590dd-654d-4534-ad3e-5cb9df0f7e6a)
  ![language](https://github.com/user-attachments/assets/60e11b73-1b9c-4149-9bdd-701c6cca6a39)
  ![solvedac](https://github.com/user-attachments/assets/377c912a-4a44-4871-ba0b-ca19f1b9bb33)
 
