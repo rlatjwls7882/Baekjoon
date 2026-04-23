@@ -2750,6 +2750,7 @@
 | [14825](https://boj.kr/14825) | Good News and Bad News (Small) | Gold 3 | [C++](./14xxx/14825. Good News and Bad News （Small）/Good News and Bad News （Small）.cc) |
 | [14848](https://boj.kr/14848) | 정수 게임 | Gold 3 | [C++](./14xxx/14848. 정수 게임/정수 게임.cc) |
 | [14852](https://boj.kr/14852) | 타일 채우기 3 | Gold 4 | [C++](./14xxx/14852. 타일 채우기 3/타일 채우기 3.cc) |
+| [14878](https://boj.kr/14878) | 부분 수열 XOR합 | Diamond 4 | [C++](./14xxx/14878. 부분 수열 XOR합/부분 수열 XOR합.cc) |
 | [14881](https://boj.kr/14881) | 물통 문제 | Gold 4 | [C++](./14xxx/14881. 물통 문제/물통 문제.cc) |
 | [14888](https://boj.kr/14888) | 연산자 끼워넣기 | Silver 1 | [Java](./14xxx/14888. 연산자 끼워넣기/연산자 끼워넣기.java) |
 | [14889](https://boj.kr/14889) | 스타트와 링크 | Silver 1 | [Java](./14xxx/14889. 스타트와 링크/스타트와 링크.java) |
