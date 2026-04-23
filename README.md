@@ -3378,6 +3378,7 @@
 | [17951](https://boj.kr/17951) | 흩날리는 시험지 속에서 내 평점이 느껴진거야 | Gold 3 | [C++](./17xxx/17951. 흩날리는 시험지 속에서 내 평점이 느껴진거야/흩날리는 시험지 속에서 내 평점이 느껴진거야.cc) |
 | [17952](https://boj.kr/17952) | 과제는 끝나지 않아! | Silver 3 | [C++](./17xxx/17952. 과제는 끝나지 않아！/과제는 끝나지 않아！.cc) |
 | [17953](https://boj.kr/17953) | 디저트 | Gold 5 | [C++](./17xxx/17953. 디저트/디저트.cc) |
+| [17975](https://boj.kr/17975) | Strike Zone | Diamond 5 | [C++](./17xxx/17975. Strike Zone/Strike Zone.cc) |
 | [17987](https://boj.kr/17987) | Howl | Bronze 2 | [Java](./17xxx/17987. Howl/Howl.java) |
 | [17998](https://boj.kr/17998) | Levenshtein Distance | Silver 4 | [C++](./17xxx/17998. Levenshtein Distance/Levenshtein Distance.cc) |
 | [18004](https://boj.kr/18004) | From A to B | Silver 2 | [C++](./18xxx/18004. From A to B/From A to B.cc) |
@@ -3449,6 +3450,7 @@
 | [18511](https://boj.kr/18511) | 큰 수 구성하기 | Silver 5 | [Java](./18xxx/18511. 큰 수 구성하기/큰 수 구성하기.java) |
 | [18512](https://boj.kr/18512) | 점프 점프 | Bronze 1 | [C++](./18xxx/18512. 점프 점프/점프 점프.cc) |
 | [18540](https://boj.kr/18540) | Scored Nim | Gold 2 | [C++](./18xxx/18540. Scored Nim/Scored Nim.cc) |
+| [18590](https://boj.kr/18590) | Snowy Smile | Diamond 5 | [C++](./18xxx/18590. Snowy Smile/Snowy Smile.cc) |
 | [18691](https://boj.kr/18691) | Pokemon Buddy | Bronze 4 | [Java](./18xxx/18691. Pokemon Buddy/Pokemon Buddy.java) |
 | [18698](https://boj.kr/18698) | The Walking Adam | Bronze 4 | [Java](./18xxx/18698. The Walking Adam/The Walking Adam.java) |
 | [18766](https://boj.kr/18766) | 카드 바꿔치기 | Bronze 1 | [Java](./18xxx/18766. 카드 바꿔치기/카드 바꿔치기.java) |
