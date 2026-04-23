@@ -4640,6 +4640,7 @@
 | [28470](https://boj.kr/28470) | 슥~빡! 빡~슥! | Silver 5 | [Java](./28xxx/28470. 슥～빡！ 빡～슥！/슥～빡！ 빡～슥！.java) |
 | [28471](https://boj.kr/28471) | W키가 빠진 성원이 | Silver 1 | [C++](./28xxx/28471. W키가 빠진 성원이/W키가 빠진 성원이.cc) |
 | [28490](https://boj.kr/28490) | Area | Bronze 4 | [Java](./28xxx/28490. Area/Area.java) |
+| [28498](https://boj.kr/28498) | Curtains | Diamond 4 | [C++](./28xxx/28498. Curtains/Curtains.cc) |
 | [28519](https://boj.kr/28519) | Планеты двух измерений | Bronze 4 | [Java](./28xxx/28519. Планеты двух измерений/Планеты двух измерений.java) |
 | [28598](https://boj.kr/28598) | Пилтовер и Заун | Bronze 2 | [Java](./28xxx/28598. Пилтовер и Заун/Пилтовер и Заун.java) |
 | [28635](https://boj.kr/28635) | Индикатор | Bronze 4 | [C++](./28xxx/28635. Индикатор/Индикатор.cc) |
