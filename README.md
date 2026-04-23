@@ -5564,6 +5564,7 @@
 | [34685](https://boj.kr/34685) | 이차 방정식 | Gold 2 | [C++](./34xxx/34685. 이차 방정식/이차 방정식.cc) |
 | [34686](https://boj.kr/34686) | Rescue Squad | Platinum 5 | [C++](./34xxx/34686. Rescue Squad/Rescue Squad.cc) |
 | [34687](https://boj.kr/34687) | 라면 끓여 먹자 야호 | Bronze 3 | [C++](./34xxx/34687. 라면 끓여 먹자 야호/라면 끓여 먹자 야호.cc) |
+| [34689](https://boj.kr/34689) | Paint It Anything Other Than White | Diamond 5 | [C++](./34xxx/34689. Paint It Anything Other Than White/Paint It Anything Other Than White.cc) |
 | [34691](https://boj.kr/34691) | 대전과학고등학교를 사랑하십니까? | Bronze 5 | [C++](./34xxx/34691. 대전과학고등학교를 사랑하십니까？/대전과학고등학교를 사랑하십니까？.cc) |
 | [34692](https://boj.kr/34692) | 아 마이마이 하고 싶다 | Bronze 1 | [C++](./34xxx/34692. 아 마이마이 하고 싶다/아 마이마이 하고 싶다.cc) |
 | [34703](https://boj.kr/34703) | 공강 사수 | Bronze 3 | [C++](./34xxx/34703. 공강 사수/공강 사수.cc) |
