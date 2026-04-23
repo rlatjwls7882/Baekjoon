@@ -1292,6 +1292,7 @@
 | [05778](https://boj.kr/5778) | Fake tickets | Bronze 2 | [Java](./05xxx/5778. Fake tickets/Fake tickets.java) |
 | [05789](https://boj.kr/5789) | 한다 안한다 | Bronze 3 | [Java](./05xxx/5789. 한다 안한다/한다 안한다.java) |
 | [05800](https://boj.kr/5800) | 성적 통계 | Silver 5 | [Java](./05xxx/5800. 성적 통계/성적 통계.java) |
+| [05853](https://boj.kr/5853) | Seating | Diamond 5 | [C++](./05xxx/5853. Seating/Seating.cc) |
 | [05867](https://boj.kr/5867) | Scrambled Letters | Gold 4 | [C++](./05xxx/5867. Scrambled Letters/Scrambled Letters.cc) |
 | [05874](https://boj.kr/5874) | 소를 찾아라 | Silver 4 | [C++](./05xxx/5874. 소를 찾아라/소를 찾아라.cc) |
 | [05883](https://boj.kr/5883) | 아이폰 9S | Silver 4 | [C++](./05xxx/5883. 아이폰 9S/아이폰 9S.cc) |
@@ -3143,6 +3144,7 @@
 | [16861](https://boj.kr/16861) | Harshad Numbers | Bronze 3 | [Java](./16xxx/16861. Harshad Numbers/Harshad Numbers.java) |
 | [16864](https://boj.kr/16864) | So You Like Your Food Hot? | Bronze 2 | [Java](./16xxx/16864. So You Like Your Food Hot？/So You Like Your Food Hot？.java) |
 | [16877](https://boj.kr/16877) | 핌버 | Platinum 3 | [C++](./16xxx/16877. 핌버/핌버.cc) |
+| [16880](https://boj.kr/16880) | 룩, 비숍, 킹, 나이트, 궁전 게임 | Diamond 5 | [C++](./16xxx/16880. 룩， 비숍， 킹， 나이트， 궁전 게임/룩， 비숍， 킹， 나이트， 궁전 게임.cc) |
 | [16882](https://boj.kr/16882) | 카드 게임 | Gold 3 | [C++](./16xxx/16882. 카드 게임/카드 게임.cc) |
 | [16886](https://boj.kr/16886) | 나누기 게임 | Platinum 3 | [C++](./16xxx/16886. 나누기 게임/나누기 게임.cc) |
 | [16888](https://boj.kr/16888) | 루트 게임 | Gold 5 | [C++](./16xxx/16888. 루트 게임/루트 게임.cc) |
@@ -3466,6 +3468,7 @@
 | [18884](https://boj.kr/18884) | New Year and Naming | Bronze 2 | [Java](./18xxx/18884. New Year and Naming/New Year and Naming.java) |
 | [18917](https://boj.kr/18917) | 수열과 쿼리 38 | Silver 3 | [Java](./18xxx/18917. 수열과 쿼리 38/수열과 쿼리 38.java) |
 | [18937](https://boj.kr/18937) | 왕들의 외나무다리 돌게임 | Platinum 3 | [C++](./18xxx/18937. 왕들의 외나무다리 돌게임/왕들의 외나무다리 돌게임.cc) |
+| [18939](https://boj.kr/18939) | 경비병 세우기 게임 | Diamond 4 | [C++](./18xxx/18939. 경비병 세우기 게임/경비병 세우기 게임.cc) |
 | [18964](https://boj.kr/18964) | Questionnaire | Bronze 3 | [Java](./18xxx/18964. Questionnaire/Questionnaire.java) |
 | [18979](https://boj.kr/18979) | Triangle Partition | Silver 3 | [C++](./18xxx/18979. Triangle Partition/Triangle Partition.cc) |
 | [19133](https://boj.kr/19133) | Subset Sum | Diamond 5 | [C++](./19xxx/19133. Subset Sum/Subset Sum.cc) |
