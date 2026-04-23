@@ -3798,6 +3798,7 @@
 | [22404](https://boj.kr/22404) | 豪邸と宅配便 | Bronze 2 | [Java](./22xxx/22404. 豪邸と宅配便/豪邸と宅配便.java) |
 | [22421](https://boj.kr/22421) | Koto Municipal Subway | Bronze 3 | [Java](./22xxx/22421. Koto Municipal Subway/Koto Municipal Subway.java) |
 | [22477](https://boj.kr/22477) | Kagisys | Bronze 1 | [Java](./22xxx/22477. Kagisys/Kagisys.java) |
+| [22496](https://boj.kr/22496) | Common Palindromes | Diamond 3 | [C++](./22xxx/22496. Common Palindromes/Common Palindromes.cc) |
 | [22524](https://boj.kr/22524) | koukyoukoukokukikou | Bronze 2 | [Java](./22xxx/22524. koukyoukoukokukikou/koukyoukoukokukikou.java) |
 | [22656](https://boj.kr/22656) | Princess' Gamble | Bronze 2 | [C++](./22xxx/22656. Princess' Gamble/Princess' Gamble.cc) |
 | [22686](https://boj.kr/22686) | Dance Dance Revolution | Bronze 1 | [C++](./22xxx/22686. Dance Dance Revolution/Dance Dance Revolution.cc) |
