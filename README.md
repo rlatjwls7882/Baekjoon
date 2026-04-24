@@ -3459,6 +3459,7 @@
 | [18512](https://boj.kr/18512) | 점프 점프 | Bronze 1 | [C++](./18xxx/18512. 점프 점프/점프 점프.cc) |
 | [18540](https://boj.kr/18540) | Scored Nim | Gold 2 | [C++](./18xxx/18540. Scored Nim/Scored Nim.cc) |
 | [18590](https://boj.kr/18590) | Snowy Smile | Diamond 5 | [C++](./18xxx/18590. Snowy Smile/Snowy Smile.cc) |
+| [18596](https://boj.kr/18596) | Monster Hunter | Diamond 1 | [C++](./18xxx/18596. Monster Hunter/Monster Hunter.cc) |
 | [18691](https://boj.kr/18691) | Pokemon Buddy | Bronze 4 | [Java](./18xxx/18691. Pokemon Buddy/Pokemon Buddy.java) |
 | [18698](https://boj.kr/18698) | The Walking Adam | Bronze 4 | [Java](./18xxx/18698. The Walking Adam/The Walking Adam.java) |
 | [18720](https://boj.kr/18720) | Bookface | Diamond 3 | [C++](./18xxx/18720. Bookface/Bookface.cc) |
