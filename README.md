@@ -3789,6 +3789,7 @@
 | [22233](https://boj.kr/22233) | 가희와 키워드 | Silver 3 | [Java](./22xxx/22233. 가희와 키워드/가희와 키워드.java) |
 | [22251](https://boj.kr/22251) | 빌런 호석 | Gold 5 | [C++](./22xxx/22251. 빌런 호석/빌런 호석.cc) |
 | [22255](https://boj.kr/22255) | 호석사우루스 | Gold 2 | [C++](./22xxx/22255. 호석사우루스/호석사우루스.cc) |
+| [22261](https://boj.kr/22261) | Password | Diamond 3 | [C++](./22xxx/22261. Password/Password.cc) |
 | [22279](https://boj.kr/22279) | Quality-Adjusted Life-Year | Bronze 4 | [Java](./22xxx/22279. Quality－Adjusted Life－Year/Quality－Adjusted Life－Year.java) |
 | [22289](https://boj.kr/22289) | 큰 수 곱셈 (3) | Diamond 5 | [C++](./22xxx/22289. 큰 수 곱셈 （3）/큰 수 곱셈 （3）.cc) |
 | [22332](https://boj.kr/22332) | XOR 2 | Silver 5 | [Text](./22xxx/22332. XOR 2/XOR 2.txt) |
