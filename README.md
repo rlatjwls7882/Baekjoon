@@ -1,15 +1,10 @@
-<div align="center">
+# Baekjoon Online Judge Solutions
 
-# Baekjoon
-
- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rlatjwls3333)](https://solved.ac/rlatjwls3333/)
- ![mazandi profile](http://mazandi.herokuapp.com/api?handle=rlatjwls3333&theme=dark)
-#### 500KB까지 렌더링되기에 중간에 짤립니다. 전체 목록은 [여기](./README.md)에서 확인해주세요.
-
-### 마지막 사진
  ![user](https://github.com/user-attachments/assets/e33e7ac9-2ca3-4178-9dfc-2fde76cf47a3)
  ![language](https://github.com/user-attachments/assets/9b4f6c2a-83ea-4207-b7d5-44786e1448f2)
  ![solvedac](https://github.com/user-attachments/assets/2aa9d2ac-8a0c-47ca-bd15-25fd7984c731)
+
+### 500KB까지 렌더링되기에 중간에 짤립니다. 전체 목록은 [여기](./README.md)에서 확인해주세요.
 
 | No. | Title | Difficulty | Solution |
 |:---|:---|:----:|:---:|
@@ -5694,4 +5689,3 @@
 | [35455](https://boj.kr/35455) | 10002221점 | Bronze 3 | [C++](./35xxx/35455. 10002221점/10002221점.cc) |
 | [35467](https://boj.kr/35467) | Swap-LIS | Silver 2 | [C++](./35xxx/35467. Swap－LIS/Swap－LIS.cc) |
 | [35479](https://boj.kr/35479) | 루미의 진정한™ 보라색 찾기 2 | Bronze 4 | [C++](./35xxx/35479. 루미의 진정한™ 보라색 찾기 2/루미의 진정한™ 보라색 찾기 2.cc) |
-</div>
