@@ -3509,6 +3509,7 @@
 | [19646](https://boj.kr/19646) | Random Generator | Platinum 5 | [C++](./19xxx/19646. Random Generator/Random Generator.cc) |
 | [19647](https://boj.kr/19647) | Unique Solution | Platinum 2 | [C++](./19xxx/19647. Unique Solution/Unique Solution.cc) |
 | [19685](https://boj.kr/19685) | Palindromic FizzBuzz | Bronze 2 | [Java](./19xxx/19685. Palindromic FizzBuzz/Palindromic FizzBuzz.java) |
+| [19693](https://boj.kr/19693) | Safety | Diamond 2 | [C++](./19xxx/19693. Safety/Safety.cc) |
 | [19698](https://boj.kr/19698) | 헛간 청약 | Bronze 4 | [C](./19xxx/19698. 헛간 청약/헛간 청약.c) |
 | [19699](https://boj.kr/19699) | 소-난다! | Silver 2 | [C++](./19xxx/19699. 소－난다！/소－난다！.cc) |
 | [19751](https://boj.kr/19751) | Fractification | Bronze 3 | [Java](./19xxx/19751. Fractification/Fractification.java) |
