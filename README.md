@@ -4603,6 +4603,7 @@
 | [28135](https://boj.kr/28135) | Since 1973 | Bronze 3 | [Java](./28xxx/28135. Since 1973/Since 1973.java) |
 | [28136](https://boj.kr/28136) | 원, 탁! | Silver 5 | [C++](./28xxx/28136. 원， 탁！/원， 탁！.cc) |
 | [28140](https://boj.kr/28140) | 빨강~ 빨강~ 파랑! 파랑! 달콤한 솜사탕! | Gold 5 | [C++](./28xxx/28140. 빨강～ 빨강～ 파랑！ 파랑！ 달콤한 솜사탕！/빨강～ 빨강～ 파랑！ 파랑！ 달콤한 솜사탕！.cc) |
+| [28147](https://boj.kr/28147) | Fail Fast | Diamond 1 | [C++](./28xxx/28147. Fail Fast/Fail Fast.cc) |
 | [28214](https://boj.kr/28214) | 크림빵 | Bronze 3 | [Java](./28xxx/28214. 크림빵/크림빵.java) |
 | [28215](https://boj.kr/28215) | 대피소 | Silver 4 | [C++](./28xxx/28215. 대피소/대피소.cc) |
 | [28224](https://boj.kr/28224) | Final Price | Bronze 4 | [C](./28xxx/28224. Final Price/Final Price.c) |
