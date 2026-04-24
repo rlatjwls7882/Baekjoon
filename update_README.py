@@ -95,7 +95,7 @@ def get_solution_path(id):
 
 # README.md 헤더 반환
 def get_header(handle):
-    header += "# Baekjoon Online Judge Solutions\n\n"
+    header = "# Baekjoon Online Judge Solutions\n\n"
     header += " ![user](https://github.com/user-attachments/assets/e33e7ac9-2ca3-4178-9dfc-2fde76cf47a3)\n"
     header += " ![language](https://github.com/user-attachments/assets/9b4f6c2a-83ea-4207-b7d5-44786e1448f2)\n"
     header += " ![solvedac](https://github.com/user-attachments/assets/2aa9d2ac-8a0c-47ca-bd15-25fd7984c731)\n\n"
