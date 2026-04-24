@@ -350,6 +350,7 @@
 | [01759](https://boj.kr/1759) | 암호 만들기 | Gold 5 | [C++](./01xxx/1759. 암호 만들기/암호 만들기.cc) |
 | [01760](https://boj.kr/1760) | N-Rook | Platinum 3 | [C++](./01xxx/1760. N－Rook/N－Rook.cc) |
 | [01761](https://boj.kr/1761) | 정점들의 거리 | Platinum 5 | [C++](./01xxx/1761. 정점들의 거리/정점들의 거리.cc) |
+| [01763](https://boj.kr/1763) | 트리 색칠 | Diamond 2 | [C++](./01xxx/1763. 트리 색칠/트리 색칠.cc) |
 | [01764](https://boj.kr/1764) | 듣보잡 | Silver 4 | [Java](./01xxx/1764. 듣보잡/듣보잡.java) |
 | [01766](https://boj.kr/1766) | 문제집 | Gold 2 | [Java](./01xxx/1766. 문제집/문제집.java) |
 | [01769](https://boj.kr/1769) | 3의 배수 | Silver 5 | [Java](./01xxx/1769. 3의 배수/3의 배수.java) |
