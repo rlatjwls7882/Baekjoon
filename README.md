@@ -1334,6 +1334,7 @@
 | [06144](https://boj.kr/6144) | Charm Bracelet | Gold 5 | [C++](./06xxx/6144. Charm Bracelet/Charm Bracelet.cc) |
 | [06159](https://boj.kr/6159) | Costume Party | Silver 5 | [C++](./06xxx/6159. Costume Party/Costume Party.cc) |
 | [06162](https://boj.kr/6162) | Superlatives | Bronze 3 | [Java](./06xxx/6162. Superlatives/Superlatives.java) |
+| [06164](https://boj.kr/6164) | Hotel | Diamond 5 | [C++](./06xxx/6164. Hotel/Hotel.cc) |
 | [06171](https://boj.kr/6171) | 땅따먹기 | Diamond 5 | [C++](./06xxx/6171. 땅따먹기/땅따먹기.cc) |
 | [06190](https://boj.kr/6190) | Another Cow Number Game | Bronze 3 | [Java](./06xxx/6190. Another Cow Number Game/Another Cow Number Game.java) |
 | [06194](https://boj.kr/6194) | Building the Moat | Platinum 5 | [C++](./06xxx/6194. Building the Moat/Building the Moat.cc) |
@@ -2447,6 +2448,7 @@
 | [13311](https://boj.kr/13311) | 행운의 편지 | Bronze 1 | [Java](./13xxx/13311. 행운의 편지/행운의 편지.java) |
 | [13312](https://boj.kr/13312) | 아크코사인은 믿음입니다 | Gold 3 | [C++](./13xxx/13312. 아크코사인은 믿음입니다/아크코사인은 믿음입니다.cc) |
 | [13322](https://boj.kr/13322) | 접두사 배열 | Bronze 1 | [Java](./13xxx/13322. 접두사 배열/접두사 배열.java) |
+| [13323](https://boj.kr/13323) | BOJ 수열 1 | Diamond 3 | [C++](./13xxx/13323. BOJ 수열 1/BOJ 수열 1.cc) |
 | [13333](https://boj.kr/13333) | Q-인덱스 | Silver 5 | [C++](./13xxx/13333. Q－인덱스/Q－인덱스.cc) |
 | [13334](https://boj.kr/13334) | 철로 | Gold 2 | [C++](./13xxx/13334. 철로/철로.cc) |
 | [13335](https://boj.kr/13335) | 트럭 | Silver 1 | [C++](./13xxx/13335. 트럭/트럭.cc) |
@@ -3449,12 +3451,14 @@
 | [18428](https://boj.kr/18428) | 감시 피하기 | Gold 5 | [C++](./18xxx/18428. 감시 피하기/감시 피하기.cc) |
 | [18429](https://boj.kr/18429) | 근손실 | Silver 3 | [C++](./18xxx/18429. 근손실/근손실.cc) |
 | [18436](https://boj.kr/18436) | 수열과 쿼리 37 | Gold 1 | [C++](./18xxx/18436. 수열과 쿼리 37/수열과 쿼리 37.cc) |
+| [18463](https://boj.kr/18463) | Farm of Monsters | Diamond 3 | [C++](./18xxx/18463. Farm of Monsters/Farm of Monsters.cc) |
 | [18511](https://boj.kr/18511) | 큰 수 구성하기 | Silver 5 | [Java](./18xxx/18511. 큰 수 구성하기/큰 수 구성하기.java) |
 | [18512](https://boj.kr/18512) | 점프 점프 | Bronze 1 | [C++](./18xxx/18512. 점프 점프/점프 점프.cc) |
 | [18540](https://boj.kr/18540) | Scored Nim | Gold 2 | [C++](./18xxx/18540. Scored Nim/Scored Nim.cc) |
 | [18590](https://boj.kr/18590) | Snowy Smile | Diamond 5 | [C++](./18xxx/18590. Snowy Smile/Snowy Smile.cc) |
 | [18691](https://boj.kr/18691) | Pokemon Buddy | Bronze 4 | [Java](./18xxx/18691. Pokemon Buddy/Pokemon Buddy.java) |
 | [18698](https://boj.kr/18698) | The Walking Adam | Bronze 4 | [Java](./18xxx/18698. The Walking Adam/The Walking Adam.java) |
+| [18720](https://boj.kr/18720) | Bookface | Diamond 3 | [C++](./18xxx/18720. Bookface/Bookface.cc) |
 | [18766](https://boj.kr/18766) | 카드 바꿔치기 | Bronze 1 | [Java](./18xxx/18766. 카드 바꿔치기/카드 바꿔치기.java) |
 | [18769](https://boj.kr/18769) | 그리드 네트워크 | Gold 4 | [Java](./18xxx/18769. 그리드 네트워크/그리드 네트워크.java) |
 | [18790](https://boj.kr/18790) | N의 배수 (1) | Gold 1 | [C++](./18xxx/18790. N의 배수 （1）/N의 배수 （1）.cc) |
