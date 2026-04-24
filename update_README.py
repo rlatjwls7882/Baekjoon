@@ -95,15 +95,11 @@ def get_solution_path(id):
 
 # README.md 헤더 반환
 def get_header(handle):
-    header = '<div align="center">\n\n'
-    header += "# Baekjoon\n\n"
-    header += " [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rlatjwls3333)](https://solved.ac/rlatjwls3333/)\n"
-    header += " ![mazandi profile](http://mazandi.herokuapp.com/api?handle=rlatjwls3333&theme=dark)\n"
-    header += "#### 500KB까지 렌더링되기에 중간에 짤립니다. 전체 목록은 [여기](./README.md)에서 확인해주세요.\n\n"
-    header += "### 마지막 사진\n"
+    header += "# Baekjoon Online Judge Solutions\n\n"
     header += " ![user](https://github.com/user-attachments/assets/e33e7ac9-2ca3-4178-9dfc-2fde76cf47a3)\n"
     header += " ![language](https://github.com/user-attachments/assets/9b4f6c2a-83ea-4207-b7d5-44786e1448f2)\n"
     header += " ![solvedac](https://github.com/user-attachments/assets/2aa9d2ac-8a0c-47ca-bd15-25fd7984c731)\n\n"
+    header += "### 500KB까지 렌더링되기에 중간에 짤립니다. 전체 목록은 [여기](./README.md)에서 확인해주세요.\n\n"
     return header
 
 # README.md 테이블을 반환
@@ -143,4 +139,4 @@ if __name__ == "__main__":
 
     # README.md 파일 업데이트
     with open("README.md", "w", encoding="utf-8") as f:
-        f.write(get_header(HANDLE) + get_table(problems) + "</div>\n")
+        f.write(get_header(HANDLE) + get_table(problems))
