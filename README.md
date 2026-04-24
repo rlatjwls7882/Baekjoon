@@ -968,6 +968,7 @@
 | [03665](https://boj.kr/3665) | 최종 순위 | Gold 1 | [C++](./03xxx/3665. 최종 순위/최종 순위.cc) |
 | [03679](https://boj.kr/3679) | 단순 다각형 | Platinum 4 | [C++](./03xxx/3679. 단순 다각형/단순 다각형.cc) |
 | [03683](https://boj.kr/3683) | 고양이와 개 | Platinum 2 | [C++](./03xxx/3683. 고양이와 개/고양이와 개.cc) |
+| [03685](https://boj.kr/3685) | 김강山 | Diamond 3 | [C++](./03xxx/3685. 김강山/김강山.cc) |
 | [03711](https://boj.kr/3711) | 학번 | Silver 5 | [Java](./03xxx/3711. 학번/학번.java) |
 | [03713](https://boj.kr/3713) | 당일치기 | Platinum 3 | [C++](./03xxx/3713. 당일치기/당일치기.cc) |
 | [03724](https://boj.kr/3724) | 표 | Bronze 1 | [Java](./03xxx/3724. 표/표.java) |
