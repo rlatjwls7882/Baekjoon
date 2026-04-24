@@ -4894,6 +4894,7 @@
 | [30468](https://boj.kr/30468) | 호반우가 학교에 지각한 이유 1 | Bronze 4 | [Java](./30xxx/30468. 호반우가 학교에 지각한 이유 1/호반우가 학교에 지각한 이유 1.java) |
 | [30469](https://boj.kr/30469) | 호반우가 학교에 지각한 이유 2 | Silver 1 | [C++](./30xxx/30469. 호반우가 학교에 지각한 이유 2/호반우가 학교에 지각한 이유 2.cc) |
 | [30471](https://boj.kr/30471) | 호반우가 학교에 지각한 이유 4 | Gold 2 | [C++](./30xxx/30471. 호반우가 학교에 지각한 이유 4/호반우가 학교에 지각한 이유 4.cc) |
+| [30480](https://boj.kr/30480) | Elevated Profits | Diamond 1 | [C++](./30xxx/30480. Elevated Profits/Elevated Profits.cc) |
 | [30489](https://boj.kr/30489) | <code>apt upgrade</code> | Bronze 1 | [Java](./30xxx/30489. ＜code＞apt upgrade＜／code＞/＜code＞apt upgrade＜／code＞.java) |
 | [30490](https://boj.kr/30490) | Battle Bots | Bronze 2 | [C++](./30xxx/30490. Battle Bots/Battle Bots.cc) |
 | [30492](https://boj.kr/30492) | Democratic Naming | Bronze 2 | [Java](./30xxx/30492. Democratic Naming/Democratic Naming.java) |
