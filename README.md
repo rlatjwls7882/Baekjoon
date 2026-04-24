@@ -3485,6 +3485,7 @@
 | [19155](https://boj.kr/19155) | Copying Homework | Bronze 2 | [Java](./19xxx/19155. Copying Homework/Copying Homework.java) |
 | [19277](https://boj.kr/19277) | ADD, DIV, MAX | Diamond 1 | [C++](./19xxx/19277. ADD， DIV， MAX/ADD， DIV， MAX.cc) |
 | [19355](https://boj.kr/19355) | A Really Odd Sequence | Silver 1 | [C++](./19xxx/19355. A Really Odd Sequence/A Really Odd Sequence.cc) |
+| [19381](https://boj.kr/19381) | Ascending Tree | Diamond 3 | [C++](./19xxx/19381. Ascending Tree/Ascending Tree.cc) |
 | [19455](https://boj.kr/19455) | Bitwise Queries | Ruby 5 | [C++](./19xxx/19455. Bitwise Queries/Bitwise Queries.cc) |
 | [19472](https://boj.kr/19472) | Array and Operations | Diamond 1 | [C++](./19xxx/19472. Array and Operations/Array and Operations.cc) |
 | [19532](https://boj.kr/19532) | 수학은 비대면강의입니다 | Bronze 2 | [Java](./19xxx/19532. 수학은 비대면강의입니다/수학은 비대면강의입니다.java) |
