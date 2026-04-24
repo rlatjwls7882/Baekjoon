@@ -2449,6 +2449,7 @@
 | [13312](https://boj.kr/13312) | 아크코사인은 믿음입니다 | Gold 3 | [C++](./13xxx/13312. 아크코사인은 믿음입니다/아크코사인은 믿음입니다.cc) |
 | [13322](https://boj.kr/13322) | 접두사 배열 | Bronze 1 | [Java](./13xxx/13322. 접두사 배열/접두사 배열.java) |
 | [13323](https://boj.kr/13323) | BOJ 수열 1 | Diamond 3 | [C++](./13xxx/13323. BOJ 수열 1/BOJ 수열 1.cc) |
+| [13324](https://boj.kr/13324) | BOJ 수열 2 | Diamond 2 | [C++](./13xxx/13324. BOJ 수열 2/BOJ 수열 2.cc) |
 | [13333](https://boj.kr/13333) | Q-인덱스 | Silver 5 | [C++](./13xxx/13333. Q－인덱스/Q－인덱스.cc) |
 | [13334](https://boj.kr/13334) | 철로 | Gold 2 | [C++](./13xxx/13334. 철로/철로.cc) |
 | [13335](https://boj.kr/13335) | 트럭 | Silver 1 | [C++](./13xxx/13335. 트럭/트럭.cc) |
@@ -3746,6 +3747,7 @@
 | [21870](https://boj.kr/21870) | 시철이가 사랑한 GCD | Gold 5 | [C++](./21xxx/21870. 시철이가 사랑한 GCD/시철이가 사랑한 GCD.cc) |
 | [21875](https://boj.kr/21875) | Innohorse | Bronze 4 | [C++](./21xxx/21875. Innohorse/Innohorse.cc) |
 | [21895](https://boj.kr/21895) | Rock-Paper-Scissors for three | Bronze 2 | [Python](./21xxx/21895. Rock－Paper－Scissors for three/Rock－Paper－Scissors for three.py) |
+| [21905](https://boj.kr/21905) | Archeologists | Diamond 4 | [C++](./21xxx/21905. Archeologists/Archeologists.cc) |
 | [21918](https://boj.kr/21918) | 전구 | Bronze 2 | [Java](./21xxx/21918. 전구/전구.java) |
 | [21919](https://boj.kr/21919) | 소수 최소 공배수 | Silver 3 | [C++](./21xxx/21919. 소수 최소 공배수/소수 최소 공배수.cc) |
 | [21920](https://boj.kr/21920) | 서로소 평균 | Silver 4 | [C++](./21xxx/21920. 서로소 평균/서로소 평균.cc) |
