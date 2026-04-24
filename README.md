@@ -2867,6 +2867,7 @@
 | [15501](https://boj.kr/15501) | 부당한 퍼즐 | Silver 2 | [C++](./15xxx/15501. 부당한 퍼즐/부당한 퍼즐.cc) |
 | [15508](https://boj.kr/15508) | Xayahh-Rakann at Moloco (Easy) | Gold 4 | [Java](./15xxx/15508. Xayahh－Rakann at Moloco （Easy）/Xayahh－Rakann at Moloco （Easy）.java) |
 | [15516](https://boj.kr/15516) | Array Manipulation at Moloco (Easy) | Silver 5 | [C++](./15xxx/15516. Array Manipulation at Moloco （Easy）/Array Manipulation at Moloco （Easy）.cc) |
+| [15527](https://boj.kr/15527) | Farm Village | Diamond 2 | [C++](./15xxx/15527. Farm Village/Farm Village.cc) |
 | [15549](https://boj.kr/15549) | if | Silver 5 | [Text](./15xxx/15549.%E2%80%85if/if.txt) |
 | [15552](https://boj.kr/15552) | 빠른 A+B | Bronze 4 | [C](./15xxx/15552. 빠른 A＋B/빠른 A＋B.c) |
 | [15563](https://boj.kr/15563) | Äventyr 1 | Silver 1 | [C++](./15xxx/15563. Äventyr 1/Äventyr 1.cc) |
