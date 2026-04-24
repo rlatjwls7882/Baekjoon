@@ -101,9 +101,9 @@ def get_header(handle):
     header += " ![mazandi profile](http://mazandi.herokuapp.com/api?handle=rlatjwls3333&theme=dark)\n"
     header += "#### 500KB까지 렌더링되기에 중간에 짤립니다. 전체 목록은 [여기](./README.md)에서 확인해주세요.\n\n"
     header += "### 마지막 사진\n"
-    header += " ![user](https://github.com/user-attachments/assets/31fb5f46-6ef9-4a59-98ee-d173b5861a1b)\n"
-    header += " ![language](https://github.com/user-attachments/assets/27ccda83-98d3-48b1-999f-7c567197f119)\n"
-    header += " ![solvedac](https://github.com/user-attachments/assets/01027f18-1980-472a-8305-c1fef621d222)\n\n"
+    header += " ![user](https://github.com/user-attachments/assets/e33e7ac9-2ca3-4178-9dfc-2fde76cf47a3)\n"
+    header += " ![language](https://github.com/user-attachments/assets/9b4f6c2a-83ea-4207-b7d5-44786e1448f2)\n"
+    header += " ![solvedac](https://github.com/user-attachments/assets/1e5e66e8-d944-4871-9f73-5ca10366356f)\n\n"
     return header
 
 # README.md 테이블을 반환
