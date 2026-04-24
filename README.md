@@ -2258,6 +2258,7 @@
 | [11966](https://boj.kr/11966) | 2의 제곱인가? | Bronze 3 | [Java](./11xxx/11966. 2의 제곱인가？/2의 제곱인가？.java) |
 | [11970](https://boj.kr/11970) | Fence Painting | Bronze 3 | [Java](./11xxx/11970. Fence Painting/Fence Painting.java) |
 | [11971](https://boj.kr/11971) | 속도 위반 | Silver 5 | [Java](./11xxx/11971. 속도 위반/속도 위반.java) |
+| [12010](https://boj.kr/12010) | Landscaping | Diamond 1 | [C++](./12xxx/12010. Landscaping/Landscaping.cc) |
 | [12015](https://boj.kr/12015) | 가장 긴 증가하는 부분 수열 2 | Gold 2 | [C++](./12xxx/12015. 가장 긴 증가하는 부분 수열 2/가장 긴 증가하는 부분 수열 2.cc) |
 | [12018](https://boj.kr/12018) | Yonsei TOTO | Silver 3 | [C++](./12xxx/12018. Yonsei TOTO/Yonsei TOTO.cc) |
 | [12026](https://boj.kr/12026) | BOJ 거리 | Silver 1 | [C++](./12xxx/12026. BOJ 거리/BOJ 거리.cc) |
