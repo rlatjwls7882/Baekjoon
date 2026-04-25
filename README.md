@@ -2,7 +2,7 @@
 
  ![user](https://github.com/user-attachments/assets/e33e7ac9-2ca3-4178-9dfc-2fde76cf47a3)
  ![language](https://github.com/user-attachments/assets/9b4f6c2a-83ea-4207-b7d5-44786e1448f2)
- ![solvedac](https://github.com/user-attachments/assets/2aa9d2ac-8a0c-47ca-bd15-25fd7984c731)
+ ![solvedac](https://github.com/user-attachments/assets/5aaa4941-8005-432f-983e-afd972bb6d51)
 
 ### 500KB까지 렌더링되기에 중간에 짤립니다. 전체 목록은 [여기](./README.md)에서 확인해주세요.
 
