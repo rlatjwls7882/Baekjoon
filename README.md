@@ -2858,6 +2858,7 @@
 | [15486](https://boj.kr/15486) | 퇴사 2 | Gold 5 | [C++](./15xxx/15486. 퇴사 2/퇴사 2.cc) |
 | [15487](https://boj.kr/15487) | A[j]-A[i]+A[l]-A[k] | Gold 4 | [C++](./15xxx/15487. A［j］－A［i］＋A［l］－A［k］/A［j］－A［i］＋A［l］－A［k］.cc) |
 | [15489](https://boj.kr/15489) | 파스칼 삼각형 | Silver 4 | [Java](./15xxx/15489. 파스칼 삼각형/파스칼 삼각형.java) |
+| [15493](https://boj.kr/15493) | 수 고르기 | Diamond 4 | [C++](./15xxx/15493. 수 고르기/수 고르기.cc) |
 | [15494](https://boj.kr/15494) | Davor | Bronze 2 | [Java](./15xxx/15494. Davor/Davor.java) |
 | [15501](https://boj.kr/15501) | 부당한 퍼즐 | Silver 2 | [C++](./15xxx/15501. 부당한 퍼즐/부당한 퍼즐.cc) |
 | [15508](https://boj.kr/15508) | Xayahh-Rakann at Moloco (Easy) | Gold 4 | [Java](./15xxx/15508. Xayahh－Rakann at Moloco （Easy）/Xayahh－Rakann at Moloco （Easy）.java) |
