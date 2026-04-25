@@ -5209,6 +5209,7 @@
 | [32349](https://boj.kr/32349) | 구슬 옮기기 | Platinum 3 | [C++](./32xxx/32349. 구슬 옮기기/구슬 옮기기.cc) |
 | [32350](https://boj.kr/32350) | 오버킬 | Bronze 1 | [C++](./32xxx/32350. 오버킬/오버킬.cc) |
 | [32351](https://boj.kr/32351) | 리듬게임 | Bronze 1 | [C++](./32xxx/32351. 리듬게임/리듬게임.cc) |
+| [32354](https://boj.kr/32354) | 덱 조작과 쿼리 | Gold 2 | [C++](./32xxx/32354. 덱 조작과 쿼리/덱 조작과 쿼리.cc) |
 | [32357](https://boj.kr/32357) | 더블팰린드롬 | Bronze 1 | [C++](./32xxx/32357. 더블팰린드롬/더블팰린드롬.cc) |
 | [32364](https://boj.kr/32364) | Hat Circle | Bronze 3 | [C++](./32xxx/32364. Hat Circle/Hat Circle.cc) |
 | [32369](https://boj.kr/32369) | 양파 실험 | Bronze 4 | [C++](./32xxx/32369. 양파 실험/양파 실험.cc) |
