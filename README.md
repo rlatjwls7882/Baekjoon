@@ -610,7 +610,7 @@
 | [02446](https://boj.kr/2446) | 별 찍기 - 9 | Bronze 3 | [Java](./02xxx/2446. 별 찍기 － 9/별 찍기 － 9.java) |
 | [02447](https://boj.kr/2447) | 별 찍기 - 10 | Gold 5 | [Java](./02xxx/2447. 별 찍기 － 10/별 찍기 － 10.java) |
 | [02448](https://boj.kr/2448) | 별 찍기 - 11 | Gold 4 | [Java](./02xxx/2448. 별 찍기 － 11/별 찍기 － 11.java) |
-| [02449](https://boj.kr/2449) | 전구 | Platinum 4 | [C++](./02xxx/2449. 전구/전구.cc) |
+| [02449](https://boj.kr/2449) | 전구 | Platinum 3 | [C++](./02xxx/2449. 전구/전구.cc) |
 | [02455](https://boj.kr/2455) | 지능형 기차 | Bronze 3 | [Java](./02xxx/2455. 지능형 기차/지능형 기차.java) |
 | [02456](https://boj.kr/2456) | 나는 학급회장이다 | Bronze 1 | [Java](./02xxx/2456. 나는 학급회장이다/나는 학급회장이다.java) |
 | [02457](https://boj.kr/2457) | 공주님의 정원 | Gold 3 | [C++](./02xxx/2457. 공주님의 정원/공주님의 정원.cc) |
@@ -1964,6 +1964,7 @@
 | [10840](https://boj.kr/10840) | 구간 성분 | Gold 1 | [C++](./10xxx/10840. 구간 성분/구간 성분.cc) |
 | [10844](https://boj.kr/10844) | 쉬운 계단 수 | Silver 1 | [Java](./10xxx/10844. 쉬운 계단 수/쉬운 계단 수.java) |
 | [10845](https://boj.kr/10845) | 큐 | Silver 4 | [C++](./10xxx/10845. 큐/큐.cc) [Java](./10xxx/10845. 큐/큐.java) |
+| [10848](https://boj.kr/10848) | 팔렘방의 다리 | Diamond 3 | [C++](./10xxx/10848. 팔렘방의 다리/팔렘방의 다리.cc) |
 | [10855](https://boj.kr/10855) | Extreme Sort | Bronze 2 | [Java](./10xxx/10855. Extreme Sort/Extreme Sort.java) |
 | [10859](https://boj.kr/10859) | 뒤집어진 소수 | Silver 2 | [C++](./10xxx/10859. 뒤집어진 소수/뒤집어진 소수.cc) |
 | [10864](https://boj.kr/10864) | 친구 | Bronze 2 | [Java](./10xxx/10864. 친구/친구.java) |
