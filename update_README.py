@@ -98,7 +98,7 @@ def get_header(handle):
     header = "# Baekjoon Online Judge Solutions\n\n"
     header += " ![user](https://github.com/user-attachments/assets/28bb0d39-9630-4836-97de-12debe34b843)\n"
     header += " ![language](https://github.com/user-attachments/assets/b2551bd4-2573-4557-8b9a-41af54c02517)\n"
-    header += " ![solvedac](https://github.com/user-attachments/assets/438df4ac-42b2-4265-9af1-43e2cbf6161e)\n\n"
+    header += " ![solvedac](https://github.com/user-attachments/assets/c80bd6a4-60a7-4794-93f4-a84fc8ceb49e)\n\n"
     header += "### 500KB까지 렌더링되기에 중간에 짤립니다. 전체 목록은 [여기](./README.md)에서 확인해주세요.\n\n"
     return header
 
