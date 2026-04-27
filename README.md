@@ -1,7 +1,7 @@
 # Baekjoon Online Judge Solutions
 
- ![user](https://github.com/user-attachments/assets/d75a8b5f-0580-4251-b707-64f3834e4af9)
- ![language](https://github.com/user-attachments/assets/ccdf207d-72ad-4e48-84ea-5a1557248933)
+ ![user](https://github.com/user-attachments/assets/28bb0d39-9630-4836-97de-12debe34b843)
+ ![language](https://github.com/user-attachments/assets/b2551bd4-2573-4557-8b9a-41af54c02517)
  ![solvedac](https://github.com/user-attachments/assets/438df4ac-42b2-4265-9af1-43e2cbf6161e)
 
 ### 500KB까지 렌더링되기에 중간에 짤립니다. 전체 목록은 [여기](./README.md)에서 확인해주세요.
@@ -3449,7 +3449,7 @@
 | [18412](https://boj.kr/18412) | 文字列の反転 (Inversion of a String) | Bronze 3 | [Java](./18xxx/18412. 文字列の反転 （Inversion of a String）/文字列の反転 （Inversion of a String）.java) |
 | [18413](https://boj.kr/18413) | 最頻値 (Mode) | Bronze 2 | [Java](./18xxx/18413. 最頻値 （Mode）/最頻値 （Mode）.java) |
 | [18414](https://boj.kr/18414) | X に最も近い値 (The Nearest Value) | Bronze 4 | [Java](./18xxx/18414. X に最も近い値 （The Nearest Value）/X に最も近い値 （The Nearest Value）.java) |
-| [18415](https://boj.kr/18415) | キャピタリゼーション (Capitalization) | Bronze 2 | [Java](./18xxx/18415. キャピタリゼーション （Capitalization）/キャピタリゼーション （Capitalization）.java) |
+| [18415](https://boj.kr/18415) | キャピタリゼーション (Capitalization) | Bronze 3 | [Java](./18xxx/18415. キャピタリゼーション （Capitalization）/キャピタリゼーション （Capitalization）.java) |
 | [18416](https://boj.kr/18416) | 最長昇順連続部分列 (Longest Ascending Contiguous Subsequence) | Bronze 2 | [Java](./18xxx/18416. 最長昇順連続部分列 （Longest Ascending Contiguous Subsequence）/最長昇順連続部分列 （Longest Ascending Contiguous Subsequence）.java) |
 | [18428](https://boj.kr/18428) | 감시 피하기 | Gold 5 | [C++](./18xxx/18428. 감시 피하기/감시 피하기.cc) |
 | [18429](https://boj.kr/18429) | 근손실 | Silver 3 | [C++](./18xxx/18429. 근손실/근손실.cc) |
@@ -4007,7 +4007,7 @@
 | [24294](https://boj.kr/24294) | ГРАДИНА | Bronze 4 | [Java](./24xxx/24294. ГРАДИНА/ГРАДИНА.java) |
 | [24296](https://boj.kr/24296) | ЛИНИЯ | Bronze 3 | [Java](./24xxx/24296. ЛИНИЯ/ЛИНИЯ.java) |
 | [24302](https://boj.kr/24302) | КУРИЕРИ | Bronze 3 | [Java](./24xxx/24302. КУРИЕРИ/КУРИЕРИ.java) |
-| [24303](https://boj.kr/24303) | ПРЪЧКИ | Bronze 2 | [Java](./24xxx/24303. ПРЪЧКИ/ПРЪЧКИ.java) |
+| [24303](https://boj.kr/24303) | ПРЪЧКИ | Bronze 3 | [Java](./24xxx/24303. ПРЪЧКИ/ПРЪЧКИ.java) |
 | [24304](https://boj.kr/24304) | ЧИСЛА МЕЖДУ БУКВИ | Bronze 1 | [C++](./24xxx/24304. ЧИСЛА МЕЖДУ БУКВИ/ЧИСЛА МЕЖДУ БУКВИ.cc) |
 | [24309](https://boj.kr/24309) | РАВЕНСТВО | Bronze 5 | [Java](./24xxx/24309. РАВЕНСТВО/РАВЕНСТВО.java) |
 | [24310](https://boj.kr/24310) | БОЯДИСВАНЕ НА ОГРАДА | Bronze 2 | [Java](./24xxx/24310. БОЯДИСВАНЕ НА ОГРАДА/БОЯДИСВАНЕ НА ОГРАДА.java) |
@@ -4251,7 +4251,7 @@
 | [25775](https://boj.kr/25775) | Letter Frequency | Bronze 1 | [Java](./25xxx/25775. Letter Frequency/Letter Frequency.java) |
 | [25784](https://boj.kr/25784) | Easy-to-Solve Expressions | Bronze 4 | [Java](./25xxx/25784. Easy－to－Solve Expressions/Easy－to－Solve Expressions.java) |
 | [25785](https://boj.kr/25785) | Easy-to-Pronounce Words | Bronze 3 | [Java](./25xxx/25785. Easy－to－Pronounce Words/Easy－to－Pronounce Words.java) |
-| [25786](https://boj.kr/25786) | Decimal XOR | Bronze 2 | [Java](./25xxx/25786. Decimal XOR/Decimal XOR.java) |
+| [25786](https://boj.kr/25786) | Decimal XOR | Bronze 3 | [Java](./25xxx/25786. Decimal XOR/Decimal XOR.java) |
 | [25801](https://boj.kr/25801) | Odd/Even Strings | Bronze 3 | [Java](./25xxx/25801. Odd／Even Strings/Odd／Even Strings.java) |
 | [25812](https://boj.kr/25812) | Nice Raises | Bronze 3 | [Java](./25xxx/25812. Nice Raises/Nice Raises.java) |
 | [25813](https://boj.kr/25813) | Changing Strings | Bronze 3 | [Java](./25xxx/25813. Changing Strings/Changing Strings.java) |
