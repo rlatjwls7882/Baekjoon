@@ -23,9 +23,9 @@ jobs:
           python -m pip install --upgrade pip
           pip install curl_cffi requests tqdm
 
-      # - name: Run script
-      #   run: |
-      #     python update_README.py
+      - name: Run script
+        run: |
+          python update_README.py
 
       - name: Push changes and commit
         continue-on-error: true

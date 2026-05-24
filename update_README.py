@@ -53,9 +53,18 @@ def get_problem_tier(level):
         11: "Gold 5", 12: "Gold 4", 13: "Gold 3", 14: "Gold 2", 15: "Gold 1",
         16: "Platinum 5", 17: "Platinum 4", 18: "Platinum 3", 19: "Platinum 2", 20: "Platinum 1",
         21: "Diamond 5", 22: "Diamond 4", 23: "Diamond 3", 24: "Diamond 2", 25: "Diamond 1",
-        26: "Ruby 5", 27: "Ruby 4", 28: "Ruby 3", 29: "Ruby 2", 30: "Ruby 1"
+        26: "Ruby 5", 27: "Ruby 4", 28: "Ruby 3", 29: "Ruby 2", 30: "Ruby 1",
     }
-    return tier[level]
+
+    try:
+        level = int(level)
+    except Exception:
+        level = int(0)
+
+    if level not in tier:
+        level = int(0)
+
+    return f'<img alt="{tier[level]}" src="assets/{level}.svg" height="24">'
 
 # 문제 번호를 입력받아 솔루션 경로를 모두 반환 (문자열로)
 def get_solution_path(id):
