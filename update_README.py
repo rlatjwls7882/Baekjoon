@@ -108,12 +108,7 @@ def build_readmes(root):
     buckets = defaultdict(list)
     for number in sorted(solutions):
         buckets[bucket_name(number)].append(number)
-    total_files = sum(map(len, solutions.values()))
     top = GENERATED + '# Baekjoon Online Judge Solutions\n\n'
-    top += '![user](https://github.com/user-attachments/assets/28bb0d39-9630-4836-97de-12debe34b843)\n'
-    top += '![language](https://github.com/user-attachments/assets/b2551bd4-2573-4557-8b9a-41af54c02517)\n'
-    top += '![solvedac](https://github.com/user-attachments/assets/c80bd6a4-60a7-4794-93f4-a84fc8ceb49e)\n\n'
-    top += f'문제 {len(solutions):,}개 · 제출 원본 {total_files:,}개. 번호 구간을 열면 제목·난이도·언어별 코드를 찾을 수 있습니다.\n\n'
     top += '| 번호 구간 | 문제 수 |\n| --- | ---: |\n'
     output = {}
     for bucket, numbers in sorted(buckets.items(), key=lambda item: int(item[0][:-3])):
@@ -133,11 +128,8 @@ def build_readmes(root):
             item = metadata[number]
             body += f'| [{number_name(number)}](https://www.acmicpc.net/problem/{number}) | {label(item["title"])} | {difficulty(item["level"])} | {" ".join(links)} |\n'
         output[Path(bucket) / 'README.md'] = body
-    top += '\n## 파일 배치와 목록 갱신\n\n'
-    top += '제출 원본은 `01xxx/01000/01000.cpp`처럼 천 단위 구간·최소 5자리 번호·번호 파일명으로 보관합니다. C++은 `.cpp`를 사용하며 다른 언어와 Text 답안은 해당 확장자를 유지합니다. 같은 번호·언어의 추가 원본은 `01000-alt.cpp`, `01000-alt-2.cpp`처럼 구분합니다. 파일 내용과 원래 줄바꿈은 그대로 보존합니다.\n\n'
-    top += '제목과 저장된 난이도는 [problems.json](./problems.json)이 관리하고 README는 이 파일과 실제 제출 파일로 생성합니다. 난이도가 저장되지 않은 항목은 `—`로 표시합니다.\n\n'
-    top += '새 제출을 위 경로에 넣고 `problems.json`에 제목·난이도를 추가한 뒤 실행합니다. 생성기는 Python 표준 라이브러리만 사용하며 네트워크 요청을 보내지 않습니다.\n\n'
-    top += '```sh\npython3 -B update_README.py\npython3 -B update_README.py --check\npython3 -B -m unittest discover -s tests\n```\n'
+    top += '\n## 풀이 추가\n\n'
+    top += '코드를 `01xxx/01000/01000.cpp` 형식으로 저장하고 [problems.json](./problems.json)에 제목과 난이도를 추가합니다. `python3 update_README.py`로 목록을 갱신합니다.\n'
     output[Path('README.md')] = top
     return output
 
