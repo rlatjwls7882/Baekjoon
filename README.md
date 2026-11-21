@@ -2,12 +2,6 @@
 
 # Baekjoon Online Judge Solutions
 
-![user](https://github.com/user-attachments/assets/28bb0d39-9630-4836-97de-12debe34b843)
-![language](https://github.com/user-attachments/assets/b2551bd4-2573-4557-8b9a-41af54c02517)
-![solvedac](https://github.com/user-attachments/assets/c80bd6a4-60a7-4794-93f4-a84fc8ceb49e)
-
-문제 5,713개 · 제출 원본 5,778개. 번호 구간을 열면 제목·난이도·언어별 코드를 찾을 수 있습니다.
-
 | 번호 구간 | 문제 수 |
 | --- | ---: |
 | [01000–01999](./01xxx/README.md) | 439 |
