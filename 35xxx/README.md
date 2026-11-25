@@ -39,7 +39,11 @@
 | [35370](https://www.acmicpc.net/problem/35370) | Memories of Passport Control | <img alt="Bronze 4" src="../assets/2.svg" height="24"> | [C++](./35370/35370.cpp) |
 | [35373](https://www.acmicpc.net/problem/35373) | A Little Leftover Pizza | <img alt="Bronze 3" src="../assets/3.svg" height="24"> | [C++](./35373/35373.cpp) |
 | [35409](https://www.acmicpc.net/problem/35409) | 제4회 디미고 프로그래밍 챌린지 | <img alt="Bronze 4" src="../assets/2.svg" height="24"> | [C++](./35409/35409.cpp) |
+| [35410](https://www.acmicpc.net/problem/35410) | 학습지 가져오기 | <img alt="Silver 5" src="../assets/6.svg" height="24"> | [C++](./35410/35410.cpp) |
+| [35411](https://www.acmicpc.net/problem/35411) | 굴려라 주사위! | <img alt="Silver 1" src="../assets/10.svg" height="24"> | [C++](./35411/35411.cpp) |
 | [35423](https://www.acmicpc.net/problem/35423) | SciComLove (2026) | <img alt="Bronze 3" src="../assets/3.svg" height="24"> | [C++](./35423/35423.cpp) |
+| [35429](https://www.acmicpc.net/problem/35429) | 문자열 회전 | <img alt="Silver 5" src="../assets/6.svg" height="24"> | [C++](./35429/35429.cpp) |
+| [35430](https://www.acmicpc.net/problem/35430) | 직사각형 색칠하기 | <img alt="Silver 2" src="../assets/9.svg" height="24"> | [C++](./35430/35430.cpp) |
 | [35453](https://www.acmicpc.net/problem/35453) | Goodbye, ChAOS! | <img alt="Bronze 2" src="../assets/4.svg" height="24"> | [C++](./35453/35453.cpp) |
 | [35455](https://www.acmicpc.net/problem/35455) | 10002221점 | <img alt="Bronze 3" src="../assets/3.svg" height="24"> | [C++](./35455/35455.cpp) |
 | [35467](https://www.acmicpc.net/problem/35467) | Swap-LIS | <img alt="Silver 2" src="../assets/9.svg" height="24"> | [C++](./35467/35467.cpp) |

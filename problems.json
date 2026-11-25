@@ -21015,6 +21015,10 @@
     "title": "Alien Attack 2",
     "level": 9
   },
+  "32497": {
+    "title": "Bikes and Barricades",
+    "level": null
+  },
   "32498": {
     "title": "Call for Problems",
     "level": 1
@@ -21022,6 +21026,14 @@
   "32500": {
     "title": "Dishonest Lottery",
     "level": 3
+  },
+  "32505": {
+    "title": "Menger Sponge",
+    "level": null
+  },
+  "32506": {
+    "title": "Rhythm Flow",
+    "level": null
   },
   "32515": {
     "title": "BB84",
@@ -21054,6 +21066,10 @@
   "32560": {
     "title": "Amalgram",
     "level": 3
+  },
+  "32566": {
+    "title": "Word Search",
+    "level": null
   },
   "32585": {
     "title": "Building Pyramids",
@@ -21817,6 +21833,10 @@
   },
   "33939": {
     "title": "부도덕한 그래프 (Easy)",
+    "level": 11
+  },
+  "33942": {
+    "title": "MEX의 MEX",
     "level": 11
   },
   "33943": {
@@ -22643,6 +22663,10 @@
     "title": "PAUL 문자열 (Easy)",
     "level": 6
   },
+  "34925": {
+    "title": "실크의 노래",
+    "level": null
+  },
   "34926": {
     "title": "공룡 게임",
     "level": 8
@@ -22694,6 +22718,10 @@
   "34994": {
     "title": "괄호 조작하기",
     "level": 8
+  },
+  "34995": {
+    "title": "쿠폰 잘 사용하기?",
+    "level": 6
   },
   "34998": {
     "title": "1, 2, 3, 많다!",
@@ -22831,9 +22859,25 @@
     "title": "제4회 디미고 프로그래밍 챌린지",
     "level": 2
   },
+  "35410": {
+    "title": "학습지 가져오기",
+    "level": 6
+  },
+  "35411": {
+    "title": "굴려라 주사위!",
+    "level": 10
+  },
   "35423": {
     "title": "SciComLove (2026)",
     "level": 3
+  },
+  "35429": {
+    "title": "문자열 회전",
+    "level": 6
+  },
+  "35430": {
+    "title": "직사각형 색칠하기",
+    "level": 9
   },
   "35453": {
     "title": "Goodbye, ChAOS!",

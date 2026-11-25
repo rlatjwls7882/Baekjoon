@@ -198,6 +198,7 @@
 | [34922](https://www.acmicpc.net/problem/34922) | 사각지대 | <img alt="Bronze 3" src="../assets/3.svg" height="24"> | [C++](./34922/34922.cpp) |
 | [34923](https://www.acmicpc.net/problem/34923) | 꼬마 미타 | <img alt="Bronze 1" src="../assets/5.svg" height="24"> | [C++](./34923/34923.cpp) |
 | [34924](https://www.acmicpc.net/problem/34924) | PAUL 문자열 (Easy) | <img alt="Silver 5" src="../assets/6.svg" height="24"> | [C++](./34924/34924.cpp) |
+| [34925](https://www.acmicpc.net/problem/34925) | 실크의 노래 | — | [C++](./34925/34925.cpp) |
 | [34926](https://www.acmicpc.net/problem/34926) | 공룡 게임 | <img alt="Silver 3" src="../assets/8.svg" height="24"> | [C++](./34926/34926.cpp) |
 | [34927](https://www.acmicpc.net/problem/34927) | 박스 쌓기 | <img alt="Silver 3" src="../assets/8.svg" height="24"> | [C++](./34927/34927.cpp) |
 | [34928](https://www.acmicpc.net/problem/34928) | PAUL 문자열 (Hard) | <img alt="Silver 1" src="../assets/10.svg" height="24"> | [C++](./34928/34928.cpp) |
@@ -211,4 +212,5 @@
 | [34980](https://www.acmicpc.net/problem/34980) | 생수병 놓기 | <img alt="Bronze 3" src="../assets/3.svg" height="24"> | [C++](./34980/34980.cpp) |
 | [34991](https://www.acmicpc.net/problem/34991) | toycppartoon | <img alt="Silver 2" src="../assets/9.svg" height="24"> | [C++](./34991/34991.cpp) |
 | [34994](https://www.acmicpc.net/problem/34994) | 괄호 조작하기 | <img alt="Silver 3" src="../assets/8.svg" height="24"> | [C++](./34994/34994.cpp) |
+| [34995](https://www.acmicpc.net/problem/34995) | 쿠폰 잘 사용하기? | <img alt="Silver 5" src="../assets/6.svg" height="24"> | [C++](./34995/34995.cpp) |
 | [34998](https://www.acmicpc.net/problem/34998) | 1, 2, 3, 많다! | <img alt="Bronze 3" src="../assets/3.svg" height="24"> | [Python](./34998/34998.py) |
