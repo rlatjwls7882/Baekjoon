@@ -194,6 +194,7 @@
 | [10930](https://www.acmicpc.net/problem/10930) | SHA-256 | <img alt="Unrated" src="../assets/0.svg" height="24"> | [Java](./10930/10930.java) |
 | [10931](https://www.acmicpc.net/problem/10931) | SHA-384 | <img alt="Unrated" src="../assets/0.svg" height="24"> | [Java](./10931/10931.java) |
 | [10932](https://www.acmicpc.net/problem/10932) | SHA-512 | <img alt="Unrated" src="../assets/0.svg" height="24"> | [Java](./10932/10932.java) |
+| [10933](https://www.acmicpc.net/problem/10933) | RIPEMD-160 | <img alt="Unrated" src="../assets/0.svg" height="24"> | [Python](./10933/10933.py) |
 | [10940](https://www.acmicpc.net/problem/10940) | BASE16 인코딩 | <img alt="Unrated" src="../assets/0.svg" height="24"> | [Java](./10940/10940.java) |
 | [10942](https://www.acmicpc.net/problem/10942) | 팰린드롬? | <img alt="Gold 4" src="../assets/12.svg" height="24"> | [C++](./10942/10942.cpp) |
 | [10943](https://www.acmicpc.net/problem/10943) | 랜덤 게임~ | — | [Java](./10943/10943.java) |
