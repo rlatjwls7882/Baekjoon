@@ -105,8 +105,11 @@
 | [32449](https://www.acmicpc.net/problem/32449) | Animal Farm | <img alt="Bronze 3" src="../assets/3.svg" height="24"> | [C++](./32449/32449.cpp) |
 | [32458](https://www.acmicpc.net/problem/32458) | Just Round Down | <img alt="Bronze 5" src="../assets/1.svg" height="24"> | [Python](./32458/32458.py) |
 | [32477](https://www.acmicpc.net/problem/32477) | Alien Attack 2 | <img alt="Silver 2" src="../assets/9.svg" height="24"> | [C++](./32477/32477.cpp) |
+| [32497](https://www.acmicpc.net/problem/32497) | Bikes and Barricades | — | [C++](./32497/32497.cpp) |
 | [32498](https://www.acmicpc.net/problem/32498) | Call for Problems | <img alt="Bronze 5" src="../assets/1.svg" height="24"> | [Python](./32498/32498.py) |
 | [32500](https://www.acmicpc.net/problem/32500) | Dishonest Lottery | <img alt="Bronze 3" src="../assets/3.svg" height="24"> | [C++](./32500/32500.cpp) |
+| [32505](https://www.acmicpc.net/problem/32505) | Menger Sponge | — | [C++](./32505/32505.cpp) |
+| [32506](https://www.acmicpc.net/problem/32506) | Rhythm Flow | — | [C++](./32506/32506.cpp) |
 | [32515](https://www.acmicpc.net/problem/32515) | BB84 | <img alt="Bronze 3" src="../assets/3.svg" height="24"> | [C++](./32515/32515.cpp) |
 | [32529](https://www.acmicpc.net/problem/32529) | 래환이의 여자친구 사귀기 대작전 | <img alt="Bronze 2" src="../assets/4.svg" height="24"> | [C++](./32529/32529.cpp) |
 | [32549](https://www.acmicpc.net/problem/32549) | Avoiding the Abyss | <img alt="Silver 1" src="../assets/10.svg" height="24"> | [C++](./32549/32549.cpp) |
@@ -115,6 +118,7 @@
 | [32558](https://www.acmicpc.net/problem/32558) | Jungle Game | <img alt="Platinum 2" src="../assets/19.svg" height="24"> | [C++](./32558/32558.cpp) |
 | [32559](https://www.acmicpc.net/problem/32559) | Knitting Pattern | <img alt="Silver 3" src="../assets/8.svg" height="24"> | [C++](./32559/32559.cpp) |
 | [32560](https://www.acmicpc.net/problem/32560) | Amalgram | <img alt="Bronze 3" src="../assets/3.svg" height="24"> | [Python](./32560/32560.py) |
+| [32566](https://www.acmicpc.net/problem/32566) | Word Search | — | [C++](./32566/32566.cpp) |
 | [32585](https://www.acmicpc.net/problem/32585) | Building Pyramids | <img alt="Bronze 3" src="../assets/3.svg" height="24"> | [Python](./32585/32585.py) |
 | [32587](https://www.acmicpc.net/problem/32587) | Dragged-out Duel | <img alt="Bronze 3" src="../assets/3.svg" height="24"> | [C++](./32587/32587.cpp) |
 | [32604](https://www.acmicpc.net/problem/32604) | Jumbled Scoreboards | <img alt="Bronze 4" src="../assets/2.svg" height="24"> | [Python](./32604/32604.py) |

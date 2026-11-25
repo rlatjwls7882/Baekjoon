@@ -116,6 +116,7 @@
 | [33937](https://www.acmicpc.net/problem/33937) | 태권도와 복싱을 합한 운동 | <img alt="Bronze 1" src="../assets/5.svg" height="24"> | [C++](./33937/33937.cpp) |
 | [33938](https://www.acmicpc.net/problem/33938) | 간단한 동전 문제 (Easy) | <img alt="Silver 4" src="../assets/7.svg" height="24"> | [C++](./33938/33938.cpp) |
 | [33939](https://www.acmicpc.net/problem/33939) | 부도덕한 그래프 (Easy) | <img alt="Gold 5" src="../assets/11.svg" height="24"> | [C++](./33939/33939.cpp) |
+| [33942](https://www.acmicpc.net/problem/33942) | MEX의 MEX | <img alt="Gold 5" src="../assets/11.svg" height="24"> | [C++](./33942/33942.cpp) |
 | [33943](https://www.acmicpc.net/problem/33943) | 간단한 동전 문제 (Hard) | <img alt="Gold 4" src="../assets/12.svg" height="24"> | [C++](./33943/33943.cpp) |
 | [33949](https://www.acmicpc.net/problem/33949) | 🍕😋🤮 | <img alt="Diamond 5" src="../assets/21.svg" height="24"> | [C++](./33949/33949.cpp) |
 | [33950](https://www.acmicpc.net/problem/33950) | 어게인 포닉스 | <img alt="Bronze 3" src="../assets/3.svg" height="24"> | [C++](./33950/33950.cpp) |
