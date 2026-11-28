@@ -84,6 +84,7 @@
 | [33756](https://www.acmicpc.net/problem/33756) | 88888 | <img alt="Silver 3" src="../assets/8.svg" height="24"> | [C++](./33756/33756.cpp) |
 | [33779](https://www.acmicpc.net/problem/33779) | Back and Forth | <img alt="Bronze 3" src="../assets/3.svg" height="24"> | [C++](./33779/33779.cpp) |
 | [33782](https://www.acmicpc.net/problem/33782) | Efficient Pinning | <img alt="Silver 5" src="../assets/6.svg" height="24"> | [C++](./33782/33782.cpp) |
+| [33787](https://www.acmicpc.net/problem/33787) | Thomas | <img alt="Gold 5" src="../assets/11.svg" height="24"> | [C++](./33787/33787.cpp) |
 | [33788](https://www.acmicpc.net/problem/33788) | Stone Jump | — | [C++](./33788/33788.cpp) |
 | [33793](https://www.acmicpc.net/problem/33793) | K-Regular Array | <img alt="Silver 4" src="../assets/7.svg" height="24"> | [C++](./33793/33793.cpp) |
 | [33800](https://www.acmicpc.net/problem/33800) | Ramen Packs | <img alt="Gold 5" src="../assets/11.svg" height="24"> | [C++](./33800/33800.cpp) |
